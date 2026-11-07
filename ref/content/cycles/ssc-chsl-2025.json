@@ -1,0 +1,425 @@
+{
+ "version": 1,
+ "id": "ssc-chsl-2025",
+ "exam": "ssc-chsl",
+ "year": 2025,
+ "name": { "en": "SSC CHSL 2025", "hi": "SSC CHSL 2025" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "S1": {
+   "title": { "en": "SSC CHSL 2025 on sarkariresult.com", "hi": "SSC CHSL 2025 on sarkariresult.com" },
+   "url": "https://www.sarkariresult.com/ssc/ssc-chsl-2025/",
+   "official": false,
+   "site": "sarkariresult.com"
+  },
+  "L1": {
+   "title": { "en": "Final Result", "hi": "Final Result" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/List_07102026.pdf",
+   "official": true
+  },
+  "L2": {
+   "title": { "en": "Final Result Notice / Cutoff", "hi": "Final Result Notice / Cutoff" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_final_chsl_2025_07102026.pdf",
+   "official": true
+  },
+  "L3": {
+   "title": { "en": "FRTA Result (Result)", "hi": "FRTA Result (Result)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/ROLL_17082026.pdf",
+   "official": true
+  },
+  "L4": {
+   "title": { "en": "FRTA Result (Notice)", "hi": "FRTA Result (Notice)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/FRTA_CHSLE_2025_17082026.pdf",
+   "official": true
+  },
+  "L5": {
+   "title": { "en": "Fill Option Cum Preference Form", "hi": "Fill Option Cum Preference Form" },
+   "url": "https://ssc.gov.in/login",
+   "official": true
+  },
+  "L6": {
+   "title": { "en": "Sample Option Form", "hi": "Sample Option Form" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/option_preference_form_19062026.pdf",
+   "official": true
+  },
+  "L7": {
+   "title": { "en": "Option Form Date Extended Notice", "hi": "Option Form Date Extended Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_22062026.pdf",
+   "official": true
+  },
+  "L8": {
+   "title": { "en": "Option Form Notice", "hi": "Option Form Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important_Notice_19062026.pdf",
+   "official": true
+  },
+  "L9": {
+   "title": { "en": "Final Vacancy Details", "hi": "Final Vacancy Details" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/TentativeVacancy/final_vacancies_18062026.pdf",
+   "official": true
+  },
+  "L10": {
+   "title": { "en": "Tier II Answer Key Notice", "hi": "Tier II Answer Key Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Write%20Up%20for%20CHSLE%202025%20Tier-II.pdf",
+   "official": true
+  },
+  "L11": {
+   "title": { "en": "Re Schedule Exam Notice", "hi": "Re Schedule Exam Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important%20Notice-Re-schedule%20of%20Examination_10042026.pdf",
+   "official": true
+  },
+  "L12": {
+   "title": { "en": "Tier II Exam City Notice", "hi": "Tier II Exam City Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_23032026.pdf",
+   "official": true
+  },
+  "L13": {
+   "title": { "en": "Tier I Final Answer Key", "hi": "Tier I Final Answer Key" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Answer_key_19032026.pdf",
+   "official": true
+  },
+  "L14": {
+   "title": { "en": "Tier II Exam Notice", "hi": "Tier II Exam Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice2_09032026.pdf",
+   "official": true
+  },
+  "L15": {
+   "title": { "en": "Tier-1 Result (List 1)", "hi": "Tier-1 Result (List 1)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST1_27022026.pdf",
+   "official": true
+  },
+  "L16": {
+   "title": { "en": "Tier-1 Result (List 2)", "hi": "Tier-1 Result (List 2)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST2_27022026.pdf",
+   "official": true
+  },
+  "L17": {
+   "title": { "en": "Tier-1 Result (List 3)", "hi": "Tier-1 Result (List 3)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST3_27022026.pdf",
+   "official": true
+  },
+  "L18": {
+   "title": { "en": "Tier I Cutoff / Notice", "hi": "Tier I Cutoff / Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_27022026.pdf",
+   "official": true
+  },
+  "L19": {
+   "title": { "en": "Self Slot Selection Notice", "hi": "Self Slot Selection Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Self_Check_notice18102025.pdf",
+   "official": true
+  },
+  "A1": {
+   "title": { "en": "Combined Higher Secondary Level Examination notice", "hi": "संयुक्त उच्चतर माध्यमिक स्तरीय परीक्षा सूचना" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_chsl_2025.pdf",
+   "date": "2025-06-23",
+   "official": true
+  },
+  "A2": {
+   "title": { "en": "Application correction window notice", "hi": "आवेदन सुधार विंडो सूचना" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_22072025.pdf",
+   "date": "2025-07-22",
+   "official": true
+  },
+  "A3": {
+   "title": { "en": "Tier-I tentative answer keys and response sheets", "hi": "टियर-I अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/AnswerKeys/writeup_08122025.pdf",
+   "date": "2025-12-08",
+   "official": true
+  },
+  "A4": {
+   "title": { "en": "Tier-I result and cut-offs", "hi": "टियर-I परिणाम और कट-ऑफ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_27022026.pdf",
+   "date": "2026-02-27",
+   "official": true
+  },
+  "A5": {
+   "title": { "en": "First round of tentative allocation and cut-offs", "hi": "अस्थायी आवंटन का प्रथम दौर और कट-ऑफ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/FRTA_CHSLE_2025_17082026.pdf",
+   "date": "2026-08-17",
+   "official": true
+  },
+  "A6": {
+   "title": { "en": "Final result", "hi": "अंतिम परिणाम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_final_chsl_2025_07102026.pdf",
+   "date": "2026-10-07",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-chsl-2025.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Application Begin", "hi": "Application Begin" },
+   "start": "2025-06-23",
+   "raw": "23/06/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
+   "start": "2025-07-18",
+   "raw": "18/07/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Last Date Pay Exam Fee", "hi": "Last Date Pay Exam Fee" },
+   "start": "2025-07-19",
+   "raw": "19/07/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.correction",
+   "kind": "correction",
+   "label": { "en": "Correction Date", "hi": "Correction Date" },
+   "start": "2025-07-23",
+   "end": "2025-07-24",
+   "raw": "23-24 July 2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.other",
+   "kind": "other",
+   "label": { "en": "Self Slot Selection", "hi": "Self Slot Selection" },
+   "start": "2025-10-22",
+   "end": "2025-10-28",
+   "raw": "22-28 October 2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.city-slip",
+   "kind": "city-slip",
+   "label": { "en": "Exam City Available", "hi": "Exam City Available" },
+   "start": "2025-11-05",
+   "raw": "05/11/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Exam Date Tier I Start", "hi": "Exam Date Tier I Start" },
+   "start": "2025-11-12",
+   "raw": "12/11/2025",
+   "tier": "tier-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.admit-card",
+   "kind": "admit-card",
+   "label": { "en": "Admit Card Available", "hi": "Admit Card Available" },
+   "raw": "Before Exam",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.result-tier-1",
+   "kind": "result",
+   "label": { "en": "Tier-1 Result Declared", "hi": "Tier-1 Result Declared" },
+   "start": "2026-02-27",
+   "raw": "27/02/2026",
+   "tier": "tier-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.marks-tier-1",
+   "kind": "marks",
+   "label": { "en": "Tier-1 Marks Available", "hi": "Tier-1 Marks Available" },
+   "start": "2026-03-19",
+   "raw": "19/03/2026",
+   "tier": "tier-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.exam-tier-2",
+   "kind": "exam",
+   "label": { "en": "Exam Date Tier II", "hi": "Exam Date Tier II" },
+   "start": "2026-04-10",
+   "raw": "10/04/2026",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.city-slip-tier-2",
+   "kind": "city-slip",
+   "label": { "en": "Tier II Exam City Available", "hi": "Tier II Exam City Available" },
+   "start": "2026-04-01",
+   "raw": "01/04/2026",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.exam-skill-test",
+   "kind": "exam",
+   "label": { "en": "Typing Skill Test / Date", "hi": "Typing Skill Test / Date" },
+   "start": "2026-04-22",
+   "raw": "22/04/2026",
+   "tier": "skill-test",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.answer-key-tier-2",
+   "kind": "answer-key",
+   "label": { "en": "Tier II Answer Key Available", "hi": "Tier II Answer Key Available" },
+   "start": "2026-04-20",
+   "raw": "20/04/2026",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.other-2",
+   "kind": "other",
+   "label": { "en": "Final Vacancy Details Available", "hi": "Final Vacancy Details Available" },
+   "start": "2026-06-19",
+   "raw": "19/06/2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.other-3",
+   "kind": "other",
+   "label": { "en": "Option Form Available", "hi": "Option Form Available" },
+   "start": "2026-06-19",
+   "end": "2026-06-25",
+   "raw": "19-25 June 2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.result",
+   "kind": "result",
+   "label": { "en": "FRTA Result", "hi": "FRTA Result" },
+   "start": "2026-08-17",
+   "raw": "17/08/2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.result-2",
+   "kind": "result",
+   "label": { "en": "Final Result", "hi": "Final Result" },
+   "start": "2026-10-07",
+   "raw": "07/10/2026",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-chsl-2025.vacancies",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "value": "3,522",
+   "num": 3522,
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.fee-1",
+   "kind": "fee",
+   "label": { "en": "General / OBC / EWS", "hi": "General / OBC / EWS" },
+   "value": "100/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.fee-2",
+   "kind": "fee",
+   "label": { "en": "SC / ST", "hi": "SC / ST" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.fee-3",
+   "kind": "fee",
+   "label": { "en": "PH (Divyang) / Female", "hi": "PH (Divyang) / Female" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.age-as-on",
+   "kind": "age",
+   "label": { "en": "Age counted on", "hi": "आयु की गणना तिथि" },
+   "value": { "en": "1 Jan 2026", "hi": "1 जनवरी 2026" },
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.age-1",
+   "kind": "age",
+   "label": { "en": "Minimum Age", "hi": "Minimum Age" },
+   "value": "18 Years",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.age-2",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "27 Years",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-chsl-2025.notice-a1",
+   "date": "2025-06-23",
+   "type": "notice",
+   "title": { "en": "Combined Higher Secondary Level Examination notice", "hi": "संयुक्त उच्चतर माध्यमिक स्तरीय परीक्षा सूचना" },
+   "source": "A1"
+  },
+  {
+   "id": "ssc-chsl-2025.notice-a2",
+   "date": "2025-07-22",
+   "type": "notice",
+   "title": { "en": "Application correction window notice", "hi": "आवेदन सुधार विंडो सूचना" },
+   "source": "A2"
+  },
+  {
+   "id": "ssc-chsl-2025.notice-a3",
+   "date": "2025-12-08",
+   "type": "answer-key",
+   "title": { "en": "Tier-I tentative answer keys and response sheets", "hi": "टियर-I अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "source": "A3"
+  },
+  {
+   "id": "ssc-chsl-2025.notice-a4",
+   "date": "2026-02-27",
+   "type": "result",
+   "title": { "en": "Tier-I result and cut-offs", "hi": "टियर-I परिणाम और कट-ऑफ" },
+   "source": "A4"
+  },
+  {
+   "id": "ssc-chsl-2025.notice-a5",
+   "date": "2026-08-17",
+   "type": "result",
+   "title": { "en": "First round of tentative allocation and cut-offs", "hi": "अस्थायी आवंटन का प्रथम दौर और कट-ऑफ" },
+   "source": "A5"
+  },
+  {
+   "id": "ssc-chsl-2025.notice-a6",
+   "date": "2026-10-07",
+   "type": "result",
+   "title": { "en": "Final result", "hi": "अंतिम परिणाम" },
+   "source": "A6"
+  }
+ ],
+ "tables": [],
+ "pattern": []
+}

@@ -1,0 +1,469 @@
+{
+ "version": 1,
+ "id": "ssc-selection-post-14",
+ "slug": "selection-post-phase-14",
+ "exam": "ssc-selection-post",
+ "year": 2026,
+ "name": { "en": "SSC Selection Post Phase-XIV 2026", "hi": "SSC चयन पद चरण-XIV 2026" },
+ "lead": { "en": "Dates, exam pattern, vacancies and every post, taken from SSC's own notices. The exam is over; the result is awaited.", "hi": "तिथियाँ, परीक्षा पैटर्न, रिक्तियाँ और हर पद, SSC की अपनी सूचनाओं से। परीक्षा हो चुकी है; परिणाम का इंतज़ार है।" },
+ "datesNote": { "en": "Result and cut-offs: not released yet (checked on 6 Nov 2026).", "hi": "परिणाम और कट-ऑफ: अभी जारी नहीं (6 नवंबर 2026 को देखा)।" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "N1": {
+   "title": { "en": "Notification, Phase-XIV/2026", "hi": "अधिसूचना, चरण-XIV/2026" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_RHQ_2026_phase_xiv.pdf",
+   "date": "2026-04-13",
+   "official": true
+  },
+  "N2": {
+   "title": { "en": "Addendum: 4 DRDO posts added", "hi": "परिशिष्ट: DRDO के 4 पद जोड़े गए" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Addendum%20to%20Notice%20of%20Phase-XIV_2026-20.04.2026-updated.pdf",
+   "date": "2026-04-20",
+   "official": true
+  },
+  "N3": {
+   "title": { "en": "Cancellation: 33 Geological Survey of India posts", "hi": "रद्द: भारतीय भूवैज्ञानिक सर्वेक्षण के 33 पद" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Cancellation%20Notice%2020.04.2026..pdf",
+   "date": "2026-04-20",
+   "official": true
+  },
+  "N6": {
+   "title": { "en": "Corrigendum: MP11626 pay level", "hi": "शुद्धिपत्र: MP11626 वेतन स्तर" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/RHQ_2026_MP11626%20Corringendum_14072026.pdf",
+   "date": "2026-07-13",
+   "official": true
+  },
+  "N7": {
+   "title": { "en": "Cancellation: MP10826", "hi": "रद्द: MP10826" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/MP10826%20Cancellation%20Notice_14072026.pdf",
+   "date": "2026-07-13",
+   "official": true
+  },
+  "N9": {
+   "title": { "en": "Exam schedule", "hi": "परीक्षा कार्यक्रम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/important_notice_21082026.pdf",
+   "date": "2026-08-21",
+   "official": true
+  },
+  "N10": {
+   "title": { "en": "Exam city and admit card", "hi": "परीक्षा शहर और प्रवेश पत्र" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_for_selectionpost_08092026.pdf",
+   "date": "2026-09-08",
+   "official": true
+  },
+  "N12": {
+   "title": { "en": "Cancellation: KK11426", "hi": "रद्द: KK11426" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_KK11426_01102026.pdf",
+   "date": "2026-09-30",
+   "official": true
+  },
+  "N13": {
+   "title": { "en": "Cancellation: KK13526", "hi": "रद्द: KK13526" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_KK13526_01102026.pdf",
+   "date": "2026-09-30",
+   "official": true
+  },
+  "N14": {
+   "title": { "en": "Tentative answer key and response sheets", "hi": "अस्थायी उत्तर कुंजी और रिस्पॉन्स शीट" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_rhq.pdf",
+   "date": "2026-10-09",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-selection-post-14.notification",
+   "kind": "notification",
+   "label": { "en": "Notification", "hi": "अधिसूचना" },
+   "start": "2026-04-13",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Online application", "hi": "ऑनलाइन आवेदन" },
+   "start": "2026-04-13",
+   "end": "2026-05-04",
+   "note": { "en": "till 11 PM", "hi": "रात 11 बजे तक" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last date to apply", "hi": "आवेदन की अंतिम तिथि" },
+   "start": "2026-05-04",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Last date for fee", "hi": "फ़ीस की अंतिम तिथि" },
+   "start": "2026-05-05",
+   "note": { "en": "till 11 PM", "hi": "रात 11 बजे तक" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.correction",
+   "kind": "correction",
+   "label": { "en": "Form correction", "hi": "फ़ॉर्म सुधार" },
+   "start": "2026-05-11",
+   "end": "2026-05-13",
+   "note": { "en": "till 11 PM", "hi": "रात 11 बजे तक" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.exam",
+   "kind": "exam",
+   "label": { "en": "Computer based exam", "hi": "कंप्यूटर आधारित परीक्षा" },
+   "start": "2026-09-16",
+   "end": "2026-09-26",
+   "verified": true,
+   "source": "N14"
+  },
+  {
+   "id": "ssc-selection-post-14.answer-key",
+   "kind": "answer-key",
+   "label": { "en": "Answer key challenge", "hi": "उत्तर कुंजी पर आपत्ति" },
+   "start": "2026-10-09",
+   "end": "2026-10-12",
+   "endNote": { "en": "4 PM", "hi": "शाम 4 बजे" },
+   "note": { "en": "4 PM to 4 PM, ₹50 per question", "hi": "शाम 4 से शाम 4 बजे, ₹50 प्रति प्रश्न" },
+   "verified": true,
+   "source": "N14"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-selection-post-14.vacancies-advertised",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies (advertised)", "hi": "रिक्तियाँ (विज्ञापित)" },
+   "value": "3,003",
+   "num": 3003,
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.vacancies-after-changes",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies (after changes, our count)", "hi": "रिक्तियाँ (बदलाव के बाद, हमारी गिनती)" },
+   "value": "2,863",
+   "num": 2863,
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.qualification",
+   "kind": "qualification",
+   "label": { "en": "Qualification, by post", "hi": "योग्यता, पद अनुसार" },
+   "value": { "en": "10th, 12th, Graduate", "hi": "10वीं, 12वीं, स्नातक" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.qualification-date",
+   "kind": "qualification",
+   "label": { "en": "Qualification and experience", "hi": "योग्यता और अनुभव" },
+   "value": { "en": "Counted on 4 May 2026. Each post has its own rules.", "hi": "4 मई 2026 तक गिने जाएँगे। हर पद के अपने नियम हैं।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.age",
+   "kind": "age",
+   "label": { "en": "Age limit, by post", "hi": "आयु सीमा, पद अनुसार" },
+   "value": "18–35",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.age-basis",
+   "kind": "age",
+   "label": { "en": "Age counted on", "hi": "आयु गिनने की तिथि" },
+   "value": { "en": "1 Jan 2026. The limit differs by post, most often 18–25, 18–27 or 18–30.", "hi": "1 जनवरी 2026। सीमा हर पद की अलग है, ज़्यादातर 18–25, 18–27 या 18–30।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.age-relaxation",
+   "kind": "age",
+   "label": { "en": "Age relaxation", "hi": "आयु छूट" },
+   "value": { "en": "SC/ST 5 years, OBC 3, PwBD 10 (OBC 13, SC/ST 15).", "hi": "SC/ST 5 साल, OBC 3, PwBD 10 (OBC 13, SC/ST 15)।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.fee",
+   "kind": "fee",
+   "label": { "en": "Fee per post", "hi": "प्रति पद शुल्क" },
+   "value": "₹100",
+   "num": 100,
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.fee-exemption",
+   "kind": "other",
+   "label": { "en": "Fee exemption", "hi": "फ़ीस में छूट" },
+   "value": { "en": "No fee for women, SC, ST, PwBD and ex-servicemen.", "hi": "महिला, SC, ST, PwBD और पूर्व सैनिकों के लिए फ़ीस नहीं।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.stages",
+   "kind": "stages",
+   "label": { "en": "Paper per level", "hi": "हर स्तर का पेपर" },
+   "value": "1",
+   "num": 1,
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.advertisement",
+   "kind": "other",
+   "label": { "en": "Advertisement no.", "hi": "विज्ञापन सं." },
+   "value": "Phase-XIV/2026/Selection Posts",
+   "section": "advertisement",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.file-no",
+   "kind": "other",
+   "label": { "en": "File number", "hi": "फ़ाइल संख्या" },
+   "value": "HQ-RHQS015/1/2026-C-4",
+   "section": "advertisement",
+   "verified": true,
+   "source": "N1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-selection-post-14.notice-n1",
+   "date": "2026-04-13",
+   "type": "notice",
+   "title": { "en": "Notification, Phase-XIV/2026", "hi": "अधिसूचना, चरण-XIV/2026" },
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.notice-n3",
+   "date": "2026-04-20",
+   "type": "notice",
+   "title": { "en": "Cancellation: 33 Geological Survey of India posts", "hi": "रद्द: भारतीय भूवैज्ञानिक सर्वेक्षण के 33 पद" },
+   "source": "N3"
+  },
+  {
+   "id": "ssc-selection-post-14.notice-n2",
+   "date": "2026-04-20",
+   "type": "notice",
+   "title": { "en": "Addendum: 4 DRDO posts added", "hi": "परिशिष्ट: DRDO के 4 पद जोड़े गए" },
+   "source": "N2"
+  },
+  {
+   "id": "ssc-selection-post-14.notice-n7",
+   "date": "2026-07-13",
+   "type": "notice",
+   "title": { "en": "Cancellation: MP10826", "hi": "रद्द: MP10826" },
+   "source": "N7"
+  },
+  {
+   "id": "ssc-selection-post-14.notice-n6",
+   "date": "2026-07-13",
+   "type": "notice",
+   "title": { "en": "Corrigendum: MP11626 pay level", "hi": "शुद्धिपत्र: MP11626 वेतन स्तर" },
+   "source": "N6"
+  },
+  {
+   "id": "ssc-selection-post-14.notice-n9",
+   "date": "2026-08-21",
+   "type": "notice",
+   "title": { "en": "Exam schedule", "hi": "परीक्षा कार्यक्रम" },
+   "source": "N9"
+  },
+  {
+   "id": "ssc-selection-post-14.notice-n10",
+   "date": "2026-09-08",
+   "type": "admit-card",
+   "title": { "en": "Exam city and admit card", "hi": "परीक्षा शहर और प्रवेश पत्र" },
+   "source": "N10"
+  },
+  {
+   "id": "ssc-selection-post-14.notice-n13",
+   "date": "2026-09-30",
+   "type": "notice",
+   "title": { "en": "Cancellation: KK13526", "hi": "रद्द: KK13526" },
+   "source": "N13"
+  },
+  {
+   "id": "ssc-selection-post-14.notice-n12",
+   "date": "2026-09-30",
+   "type": "notice",
+   "title": { "en": "Cancellation: KK11426", "hi": "रद्द: KK11426" },
+   "source": "N12"
+  },
+  {
+   "id": "ssc-selection-post-14.notice-n14",
+   "date": "2026-10-09",
+   "type": "answer-key",
+   "title": { "en": "Tentative answer key and response sheets", "hi": "अस्थायी उत्तर कुंजी और रिस्पॉन्स शीट" },
+   "source": "N14"
+  }
+ ],
+ "tables": [
+  {
+   "id": "ssc-selection-post-14.vacancies",
+   "title": { "en": "Vacancies by category", "hi": "वर्ग के अनुसार रिक्तियाँ" },
+   "head": [
+    { "en": "Category", "hi": "वर्ग" },
+    { "en": "Advertised", "hi": "विज्ञापित" },
+    { "en": "After changes", "hi": "बदलाव के बाद" }
+   ],
+   "rows": [
+    [
+     "UR",
+     "1,534",
+     "1,453"
+    ],
+    [
+     "SC",
+     "346",
+     "338"
+    ],
+    [
+     "ST",
+     "185",
+     "178"
+    ],
+    [
+     "OBC",
+     "667",
+     "629"
+    ],
+    [
+     "EWS",
+     "271",
+     "265"
+    ]
+   ],
+   "note": { "en": "Vacancies are tentative and can change. Advertised figures match the notification's total row (382 posts). After changes: 350 posts, our count after 4 posts added and 36 cancelled. SSC has not published this total.", "hi": "रिक्तियाँ अस्थायी हैं और बदल सकती हैं। विज्ञापित संख्या अधिसूचना की कुल पंक्ति (382 पद) से मेल खाती है। बदलाव के बाद: 350 पद, 4 पद जुड़ने और 36 रद्द होने के बाद हमारी गिनती। SSC ने यह कुल संख्या जारी नहीं की है।" },
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.by-level",
+   "title": { "en": "Vacancies by level", "hi": "स्तर के अनुसार रिक्तियाँ" },
+   "head": [
+    { "en": "Level", "hi": "स्तर" },
+    { "en": "Vacancies", "hi": "रिक्तियाँ" }
+   ],
+   "rows": [
+    [
+     { "en": "10th pass", "hi": "10वीं पास" },
+     "923"
+    ],
+    [
+     { "en": "12th pass", "hi": "12वीं पास" },
+     "865"
+    ],
+    [
+     { "en": "Graduate", "hi": "स्नातक" },
+     "1,075"
+    ]
+   ],
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-selection-post-14.by-region",
+   "title": { "en": "Vacancies by SSC region", "hi": "SSC क्षेत्र के अनुसार रिक्तियाँ" },
+   "head": [
+    { "en": "SSC region", "hi": "SSC क्षेत्र" },
+    { "en": "Vacancies", "hi": "रिक्तियाँ" }
+   ],
+   "rows": [
+    [
+     { "en": "Central (Prayagraj)", "hi": "मध्य (प्रयागराज)" },
+     "322"
+    ],
+    [
+     { "en": "Eastern (Kolkata)", "hi": "पूर्वी (कोलकाता)" },
+     "183"
+    ],
+    [
+     { "en": "Karnataka Kerala (Bengaluru)", "hi": "कर्नाटक केरल (बेंगलुरु)" },
+     "306"
+    ],
+    [
+     { "en": "Madhya Pradesh (Raipur)", "hi": "मध्य प्रदेश (रायपुर)" },
+     "714"
+    ],
+    [
+     { "en": "North Eastern (Guwahati)", "hi": "उत्तर पूर्वी (गुवाहाटी)" },
+     "209"
+    ],
+    [
+     { "en": "Northern (Delhi)", "hi": "उत्तरी (दिल्ली)" },
+     "635"
+    ],
+    [
+     { "en": "North Western (Chandigarh)", "hi": "उत्तर पश्चिमी (चंडीगढ़)" },
+     "152"
+    ],
+    [
+     { "en": "Southern (Chennai)", "hi": "दक्षिणी (चेन्नई)" },
+     "109"
+    ],
+    [
+     { "en": "Western (Mumbai)", "hi": "पश्चिमी (मुंबई)" },
+     "233"
+    ]
+   ],
+   "verified": false,
+   "source": "N1"
+  }
+ ],
+ "pattern": [
+  {
+   "title": { "en": "One paper each for 10th, 12th and graduate level posts, all with the same structure.", "hi": "10वीं, 12वीं और स्नातक स्तर के पदों के लिए एक-एक पेपर, सबका ढाँचा एक जैसा।" },
+   "rows": [
+    {
+     "section": { "en": "General Intelligence", "hi": "सामान्य बुद्धि" },
+     "questions": 25,
+     "marks": 50
+    },
+    {
+     "section": { "en": "General Awareness", "hi": "सामान्य जागरूकता" },
+     "questions": 25,
+     "marks": 50
+    },
+    {
+     "section": { "en": "Quantitative Aptitude (basic arithmetic)", "hi": "मात्रात्मक योग्यता (बुनियादी अंकगणित)" },
+     "questions": 25,
+     "marks": 50
+    },
+    {
+     "section": { "en": "English Language (basic knowledge)", "hi": "अंग्रेज़ी भाषा (बुनियादी ज्ञान)" },
+     "questions": 25,
+     "marks": 50
+    }
+   ],
+   "minutes": 60,
+   "notes": [
+    { "en": "100 questions, 200 marks, 60 minutes (15 minutes per section).", "hi": "100 प्रश्न, 200 अंक, 60 मिनट (हर खंड 15 मिनट)।" },
+    { "en": "0.50 marks cut for each wrong answer.", "hi": "हर गलत उत्तर पर 0.50 अंक कटेंगे।" },
+    { "en": "Paper in English and Hindi. Marks are normalised across shifts.", "hi": "पेपर अंग्रेज़ी और हिंदी में। अलग-अलग शिफ़्ट के अंक नॉर्मलाइज़ होंगे।" }
+   ],
+   "source": "N1"
+  }
+ ],
+ "sections": [
+  {
+   "id": "advertisement",
+   "title": { "en": "Advertisement", "hi": "विज्ञापन" }
+  }
+ ]
+}

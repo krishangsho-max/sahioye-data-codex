@@ -1,0 +1,63 @@
+{
+ "version": 1,
+ "_note": "Fixed labels for date and fact kinds, and rules that map a scraped label to a kind and tier. Rules are case-insensitive regexes; the first match wins. Read by app/content/glossary.ts and by the scraper importer. See docs/data-model.md.",
+ "dateKinds": {
+  "notification": { "en": "Notification", "hi": "अधिसूचना" },
+  "apply-start": { "en": "Online application starts", "hi": "ऑनलाइन आवेदन शुरू" },
+  "apply-end": { "en": "Last date to apply", "hi": "आवेदन की अंतिम तिथि" },
+  "fee-end": { "en": "Last date to pay fee", "hi": "शुल्क भुगतान की अंतिम तिथि" },
+  "correction": { "en": "Correction window", "hi": "सुधार विंडो" },
+  "city-slip": { "en": "Exam city slip", "hi": "परीक्षा शहर पर्ची" },
+  "admit-card": { "en": "Admit card", "hi": "प्रवेश पत्र" },
+  "exam": { "en": "Exam", "hi": "परीक्षा" },
+  "answer-key": { "en": "Answer key", "hi": "उत्तर कुंजी" },
+  "objection-end": { "en": "Last date for objections", "hi": "आपत्ति की अंतिम तिथि" },
+  "result": { "en": "Result", "hi": "परिणाम" },
+  "final-answer-key": { "en": "Final answer key", "hi": "अंतिम उत्तर कुंजी" },
+  "marks": { "en": "Marks", "hi": "अंक" },
+  "document-verification": { "en": "Document verification", "hi": "दस्तावेज़ सत्यापन" },
+  "other": { "en": "Other", "hi": "अन्य" }
+ },
+ "factKinds": {
+  "vacancies": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+  "fee": { "en": "Fee", "hi": "शुल्क" },
+  "age": { "en": "Age limit", "hi": "आयु सीमा" },
+  "qualification": { "en": "Qualification", "hi": "योग्यता" },
+  "stages": { "en": "Stages", "hi": "चरण" },
+  "pay": { "en": "Pay level", "hi": "वेतन स्तर" },
+  "other": { "en": "Other", "hi": "अन्य" }
+ },
+ "tiers": {
+  "tier-1": { "en": "Tier 1", "hi": "टियर 1" },
+  "tier-2": { "en": "Tier 2", "hi": "टियर 2" },
+  "paper-1": { "en": "Paper I", "hi": "पेपर I" },
+  "paper-2": { "en": "Paper II", "hi": "पेपर II" },
+  "skill-test": { "en": "Skill test", "hi": "स्किल टेस्ट" },
+  "pet": { "en": "PET/PST", "hi": "PET/PST" }
+ },
+ "labelRules": [
+  { "match": "final answer key", "kind": "final-answer-key" },
+  { "match": "answer key", "kind": "answer-key" },
+  { "match": "objection|challenge", "kind": "objection-end" },
+  { "match": "admit card", "kind": "admit-card" },
+  { "match": "exam city|city slip|city intimation", "kind": "city-slip" },
+  { "match": "\\bmarks\\b", "kind": "marks" },
+  { "match": "result", "kind": "result" },
+  { "match": "correction", "kind": "correction" },
+  { "match": "application begin|apply.*(begin|start)|registration (begin|start)", "kind": "apply-start" },
+  { "match": "last date.*apply|apply.*last date|registration.*last date|closing date", "kind": "apply-end" },
+  { "match": "fee", "kind": "fee-end" },
+  { "match": "document verification|\\bdv\\b", "kind": "document-verification" },
+  { "match": "slot|week preference|option form|calendar|vacancy|schedule", "kind": "other" },
+  { "match": "exam|\\bcbt\\b|skill test|typing|\\bpet\\b|\\bpst\\b|pe&mt", "kind": "exam" },
+  { "match": "notification|notice", "kind": "notification" }
+ ],
+ "tierRules": [
+  { "match": "tier[- ]?(ii|2)\\b", "tier": "tier-2" },
+  { "match": "tier[- ]?(i|1)\\b", "tier": "tier-1" },
+  { "match": "paper[- ]?(ii|2)\\b", "tier": "paper-2" },
+  { "match": "paper[- ]?(i|1)\\b", "tier": "paper-1" },
+  { "match": "skill test|typing", "tier": "skill-test" },
+  { "match": "\\bpet\\b|\\bpst\\b|pe&mt|physical", "tier": "pet" }
+ ]
+}

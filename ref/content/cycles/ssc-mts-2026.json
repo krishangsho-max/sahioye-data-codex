@@ -1,0 +1,211 @@
+{
+ "version": 1,
+ "id": "ssc-mts-2026",
+ "exam": "ssc-mts",
+ "year": 2026,
+ "name": { "en": "SSC MTS and Havaldar 2026", "hi": "SSC MTS और हवलदार 2026" },
+ "lead": { "en": "Multi-Tasking (Non-Technical) Staff and Havaldar (CBIC & CBN) Examination, 2026. SSC has not published the 2026 notification (checked 7 Nov 2026). Only the dates from SSC's calendar are official. Everything from the 2025 notice is shown as tentative reference, not as a 2026 rule.", "hi": "मल्टी टास्किंग (गैर-तकनीकी) स्टाफ एवं हवलदार (सीबीआईसी एवं सीबीएन) परीक्षा, 2026। SSC ने 2026 की अधिसूचना जारी नहीं की है (7 नवंबर 2026 को जाँचा)। केवल SSC कैलेंडर की तिथियाँ आधिकारिक हैं। 2025 की सूचना की बातें अस्थायी संदर्भ के रूप में दिखाई गई हैं, 2026 के नियम के रूप में नहीं।" },
+ "datesNote": { "en": "These are the dates proposed in SSC's calendar. SSC has not issued the notification yet.", "hi": "ये SSC कैलेंडर में प्रस्तावित तिथियाँ हैं। SSC ने अभी अधिसूचना जारी नहीं की है।" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "SSC-CAL-2026": {
+   "title": { "en": "SSC exam calendar 2026: MTS and Havaldar entry", "hi": "SSC परीक्षा कैलेंडर 2026: MTS और हवलदार प्रविष्टि" },
+   "url": "https://ssc.gov.in/api/general-website/portal/ssc-calendar?page=1&limit=50&contentType=ssc-calendar&key=startDate&order=ASC&isPaginationRequired=false&language=english&attributes=id,headline,examId,contentType,startDate,endDate,language,createdAt",
+   "date": "2026-01-12",
+   "official": true
+  },
+  "SSC-NB-API": {
+   "title": { "en": "SSC notice board (checked 7 Nov 2026)", "hi": "SSC नोटिस बोर्ड (7 नवंबर 2026 को जाँचा)" },
+   "url": "https://ssc.gov.in/api/general-website/portal/notice-boards?page=1&limit=10&contentType=notice-boards&key=createdAt&order=DESC&isAttachment=true&language=english&attributes=id,headline,createdAt",
+   "date": "2026-11-07",
+   "official": true
+  },
+  "N2025": {
+   "title": { "en": "MTS and Havaldar 2025 notice (reference)", "hi": "MTS और हवलदार 2025 की सूचना (संदर्भ)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_mts_2025.pdf",
+   "date": "2025-06-26",
+   "official": true
+  },
+  "VAC-271125": {
+   "title": { "en": "MTS and Havaldar 2025 tentative vacancies (as on 27 Nov 2025)", "hi": "MTS और हवलदार 2025 की अस्थायी रिक्तियाँ (27 नवंबर 2025 तक)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Tentative_Vacancy_27112025.pdf",
+   "date": "2025-11-27",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-mts-2026.proposed-notification",
+   "kind": "other",
+   "label": { "en": "Proposed notification date (SSC calendar)", "hi": "प्रस्तावित अधिसूचना तिथि (SSC कैलेंडर)" },
+   "start": "2026-06-30",
+   "note": { "en": "Passed. No notice had been issued by 7 Nov 2026.", "hi": "निकल चुकी। 7 नवंबर 2026 तक कोई सूचना जारी नहीं हुई।" },
+   "verified": true,
+   "source": "SSC-CAL-2026"
+  },
+  {
+   "id": "ssc-mts-2026.proposed-closing",
+   "kind": "other",
+   "label": { "en": "Proposed closing date (SSC calendar)", "hi": "प्रस्तावित अंतिम तिथि (SSC कैलेंडर)" },
+   "start": "2026-07-31",
+   "verified": true,
+   "source": "SSC-CAL-2026"
+  },
+  {
+   "id": "ssc-mts-2026.exam",
+   "kind": "exam",
+   "label": { "en": "Computer based exam (CBE), proposed window", "hi": "कंप्यूटर आधारित परीक्षा (CBE), प्रस्तावित अवधि" },
+   "note": { "en": "September – November 2026, from SSC's calendar. No exact dates published.", "hi": "सितंबर – नवंबर 2026, SSC कैलेंडर से। सटीक तिथियाँ प्रकाशित नहीं।" },
+   "verified": true,
+   "source": "SSC-CAL-2026"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-mts-2026.status",
+   "kind": "other",
+   "label": { "en": "Is the 2026 notification out?", "hi": "क्या 2026 की अधिसूचना जारी हुई?" },
+   "value": "NO. As of 07-11-2026 no Notice of Examination for the Multi-Tasking (Non-Technical) Staff and Havaldar (CBIC & CBN) Examination, 2026 exists on ssc.gov.in.",
+   "verified": true,
+   "source": "SSC-NB-API"
+  },
+  {
+   "id": "ssc-mts-2026.vacancies-2025",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies, 2025 notice (reference)", "hi": "रिक्तियाँ, 2025 की सूचना (संदर्भ)" },
+   "value": "7948 in total as on 27.11.2025: MTS (NT) 6078 under the 18-25 years age group (TOTAL(A)) + 732 under the 18-27 years age group (TOTAL(B)) = 6810 MTS; Havaldar in CBIC and CBN 1138 (TOTAL(C)).",
+   "verified": false,
+   "source": "VAC-271125"
+  },
+  {
+   "id": "ssc-mts-2026.age",
+   "kind": "age",
+   "label": { "en": "Age limit (2025 notice)", "hi": "आयु सीमा (2025 की सूचना)" },
+   "value": "Not published. 2025 reference: 18-25 years for MTS; 18-27 years for Havaldar in CBIC and CBN and a few posts of MTS in various departments (crucial date 01-08-2025).",
+   "verified": false,
+   "source": "N2025"
+  },
+  {
+   "id": "ssc-mts-2026.age-relaxation",
+   "kind": "age",
+   "label": { "en": "Age relaxation (2025 notice)", "hi": "आयु में छूट (2025 की सूचना)" },
+   "value": "SC/ST 5 years, OBC 3 years, PwBD (UR/EWS) 10 years, PwBD (OBC) 13 years, PwBD (SC/ST) 15 years, ESM 3 years after deduction of military service.",
+   "verified": false,
+   "source": "N2025"
+  },
+  {
+   "id": "ssc-mts-2026.qualification",
+   "kind": "qualification",
+   "label": { "en": "Qualification (2025 notice)", "hi": "योग्यता (2025 की सूचना)" },
+   "value": "Not published. 2025 reference: must have passed Matriculation Examination or equivalent from a recognized Board as on the cut-off date.",
+   "verified": false,
+   "source": "N2025"
+  },
+  {
+   "id": "ssc-mts-2026.fee",
+   "kind": "fee",
+   "label": { "en": "Application fee (2025 notice)", "hi": "आवेदन शुल्क (2025 की सूचना)" },
+   "value": "Not published. 2025 reference: Rs. 100/-; women, SC, ST, PwBD and ESM candidates eligible for reservation are exempted; online payment only.",
+   "verified": false,
+   "source": "N2025"
+  },
+  {
+   "id": "ssc-mts-2026.stages",
+   "kind": "stages",
+   "label": { "en": "Stages (2025 notice)", "hi": "चरण (2025 की सूचना)" },
+   "value": "Not published. 2025 reference: MTS — Computer Based Examination only; Havaldar — CBE plus Physical Efficiency Test (PET)/Physical Standard Test (PST).",
+   "verified": false,
+   "source": "N2025"
+  },
+  {
+   "id": "ssc-mts-2026.havaldar-pet-pst",
+   "kind": "other",
+   "label": { "en": "Havaldar PET/PST standards (2025 notice)", "hi": "हवलदार PET/PST मानक (2025 की सूचना)" },
+   "value": "PET: male walking 1600 metres in 15 minutes, female 1 km in 20 minutes; PST: male height 157.5 cm with chest 81 cm (5 cm expansion), female height 152 cm and weight 48 kg, with the relaxations and PwBD exemptions printed at Paras 14.7.2-14.7.7.",
+   "verified": false,
+   "source": "N2025"
+  }
+ ],
+ "notices": [],
+ "tables": [
+  {
+   "id": "ssc-mts-2026.vacancies",
+   "title": { "en": "Vacancies in the 2025 notice (reference)", "hi": "2025 की सूचना की रिक्तियाँ (संदर्भ)" },
+   "head": [
+    { "en": "Post", "hi": "पद" },
+    { "en": "UR", "hi": "UR" },
+    { "en": "EWS", "hi": "EWS" },
+    { "en": "OBC", "hi": "OBC" },
+    { "en": "SC", "hi": "SC" },
+    { "en": "ST", "hi": "ST" },
+    { "en": "Total", "hi": "कुल" }
+   ],
+   "rows": [
+    [
+     { "en": "MTS (age 18–25)", "hi": "MTS (आयु 18–25)" },
+     2859,
+     596,
+     1486,
+     665,
+     472,
+     6078
+    ],
+    [
+     { "en": "MTS (age 18–27)", "hi": "MTS (आयु 18–27)" },
+     323,
+     89,
+     215,
+     56,
+     49,
+     732
+    ],
+    [
+     { "en": "Havaldar (CBIC & CBN)", "hi": "हवलदार (सीबीआईसी एवं सीबीएन)" },
+     497,
+     131,
+     272,
+     138,
+     100,
+     1138
+    ]
+   ],
+   "note": { "en": "2025 tentative vacancies as on 27 Nov 2025, not 2026 figures. The ESM and disability columns are left out.", "hi": "27 नवंबर 2025 तक की 2025 की अस्थायी रिक्तियाँ, 2026 के आँकड़े नहीं। पूर्व सैनिक और दिव्यांग कॉलम छोड़े गए हैं।" },
+   "verified": false,
+   "source": "VAC-271125"
+  }
+ ],
+ "pattern": [
+  {
+   "title": { "en": "Computer based exam, 2025 pattern (reference)", "hi": "कंप्यूटर आधारित परीक्षा, 2025 का पैटर्न (संदर्भ)" },
+   "rows": [
+    {
+     "section": { "en": "Session I, Part I: Numerical and Mathematical Ability", "hi": "सत्र I, भाग I: संख्यात्मक और गणितीय योग्यता" },
+     "questions": 20,
+     "marks": 60
+    },
+    {
+     "section": { "en": "Session I, Part II: Reasoning Ability and Problem Solving", "hi": "सत्र I, भाग II: तर्कशक्ति और समस्या समाधान" },
+     "questions": 20,
+     "marks": 60
+    },
+    {
+     "section": { "en": "Session II, Part I: General Awareness", "hi": "सत्र II, भाग I: सामान्य जागरूकता" },
+     "questions": 25,
+     "marks": 75
+    },
+    {
+     "section": { "en": "Session II, Part II: English Language and Comprehension", "hi": "सत्र II, भाग II: अंग्रेज़ी भाषा और बोध" },
+     "questions": 25,
+     "marks": 75
+    }
+   ],
+   "notes": [
+    { "en": "Two sessions on the same day, both mandatory. 45 minutes each (60 minutes each for scribe-eligible candidates).", "hi": "एक ही दिन दो सत्र, दोनों अनिवार्य। हर सत्र 45 मिनट (स्क्राइब के पात्र उम्मीदवारों के लिए 60 मिनट)।" },
+    { "en": "No negative marking in Session I. One mark is cut for each wrong answer in Session II.", "hi": "सत्र I में नकारात्मक अंकन नहीं। सत्र II में हर गलत उत्तर पर एक अंक कटेगा।" },
+    { "en": "Objective multiple choice, in English, Hindi and 13 regional languages for Session I and the General Awareness section of Session II.", "hi": "वस्तुनिष्ठ बहुविकल्पीय; सत्र I और सत्र II के सामान्य जागरूकता खंड के लिए अंग्रेज़ी, हिंदी और 13 क्षेत्रीय भाषाओं में।" },
+    { "en": "This is the 2025 pattern. SSC has not published the 2026 notice.", "hi": "यह 2025 का पैटर्न है। SSC ने 2026 की सूचना जारी नहीं की है।" }
+   ],
+   "source": "N2025"
+  }
+ ]
+}

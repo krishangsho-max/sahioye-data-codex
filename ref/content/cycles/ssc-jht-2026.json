@@ -1,0 +1,836 @@
+{
+ "version": 1,
+ "id": "ssc-jht-2026",
+ "exam": "ssc-jht",
+ "year": 2026,
+ "name": { "en": "SSC JHT 2026", "hi": "SSC JHT 2026" },
+ "lead": { "en": "Combined Hindi Translators Examination, 2026 (CHT: JHT, JTO, JT, SHT, STO). Paper-I (computer based) was held on 8 and 13 September and the tentative answer key is out. Paper-II is not scheduled and the Paper-I result is awaited.", "hi": "संयुक्त हिंदी अनुवादक परीक्षा, 2026 (CHT: JHT, JTO, JT, SHT, STO)। पेपर-I (कंप्यूटर आधारित) 8 और 13 सितंबर को हुआ और अस्थायी उत्तर कुंजी आ चुकी है। पेपर-II की तिथि तय नहीं है और पेपर-I के परिणाम का इंतज़ार है।" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "JHT-NOTICE-2026": {
+   "title": { "en": "CHT 2026 notification", "hi": "CHT 2026 अधिसूचना" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cht_2026.pdf",
+   "date": "2026-04-23",
+   "official": true
+  },
+  "JHT-VAC-090726": {
+   "title": { "en": "Tentative vacancies (as on 9 Jul 2026)", "hi": "अस्थायी रिक्तियाँ (9 जुलाई 2026 तक)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/tentative_vacancies_09072026.pdf",
+   "date": "2026-07-09",
+   "official": true
+  },
+  "JHT-SCHED-120826": {
+   "title": { "en": "Approved schedule for Paper-I", "hi": "पेपर-I का स्वीकृत कार्यक्रम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_12082026.pdf",
+   "date": "2026-08-12",
+   "official": true
+  },
+  "JHT-CITY-310826": {
+   "title": { "en": "Exam city and admission certificate", "hi": "परीक्षा शहर और प्रवेश प्रमाणपत्र" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_31082026.pdf",
+   "date": "2026-08-31",
+   "official": true
+  },
+  "JHT-CITY-CORR-030926": {
+   "title": { "en": "Corrigendum: own-scribe mapping deadline", "hi": "शुद्धिपत्र: अपना स्क्राइब मैपिंग की अंतिम तिथि" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/cht_2026_steno_2026_corrigendum_03092026.pdf",
+   "date": "2026-09-03",
+   "official": true
+  },
+  "JHT-KEY-210926": {
+   "title": { "en": "Paper-I tentative answer keys and response sheets", "hi": "पेपर-I अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_21092026.pdf",
+   "date": "2026-09-21",
+   "official": true
+  },
+  "JHT-NB-API": {
+   "title": { "en": "SSC notice board (checked 7 Nov 2026)", "hi": "SSC नोटिस बोर्ड (7 नवंबर 2026 को जाँचा)" },
+   "url": "https://ssc.gov.in/api/general-website/portal/notice-boards?page=1&limit=10&contentType=notice-boards&key=createdAt&order=DESC&isAttachment=true&language=english&attributes=id,headline,createdAt",
+   "date": "2026-11-07",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-jht-2026.notification",
+   "kind": "notification",
+   "label": { "en": "Notification", "hi": "अधिसूचना" },
+   "start": "2026-04-23",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Apply online", "hi": "ऑनलाइन आवेदन" },
+   "start": "2026-04-23",
+   "end": "2026-05-14",
+   "note": { "en": "Closed at 11 PM on 14 May", "hi": "14 मई को रात 11 बजे बंद हुए" },
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last date to apply", "hi": "आवेदन की अंतिम तिथि" },
+   "start": "2026-05-14",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Last date for online fee", "hi": "ऑनलाइन शुल्क की अंतिम तिथि" },
+   "start": "2026-05-15",
+   "note": { "en": "11 PM", "hi": "रात 11 बजे" },
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.correction",
+   "kind": "correction",
+   "label": { "en": "Correction window", "hi": "सुधार विंडो" },
+   "start": "2026-05-19",
+   "end": "2026-05-20",
+   "note": { "en": "Closed at 11 PM. ₹200 for the first change, ₹500 for the second, for all candidates.", "hi": "रात 11 बजे बंद। पहले सुधार के लिए ₹200, दूसरे के लिए ₹500, सभी उम्मीदवारों के लिए।" },
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.city-slip",
+   "kind": "city-slip",
+   "label": { "en": "Exam city intimation", "hi": "परीक्षा शहर की सूचना" },
+   "start": "2026-08-31",
+   "verified": true,
+   "source": "JHT-CITY-310826"
+  },
+  {
+   "id": "ssc-jht-2026.scribe-mapping",
+   "kind": "other",
+   "label": { "en": "Own-scribe OTR mapping deadline (Paper-I)", "hi": "अपना स्क्राइब OTR मैपिंग की अंतिम तिथि (पेपर-I)" },
+   "start": "2026-09-04",
+   "note": { "en": "11 PM. Moved from 6 Sep by the 3 Sep corrigendum.", "hi": "रात 11 बजे। 3 सितंबर के शुद्धिपत्र से 6 सितंबर से बदली गई।" },
+   "verified": true,
+   "source": "JHT-CITY-CORR-030926"
+  },
+  {
+   "id": "ssc-jht-2026.admit-card",
+   "kind": "admit-card",
+   "label": { "en": "Admission certificate (Paper-I)", "hi": "प्रवेश प्रमाणपत्र (पेपर-I)" },
+   "note": { "en": "Tentatively available 2 or 3 days before each exam date (SSC's own wording).", "hi": "हर परीक्षा तिथि से 2 या 3 दिन पहले अस्थायी रूप से उपलब्ध (SSC के अपने शब्द)।" },
+   "tier": "paper-1",
+   "verified": true,
+   "source": "JHT-CITY-310826"
+  },
+  {
+   "id": "ssc-jht-2026.exam-paper-1",
+   "kind": "exam",
+   "label": { "en": "Paper-I (CBE), first sitting", "hi": "पेपर-I (CBE), पहला सत्र" },
+   "start": "2026-09-08",
+   "tier": "paper-1",
+   "verified": true,
+   "source": "JHT-KEY-210926"
+  },
+  {
+   "id": "ssc-jht-2026.exam-paper-1-second",
+   "kind": "exam",
+   "label": { "en": "Paper-I (CBE), second sitting", "hi": "पेपर-I (CBE), दूसरा सत्र" },
+   "start": "2026-09-13",
+   "tier": "paper-1",
+   "verified": true,
+   "source": "JHT-KEY-210926"
+  },
+  {
+   "id": "ssc-jht-2026.answer-key-paper-1",
+   "kind": "answer-key",
+   "label": { "en": "Paper-I tentative answer key and response sheets", "hi": "पेपर-I अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "start": "2026-09-21",
+   "tier": "paper-1",
+   "verified": true,
+   "source": "JHT-KEY-210926"
+  },
+  {
+   "id": "ssc-jht-2026.objection-end-paper-1",
+   "kind": "objection-end",
+   "label": { "en": "Answer key objections close (11 PM)", "hi": "उत्तर कुंजी आपत्ति बंद (रात 11 बजे)" },
+   "start": "2026-09-24",
+   "note": { "en": "₹50 per question challenged", "hi": "हर चुनौती दिए प्रश्न पर ₹50" },
+   "tier": "paper-1",
+   "verified": true,
+   "source": "JHT-KEY-210926"
+  },
+  {
+   "id": "ssc-jht-2026.result-paper-1",
+   "kind": "result",
+   "label": { "en": "Paper-I result", "hi": "पेपर-I परिणाम" },
+   "note": { "en": "Not declared as of 7 Nov 2026", "hi": "7 नवंबर 2026 तक घोषित नहीं" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "JHT-NB-API"
+  },
+  {
+   "id": "ssc-jht-2026.exam-paper-2",
+   "kind": "exam",
+   "label": { "en": "Paper-II (descriptive)", "hi": "पेपर-II (वर्णनात्मक)" },
+   "note": { "en": "Not announced as of 7 Nov 2026", "hi": "7 नवंबर 2026 तक घोषित नहीं" },
+   "tier": "paper-2",
+   "verified": false,
+   "source": "JHT-NB-API"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-jht-2026.vacancies-total",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies (tentative, as on 9 Jul 2026)", "hi": "रिक्तियाँ (अस्थायी, 9 जुलाई 2026 तक)" },
+   "value": "303",
+   "short": "303",
+   "shortLabel": { "en": "Vacancies (tentative)", "hi": "रिक्तियाँ (अस्थायी)" },
+   "num": 303,
+   "verified": true,
+   "source": "JHT-VAC-090726"
+  },
+  {
+   "id": "ssc-jht-2026.vacancies-at-notification",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies at notification (23 Apr 2026)", "hi": "अधिसूचना पर रिक्तियाँ (23 अप्रैल 2026)" },
+   "value": "'The total number of tentative vacancies is 84.' Vacancies were still being collected; post-wise and category-wise vacancies were to follow on the Commission's Tentative Vacancy page. State/zone-wise vacancies are not collected by SSC.",
+   "num": 84,
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.posts-group",
+   "kind": "other",
+   "label": { "en": "Are the posts Group B?", "hi": "क्या पद समूह ख के हैं?" },
+   "value": "Yes — Group 'B' Non-Gazetted posts: Junior Hindi Translator, Junior Translation Officer, Junior Translator, Senior Hindi Translator and Senior Translation Officer.",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.post-codes-pay",
+   "kind": "pay",
+   "label": { "en": "Post codes and pay scales", "hi": "पद कोड और वेतनमान" },
+   "value": "A = Junior Translation Officer (JTO) in CSOLS, Level-6 (₹35,400–1,12,400); B = JTO in Armed Forces Headquarters (AFHQ), Level-6; C = Junior Hindi Translator/JTO/Junior Translator in various Ministries/Departments/Organizations, Level-6; D = Senior Hindi Translator/Senior Translator/Senior Translation Officer, Level-7 (₹44,900–1,42,400).",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.qualification-a-c",
+   "kind": "qualification",
+   "label": { "en": "Qualification, post codes A to C", "hi": "योग्यता, पद कोड A से C" },
+   "value": "Master's degree in Hindi with English as a compulsory/elective subject or as the medium of examination at degree level, or the reverse, or the four other prescribed combinations — AND a recognized Diploma/Certificate course in translation from Hindi to English and vice versa, or two years' experience of translation work (Hindi↔English) in a Central/State Government office including a Government of India Undertaking.",
+   "short": { "en": "Master's degree", "hi": "स्नातकोत्तर" },
+   "shortLabel": { "en": "Qualification", "hi": "योग्यता" },
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.qualification-d",
+   "kind": "qualification",
+   "label": { "en": "Qualification, post code D", "hi": "योग्यता, पद कोड D" },
+   "value": "Same Master's degree combinations — AND a recognized Diploma/Certificate course in translation, or three years' translation experience of the same kind.",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.qualification-cutoff",
+   "kind": "qualification",
+   "label": { "en": "Date for holding the qualification", "hi": "योग्यता की तिथि" },
+   "value": "The Essential Educational Qualification must be possessed on 01.08.2026; the result of the qualifying examination must have been declared on or before that date.",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.bro-restriction",
+   "kind": "other",
+   "label": { "en": "Border Roads Organization posts", "hi": "सीमा सड़क संगठन के पद" },
+   "value": "Only male candidates are eligible for the vacancies, if any, reported in the Border Roads Organization (BRO); BRO posts also carry physical standards/efficiency and medical standards at Annexure-XIII.",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.age",
+   "kind": "age",
+   "label": { "en": "Age limit", "hi": "आयु सीमा" },
+   "value": "18 to 30 years as on 01-08-2026, i.e. candidates born not before 02-08-1996 and not later than 01-08-2008.",
+   "short": "18–30",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.age-relaxation",
+   "kind": "age",
+   "label": { "en": "Age relaxation", "hi": "आयु में छूट" },
+   "value": "SC/ST 5 years; OBC 3 years; PwBD 10 years; PwBD (OBC) 13 years; PwBD (SC/ST) 15 years; Ex-servicemen 3 years after deduction of military service; Defence personnel disabled in hostilities 3 years (8 years if SC/ST).",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.fee",
+   "kind": "fee",
+   "label": { "en": "Application fee", "hi": "आवेदन शुल्क" },
+   "value": "₹100/- (Rupees one hundred only). Women, SC, ST, PwBD and Ex-servicemen eligible for reservation are exempted. Online only (BHIM UPI, Net Banking, Visa/MasterCard/Maestro/RuPay debit card); fee once paid is not refunded.",
+   "short": "₹100",
+   "shortLabel": { "en": "Fee", "hi": "शुल्क" },
+   "num": 100,
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.stages",
+   "kind": "stages",
+   "label": { "en": "Stages", "hi": "चरण" },
+   "value": "Two papers: Paper-I (Objective, Computer Based Mode) and Paper-II (Descriptive — Translation & Essay).",
+   "short": { "en": "2 papers", "hi": "2 पेपर" },
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.paper-2",
+   "kind": "other",
+   "label": { "en": "Paper-II (descriptive)", "hi": "पेपर-II (वर्णनात्मक)" },
+   "value": "Descriptive: two passages for translation (one Hindi→English, one English→Hindi) and an essay each in Hindi and English — 200 marks, 2 hours (2 hours 40 minutes for scribe-eligible candidates).",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.qualifying-marks",
+   "kind": "other",
+   "label": { "en": "Minimum qualifying marks (Paper-I)", "hi": "न्यूनतम अर्हक अंक (पेपर-I)" },
+   "value": "UR 30%; OBC/EWS 25%; all other categories 20%.",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.merit-weightage",
+   "kind": "other",
+   "label": { "en": "Weightage for final merit", "hi": "अंतिम मेरिट का भारांक" },
+   "value": "50% of Paper-I scores and 100% of Paper-II marks; separate category-wise cut-offs may apply in each paper. FRTA/final allocation is on merit-cum-preference of posts/departments.",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.paper-1-syllabus",
+   "kind": "other",
+   "label": { "en": "Paper-I syllabus (indicative)", "hi": "पेपर-I पाठ्यक्रम (संकेतात्मक)" },
+   "value": "Understanding of the languages and literature, correct use of words, phrases and idioms, and ability to write the languages correctly, precisely and effectively; questions of degree level.",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.normalisation-challenge",
+   "kind": "other",
+   "label": { "en": "Normalisation and answer key challenge", "hi": "नॉर्मलाइज़ेशन और उत्तर कुंजी चुनौती" },
+   "value": "Multi-shift CBE scores normalised as per the Notice dated 02-06-2025; answer-key challenges online only, ₹50/- per question (2026 notice), ₹50/- per question/answer in the 21.09.2026 notice; no re-evaluation or re-checking at any stage.",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.helpline",
+   "kind": "other",
+   "label": { "en": "Helpline", "hi": "हेल्पलाइन" },
+   "value": "1800 309 3063 (toll free).",
+   "verified": true,
+   "source": "JHT-NOTICE-2026"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-jht-2026.notice-jht-notice-2026",
+   "date": "2026-04-23",
+   "type": "notice",
+   "title": { "en": "Combined Hindi Translators Examination notice", "hi": "संयुक्त हिंदी अनुवादक परीक्षा सूचना" },
+   "source": "JHT-NOTICE-2026"
+  },
+  {
+   "id": "ssc-jht-2026.notice-vacancies",
+   "date": "2026-07-09",
+   "type": "notice",
+   "title": { "en": "Tentative vacancies (as on 9 Jul 2026)", "hi": "अस्थायी रिक्तियाँ (9 जुलाई 2026 तक)" },
+   "source": "JHT-VAC-090726"
+  },
+  {
+   "id": "ssc-jht-2026.notice-jht-sched-120826",
+   "date": "2026-08-12",
+   "type": "notice",
+   "title": { "en": "Paper-I examination schedule", "hi": "पेपर-I परीक्षा कार्यक्रम" },
+   "source": "JHT-SCHED-120826"
+  },
+  {
+   "id": "ssc-jht-2026.notice-jht-city-310826",
+   "date": "2026-08-31",
+   "type": "admit-card",
+   "title": { "en": "Examination city and admission certificate", "hi": "परीक्षा शहर और प्रवेश प्रमाणपत्र" },
+   "source": "JHT-CITY-310826"
+  },
+  {
+   "id": "ssc-jht-2026.notice-city-corrigendum",
+   "date": "2026-09-03",
+   "type": "notice",
+   "title": { "en": "Corrigendum to the exam city and admission certificate notice", "hi": "परीक्षा शहर और प्रवेश प्रमाणपत्र सूचना का शुद्धिपत्र" },
+   "source": "JHT-CITY-CORR-030926"
+  },
+  {
+   "id": "ssc-jht-2026.notice-jht-key-210926",
+   "date": "2026-09-21",
+   "type": "answer-key",
+   "title": { "en": "Paper-I tentative answer keys and response sheets", "hi": "पेपर-I अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "source": "JHT-KEY-210926"
+  }
+ ],
+ "tables": [
+  {
+   "id": "ssc-jht-2026.vacancies",
+   "title": { "en": "Vacancies by post (tentative, as on 9 Jul 2026)", "hi": "पद अनुसार रिक्तियाँ (अस्थायी, 9 जुलाई 2026 तक)" },
+   "head": [
+    { "en": "Post", "hi": "पद" },
+    { "en": "UR", "hi": "UR" },
+    { "en": "SC", "hi": "SC" },
+    { "en": "ST", "hi": "ST" },
+    { "en": "OBC", "hi": "OBC" },
+    { "en": "EWS", "hi": "EWS" },
+    { "en": "Total", "hi": "कुल" }
+   ],
+   "rows": [
+    [
+     { "en": "Senior Hindi Translator / Senior Translator / Senior Translation Officer (Level-7)", "hi": "वरिष्ठ हिंदी अनुवादक / वरिष्ठ अनुवादक / वरिष्ठ अनुवाद अधिकारी (स्तर-7)" },
+     2,
+     1,
+     0,
+     2,
+     1,
+     6
+    ],
+    [
+     { "en": "Junior Hindi Translator / Junior Translation Officer / Junior Translator (Level-6)", "hi": "कनिष्ठ हिंदी अनुवादक / कनिष्ठ अनुवाद अधिकारी / कनिष्ठ अनुवादक (स्तर-6)" },
+     138,
+     34,
+     14,
+     71,
+     18,
+     275
+    ],
+    [
+     { "en": "Junior Hindi Translator, Subordinate Office (Level-6)", "hi": "कनिष्ठ हिंदी अनुवादक, अधीनस्थ कार्यालय (स्तर-6)" },
+     16,
+     2,
+     1,
+     2,
+     1,
+     22
+    ],
+    [
+     { "en": "All posts", "hi": "सभी पद" },
+     156,
+     37,
+     15,
+     75,
+     20,
+     303
+    ]
+   ],
+   "note": { "en": "SSC says these are estimated vacancies and the final figures may vary. Disability columns (OH 6, HH 5, VH 3, other 1) are left out.", "hi": "SSC के अनुसार ये अनुमानित रिक्तियाँ हैं और अंतिम संख्या अलग हो सकती है। दिव्यांग कॉलम (OH 6, HH 5, VH 3, अन्य 1) छोड़े गए हैं।" },
+   "verified": true,
+   "source": "JHT-VAC-090726"
+  },
+  {
+   "id": "ssc-jht-2026.vacancies-by-office",
+   "title": { "en": "Vacancies by office (tentative, as on 9 Jul 2026)", "hi": "कार्यालय अनुसार रिक्तियाँ (अस्थायी, 9 जुलाई 2026 तक)" },
+   "head": [
+    { "en": "Office", "hi": "कार्यालय" },
+    { "en": "Post", "hi": "पद" },
+    { "en": "Level", "hi": "स्तर" },
+    { "en": "UR", "hi": "UR" },
+    { "en": "SC", "hi": "SC" },
+    { "en": "ST", "hi": "ST" },
+    { "en": "OBC", "hi": "OBC" },
+    { "en": "EWS", "hi": "EWS" },
+    { "en": "Total", "hi": "कुल" }
+   ],
+   "rows": [
+    [
+     "Ministry of Defence Armed Forces Head Quarter (AFHQ), Department of Defence",
+     "Senior Translator",
+     "Level-7",
+     1,
+     1,
+     0,
+     0,
+     0,
+     2
+    ],
+    [
+     "Ministry of Defence Directorate of Civilian Manpower and Planning (DCMPR), IHQ, Navy, Department of Defence",
+     "Senior Translator",
+     "Level-7",
+     0,
+     0,
+     0,
+     2,
+     0,
+     2
+    ],
+    [
+     "Ministry of Micro, Small and Medium Enterprises Office of Development Commissioner (MSME)",
+     "Senior Translator",
+     "Level-7",
+     1,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    [
+     "Ministry of Finance Enforcement Directorate (ED)",
+     "Senior Translator",
+     "Level-7",
+     0,
+     0,
+     0,
+     0,
+     1,
+     1
+    ],
+    [
+     "Central Administrative Tribunal Central Administrative Tribunal (CAT)",
+     "Junior Translator",
+     "Level-6",
+     2,
+     0,
+     0,
+     0,
+     0,
+     2
+    ],
+    [
+     "Comptroller & Auditor General of India Comptroller & Auditor General of India (C&AG)",
+     "Junior Translator",
+     "Level-6",
+     38,
+     13,
+     6,
+     24,
+     9,
+     90
+    ],
+    [
+     "Ministry of Defence Border Roads Organization (BRO)",
+     "Junior Translator",
+     "Level-6",
+     16,
+     5,
+     2,
+     10,
+     0,
+     33
+    ],
+    [
+     "Ministry of Defence Armed Forces Head Quarter (AFHQ), Department of Defence",
+     "Junior Translator",
+     "Level-6",
+     1,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    [
+     "Ministry of Defence Controller General Of Defence Accounts (CGDA), Department of Defence",
+     "Junior Translator",
+     "Level-6",
+     6,
+     2,
+     1,
+     3,
+     1,
+     13
+    ],
+    [
+     "Ministry of Electronics and Information Technology National Informatics Centre (NIC)",
+     "Junior Translator",
+     "Level-6",
+     1,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    [
+     "Ministry of External Affairs Central Passport Organisation (CPO)",
+     "Junior Hindi Translator( Subordinate Office )",
+     "Level-6",
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ],
+    [
+     "Ministry of Finance Central Board of Direct Taxes (CBDT)",
+     "Junior Translator",
+     "Level-6",
+     3,
+     0,
+     0,
+     1,
+     1,
+     5
+    ],
+    [
+     "Ministry of Fisheries, Animal Husbandry and Dairying Department of Fisheries",
+     "Junior Hindi Translator( Subordinate Office )",
+     "Level-6",
+     2,
+     0,
+     0,
+     0,
+     0,
+     2
+    ],
+    [
+     "Ministry of Health & Family Welfare Directorate General of Health Services (DGHS)",
+     "Junior Hindi Translator( Subordinate Office )",
+     "Level-6",
+     3,
+     0,
+     0,
+     0,
+     0,
+     3
+    ],
+    [
+     "Ministry of Home Affairs Registrar General of India and Census Commissioner of India, Department of States",
+     "Junior Translator",
+     "Level-6",
+     1,
+     0,
+     0,
+     1,
+     0,
+     2
+    ],
+    [
+     "Ministry of Jal Shakti Department of Water Resources, River Development and Ganga Rejuvenation",
+     "Junior Translator",
+     "Level-6",
+     1,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    [
+     "Ministry of Micro, Small and Medium Enterprises Office of Development Commissioner (MSME)",
+     "Junior Translator",
+     "Level-6",
+     1,
+     0,
+     1,
+     0,
+     0,
+     2
+    ],
+    [
+     "Ministry of Science & Technology Department of Science and Technology",
+     "Junior Translator",
+     "Level-6",
+     1,
+     0,
+     0,
+     1,
+     0,
+     2
+    ],
+    [
+     "Ministry of Textiles Central Silk Board",
+     "Junior Translator",
+     "Level-6",
+     3,
+     0,
+     0,
+     1,
+     0,
+     4
+    ],
+    [
+     "Ministry of Railways Railway Board",
+     "Junior Translator",
+     "Level-6",
+     2,
+     1,
+     0,
+     1,
+     0,
+     4
+    ],
+    [
+     "Ministry of Electronics and Information Technology Ministry of Electronics and Information Technology",
+     "Junior Translator",
+     "Level-6",
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ],
+    [
+     "Ministry of Communications Department of Posts",
+     "Junior Translator",
+     "Level-6",
+     51,
+     7,
+     1,
+     13,
+     4,
+     76
+    ],
+    [
+     "Ministry of Consumer Affairs, Food, & Public Distribution Department of Consumer Affairs",
+     "Junior Translator",
+     "Level-6",
+     1,
+     0,
+     0,
+     0,
+     1,
+     2
+    ],
+    [
+     "Ministry of Defence Department of Defence Production",
+     "Junior Translator",
+     "Level-6",
+     1,
+     0,
+     1,
+     1,
+     0,
+     3
+    ],
+    [
+     "Ministry of Finance Department of Revenue",
+     "Junior Translator",
+     "Level-6",
+     6,
+     4,
+     2,
+     10,
+     2,
+     24
+    ],
+    [
+     "Department of Atomic Energy Department of Atomic Energy",
+     "Junior Hindi Translator( Subordinate Office )",
+     "Level-6",
+     2,
+     1,
+     1,
+     1,
+     1,
+     6
+    ],
+    [
+     "Ministry of Mines Ministry of Mines",
+     "Junior Hindi Translator( Subordinate Office )",
+     "Level-6",
+     4,
+     0,
+     0,
+     0,
+     0,
+     4
+    ],
+    [
+     "Ministry of Tourism Ministry of Tourism",
+     "Junior Hindi Translator( Subordinate Office )",
+     "Level-6",
+     3,
+     0,
+     0,
+     0,
+     0,
+     3
+    ],
+    [
+     "Ministry of Earth Sciences Indian Meteorological Department (IMD)",
+     "Junior Hindi Translator( Subordinate Office )",
+     "Level-6",
+     2,
+     1,
+     0,
+     0,
+     0,
+     3
+    ],
+    [
+     "Ministry of Agriculture & Farmers Welfare Department of Agriculture & Farmers Welfare",
+     "Junior Translator",
+     "Level-6",
+     1,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    [
+     "Ministry of Housing & Urban Affairs Ministry of Housing & Urban Affairs",
+     "Junior Translator",
+     "Level-6",
+     2,
+     2,
+     0,
+     3,
+     0,
+     7
+    ],
+    [
+     "Ministry of Ports, Shipping and Waterways Directorate General of Lighthouses and Lightships",
+     "Junior Translator",
+     "Level-6",
+     0,
+     0,
+     0,
+     1,
+     0,
+     1
+    ]
+   ],
+   "note": { "en": "32 offices. Disability and colour-blindness columns are left out.", "hi": "32 कार्यालय। दिव्यांग और वर्णांधता कॉलम छोड़े गए हैं।" },
+   "verified": true,
+   "source": "JHT-VAC-090726"
+  }
+ ],
+ "pattern": [
+  {
+   "title": { "en": "Paper-I (computer based)", "hi": "पेपर-I (कंप्यूटर आधारित)" },
+   "rows": [
+    {
+     "section": { "en": "Part I: General Hindi", "hi": "भाग I: सामान्य हिंदी" },
+     "questions": 100,
+     "marks": 100,
+     "minutes": 60
+    },
+    {
+     "section": { "en": "Part II: General English", "hi": "भाग II: सामान्य अंग्रेज़ी" },
+     "questions": 100,
+     "marks": 100,
+     "minutes": 60
+    }
+   ],
+   "minutes": 120,
+   "notes": [
+    { "en": "Sectional timer of 1 hour for each part. Scribe-eligible candidates get 2 hours 40 minutes (1 hour 20 minutes per part).", "hi": "हर भाग के लिए 1 घंटे का अलग टाइमर। स्क्राइब के पात्र उम्मीदवारों को 2 घंटे 40 मिनट (हर भाग 1 घंटा 20 मिनट)।" },
+    { "en": "0.25 mark is cut for each wrong answer. No negative marking in Paper-II.", "hi": "हर गलत उत्तर पर 0.25 अंक कटेगा। पेपर-II में नकारात्मक अंकन नहीं।" },
+    { "en": "SSC prints '100/100' against each part (questions/marks). The count of 100 questions per part is read from that cell, not printed separately.", "hi": "SSC हर भाग के आगे '100/100' (प्रश्न/अंक) छापता है। हर भाग में 100 प्रश्न उसी कॉलम से पढ़े गए हैं, अलग से छपे नहीं हैं।" }
+   ],
+   "source": "JHT-NOTICE-2026"
+  }
+ ]
+}

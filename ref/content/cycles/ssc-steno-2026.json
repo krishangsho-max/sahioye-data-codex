@@ -1,0 +1,1194 @@
+{
+ "version": 1,
+ "id": "ssc-steno-2026",
+ "exam": "ssc-steno",
+ "year": 2026,
+ "name": { "en": "SSC Stenographer 2026", "hi": "SSC आशुलिपिक 2026" },
+ "lead": { "en": "Stenographer Grade C and Grade D Examination, 2026. The computer based exam is over; SSC has put up its tentative answer key and the challenge window has closed. The result is awaited.", "hi": "आशुलिपिक श्रेणी ग और श्रेणी घ परीक्षा, 2026। कंप्यूटर आधारित परीक्षा हो चुकी है; SSC ने अस्थायी उत्तर कुंजी जारी की और आपत्ति विंडो बंद हो चुकी है। परिणाम का इंतज़ार है।" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "N1": {
+   "title": { "en": "Stenographer 2026 notification (English)", "hi": "आशुलिपिक 2026 अधिसूचना (अंग्रेज़ी)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_steno_2026.pdf",
+   "date": "2026-04-24",
+   "official": true
+  },
+  "H1": {
+   "title": { "en": "Stenographer 2026 notification (Hindi)", "hi": "आशुलिपिक 2026 अधिसूचना (हिंदी)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/steno_notice_06052026.pdf",
+   "date": "2026-05-06",
+   "official": true
+  },
+  "V1": {
+   "title": { "en": "Tentative vacancies (as on 4 Jun 2026)", "hi": "अस्थायी रिक्तियाँ (4 जून 2026 तक)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/tentative_vacancy_04062026.pdf",
+   "date": "2026-06-04",
+   "official": true
+  },
+  "V2": {
+   "title": { "en": "Revised tentative vacancies (as on 10 Aug 2026)", "hi": "संशोधित अस्थायी रिक्तियाँ (10 अगस्त 2026 तक)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/TentativeVacancy/Revised%20Tentative%20Vacancies%20Steno%202026.pdf",
+   "date": "2026-08-10",
+   "official": true
+  },
+  "S1": {
+   "title": { "en": "Schedule of examinations", "hi": "परीक्षाओं का कार्यक्रम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_12082026.pdf",
+   "date": "2026-08-12",
+   "official": true
+  },
+  "S2": {
+   "title": { "en": "Corrigendum: revised exam dates", "hi": "शुद्धिपत्र: संशोधित परीक्षा तिथियाँ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Steno_2026_Dates_31082026.pdf",
+   "date": "2026-08-31",
+   "official": true
+  },
+  "C1": {
+   "title": { "en": "Exam city and admission certificate", "hi": "परीक्षा शहर और प्रवेश पत्र" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_31082026.pdf",
+   "date": "2026-08-31",
+   "official": true
+  },
+  "C2": {
+   "title": { "en": "Corrigendum: own-scribe mapping deadline", "hi": "शुद्धिपत्र: अपना स्क्राइब मैपिंग की अंतिम तिथि" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/cht_2026_steno_2026_corrigendum_03092026.pdf",
+   "date": "2026-09-03",
+   "official": true
+  },
+  "A1": {
+   "title": { "en": "Addendum: Mangal font for the Hindi skill test", "hi": "संशोधन: हिंदी स्किल टेस्ट में मंगल फ़ॉन्ट" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/addendum_23092026.pdf",
+   "date": "2026-09-23",
+   "official": true
+  },
+  "K1": {
+   "title": { "en": "Tentative answer keys and response sheets", "hi": "अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Approved_WriteUp_23092026.pdf",
+   "date": "2026-09-23",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-steno-2026.notification",
+   "kind": "notification",
+   "label": { "en": "Notification", "hi": "अधिसूचना" },
+   "start": "2026-04-24",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Apply online", "hi": "ऑनलाइन आवेदन" },
+   "start": "2026-04-24",
+   "end": "2026-05-15",
+   "note": { "en": "Closed at 11 PM on 15 May", "hi": "15 मई को रात 11 बजे बंद हुए" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last date to apply", "hi": "आवेदन की अंतिम तिथि" },
+   "start": "2026-05-15",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Last date for online fee", "hi": "ऑनलाइन शुल्क की अंतिम तिथि" },
+   "start": "2026-05-16",
+   "note": { "en": "11 PM", "hi": "रात 11 बजे" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.correction",
+   "kind": "correction",
+   "label": { "en": "Correction window", "hi": "सुधार विंडो" },
+   "start": "2026-05-20",
+   "end": "2026-05-21",
+   "note": { "en": "Closed at 11 PM, payment included. ₹200 for the first change, ₹500 for the second, for all categories.", "hi": "रात 11 बजे बंद हुई, भुगतान सहित। पहले सुधार के लिए ₹200, दूसरे के लिए ₹500, सभी श्रेणियों के लिए।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.other",
+   "kind": "other",
+   "label": { "en": "Own-scribe mapping deadline", "hi": "अपना स्क्राइब मैपिंग की अंतिम तिथि" },
+   "start": "2026-09-05",
+   "note": { "en": "11 PM. Moved from 7 Sep by the 3 Sep corrigendum.", "hi": "रात 11 बजे। 3 सितंबर के शुद्धिपत्र से 7 सितंबर से बदली गई।" },
+   "verified": true,
+   "source": "C2"
+  },
+  {
+   "id": "ssc-steno-2026.exam",
+   "kind": "exam",
+   "label": { "en": "Computer based exam (CBE)", "hi": "कंप्यूटर आधारित परीक्षा (CBE)" },
+   "start": "2026-09-09",
+   "end": "2026-09-12",
+   "note": { "en": "Also held on 15 Sep 2026", "hi": "15 सितंबर 2026 को भी हुई" },
+   "verified": true,
+   "source": "K1"
+  },
+  {
+   "id": "ssc-steno-2026.answer-key",
+   "kind": "answer-key",
+   "label": { "en": "Tentative answer key and response sheets", "hi": "अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "start": "2026-09-23",
+   "note": { "en": "SSC calls this key tentative. The final key comes after the CBE result; no date given.", "hi": "SSC इस कुंजी को अस्थायी कहता है। अंतिम कुंजी CBE परिणाम के बाद आएगी; तिथि नहीं दी गई।" },
+   "verified": false,
+   "source": "K1"
+  },
+  {
+   "id": "ssc-steno-2026.answer-key-2",
+   "kind": "answer-key",
+   "label": { "en": "Answer key challenge window", "hi": "उत्तर कुंजी आपत्ति विंडो" },
+   "start": "2026-09-23",
+   "end": "2026-09-26",
+   "note": { "en": "From 11 PM on 23 Sep to 11 PM on 26 Sep. ₹50 per question. Closed.", "hi": "23 सितंबर रात 11 बजे से 26 सितंबर रात 11 बजे तक। हर प्रश्न पर ₹50। बंद।" },
+   "verified": true,
+   "source": "K1"
+  },
+  {
+   "id": "ssc-steno-2026.result",
+   "kind": "result",
+   "label": { "en": "CBE result", "hi": "CBE परिणाम" },
+   "verified": false,
+   "source": "K1"
+  },
+  {
+   "id": "ssc-steno-2026.admit-card-skill-test",
+   "kind": "admit-card",
+   "label": { "en": "Skill test admission certificate", "hi": "स्किल टेस्ट प्रवेश पत्र" },
+   "tier": "skill-test",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.exam-skill-test",
+   "kind": "exam",
+   "label": { "en": "Skill test", "hi": "स्किल टेस्ट" },
+   "tier": "skill-test",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.result-2",
+   "kind": "result",
+   "label": { "en": "Final result and document verification", "hi": "अंतिम परिणाम और दस्तावेज़ सत्यापन" },
+   "verified": false,
+   "source": "N1"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-steno-2026.vacancies-total-grade-c-and-d-added-from-ssc-s-table",
+   "kind": "vacancies",
+   "label": { "en": "Total, Grade C and D (added from SSC's table)", "hi": "कुल, श्रेणी ग और घ (SSC की तालिका से जोड़कर)" },
+   "value": "1,275",
+   "short": "1,275",
+   "shortLabel": { "en": "Vacancies (tentative)", "hi": "रिक्तियाँ (अस्थायी)" },
+   "verified": false,
+   "source": "V2"
+  },
+  {
+   "id": "ssc-steno-2026.vacancies-grade-d-group-c",
+   "kind": "vacancies",
+   "label": { "en": "Grade D (Group C)", "hi": "श्रेणी घ (समूह ग)" },
+   "value": { "en": "1,129: UR 532, OBC 253, SC 143, ST 83, EWS 118", "hi": "1,129: UR 532, OBC 253, SC 143, ST 83, EWS 118" },
+   "verified": false,
+   "source": "V2"
+  },
+  {
+   "id": "ssc-steno-2026.vacancies-grade-c-group-b-non-gazetted",
+   "kind": "vacancies",
+   "label": { "en": "Grade C (Group B non-gazetted)", "hi": "श्रेणी ग (समूह ख अराजपत्रित)" },
+   "value": { "en": "146: UR 88, OBC 24, SC 20, ST 3, EWS 11", "hi": "146: UR 88, OBC 24, SC 20, ST 3, EWS 11" },
+   "verified": false,
+   "source": "V2"
+  },
+  {
+   "id": "ssc-steno-2026.vacancies-both-grades-by-category",
+   "kind": "vacancies",
+   "label": { "en": "Both grades by category", "hi": "दोनों श्रेणियाँ, वर्ग अनुसार" },
+   "value": { "en": "UR 620, OBC 277, SC 163, ST 86, EWS 129", "hi": "UR 620, OBC 277, SC 163, ST 86, EWS 129" },
+   "verified": false,
+   "source": "V2"
+  },
+  {
+   "id": "ssc-steno-2026.vacancies-reserved-within-the-totals",
+   "kind": "vacancies",
+   "label": { "en": "Reserved within the totals", "hi": "कुल के भीतर आरक्षित" },
+   "value": { "en": "ESM 86 (all in Grade D). Disability: OH 21, HH 20, VH 15, other 11.", "hi": "पूर्व सैनिक 86 (सभी श्रेणी घ में)। दिव्यांग: OH 21, HH 20, VH 15, अन्य 11।" },
+   "verified": false,
+   "source": "V2"
+  },
+  {
+   "id": "ssc-steno-2026.vacancies-earlier-counts",
+   "kind": "vacancies",
+   "label": { "en": "Earlier counts", "hi": "पहले की संख्याएँ" },
+   "value": { "en": "About 731 in the notification; 1,170 in the 4 Jun table (Grade D 1,021, Grade C 149). Both replaced by the 10 Aug table.", "hi": "अधिसूचना में लगभग 731; 4 जून की तालिका में 1,170 (श्रेणी घ 1,021, श्रेणी ग 149)। दोनों 10 अगस्त की तालिका से बदली गईं।" },
+   "verified": false,
+   "source": "V1"
+  },
+  {
+   "id": "ssc-steno-2026.age",
+   "kind": "age",
+   "label": { "en": "Age", "hi": "आयु" },
+   "value": { "en": "On 1 Aug 2026: Grade C 18 to 30 years (born 2 Aug 1996 to 1 Aug 2008); Grade D 18 to 27 years (born 2 Aug 1999 to 1 Aug 2008).", "hi": "1 अगस्त 2026 को: श्रेणी ग 18 से 30 वर्ष (जन्म 2 अगस्त 1996 से 1 अगस्त 2008); श्रेणी घ 18 से 27 वर्ष (जन्म 2 अगस्त 1999 से 1 अगस्त 2008)।" },
+   "short": "18–30 (C), 18–27 (D)",
+   "shortLabel": { "en": "Age limit, by grade", "hi": "आयु सीमा, श्रेणी अनुसार" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.age-relaxation",
+   "kind": "age",
+   "label": { "en": "Age relaxation", "hi": "आयु छूट" },
+   "value": { "en": "SC/ST 5 years, OBC 3 years. PwBD: UR/EWS 10, OBC 13, SC/ST 15 years. Ex-servicemen 3 years after military service. Defence personnel disabled in specified operations: 3 years, or 8 years for SC/ST.", "hi": "SC/ST 5 वर्ष, OBC 3 वर्ष। दिव्यांग: UR/EWS 10, OBC 13, SC/ST 15 वर्ष। पूर्व सैनिक सैन्य सेवा घटाकर 3 वर्ष। निर्दिष्ट अभियानों में अक्षम रक्षा कर्मी: 3 वर्ष, SC/ST के लिए 8 वर्ष।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.age-relaxation-group-c-posts-only",
+   "kind": "age",
+   "label": { "en": "Age relaxation, Group C posts only", "hi": "आयु छूट, केवल समूह ग पद" },
+   "value": { "en": "Central Government civilian employees with 3 years of regular continuous service: up to 40 years (45 for SC/ST). Widowed, divorced or judicially separated women who have not remarried: up to 35 years (40 for SC/ST). Conditions are in the notification.", "hi": "3 वर्ष की नियमित निरंतर सेवा वाले केंद्र सरकार के असैन्य कर्मचारी: 40 वर्ष तक (SC/ST के लिए 45)। विधवा, तलाकशुदा या न्यायिक रूप से अलग हुई महिलाएँ जिन्होंने पुनर्विवाह नहीं किया: 35 वर्ष तक (SC/ST के लिए 40)। शर्तें अधिसूचना में हैं।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.qualification",
+   "kind": "qualification",
+   "label": { "en": "Qualification", "hi": "योग्यता" },
+   "value": { "en": "Class 12 or equivalent from a recognised board or university on or before 1 Aug 2026, and skill in stenography. User departments verify documents after the final result.", "hi": "1 अगस्त 2026 या उससे पहले मान्यता प्राप्त बोर्ड या विश्वविद्यालय से 12वीं या समकक्ष, और आशुलिपि में कौशल। अंतिम परिणाम के बाद विभाग दस्तावेज़ जाँचते हैं।" },
+   "short": { "en": "12th pass, with stenography skill", "hi": "12वीं पास, आशुलिपि कौशल के साथ" },
+   "shortLabel": { "en": "Qualification", "hi": "योग्यता" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.qualification-matriculate-ex-servicemen",
+   "kind": "qualification",
+   "label": { "en": "Qualification, matriculate ex-servicemen", "hi": "योग्यता, मैट्रिक पास पूर्व सैनिक" },
+   "value": { "en": "A matriculate ex-serviceman with at least 15 years of service by the closing date can apply for reserved Grade D ESM posts. The notice's next sentence on completing 15 years within one year of closing is unclear; ask SSC before relying on it.", "hi": "आवेदन की अंतिम तिथि तक कम से कम 15 वर्ष की सेवा वाला मैट्रिक पास पूर्व सैनिक आरक्षित श्रेणी घ पूर्व सैनिक पदों के लिए आवेदन कर सकता है। अधिसूचना में अंतिम तिथि के एक वर्ष के भीतर 15 वर्ष पूरे करने वाला वाक्य स्पष्ट नहीं है; भरोसा करने से पहले SSC से पूछें।" },
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.nationality",
+   "kind": "other",
+   "label": { "en": "Nationality", "hi": "राष्ट्रीयता" },
+   "value": { "en": "Indian citizen, or a subject of Nepal or Bhutan, or a person of Indian origin who migrated from Pakistan, Myanmar, Sri Lanka, Kenya, Uganda, Tanzania, Zambia, Malawi, Zaire, Ethiopia or Vietnam to settle in India. All except Indian citizens need an eligibility certificate from the Government of India.", "hi": "भारतीय नागरिक, या नेपाल या भूटान का नागरिक, या पाकिस्तान, म्यांमार, श्रीलंका, केन्या, युगांडा, तंज़ानिया, ज़ाम्बिया, मलावी, ज़ायरे, इथियोपिया या वियतनाम से भारत में बसने आया भारतीय मूल का व्यक्ति। भारतीय नागरिकों के अलावा सभी को भारत सरकार का पात्रता प्रमाणपत्र चाहिए।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.fee",
+   "kind": "fee",
+   "label": { "en": "Fee", "hi": "शुल्क" },
+   "value": { "en": "₹100, paid online. No fee for women, SC, ST, PwBD and ex-servicemen eligible for reservation. Ex-servicemen posts are only in Grade D (Group C), not Grade C (Group B).", "hi": "₹100, ऑनलाइन। महिलाओं, SC, ST, दिव्यांग और आरक्षण के पात्र पूर्व सैनिकों के लिए शुल्क नहीं। पूर्व सैनिकों के पद केवल श्रेणी घ (समूह ग) में हैं, श्रेणी ग (समूह ख) में नहीं।" },
+   "short": "₹100",
+   "shortLabel": { "en": "Fee", "hi": "शुल्क" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.border-roads-organisation-posts",
+   "kind": "other",
+   "label": { "en": "Border Roads Organisation posts", "hi": "सीमा सड़क संगठन के पद" },
+   "value": { "en": "BRO Grade D posts are for men only and have post-specific physical and medical requirements.", "hi": "BRO श्रेणी घ पद केवल पुरुषों के लिए हैं और इनकी पद-विशेष शारीरिक व मेडिकल शर्तें हैं।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.skill-test-test",
+   "kind": "other",
+   "label": { "en": "Test", "hi": "परीक्षा" },
+   "value": { "en": "Compulsory but qualifying. One 10-minute dictation in the Hindi or English medium you chose in the application, at 100 words per minute for Grade C and 80 for Grade D, then transcription on a computer. SSC sets the qualifying standard category-wise.", "hi": "अनिवार्य पर क्वालीफाइंग। आवेदन में चुने हिंदी या अंग्रेज़ी माध्यम में 10 मिनट का एक डिक्टेशन, श्रेणी ग के लिए 100 और श्रेणी घ के लिए 80 शब्द प्रति मिनट, फिर कंप्यूटर पर ट्रांसक्रिप्शन। SSC क्वालीफाइंग मानक श्रेणी अनुसार तय करता है।" },
+   "section": "skill-test",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.skill-test-transcription-time-grade-d",
+   "kind": "other",
+   "label": { "en": "Transcription time, Grade D", "hi": "ट्रांसक्रिप्शन समय, श्रेणी घ" },
+   "value": { "en": "English 50 minutes (70 with a scribe); Hindi 65 minutes (90 with a scribe).", "hi": "अंग्रेज़ी 50 मिनट (स्क्राइब के साथ 70); हिंदी 65 मिनट (स्क्राइब के साथ 90)।" },
+   "section": "skill-test",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.skill-test-transcription-time-grade-c",
+   "kind": "other",
+   "label": { "en": "Transcription time, Grade C", "hi": "ट्रांसक्रिप्शन समय, श्रेणी ग" },
+   "value": { "en": "English 40 minutes (55 with a scribe); Hindi 55 minutes (75 with a scribe).", "hi": "अंग्रेज़ी 40 मिनट (स्क्राइब के साथ 55); हिंदी 55 मिनट (स्क्राइब के साथ 75)।" },
+   "section": "skill-test",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.skill-test-hindi-font",
+   "kind": "other",
+   "label": { "en": "Hindi font", "hi": "हिंदी फ़ॉन्ट" },
+   "value": { "en": "Hindi transcripts must use the Mangal font only. Other fonts are not evaluated and the candidate is treated as not qualified. Added by SSC on 23 Sep 2026.", "hi": "हिंदी ट्रांसक्रिप्ट में केवल मंगल फ़ॉन्ट चलेगा। अन्य फ़ॉन्ट जाँचे नहीं जाएँगे और उम्मीदवार को अनुत्तीर्ण माना जाएगा। SSC ने 23 सितंबर 2026 को यह जोड़ा।" },
+   "section": "skill-test",
+   "verified": true,
+   "source": "A1"
+  },
+  {
+   "id": "ssc-steno-2026.skill-test-after-appointment",
+   "kind": "other",
+   "label": { "en": "After appointment", "hi": "नियुक्ति के बाद" },
+   "value": { "en": "Candidates who took the Hindi test must learn English stenography, and those who took the English test must learn Hindi stenography, or they may not clear probation. The work language depends on the office.", "hi": "हिंदी टेस्ट देने वालों को अंग्रेज़ी आशुलिपि और अंग्रेज़ी टेस्ट देने वालों को हिंदी आशुलिपि सीखनी होगी, वरना परिवीक्षा पूरी नहीं हो सकती। कार्य की भाषा कार्यालय की ज़रूरत पर निर्भर है।" },
+   "section": "skill-test",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.skill-test-skill-test-marks-and-cut-offs",
+   "kind": "other",
+   "label": { "en": "Skill test marks and cut-offs", "hi": "स्किल टेस्ट के अंक और कट-ऑफ" },
+   "value": { "en": "No question count, marks, negative marking or category-wise error limits for the dictation test were found in the notification or addendum.", "hi": "अधिसूचना या संशोधन में डिक्टेशन टेस्ट के लिए प्रश्न संख्या, अंक, नेगेटिव मार्किंग या श्रेणी-वार त्रुटि सीमा नहीं मिली।" },
+   "section": "skill-test",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.stages",
+   "kind": "stages",
+   "label": { "en": "Stages", "hi": "चरण" },
+   "value": { "en": "CBE, skill test", "hi": "CBE, स्किल टेस्ट" },
+   "shortLabel": { "en": "Stages", "hi": "चरण" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.vacancies-in-the-notification",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies in the notification (tentative)", "hi": "अधिसूचना में रिक्तियाँ (अस्थायी)" },
+   "value": "731",
+   "num": 731,
+   "verified": true,
+   "source": "N1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-steno-2026.notice-n1",
+   "date": "2026-04-24",
+   "type": "notice",
+   "title": { "en": "Stenographer 2026 notification", "hi": "आशुलिपिक 2026 अधिसूचना" },
+   "source": "N1"
+  },
+  {
+   "id": "ssc-steno-2026.notice-h1",
+   "date": "2026-05-06",
+   "type": "notice",
+   "title": { "en": "Stenographer 2026 notification in Hindi", "hi": "आशुलिपिक 2026 अधिसूचना हिंदी में" },
+   "source": "H1"
+  },
+  {
+   "id": "ssc-steno-2026.notice-v1",
+   "date": "2026-06-04",
+   "type": "notice",
+   "title": { "en": "Tentative vacancies (as on 4 Jun)", "hi": "अस्थायी रिक्तियाँ (4 जून तक)" },
+   "source": "V1"
+  },
+  {
+   "id": "ssc-steno-2026.notice-v2",
+   "date": "2026-08-10",
+   "type": "notice",
+   "title": { "en": "Revised tentative vacancies (as on 10 Aug): 1,275", "hi": "संशोधित अस्थायी रिक्तियाँ (10 अगस्त तक): 1,275" },
+   "source": "V2"
+  },
+  {
+   "id": "ssc-steno-2026.notice-s1",
+   "date": "2026-08-12",
+   "type": "notice",
+   "title": { "en": "Schedule of examinations: CBE approved for 9 to 12 Sep", "hi": "परीक्षा कार्यक्रम: CBE 9 से 12 सितंबर को स्वीकृत" },
+   "source": "S1"
+  },
+  {
+   "id": "ssc-steno-2026.notice-s2",
+   "date": "2026-08-31",
+   "type": "notice",
+   "title": { "en": "Corrigendum: CBE dates extended to 9 to 15 Sep", "hi": "शुद्धिपत्र: CBE तिथियाँ बढ़ाकर 9 से 15 सितंबर" },
+   "source": "S2"
+  },
+  {
+   "id": "ssc-steno-2026.notice-c1",
+   "date": "2026-08-31",
+   "type": "notice",
+   "title": { "en": "Exam city and admission certificate", "hi": "परीक्षा शहर और प्रवेश पत्र" },
+   "source": "C1"
+  },
+  {
+   "id": "ssc-steno-2026.notice-c2",
+   "date": "2026-09-03",
+   "type": "notice",
+   "title": { "en": "Corrigendum: own-scribe mapping deadline 5 Sep", "hi": "शुद्धिपत्र: अपना स्क्राइब मैपिंग की अंतिम तिथि 5 सितंबर" },
+   "source": "C2"
+  },
+  {
+   "id": "ssc-steno-2026.notice-a1",
+   "date": "2026-09-23",
+   "type": "notice",
+   "title": { "en": "Addendum: Mangal font for the Hindi skill test", "hi": "संशोधन: हिंदी स्किल टेस्ट में मंगल फ़ॉन्ट" },
+   "source": "A1"
+  },
+  {
+   "id": "ssc-steno-2026.notice-k1",
+   "date": "2026-09-23",
+   "type": "answer-key",
+   "title": { "en": "Tentative answer keys and response sheets uploaded", "hi": "अस्थायी उत्तर कुंजी और उत्तर पत्रक अपलोड" },
+   "source": "K1"
+  }
+ ],
+ "tables": [
+  {
+   "id": "ssc-steno-2026.vacancies",
+   "title": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "head": [
+    { "en": "Department", "hi": "विभाग" },
+    { "en": "Grade, pay level", "hi": "श्रेणी, वेतन स्तर" },
+    { "en": "UR", "hi": "UR" },
+    { "en": "OBC", "hi": "OBC" },
+    { "en": "SC", "hi": "SC" },
+    { "en": "ST", "hi": "ST" },
+    { "en": "EWS", "hi": "EWS" },
+    { "en": "Total", "hi": "कुल" },
+    { "en": "Colour-blind can apply", "hi": "रंगांध आवेदन कर सकते हैं" }
+   ],
+   "rows": [
+    [
+     "Personnel/CBI",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "23",
+     "3",
+     "4",
+     "3",
+     "2",
+     "35",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Home Affairs/Official Language",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "0",
+     "0",
+     "1",
+     "0",
+     "1",
+     "2",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Home Affairs/Bureau of Police Research and Development",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Defence/Defence Production",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Communications/Telecommunications",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "44",
+     "27",
+     "15",
+     "7",
+     "10",
+     "103",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Tourism",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "2",
+     "1",
+     "0",
+     "0",
+     "0",
+     "3",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Labour and Employment/EPFO",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "2",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Corporate Affairs/National Company Law Tribunal",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "8",
+     "3",
+     "2",
+     "1",
+     "1",
+     "15",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "National Commission for Scheduled Tribes",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Defence/Controller General of Defence Accounts",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "5",
+     "3",
+     "1",
+     "1",
+     "1",
+     "11",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Election Commission of India",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "1",
+     "0",
+     "1",
+     "0",
+     "1",
+     "3",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Finance/Revenue",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "25",
+     "16",
+     "13",
+     "5",
+     "14",
+     "73",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Railways/Railway Board",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "0",
+     "1",
+     "2",
+     "0",
+     "2",
+     "5",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "External Affairs",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "3",
+     "1",
+     "1",
+     "0",
+     "0",
+     "5",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Communications/Posts/Postal Accounts Wing",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "3",
+     "0",
+     "0",
+     "0",
+     "0",
+     "3",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Central Administrative Tribunal",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "0",
+     "0",
+     "1",
+     "0",
+     "0",
+     "1",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Science and Technology/Department of Science and Technology",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "2",
+     "0",
+     "0",
+     "0",
+     "1",
+     "3",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Personnel/Department of Personnel and Training",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "51",
+     "31",
+     "17",
+     "8",
+     "11",
+     "118",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Home Affairs/Intelligence Bureau",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "29",
+     "10",
+     "8",
+     "7",
+     "12",
+     "66",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Labour and Employment",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "12",
+     "4",
+     "1",
+     "1",
+     "1",
+     "19",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Central Vigilance Commission",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Defence/Indian Coast Guard",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "10",
+     "7",
+     "3",
+     "1",
+     "2",
+     "23",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Consumer Affairs/Food and Public Distribution/Consumer Affairs",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "3",
+     "0",
+     "0",
+     "0",
+     "1",
+     "4",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Finance/Financial Services",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "1",
+     "2",
+     "1",
+     "3",
+     "0",
+     "7",
+     { "en": "No", "hi": "नहीं" }
+    ],
+    [
+     "Fisheries/Department of Fisheries",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1",
+     { "en": "No", "hi": "नहीं" }
+    ],
+    [
+     "Defence/Director General Defence Estates",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "3",
+     "2",
+     "1",
+     "0",
+     "1",
+     "7",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Home Affairs/Narcotics Control Bureau",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "7",
+     "2",
+     "2",
+     "0",
+     "0",
+     "11",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Textiles",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "0",
+     "0",
+     "0",
+     "0",
+     "1",
+     "1",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Electronics and Information Technology",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "2",
+     "1",
+     "1",
+     "0",
+     "0",
+     "4",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "National Human Rights Commission",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "3",
+     "0",
+     "0",
+     "0",
+     "0",
+     "3",
+     { "en": "No", "hi": "नहीं" }
+    ],
+    [
+     "Agriculture and Farmers Welfare/Department of Agriculture Cooperation and Farmers Welfare",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "2",
+     "2",
+     "1",
+     "0",
+     "0",
+     "5",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Culture/Archaeological Survey of India",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "5",
+     "2",
+     "2",
+     "1",
+     "1",
+     "11",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Youth Affairs and Sports/Youth Affairs",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "5",
+     "2",
+     "1",
+     "0",
+     "0",
+     "8",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Power",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "1",
+     "0",
+     "0",
+     "0",
+     "1",
+     "2",
+     { "en": "No", "hi": "नहीं" }
+    ],
+    [
+     "Defence/Border Roads Organisation",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "37",
+     "12",
+     "7",
+     "3",
+     "1",
+     "60",
+     { "en": "No", "hi": "नहीं" }
+    ],
+    [
+     "Home Affairs",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Housing and Urban Affairs",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "1",
+     "2",
+     "3",
+     "1",
+     "1",
+     "8",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Communications/Telecommunications/Controller General of Communication Accounts",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "7",
+     "1",
+     "1",
+     "0",
+     "1",
+     "10",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Personnel/Lal Bahadur Shastri National Academy of Administration",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "2",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Finance/Enforcement Directorate",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "0",
+     "9",
+     "1",
+     "1",
+     "0",
+     "11",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Civil Aviation",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "2",
+     "1",
+     "0",
+     "0",
+     "1",
+     "4",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Home Affairs/Registrar General and Census Commissioner of India",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1",
+     { "en": "No", "hi": "नहीं" }
+    ],
+    [
+     "Jal Shakti/Water Resources, River Development and Ganga Rejuvenation",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "4",
+     "1",
+     "0",
+     "0",
+     "0",
+     "5",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Fisheries/Animal Husbandry and Dairying",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "2",
+     "1",
+     "0",
+     "1",
+     "0",
+     "4",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Earth Sciences/Indian Meteorological Department",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "7",
+     "5",
+     "1",
+     "1",
+     "1",
+     "15",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Finance/Central Board of Direct Taxes",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "100",
+     "63",
+     "26",
+     "27",
+     "33",
+     "249",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Defence/Directorate of Civilian Manpower and Planning, IHQ Navy",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "36",
+     "15",
+     "13",
+     "5",
+     "5",
+     "74",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Health and Family Welfare/Directorate General of Health Services",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "9",
+     "2",
+     "2",
+     "1",
+     "2",
+     "16",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Atomic Energy",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "64",
+     "20",
+     "10",
+     "5",
+     "9",
+     "108",
+     { "en": "No", "hi": "नहीं" }
+    ],
+    [
+     "Consumer Affairs/Department of Food and Public Distribution",
+     { "en": "Grade D, level 4", "hi": "श्रेणी घ, स्तर 4" },
+     "2",
+     "1",
+     "0",
+     "0",
+     "0",
+     "3",
+     { "en": "No", "hi": "नहीं" }
+    ],
+    [
+     "Home Affairs/Bureau of Police Research and Development",
+     { "en": "Grade C, level 6", "hi": "श्रेणी ग, स्तर 6" },
+     "2",
+     "0",
+     "0",
+     "0",
+     "2",
+     "4",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Corporate Affairs",
+     { "en": "Grade C, level 6", "hi": "श्रेणी ग, स्तर 6" },
+     "1",
+     "1",
+     "1",
+     "0",
+     "0",
+     "3",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Corporate Affairs/National Company Law Tribunal",
+     { "en": "Grade C, level 6", "hi": "श्रेणी ग, स्तर 6" },
+     "4",
+     "0",
+     "1",
+     "0",
+     "0",
+     "5",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Election Commission of India",
+     { "en": "Grade C, level 7", "hi": "श्रेणी ग, स्तर 7" },
+     "0",
+     "1",
+     "0",
+     "0",
+     "1",
+     "2",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Finance/Revenue",
+     { "en": "Grade C, level 6", "hi": "श्रेणी ग, स्तर 6" },
+     "23",
+     "5",
+     "7",
+     "2",
+     "2",
+     "39",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "External Affairs",
+     { "en": "Grade C, level 7", "hi": "श्रेणी ग, स्तर 7" },
+     "12",
+     "6",
+     "3",
+     "1",
+     "2",
+     "24",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Home Affairs/Intelligence Bureau",
+     { "en": "Grade C, level 7", "hi": "श्रेणी ग, स्तर 7" },
+     "27",
+     "9",
+     "7",
+     "0",
+     "3",
+     "46",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Labour and Employment",
+     { "en": "Grade C, level 6", "hi": "श्रेणी ग, स्तर 6" },
+     "9",
+     "0",
+     "0",
+     "0",
+     "0",
+     "9",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Central Vigilance Commission",
+     { "en": "Grade C, level 7", "hi": "श्रेणी ग, स्तर 7" },
+     "2",
+     "1",
+     "0",
+     "0",
+     "1",
+     "4",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "National Human Rights Commission",
+     { "en": "Grade C, level 7", "hi": "श्रेणी ग, स्तर 7" },
+     "5",
+     "1",
+     "1",
+     "0",
+     "0",
+     "7",
+     { "en": "No", "hi": "नहीं" }
+    ],
+    [
+     "Jal Shakti/Water Resources, River Development and Ganga Rejuvenation",
+     { "en": "Grade C, level 6", "hi": "श्रेणी ग, स्तर 6" },
+     "2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "2",
+     { "en": "Yes", "hi": "हाँ" }
+    ],
+    [
+     "Textile",
+     { "en": "Grade C, level 6", "hi": "श्रेणी ग, स्तर 6" },
+     "1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1",
+     { "en": "Yes", "hi": "हाँ" }
+    ]
+   ],
+   "note": { "en": "All counts are tentative (revised table, as on 10 Aug). SSC does not collect state-wise or zone-wise vacancies. ESM and disability counts are inside the totals, not extra posts.", "hi": "सभी संख्याएँ अस्थायी हैं (संशोधित तालिका, 10 अगस्त तक)। SSC राज्य-वार या ज़ोन-वार रिक्तियाँ नहीं लेता। पूर्व सैनिक और दिव्यांग संख्या कुल के भीतर हैं, अतिरिक्त पद नहीं।" },
+   "verified": true,
+   "source": "V2"
+  }
+ ],
+ "pattern": [
+  {
+   "title": { "en": "Computer based exam (CBE)", "hi": "कंप्यूटर आधारित परीक्षा (CBE)" },
+   "rows": [
+    {
+     "section": { "en": "Part I: General Intelligence and Reasoning", "hi": "भाग I: सामान्य बुद्धि और तर्कशक्ति" },
+     "questions": 50,
+     "marks": 50,
+     "minutes": 30
+    },
+    {
+     "section": { "en": "Part II: General Awareness", "hi": "भाग II: सामान्य जागरूकता" },
+     "questions": 50,
+     "marks": 50,
+     "minutes": 30
+    },
+    {
+     "section": { "en": "Part III: English Language and Comprehension", "hi": "भाग III: अंग्रेज़ी भाषा और बोध" },
+     "questions": 100,
+     "marks": 100,
+     "minutes": 60
+    }
+   ],
+   "notes": [
+    { "en": "Objective multiple choice, in English and Hindi. Each part has its own timer. 0.25 mark cut for each wrong answer.", "hi": "वस्तुनिष्ठ बहुविकल्पीय, अंग्रेज़ी और हिंदी में। हर भाग का अपना टाइमर है। हर गलत उत्तर पर 0.25 अंक कटेगा।" },
+    { "en": "Eligible scribe candidates get 2 hours 40 minutes (40, 40 and 80 minutes for the three parts).", "hi": "पात्र स्क्राइब वाले उम्मीदवारों को 2 घंटे 40 मिनट मिलते हैं (तीनों भागों के लिए 40, 40 और 80 मिनट)।" },
+    { "en": "Minimum qualifying marks: UR 30%, OBC and EWS 25%, others 20%. Actual shortlisting cut-offs may be different.", "hi": "न्यूनतम क्वालीफाइंग अंक: UR 30%, OBC और EWS 25%, अन्य 20%। शॉर्टलिस्टिंग के असली कट-ऑफ अलग हो सकते हैं।" },
+    { "en": "CBE marks decide the category-wise shortlist for the skill test. Marks are normalised when the exam runs in several shifts.", "hi": "CBE के अंकों से स्किल टेस्ट के लिए श्रेणी अनुसार शॉर्टलिस्ट बनती है। कई शिफ्ट में परीक्षा होने पर अंकों का सामान्यीकरण होता है।" }
+   ],
+   "source": "N1"
+  }
+ ],
+ "sections": [
+  {
+   "id": "skill-test",
+   "title": { "en": "Skill test (stenography)", "hi": "स्किल टेस्ट (आशुलिपि)" }
+  }
+ ]
+}

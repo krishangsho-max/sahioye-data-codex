@@ -1,0 +1,441 @@
+{
+ "version": 1,
+ "id": "ssc-cpo-2026",
+ "exam": "ssc-cpo",
+ "year": 2026,
+ "name": { "en": "SSC CPO 2026", "hi": "SSC CPO 2026" },
+ "lead": { "en": "Sub-Inspector in Delhi Police and Central Armed Police Forces Examination, 2026. Applications are closed; Paper I is proposed for 23 to 28 Nov 2026.", "hi": "दिल्ली पुलिस और केंद्रीय सशस्त्र पुलिस बल में उप-निरीक्षक परीक्षा, 2026। आवेदन बंद हो चुके हैं; पेपर I का प्रस्तावित समय 23 से 28 नवंबर 2026 है।" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "N1": {
+   "title": { "en": "CPO 2026 notification (English)", "hi": "CPO 2026 अधिसूचना (अंग्रेज़ी)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_capf_2026.pdf",
+   "date": "2026-09-10",
+   "official": true
+  },
+  "H1": {
+   "title": { "en": "CPO 2026 notification (Hindi)", "hi": "CPO 2026 अधिसूचना (हिंदी)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/sicpo2026_hindi_24092026.pdf",
+   "date": "2026-09-24",
+   "official": true
+  },
+  "N2": {
+   "title": { "en": "Schedule of examinations", "hi": "परीक्षाओं का कार्यक्रम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_01102026.pdf",
+   "date": "2026-10-01",
+   "official": true
+  },
+  "N3": {
+   "title": { "en": "Revised schedule of examinations", "hi": "परीक्षाओं का संशोधित कार्यक्रम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important%20notice_revised_dated_26_10_2026.pdf",
+   "date": "2026-10-26",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-cpo-2026.notification",
+   "kind": "notification",
+   "label": { "en": "Notification", "hi": "अधिसूचना" },
+   "start": "2026-09-10",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Apply online", "hi": "ऑनलाइन आवेदन" },
+   "start": "2026-09-10",
+   "end": "2026-09-30",
+   "note": { "en": "Closes 11 PM", "hi": "रात 11 बजे बंद" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last date to apply", "hi": "आवेदन की अंतिम तिथि" },
+   "start": "2026-09-30",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Last date for online fee", "hi": "ऑनलाइन शुल्क की अंतिम तिथि" },
+   "start": "2026-10-01",
+   "note": { "en": "11 PM", "hi": "रात 11 बजे" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.correction",
+   "kind": "correction",
+   "label": { "en": "Correction window", "hi": "सुधार विंडो" },
+   "start": "2026-10-08",
+   "end": "2026-10-10",
+   "note": { "en": "Closes 11 PM. ₹200 for the first change, ₹500 for the second.", "hi": "रात 11 बजे बंद। पहले सुधार के लिए ₹200, दूसरे के लिए ₹500।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.exam-paper-1",
+   "kind": "exam",
+   "label": { "en": "Paper I exam (proposed)", "hi": "पेपर I परीक्षा (प्रस्तावित)" },
+   "start": "2026-11-23",
+   "end": "2026-11-28",
+   "note": { "en": "Revised on 26 Oct (earlier 20 to 28 Nov). Subject to change; your shift date is not out yet.", "hi": "26 अक्टूबर को संशोधित (पहले 20 से 28 नवंबर)। बदल सकता है; आपकी शिफ्ट की तिथि अभी नहीं आई।" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "N3"
+  },
+  {
+   "id": "ssc-cpo-2026.city-slip-paper-1",
+   "kind": "city-slip",
+   "label": { "en": "Paper I exam city slip", "hi": "पेपर I परीक्षा शहर सूचना" },
+   "note": { "en": "About 10 days before your exam", "hi": "आपकी परीक्षा से लगभग 10 दिन पहले" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.admit-card-paper-1",
+   "kind": "admit-card",
+   "label": { "en": "Paper I admit card", "hi": "पेपर I प्रवेश पत्र" },
+   "note": { "en": "2 to 3 days before your exam", "hi": "आपकी परीक्षा से 2 से 3 दिन पहले" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.answer-key-paper-1",
+   "kind": "answer-key",
+   "label": { "en": "Paper I answer key", "hi": "पेपर I उत्तर कुंजी" },
+   "note": { "en": "After the exam; ₹50 per challenged question", "hi": "परीक्षा के बाद; हर चुनौती वाले प्रश्न पर ₹50" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.result-paper-1",
+   "kind": "result",
+   "label": { "en": "Paper I result", "hi": "पेपर I परिणाम" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.exam-pet",
+   "kind": "exam",
+   "label": { "en": "PST and PET", "hi": "PST और PET" },
+   "tier": "pet",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.exam-paper-2",
+   "kind": "exam",
+   "label": { "en": "Paper II exam", "hi": "पेपर II परीक्षा" },
+   "tier": "paper-2",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.document-verification",
+   "kind": "document-verification",
+   "label": { "en": "Detailed medical exam", "hi": "विस्तृत मेडिकल परीक्षा" },
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.result",
+   "kind": "result",
+   "label": { "en": "Final result", "hi": "अंतिम परिणाम" },
+   "verified": false,
+   "source": "N1"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-cpo-2026.vacancies-total-added-from-ssc-s-tables",
+   "kind": "vacancies",
+   "label": { "en": "Total (added from SSC's tables)", "hi": "कुल (SSC की तालिकाओं से जोड़कर)" },
+   "value": "1,871",
+   "short": "1,871",
+   "shortLabel": { "en": "Vacancies (tentative)", "hi": "रिक्तियाँ (अस्थायी)" },
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.age",
+   "kind": "age",
+   "label": { "en": "Age", "hi": "आयु" },
+   "value": { "en": "20 to 25 years on 1 Aug 2026 (born 2 Aug 2001 to 1 Aug 2006). CISF Fire: 18 to 30 years (born 2 Aug 1996 to 1 Aug 2008).", "hi": "1 अगस्त 2026 को 20 से 25 वर्ष (जन्म 2 अगस्त 2001 से 1 अगस्त 2006)। CISF फायर: 18 से 30 वर्ष (जन्म 2 अगस्त 1996 से 1 अगस्त 2008)।" },
+   "short": "20–25",
+   "shortLabel": { "en": "Age limit", "hi": "आयु सीमा" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.age-relaxation",
+   "kind": "age",
+   "label": { "en": "Age relaxation", "hi": "आयु छूट" },
+   "value": { "en": "SC/ST 5 years, OBC 3 years, ex-servicemen 3 years after military service. Special limits for some women and Delhi Police staff are in the notification.", "hi": "SC/ST 5 वर्ष, OBC 3 वर्ष, पूर्व सैनिक सैन्य सेवा घटाकर 3 वर्ष। कुछ महिलाओं और दिल्ली पुलिस कर्मियों की विशेष सीमा अधिसूचना में है।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.qualification",
+   "kind": "qualification",
+   "label": { "en": "Qualification", "hi": "योग्यता" },
+   "value": { "en": "Bachelor's degree by 30 Sep 2026.", "hi": "30 सितंबर 2026 तक स्नातक डिग्री।" },
+   "short": { "en": "Graduate", "hi": "स्नातक" },
+   "shortLabel": { "en": "Qualification", "hi": "योग्यता" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.qualification-cisf-fire",
+   "kind": "qualification",
+   "label": { "en": "Qualification, CISF Fire", "hi": "योग्यता, CISF फायर" },
+   "value": { "en": "B.Sc. with Physics, Chemistry and Maths, or 10th pass plus a 3-year engineering diploma in a listed branch.", "hi": "भौतिकी, रसायन और गणित के साथ B.Sc., या 10वीं पास और सूचीबद्ध शाखा में 3 वर्षीय इंजीनियरिंग डिप्लोमा।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.driving-licence",
+   "kind": "other",
+   "label": { "en": "Driving licence", "hi": "ड्राइविंग लाइसेंस" },
+   "value": { "en": "Male Delhi Police candidates need a valid LMV licence (motorcycle and car) on the PE&MT date; without it they can only get CAPF posts.", "hi": "दिल्ली पुलिस के पुरुष उम्मीदवारों को PE&MT की तिथि पर वैध LMV लाइसेंस (मोटरसाइकिल और कार) चाहिए; इसके बिना केवल CAPF पद मिल सकते हैं।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.fee",
+   "kind": "fee",
+   "label": { "en": "Fee", "hi": "शुल्क" },
+   "value": { "en": "₹100. No fee for women, SC, ST and eligible ex-servicemen.", "hi": "₹100। महिलाओं, SC, ST और पात्र पूर्व सैनिकों के लिए शुल्क नहीं।" },
+   "short": "₹100",
+   "shortLabel": { "en": "Fee", "hi": "शुल्क" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.physical-height-general",
+   "kind": "other",
+   "label": { "en": "Height, general", "hi": "ऊँचाई, सामान्य" },
+   "value": { "en": "Male 170 cm, female 157 cm", "hi": "पुरुष 170 सेमी, महिला 157 सेमी" },
+   "section": "physical",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.physical-chest-male",
+   "kind": "other",
+   "label": { "en": "Chest, male", "hi": "सीना, पुरुष" },
+   "value": { "en": "80 cm, 85 cm expanded (CISF Fire 81/86). Lower limits for hill areas and ST are in the notification.", "hi": "80 सेमी, फुलाकर 85 सेमी (CISF फायर 81/86)। पहाड़ी क्षेत्र और ST की कम सीमा अधिसूचना में है।" },
+   "section": "physical",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.physical-pet-male",
+   "kind": "other",
+   "label": { "en": "PET, male", "hi": "PET, पुरुष" },
+   "value": { "en": "100 m in 16 s, 1.6 km in 6.5 min; long jump 3.65 m, high jump 1.2 m, shot put (16 lb) 4.5 m in 3 chances", "hi": "100 मी 16 सेकंड में, 1.6 किमी 6.5 मिनट में; लंबी कूद 3.65 मी, ऊँची कूद 1.2 मी, गोला फेंक (16 पाउंड) 4.5 मी, 3 मौके" },
+   "section": "physical",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.physical-pet-female",
+   "kind": "other",
+   "label": { "en": "PET, female", "hi": "PET, महिला" },
+   "value": { "en": "100 m in 18 s, 800 m in 4 min; long jump 2.7 m, high jump 0.9 m in 3 chances", "hi": "100 मी 18 सेकंड में, 800 मी 4 मिनट में; लंबी कूद 2.7 मी, ऊँची कूद 0.9 मी, 3 मौके" },
+   "section": "physical",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.physical-eyesight",
+   "kind": "other",
+   "label": { "en": "Eyesight", "hi": "दृष्टि" },
+   "value": { "en": "Distant vision 6/6 and 6/9 without glasses; near vision N6 and N9", "hi": "दूर दृष्टि बिना चश्मे के 6/6 और 6/9; निकट दृष्टि N6 और N9" },
+   "section": "physical",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.stages",
+   "kind": "stages",
+   "label": { "en": "Stages", "hi": "चरण" },
+   "value": { "en": "Paper I, PST/PET, Paper II, medical", "hi": "पेपर I, PST/PET, पेपर II, मेडिकल" },
+   "shortLabel": { "en": "Stages", "hi": "चरण" },
+   "verified": false,
+   "source": "N1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-cpo-2026.notice-n1",
+   "date": "2026-09-10",
+   "type": "notice",
+   "title": { "en": "CPO 2026 notification", "hi": "CPO 2026 अधिसूचना" },
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.notice-h1",
+   "date": "2026-09-24",
+   "type": "notice",
+   "title": { "en": "CPO 2026 notification in Hindi", "hi": "CPO 2026 अधिसूचना हिंदी में" },
+   "source": "H1"
+  },
+  {
+   "id": "ssc-cpo-2026.notice-n2",
+   "date": "2026-10-01",
+   "type": "notice",
+   "title": { "en": "Schedule of examinations: Paper I proposed 20 to 28 Nov", "hi": "परीक्षा कार्यक्रम: पेपर I प्रस्तावित 20 से 28 नवंबर" },
+   "source": "N2"
+  },
+  {
+   "id": "ssc-cpo-2026.notice-n3",
+   "date": "2026-10-26",
+   "type": "notice",
+   "title": { "en": "Revised schedule: Paper I proposed 23 to 28 Nov", "hi": "संशोधित कार्यक्रम: पेपर I प्रस्तावित 23 से 28 नवंबर" },
+   "source": "N3"
+  }
+ ],
+ "tables": [
+  {
+   "id": "ssc-cpo-2026.vacancies",
+   "title": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "head": [
+    { "en": "Post", "hi": "पद" },
+    { "en": "Male", "hi": "पुरुष" },
+    { "en": "Female", "hi": "महिला" },
+    { "en": "Total", "hi": "कुल" }
+   ],
+   "rows": [
+    [
+     { "en": "SI (Executive), Delhi Police", "hi": "SI (कार्यकारी), दिल्ली पुलिस" },
+     "205",
+     "112",
+     "317"
+    ],
+    [
+     { "en": "SI (GD), BSF", "hi": "SI (GD), BSF" },
+     "435",
+     "22",
+     "457"
+    ],
+    [
+     { "en": "SI (GD), CRPF", "hi": "SI (GD), CRPF" },
+     "225",
+     "29",
+     "254"
+    ],
+    [
+     { "en": "SI (GD), CISF", "hi": "SI (GD), CISF" },
+     "200",
+     "50",
+     "250"
+    ],
+    [
+     { "en": "SI (GD), ITBP", "hi": "SI (GD), ITBP" },
+     "159",
+     "28",
+     "187"
+    ],
+    [
+     { "en": "SI (GD), SSB", "hi": "SI (GD), SSB" },
+     "154",
+     "18",
+     "172"
+    ],
+    [
+     { "en": "SI (Fire), CISF", "hi": "SI (फायर), CISF" },
+     "234",
+     "–",
+     "234"
+    ]
+   ],
+   "note": { "en": "All counts are tentative in the notification. Ex-servicemen posts are included in each total.", "hi": "अधिसूचना में सभी संख्याएँ अस्थायी हैं। पूर्व सैनिकों के पद हर कुल संख्या में शामिल हैं।" },
+   "verified": true,
+   "source": "N1"
+  }
+ ],
+ "pattern": [
+  {
+   "title": { "en": "Paper I (computer based)", "hi": "पेपर I (कंप्यूटर आधारित)" },
+   "rows": [
+    {
+     "section": { "en": "General Intelligence and Reasoning", "hi": "सामान्य बुद्धि और तर्कशक्ति" },
+     "questions": 25,
+     "marks": 25,
+     "minutes": 15
+    },
+    {
+     "section": { "en": "General Knowledge and General Awareness", "hi": "सामान्य ज्ञान और सामान्य जागरूकता" },
+     "questions": 25,
+     "marks": 25,
+     "minutes": 15
+    },
+    {
+     "section": { "en": "Quantitative Aptitude", "hi": "मात्रात्मक योग्यता" },
+     "questions": 25,
+     "marks": 25,
+     "minutes": 15
+    },
+    {
+     "section": { "en": "English Comprehension", "hi": "अंग्रेज़ी बोध" },
+     "questions": 25,
+     "marks": 25,
+     "minutes": 15
+    }
+   ],
+   "notes": [
+    { "en": "0.25 mark cut for each wrong answer.", "hi": "हर गलत उत्तर पर 0.25 अंक कटेगा।" },
+    { "en": "Then PST/PET (qualifying; ex-servicemen are exempt from PET), Paper II and a detailed medical exam.", "hi": "इसके बाद PST/PET (क्वालीफाइंग; पूर्व सैनिकों को PET से छूट), पेपर II और विस्तृत मेडिकल परीक्षा।" }
+   ],
+   "source": "N1"
+  },
+  {
+   "title": { "en": "Paper II (computer based)", "hi": "पेपर II (कंप्यूटर आधारित)" },
+   "rows": [
+    {
+     "section": { "en": "General Intelligence and Reasoning", "hi": "सामान्य बुद्धि और तर्कशक्ति" },
+     "questions": 20,
+     "marks": 40
+    },
+    {
+     "section": { "en": "General Knowledge and General Awareness", "hi": "सामान्य ज्ञान और सामान्य जागरूकता" },
+     "questions": 20,
+     "marks": 40
+    },
+    {
+     "section": { "en": "Quantitative Aptitude", "hi": "मात्रात्मक योग्यता" },
+     "questions": 20,
+     "marks": 40
+    },
+    {
+     "section": { "en": "English Comprehension", "hi": "अंग्रेज़ी बोध" },
+     "questions": 100,
+     "marks": 200
+    }
+   ],
+   "notes": [
+    { "en": "0.5 mark cut for each wrong answer.", "hi": "हर गलत उत्तर पर 0.5 अंक कटेगा।" },
+    { "en": "Time not confirmed: the English notice gives 20 minutes each for parts 1 to 3 and 1 hour for English (2 hours in all); the Hindi notice gives 1 hour for all four parts.", "hi": "समय पक्का नहीं: अंग्रेज़ी अधिसूचना में भाग 1 से 3 के लिए 20-20 मिनट और अंग्रेज़ी के लिए 1 घंटा (कुल 2 घंटे) है; हिंदी अधिसूचना में चारों भागों के लिए 1 घंटा है।" },
+    { "en": "Not confirmed: the English notice bases final selection on Paper II; the Hindi notice says Paper I and Paper II.", "hi": "पक्का नहीं: अंग्रेज़ी अधिसूचना में अंतिम चयन पेपर II पर है; हिंदी अधिसूचना में पेपर I और पेपर II पर।" },
+    { "en": "Minimum qualifying marks in each paper: UR 30%, OBC and EWS 25%, others 20%. NCC certificate bonus: C 5%, B 3%, A 2%.", "hi": "हर पेपर में न्यूनतम क्वालीफाइंग अंक: UR 30%, OBC और EWS 25%, अन्य 20%। NCC प्रमाणपत्र बोनस: C 5%, B 3%, A 2%।" }
+   ],
+   "source": "N1"
+  }
+ ],
+ "sections": [
+  {
+   "id": "physical",
+   "title": { "en": "Physical standards (PST and PET)", "hi": "शारीरिक मानक (PST और PET)" }
+  }
+ ]
+}

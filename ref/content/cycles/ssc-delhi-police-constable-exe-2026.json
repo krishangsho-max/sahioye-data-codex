@@ -1,0 +1,405 @@
+{
+ "version": 1,
+ "id": "ssc-delhi-police-constable-exe-2026",
+ "exam": "ssc-delhi-police",
+ "year": 2026,
+ "name": { "en": "SSC Delhi Police Constable (Executive) 2026", "hi": "SSC दिल्ली पुलिस कांस्टेबल (कार्यकारी) 2026" },
+ "lead": { "en": "SSC has not published the 2026 notification for the Constable (Executive) Male and Female in Delhi Police Examination, 2026 (checked 7 Nov 2026), and it is not in SSC's 2026 calendar. Everything below is from the 2025 notice and is shown as tentative reference, not as a 2026 rule.", "hi": "SSC ने दिल्ली पुलिस में कांस्टेबल (कार्यकारी) पुरुष और महिला परीक्षा, 2026 की की 2026 की अधिसूचना जारी नहीं की है (7 नवंबर 2026 को जाँचा) और यह SSC के 2026 कैलेंडर में भी नहीं है। नीचे सब कुछ 2025 की सूचना से है और अस्थायी संदर्भ के रूप में दिखाया गया है, 2026 के नियम के रूप में नहीं।" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "S1": {
+   "title": { "en": "SSC notice board (checked 7 Nov 2026)", "hi": "SSC नोटिस बोर्ड (7 नवंबर 2026 को जाँचा)" },
+   "url": "https://ssc.gov.in/api/general-website/portal/notice-boards?page=1&limit=100&contentType=notice-boards&key=createdAt&order=DESC&isPaginationRequired=true&language=english&attributes=id,headline,examId,contentType,redirectUrl,startDate,endDate,language,createdAt",
+   "date": "2026-11-07",
+   "official": true
+  },
+  "S2": {
+   "title": { "en": "SSC exam calendar 2026", "hi": "SSC परीक्षा कैलेंडर 2026" },
+   "url": "https://ssc.gov.in/api/general-website/portal/ssc-calendar?page=1&limit=100&contentType=ssc-calendar&key=startDate&order=ASC&isPaginationRequired=false&language=english&attributes=id,headline,examId,contentType,startDate,endDate,language,createdAt",
+   "date": "2026-11-07",
+   "official": true
+  },
+  "S5": {
+   "title": { "en": "Constable (Executive) 2025 notice (reference)", "hi": "कांस्टेबल (कार्यकारी) 2025 की सूचना (संदर्भ)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_DPCE_2025.pdf",
+   "date": "2025-09-22",
+   "official": true
+  },
+  "S9": {
+   "title": { "en": "Constable (Executive) 2025 revised vacancies (25 Feb 2026)", "hi": "कांस्टेबल (कार्यकारी) 2025 की संशोधित रिक्तियाँ (25 फरवरी 2026)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice1_25022026.pdf",
+   "date": "2026-02-25",
+   "official": true
+  }
+ },
+ "dates": [],
+ "sections": [
+  {
+   "id": "pemt",
+   "title": { "en": "Physical test (PE&MT), 2025 notice", "hi": "शारीरिक परीक्षा (PE&MT), 2025 की सूचना" }
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.status",
+   "kind": "other",
+   "label": { "en": "Is the 2026 notification out?", "hi": "क्या 2026 की अधिसूचना जारी हुई?" },
+   "value": "NO. As of 07.11.2026 no Notice of Examination for the 2026 cycle exists on ssc.gov.in. Three independent official checks confirm this (notice board, exam calendar, examination master data). See 'verification'.",
+   "verified": true,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.calendar",
+   "kind": "other",
+   "label": { "en": "Any official 2026 date?", "hi": "2026 की कोई आधिकारिक तिथि?" },
+   "value": "NONE — the examination is absent from the calendar. The only Delhi Police entry in the 2026 calendar is 'Sub-Inspector in Delhi Police & Central Armed Police Forces Examination, 2026' (advertisement window 31.05.2026–30.06.2026, Paper-I (CBE) October–November 2026), which is a different examination.",
+   "verified": true,
+   "source": "S2"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.vacancies-2025",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies (2025 notice)", "hi": "रिक्तियाँ (2025 की सूचना)" },
+   "value": "7565 at notification (22.09.2025), revised to 7201 on 25.02.2026.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.age",
+   "kind": "age",
+   "label": { "en": "Age limit (2025 notice)", "hi": "आयु सीमा (2025 की सूचना)" },
+   "value": "18–25 years as on 01.07.2025; candidates should not have been born earlier than 02.07.2000 and later than 01.07.2007.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.age-relaxation",
+   "kind": "age",
+   "label": { "en": "Age relaxation (2025 notice)", "hi": "आयु में छूट (2025 की सूचना)" },
+   "value": "SC/ST 5 years; OBC 3 years; sportspersons of distinction 5 years (10 years for SC/ST); Delhi Police departmental candidates with at least 3 years' regular continuous service — up to 40 years (UR/EWS), 43 years (OBC), 45 years (SC/ST); sons/daughters of serving, retired or deceased Delhi Police personnel/ Multi-Tasking Staff — up to 29 years; Ex-servicemen — 3 years (UR/EWS), 6 years (OBC), 8 years (SC/ST) after deduction of military service rendered; widows/divorced/judicially separated women who have not re-married — 5 years.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.qualification",
+   "kind": "qualification",
+   "label": { "en": "Qualification (2025 notice)", "hi": "योग्यता (2025 की सूचना)" },
+   "value": "10+2 (Senior Secondary) passed from a recognised Board; relaxable to 11th pass for (a) sons/daughters of serving, retired or deceased Delhi Police personnel/ Multi-Tasking Staff of Delhi Police and (b) Bandsmen, buglers, mounted constables, drivers, dispatch riders, etc. of Delhi Police only.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.driving-licence",
+   "kind": "qualification",
+   "label": { "en": "Driving licence (male candidates) (2025 notice)", "hi": "ड्राइविंग लाइसेंस (पुरुष उम्मीदवार) (2025 की सूचना)" },
+   "value": "Male candidates must possess a valid driving licence for LMV (motorcycle or car) as on the date of the PE&MT; a learner licence is not acceptable.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.pwbd",
+   "kind": "other",
+   "label": { "en": "Persons with disabilities (2025 notice)", "hi": "दिव्यांग उम्मीदवार (2025 की सूचना)" },
+   "value": "The post is not identified as suitable for Persons with Benchmark Disabilities (PwBD).",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.pay",
+   "kind": "pay",
+   "label": { "en": "Pay (2025 notice)", "hi": "वेतन (2025 की सूचना)" },
+   "value": "Pay Level-3 (INR 21,700–69,100/-), Group 'C'.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.fee",
+   "kind": "fee",
+   "label": { "en": "Application fee (2025 notice)", "hi": "आवेदन शुल्क (2025 की सूचना)" },
+   "value": "INR 100 (Rupees One Hundred only). Women candidates and candidates belonging to SC, ST and Ex-servicemen eligible for reservation are exempted. Payment online only through BHIM UPI, Net Banking, or Visa/Mastercard/Maestro/RuPay debit cards. Fee is non-refundable and non-adjustable.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.stages",
+   "kind": "stages",
+   "label": { "en": "Stages (2025 notice)", "hi": "चरण (2025 की सूचना)" },
+   "value": "Computer Based Examination (CBE), then Physical Endurance and Measurement Test (PE&MT) with Document Verification, then Medical Examination. PE&MT is essential but qualifying in nature; PE&MT/ DV are conducted by the Delhi Police in Delhi only.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.qualifying-marks",
+   "kind": "other",
+   "label": { "en": "Minimum qualifying marks (CBE) (2025 notice)", "hi": "न्यूनतम अर्हक अंक (CBE) (2025 की सूचना)" },
+   "value": "Unreserved 35; SC/ST/OBC/EWS 30; ESM 25 (normalised, without adding NCC bonus marks).",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.shortlisting",
+   "kind": "other",
+   "label": { "en": "Shortlisting for PE&MT (2025 notice)", "hi": "PE&MT के लिए शॉर्टलिस्टिंग (2025 की सूचना)" },
+   "value": "Candidates are shortlisted category-wise on the basis of merit in the CBE; the number shortlisted is around 12 times the number of vacancies.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.bonus-ncc",
+   "kind": "other",
+   "label": { "en": "Bonus marks, NCC (2025 notice)", "hi": "बोनस अंक, NCC (2025 की सूचना)" },
+   "value": "NCC 'C' certificate: 5% of the maximum marks of the examination; 'B' certificate: 3%; 'A' certificate: 2%. Granted only on production of the original certificate at PE&MT/ DV; not available to Ex-servicemen; crucial date is the closing date for receipt of the Online Application Form.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.bonus-rru",
+   "kind": "other",
+   "label": { "en": "Bonus marks, Rashtriya Raksha University (2025 notice)", "hi": "बोनस अंक, राष्ट्रीय रक्षा विश्वविद्यालय (2025 की सूचना)" },
+   "value": "Distinction 5%, First Class 4%, Second Class 3%, Pass Class 2% of the maximum marks of the examination, on production of the original certificate at PE&MT/ DV; crucial date is the closing date for receipt of the Online Application Form.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.tie-break",
+   "kind": "other",
+   "label": { "en": "Tie-break (2025 notice)", "hi": "अंक बराबर होने पर (2025 की सूचना)" },
+   "value": "Marks in Part-A, then marks in Part-B, then date of birth (older candidate placed higher), then alphabetical order of names.",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.measurement-male",
+   "kind": "other",
+   "label": { "en": "Physical measurement, male (2025 notice)", "hi": "शारीरिक माप, पुरुष (2025 की सूचना)" },
+   "value": "Height minimum 170 cm — relaxable by 5 cm for residents of hill areas (Garhwalis, Kumaonis, Gorkhas, Dogras, Marathas and candidates belonging to Sikkim, Nagaland, Arunachal Pradesh, Manipur, Tripura, Mizoram, Meghalaya, Assam, Himachal Pradesh, Jammu & Kashmir and Leh & Ladakh), 5 cm for ST candidates and 5 cm for sons of serving/ retired/ deceased Delhi Police personnel/ Multi-Tasking Staff. Chest 81 cm with a minimum 4 cm expansion (81–85 cm), with the same relaxations.",
+   "section": "pemt",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.measurement-female",
+   "kind": "other",
+   "label": { "en": "Physical measurement, female (2025 notice)", "hi": "शारीरिक माप, महिला (2025 की सूचना)" },
+   "value": "Height minimum 157 cm — relaxable by 2 cm for residents of hill areas (same list as above), 2 cm for SC/ ST candidates and 5 cm for daughters of serving/ retired/ deceased Delhi Police personnel/ Multi-Tasking Staff of Delhi Police.",
+   "section": "pemt",
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.medical",
+   "kind": "other",
+   "label": { "en": "Medical standard (2025 notice)", "hi": "चिकित्सा मानक (2025 की सूचना)" },
+   "value": "Sound state of health, free from defect/ deformity/ disease; vision 6/12 without glasses in both eyes, free from colour blindness and without any correction such as glasses or surgery of any kind to improve visual acuity; no relaxation is permissible to any category on this count. Tattoos permitted only if they depict religious symbols or figures and names as followed in the Indian Army, are on traditional sites (inner aspect of the left forearm or dorsum of the hands), and are less than one-quarter of the size of that part of the body.",
+   "section": "pemt",
+   "verified": false,
+   "source": "S5"
+  }
+ ],
+ "notices": [],
+ "tables": [
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.vacancies",
+   "title": { "en": "Vacancies in the 2025 notice (reference)", "hi": "2025 की सूचना की रिक्तियाँ (संदर्भ)" },
+   "head": [
+    { "en": "Group", "hi": "वर्ग" },
+    { "en": "UR", "hi": "UR" },
+    { "en": "EWS", "hi": "EWS" },
+    { "en": "OBC", "hi": "OBC" },
+    { "en": "SC", "hi": "SC" },
+    { "en": "ST", "hi": "ST" },
+    { "en": "Total", "hi": "कुल" }
+   ],
+   "rows": [
+    [
+     { "en": "At notification (22 Sep 2025): Constable (Exe.) male", "hi": "अधिसूचना पर (22 सितंबर 2025): कांस्टेबल (कार्यकारी) पुरुष" },
+     1914,
+     456,
+     967,
+     729,
+     342,
+     4408
+    ],
+    [
+     { "en": "At notification (22 Sep 2025): Male ex-servicemen (others)", "hi": "अधिसूचना पर (22 सितंबर 2025): पुरुष पूर्व सैनिक (अन्य)" },
+     107,
+     26,
+     54,
+     62,
+     36,
+     285
+    ],
+    [
+     { "en": "At notification (22 Sep 2025): Male ex-servicemen (commando)", "hi": "अधिसूचना पर (22 सितंबर 2025): पुरुष पूर्व सैनिक (कमांडो)" },
+     106,
+     25,
+     56,
+     138,
+     51,
+     376
+    ],
+    [
+     { "en": "At notification (22 Sep 2025): Constable (Exe.) female", "hi": "अधिसूचना पर (22 सितंबर 2025): कांस्टेबल (कार्यकारी) महिला" },
+     1047,
+     249,
+     531,
+     457,
+     212,
+     2496
+    ],
+    [
+     { "en": "At notification (22 Sep 2025): Grand total", "hi": "अधिसूचना पर (22 सितंबर 2025): कुल योग" },
+     3174,
+     756,
+     1608,
+     1386,
+     641,
+     7565
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Constable (Exe.) male", "hi": "संशोधित (25 फरवरी 2026): कांस्टेबल (कार्यकारी) पुरुष" },
+     1733,
+     434,
+     956,
+     729,
+     337,
+     4189
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Male ex-servicemen (others)", "hi": "संशोधित (25 फरवरी 2026): पुरुष पूर्व सैनिक (अन्य)" },
+     96,
+     24,
+     53,
+     62,
+     36,
+     271
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Male ex-servicemen (commando)", "hi": "संशोधित (25 फरवरी 2026): पुरुष पूर्व सैनिक (कमांडो)" },
+     96,
+     24,
+     56,
+     138,
+     51,
+     365
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Total male", "hi": "संशोधित (25 फरवरी 2026): कुल पुरुष" },
+     1925,
+     482,
+     1065,
+     929,
+     424,
+     4825
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Constable (Exe.) female", "hi": "संशोधित (25 फरवरी 2026): कांस्टेबल (कार्यकारी) महिला" },
+     948,
+     238,
+     525,
+     457,
+     208,
+     2376
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Grand total", "hi": "संशोधित (25 फरवरी 2026): कुल योग" },
+     2873,
+     720,
+     1590,
+     1386,
+     632,
+     7201
+    ]
+   ],
+   "note": { "en": "2025 vacancies, not 2026 figures. SSC publishes the vacancies as reported by Delhi Police. Revised figures include backlog vacancies.", "hi": "2025 की रिक्तियाँ, 2026 के आँकड़े नहीं। SSC रिक्तियाँ वैसे ही छापता है जैसी दिल्ली पुलिस बताती है। संशोधित आँकड़ों में बैकलॉग रिक्तियाँ शामिल हैं।" },
+   "verified": false,
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.pemt-endurance",
+   "title": { "en": "Physical Endurance Test, 2025 notice (reference)", "hi": "शारीरिक सहनशक्ति परीक्षा, 2025 की सूचना (संदर्भ)" },
+   "head": [
+    { "en": "Candidate", "hi": "उम्मीदवार" },
+    { "en": "Race", "hi": "दौड़" },
+    { "en": "Long jump", "hi": "लंबी कूद" },
+    { "en": "High jump", "hi": "ऊँची कूद" }
+   ],
+   "rows": [
+    [
+     { "en": "Male, up to 30 years", "hi": "पुरुष, 30 वर्ष तक" },
+     "1600 m in 6 minutes",
+     "14 feet",
+     "3'9\""
+    ],
+    [
+     { "en": "Male, above 30 to 40 years", "hi": "पुरुष, 30 से 40 वर्ष" },
+     "1600 m in 7 minutes",
+     "13 feet",
+     "3'6\""
+    ],
+    [
+     { "en": "Male, above 40 years", "hi": "पुरुष, 40 वर्ष से अधिक" },
+     "1600 m in 8 minutes",
+     "12 feet",
+     "3'3\""
+    ],
+    [
+     { "en": "Female, up to 30 years", "hi": "महिला, 30 वर्ष तक" },
+     "1600 m in 8 minutes",
+     "10 feet",
+     "3'"
+    ],
+    [
+     { "en": "Female, above 30 to 40 years", "hi": "महिला, 30 से 40 वर्ष" },
+     "1600 m in 9 minutes",
+     "9 feet",
+     "2'9\""
+    ],
+    [
+     { "en": "Female, above 40 years", "hi": "महिला, 40 वर्ष से अधिक" },
+     "1600 m in 10 minutes",
+     "8 feet",
+     "2'6\""
+    ]
+   ],
+   "note": { "en": "Only candidates who qualify the race attempt the long jump, then the high jump. Each jump must be cleared in one of three chances.", "hi": "केवल दौड़ में सफल उम्मीदवार लंबी कूद और फिर ऊँची कूद देते हैं। हर कूद तीन मौकों में से किसी एक में पार करनी होती है।" },
+   "verified": false,
+   "source": "S5"
+  }
+ ],
+ "pattern": [
+  {
+   "title": { "en": "Computer based exam, 2025 pattern (reference)", "hi": "कंप्यूटर आधारित परीक्षा, 2025 का पैटर्न (संदर्भ)" },
+   "rows": [
+    {
+     "section": { "en": "Part A: General Knowledge/ Current Affairs", "hi": "भाग A: सामान्य ज्ञान / समसामयिकी" },
+     "questions": 50,
+     "marks": 50
+    },
+    {
+     "section": { "en": "Part B: Reasoning", "hi": "भाग B: तर्कशक्ति" },
+     "questions": 25,
+     "marks": 25
+    },
+    {
+     "section": { "en": "Part C: Numerical Ability", "hi": "भाग C: संख्यात्मक योग्यता" },
+     "questions": 15,
+     "marks": 15
+    },
+    {
+     "section": { "en": "Part D: Computer Fundamentals, MS Excel, MS Word, Communication, Internet, WWW and Web Browsers, etc.", "hi": "भाग D: कंप्यूटर की बुनियादी बातें, MS Excel, MS Word, संचार, इंटरनेट, WWW और वेब ब्राउज़र आदि" },
+     "questions": 10,
+     "marks": 10
+    }
+   ],
+   "minutes": 90,
+   "notes": [
+    { "en": "One objective multiple-choice paper. 0.25 mark is cut for each wrong answer.", "hi": "एक वस्तुनिष्ठ बहुविकल्पीय प्रश्नपत्र। हर गलत उत्तर पर 0.25 अंक कटेगा।" },
+    { "en": "In English and Hindi only, Matriculation level.", "hi": "केवल अंग्रेज़ी और हिंदी में, मैट्रिकुलेशन स्तर।" },
+    { "en": "Scores from several shifts are normalised as per SSC's notice of 2 June 2025.", "hi": "कई शिफ्टों के अंक SSC की 2 जून 2025 की सूचना के अनुसार नॉर्मलाइज़ होते हैं।" },
+    { "en": "This is the 2025 pattern. SSC has not published the 2026 notice.", "hi": "यह 2025 का पैटर्न है। SSC ने 2026 की सूचना जारी नहीं की है।" }
+   ],
+   "source": "S5"
+  }
+ ]
+}

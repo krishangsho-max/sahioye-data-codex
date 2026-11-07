@@ -1,0 +1,209 @@
+{
+ "version": 1,
+ "id": "ssc-cgl-2026",
+ "exam": "ssc-cgl",
+ "year": 2026,
+ "name": { "en": "SSC CGL 2026", "hi": "SSC CGL 2026" },
+ "lead": { "en": "Syllabus, pattern, dates, eligibility and cut-offs. Always confirm with the official notice.", "hi": "पाठ्यक्रम, पैटर्न, तिथियाँ, पात्रता और कट-ऑफ। हमेशा आधिकारिक सूचना से पुष्टि करें।" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "N1": {
+   "title": { "en": "CGL 2026 notification", "hi": "CGL 2026 अधिसूचना" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf",
+   "date": "2026-05-21",
+   "official": true
+  },
+  "N2": {
+   "title": { "en": "Application window reopened", "hi": "आवेदन विंडो फिर खुली" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/CGLE_Reopen_23062026.pdf",
+   "date": "2026-06-23",
+   "official": true
+  },
+  "N3": {
+   "title": { "en": "Tier 1 exam schedule", "hi": "टियर 1 परीक्षा कार्यक्रम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important%20Notice%202026_cgle_2026_12092026.pdf",
+   "date": "2026-09-12",
+   "official": true
+  },
+  "N4": {
+   "title": { "en": "Tentative vacancies (as on 24 Sep 2026)", "hi": "अस्थायी रिक्तियाँ (24 सितंबर 2026 तक)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Tentative_vacancy_CGLE2026_24092026.pdf",
+   "date": "2026-09-24",
+   "official": true
+  },
+  "N5": {
+   "title": { "en": "Tier 1 tentative answer key", "hi": "टियर 1 अस्थायी उत्तर कुंजी" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_04112026.pdf",
+   "date": "2026-11-04",
+   "official": true
+  },
+  "N6": {
+   "title": { "en": "Tier 1 exam city and admit card", "hi": "टियर 1 परीक्षा शहर और प्रवेश पत्र" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/cgle_2026_city_live_21092026.pdf",
+   "date": "2026-09-21",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-cgl-2026.notification",
+   "kind": "notification",
+   "label": { "en": "Notification", "hi": "अधिसूचना" },
+   "start": "2026-05-21",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cgl-2026.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Online application starts", "hi": "ऑनलाइन आवेदन शुरू" },
+   "start": "2026-05-21",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cgl-2026.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Last date to pay fee", "hi": "शुल्क भुगतान की अंतिम तिथि" },
+   "start": "2026-06-23",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cgl-2026.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last date to apply", "hi": "आवेदन की अंतिम तिथि" },
+   "start": "2026-06-25",
+   "verified": true,
+   "source": "N2"
+  },
+  {
+   "id": "ssc-cgl-2026.correction",
+   "kind": "correction",
+   "label": { "en": "Correction window", "hi": "सुधार विंडो" },
+   "start": "2026-06-29",
+   "end": "2026-07-01",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cgl-2026.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2026-09-30",
+   "end": "2026-10-28",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "N5"
+  },
+  {
+   "id": "ssc-cgl-2026.answer-key-tier-1",
+   "kind": "answer-key",
+   "label": { "en": "Tier 1 answer key", "hi": "टियर 1 उत्तर कुंजी" },
+   "start": "2026-11-04",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "N5"
+  },
+  {
+   "id": "ssc-cgl-2026.objection-end-tier-1",
+   "kind": "objection-end",
+   "label": { "en": "Answer key objections close (9 PM)", "hi": "उत्तर कुंजी आपत्ति बंद (रात 9 बजे)" },
+   "start": "2026-11-07",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "N5"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-cgl-2026.vacancies",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies (tentative)", "hi": "रिक्तियाँ (अस्थायी)" },
+   "value": "10,731",
+   "num": 10731,
+   "verified": true,
+   "source": "N4"
+  },
+  {
+   "id": "ssc-cgl-2026.qualification",
+   "kind": "qualification",
+   "label": { "en": "Qualification", "hi": "योग्यता" },
+   "value": { "en": "Graduate", "hi": "स्नातक" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cgl-2026.age",
+   "kind": "age",
+   "label": { "en": "Age limit, by post", "hi": "आयु सीमा, पद अनुसार" },
+   "value": "18–32",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cgl-2026.fee",
+   "kind": "fee",
+   "label": { "en": "Application fee", "hi": "आवेदन शुल्क" },
+   "value": "₹100",
+   "num": 100,
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cgl-2026.stages",
+   "kind": "stages",
+   "label": { "en": "Exam tiers", "hi": "परीक्षा चरण" },
+   "value": "2",
+   "num": 2,
+   "verified": true,
+   "source": "N1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-cgl-2026.notice-n1",
+   "date": "2026-05-21",
+   "type": "notice",
+   "title": { "en": "SSC CGL 2026 notification released", "hi": "SSC CGL 2026 अधिसूचना जारी" },
+   "source": "N1"
+  },
+  {
+   "id": "ssc-cgl-2026.notice-n2",
+   "date": "2026-06-23",
+   "type": "notice",
+   "title": { "en": "Application window reopened till 25 Jun", "hi": "आवेदन विंडो 25 जून तक फिर खुली" },
+   "source": "N2"
+  },
+  {
+   "id": "ssc-cgl-2026.notice-n3",
+   "date": "2026-09-12",
+   "type": "notice",
+   "title": { "en": "Tier 1 exam schedule announced", "hi": "टियर 1 परीक्षा कार्यक्रम घोषित" },
+   "source": "N3"
+  },
+  {
+   "id": "ssc-cgl-2026.notice-n6",
+   "date": "2026-09-21",
+   "type": "admit-card",
+   "title": { "en": "Tier 1 exam city and admit card notice", "hi": "टियर 1 परीक्षा शहर और प्रवेश पत्र सूचना" },
+   "source": "N6"
+  },
+  {
+   "id": "ssc-cgl-2026.notice-n4",
+   "date": "2026-09-24",
+   "type": "notice",
+   "title": { "en": "Tentative vacancy list: 10,731 posts", "hi": "अस्थायी रिक्ति सूची: 10,731 पद" },
+   "source": "N4"
+  },
+  {
+   "id": "ssc-cgl-2026.notice-n5",
+   "date": "2026-11-04",
+   "type": "answer-key",
+   "title": { "en": "Tier 1 tentative answer key released, objections till 7 Nov (9 PM)", "hi": "टियर 1 अस्थायी उत्तर कुंजी जारी, आपत्ति 7 नवंबर (रात 9 बजे) तक" },
+   "source": "N5"
+  }
+ ],
+ "tables": [],
+ "pattern": []
+}

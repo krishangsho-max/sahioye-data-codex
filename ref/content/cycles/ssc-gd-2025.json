@@ -1,0 +1,264 @@
+{
+ "version": 1,
+ "id": "ssc-gd-2025",
+ "exam": "ssc-gd",
+ "year": 2025,
+ "name": { "en": "SSC GD Constable 2025", "hi": "SSC GD Constable 2025" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "S1": {
+   "title": { "en": "SSC GD Constable 2025 on sarkariresult.com", "hi": "SSC GD Constable 2025 on sarkariresult.com" },
+   "url": "https://www.sarkariresult.com/ssc/ssc-gd-constable-2024/",
+   "official": false,
+   "site": "sarkariresult.com"
+  },
+  "L1": {
+   "title": { "en": "Marks", "hi": "Marks" },
+   "url": "https://ssc.gov.in/login",
+   "official": true
+  },
+  "L2": {
+   "title": { "en": "Marks Notice", "hi": "Marks Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Write%20Up_Final%20Marks_CTGD_2025.docx.pdf",
+   "official": true
+  },
+  "L3": {
+   "title": { "en": "Exam City Notice", "hi": "Exam City Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_%20CTGD_25012025.pdf",
+   "official": true
+  },
+  "L4": {
+   "title": { "en": "Exam Schedule", "hi": "Exam Schedule" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Re-scheduling_CT(GD)_Exam,2025_020125.pdf",
+   "official": true
+  },
+  "L5": {
+   "title": { "en": "Exam Notice", "hi": "Exam Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important_Notice_cgl_ctgd_191124.pdf",
+   "official": true
+  },
+  "L6": {
+   "title": { "en": "Correction Notice", "hi": "Correction Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important_Notice_Constable_GD_Examination_2025_01112025.pdf",
+   "official": true
+  },
+  "L7": {
+   "title": { "en": "State Wise Vacancy Details", "hi": "State Wise Vacancy Details" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Tentative%20Vacancy%20_CT%20(GD)%20Exam%202025.pdf",
+   "official": true
+  },
+  "A1": {
+   "title": { "en": "Constable GD Examination notice", "hi": "कांस्टेबल जीडी परीक्षा सूचना" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_CTGD_2024_09_05.pdf",
+   "date": "2024-09-05",
+   "official": true
+  },
+  "A2": {
+   "title": { "en": "Tentative answer keys and response sheets", "hi": "अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Write%20UP%20CTGD_2025%20Tentative%20Anser%20Keys_4325.pdf",
+   "date": "2025-03-04",
+   "official": true
+  },
+  "A3": {
+   "title": { "en": "Computer-based examination result and PET/PST cut-offs", "hi": "कंप्यूटर आधारित परीक्षा परिणाम और पीईटी/पीएसटी कट-ऑफ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Writeup_17062025_4.pdf",
+   "date": "2025-06-17",
+   "official": true
+  },
+  "A4": {
+   "title": { "en": "Final result and cut-offs", "hi": "अंतिम परिणाम और कट-ऑफ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Final%20Result_CTGD2025_Write-up_15012026.pdf",
+   "date": "2026-01-15",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-gd-2025.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Application Begin", "hi": "Application Begin" },
+   "start": "2024-09-05",
+   "raw": "05/09/2024",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
+   "start": "2024-10-14",
+   "raw": "14/10/2024 upto 11 PM",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Pay Exam Fee Last Date", "hi": "Pay Exam Fee Last Date" },
+   "start": "2024-10-15",
+   "raw": "15/10/2024",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.correction",
+   "kind": "correction",
+   "label": { "en": "Correction Date", "hi": "Correction Date" },
+   "start": "2024-11-05",
+   "end": "2024-11-07",
+   "raw": "05-07 November 2024",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.exam",
+   "kind": "exam",
+   "label": { "en": "Exam Date CBT", "hi": "Exam Date CBT" },
+   "start": "2025-02-04",
+   "end": "2025-02-25",
+   "raw": "04-25 February 2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.city-slip",
+   "kind": "city-slip",
+   "label": { "en": "Exam City Available", "hi": "Exam City Available" },
+   "start": "2025-01-25",
+   "raw": "25/01/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.admit-card",
+   "kind": "admit-card",
+   "label": { "en": "Admit Card Available", "hi": "Admit Card Available" },
+   "raw": "Before Exam",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.answer-key",
+   "kind": "answer-key",
+   "label": { "en": "Answer Key Available", "hi": "Answer Key Available" },
+   "raw": "After Exam",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.result",
+   "kind": "result",
+   "label": { "en": "Result Available", "hi": "Result Available" },
+   "raw": "After Exam",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.marks",
+   "kind": "marks",
+   "label": { "en": "Marks Available", "hi": "Marks Available" },
+   "start": "2026-02-17",
+   "raw": "17/02/2026",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-gd-2025.vacancies",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "value": "53,690",
+   "num": 53690,
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.fee-1",
+   "kind": "fee",
+   "label": { "en": "General / OBC / EWS", "hi": "General / OBC / EWS" },
+   "value": "100/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.fee-2",
+   "kind": "fee",
+   "label": { "en": "SC / ST", "hi": "SC / ST" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.fee-3",
+   "kind": "fee",
+   "label": { "en": "All Category Female", "hi": "All Category Female" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.age-as-on",
+   "kind": "age",
+   "label": { "en": "Age counted on", "hi": "आयु की गणना तिथि" },
+   "value": { "en": "1 Jan 2025", "hi": "1 जनवरी 2025" },
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.age-1",
+   "kind": "age",
+   "label": { "en": "Minimum Age", "hi": "Minimum Age" },
+   "value": "18 Years.",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-gd-2025.age-2",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "23 Years.",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-gd-2025.notice-a1",
+   "date": "2024-09-05",
+   "type": "notice",
+   "title": { "en": "Constable GD Examination notice", "hi": "कांस्टेबल जीडी परीक्षा सूचना" },
+   "source": "A1"
+  },
+  {
+   "id": "ssc-gd-2025.notice-l3",
+   "date": "2025-01-25",
+   "type": "admit-card",
+   "title": { "en": "Examination city and admission certificate", "hi": "परीक्षा शहर और प्रवेश प्रमाणपत्र" },
+   "source": "L3"
+  },
+  {
+   "id": "ssc-gd-2025.notice-a2",
+   "date": "2025-03-04",
+   "type": "answer-key",
+   "title": { "en": "Tentative answer keys and response sheets", "hi": "अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "source": "A2"
+  },
+  {
+   "id": "ssc-gd-2025.notice-a3",
+   "date": "2025-06-17",
+   "type": "result",
+   "title": { "en": "Computer-based examination result and PET/PST cut-offs", "hi": "कंप्यूटर आधारित परीक्षा परिणाम और पीईटी/पीएसटी कट-ऑफ" },
+   "source": "A3"
+  },
+  {
+   "id": "ssc-gd-2025.notice-a4",
+   "date": "2026-01-15",
+   "type": "result",
+   "title": { "en": "Final result and cut-offs", "hi": "अंतिम परिणाम और कट-ऑफ" },
+   "source": "A4"
+  }
+ ],
+ "tables": [],
+ "pattern": []
+}

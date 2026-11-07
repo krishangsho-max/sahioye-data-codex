@@ -1,0 +1,274 @@
+{
+ "version": 1,
+ "id": "ssc-selection-post-13",
+ "exam": "ssc-selection-post",
+ "year": 2025,
+ "name": { "en": "SSC Selection Post Phase 13 (2025)", "hi": "SSC Selection Post Phase 13 (2025)" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "S1": {
+   "title": { "en": "SSC Selection Post Phase 13 (2025) on sarkariresult.com", "hi": "SSC Selection Post Phase 13 (2025) on sarkariresult.com" },
+   "url": "https://www.sarkariresult.com/ssc/ssc-selection-post-13th-2025/",
+   "official": false,
+   "site": "sarkariresult.com"
+  },
+  "L1": {
+   "title": { "en": "Final Answer Key (Notice)", "hi": "Final Answer Key (Notice)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_20032026.pdf",
+   "official": true
+  },
+  "L2": {
+   "title": { "en": "Result (Matric)", "hi": "Result (Matric)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Result_MAT_05022026.pdf",
+   "official": true
+  },
+  "L3": {
+   "title": { "en": "Result (Higher Secondary 10+2)", "hi": "Result (Higher Secondary 10+2)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Result_HS_05022026.pdf",
+   "official": true
+  },
+  "L4": {
+   "title": { "en": "Result (Graduation)", "hi": "Result (Graduation)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Result_GRD_05022026.pdf",
+   "official": true
+  },
+  "L5": {
+   "title": { "en": "Result Notice / Cutoff (Matric)", "hi": "Result Notice / Cutoff (Matric)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Writeup_Matriculation_05022026.pdf",
+   "official": true
+  },
+  "L6": {
+   "title": { "en": "Result Notice / Cutoff (Higher Secondary 10+2)", "hi": "Result Notice / Cutoff (Higher Secondary 10+2)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Writeup_HigherSecondary_05022026.pdf",
+   "official": true
+  },
+  "L7": {
+   "title": { "en": "Result Notice / Cutoff (Graduation)", "hi": "Result Notice / Cutoff (Graduation)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Writeup_Graduation_05022026.pdf",
+   "official": true
+  },
+  "L8": {
+   "title": { "en": "with Held Result (Matric)", "hi": "with Held Result (Matric)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/ROLWH_10_05022026.pdf",
+   "official": true
+  },
+  "L9": {
+   "title": { "en": "with Held Result (Higher Secondary 10+2)", "hi": "with Held Result (Higher Secondary 10+2)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/ROLWH_12_05022026.pdf",
+   "official": true
+  },
+  "L10": {
+   "title": { "en": "with Held Result (Graduation)", "hi": "with Held Result (Graduation)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/ROLWH_GR_05022026.pdf",
+   "official": true
+  },
+  "L11": {
+   "title": { "en": "Region / Post Wise Vacancy Details", "hi": "Region / Post Wise Vacancy Details" },
+   "url": "https://ssc.gov.in/rhq-selection-post/rhq-post-details",
+   "official": true
+  },
+  "A1": {
+   "title": { "en": "Phase XIII Selection Posts advertisement", "hi": "चरण XIII चयन पद विज्ञापन" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_RHQ_2025_phase_xiii.pdf",
+   "date": "2025-06-02",
+   "official": true
+  },
+  "A2": {
+   "title": { "en": "Phase XIII tentative answer keys and response sheets", "hi": "चरण XIII अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Write_up_Tentative_Answer_Key_Phase-XIII_2025_Selection_Posts_26092025.pdf",
+   "date": "2025-09-26",
+   "official": true
+  },
+  "A3": {
+   "title": { "en": "Phase XIII matriculation-level result and cut-offs", "hi": "चरण XIII मैट्रिक स्तर परिणाम और कट-ऑफ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Writeup_Matriculation_05022026.pdf",
+   "date": "2026-02-05",
+   "official": true
+  },
+  "A4": {
+   "title": { "en": "Phase XIII higher-secondary-level result and cut-offs", "hi": "चरण XIII उच्चतर माध्यमिक स्तर परिणाम और कट-ऑफ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Writeup_HigherSecondary_05022026.pdf",
+   "date": "2026-02-05",
+   "official": true
+  },
+  "A5": {
+   "title": { "en": "Phase XIII graduation-and-above-level result and cut-offs", "hi": "चरण XIII स्नातक एवं उच्चतर स्तर परिणाम और कट-ऑफ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Writeup_Graduation_05022026.pdf",
+   "date": "2026-02-05",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-selection-post-13.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Application Begin", "hi": "Application Begin" },
+   "start": "2025-06-02",
+   "raw": "02/06/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
+   "start": "2025-06-23",
+   "raw": "23/06/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Last Date Pay Exam Fee", "hi": "Last Date Pay Exam Fee" },
+   "start": "2025-06-24",
+   "raw": "24/06/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.correction",
+   "kind": "correction",
+   "label": { "en": "Correction Date", "hi": "Correction Date" },
+   "start": "2025-06-28",
+   "end": "2025-06-30",
+   "raw": "28-30 June 2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.exam",
+   "kind": "exam",
+   "label": { "en": "SSC Selection Post 13th Exam Date", "hi": "SSC Selection Post 13th Exam Date" },
+   "start": "2025-07-24",
+   "end": "2025-08-04",
+   "raw": "24/07/2025 to 04/08/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.admit-card",
+   "kind": "admit-card",
+   "label": { "en": "Admit Card Available", "hi": "Admit Card Available" },
+   "raw": "Before Exam",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.result",
+   "kind": "result",
+   "label": { "en": "Result Available", "hi": "Result Available" },
+   "start": "2026-02-05",
+   "raw": "05/02/2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.final-answer-key",
+   "kind": "final-answer-key",
+   "label": { "en": "Final Answer Key Available", "hi": "Final Answer Key Available" },
+   "start": "2026-03-20",
+   "raw": "20/03/2026",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-selection-post-13.vacancies",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "value": "2,423",
+   "num": 2423,
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.fee-1",
+   "kind": "fee",
+   "label": { "en": "Gen / EWS / OBC", "hi": "Gen / EWS / OBC" },
+   "value": "100/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.fee-2",
+   "kind": "fee",
+   "label": { "en": "SC / ST / PH", "hi": "SC / ST / PH" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.fee-3",
+   "kind": "fee",
+   "label": { "en": "All Category Female", "hi": "All Category Female" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.age-as-on",
+   "kind": "age",
+   "label": { "en": "Age counted on", "hi": "आयु की गणना तिथि" },
+   "value": { "en": "1 Aug 2025", "hi": "1 अगस्त 2025" },
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.age-1",
+   "kind": "age",
+   "label": { "en": "Minimum Age", "hi": "Minimum Age" },
+   "value": "18 Years.",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-selection-post-13.age-2",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "30 Years. (Post Wise)",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-selection-post-13.notice-a1",
+   "date": "2025-06-02",
+   "type": "notice",
+   "title": { "en": "Phase XIII Selection Posts advertisement", "hi": "चरण XIII चयन पद विज्ञापन" },
+   "source": "A1"
+  },
+  {
+   "id": "ssc-selection-post-13.notice-a2",
+   "date": "2025-09-26",
+   "type": "answer-key",
+   "title": { "en": "Phase XIII tentative answer keys and response sheets", "hi": "चरण XIII अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "source": "A2"
+  },
+  {
+   "id": "ssc-selection-post-13.notice-a3",
+   "date": "2026-02-05",
+   "type": "result",
+   "title": { "en": "Phase XIII matriculation-level result and cut-offs", "hi": "चरण XIII मैट्रिक स्तर परिणाम और कट-ऑफ" },
+   "source": "A3"
+  },
+  {
+   "id": "ssc-selection-post-13.notice-a4",
+   "date": "2026-02-05",
+   "type": "result",
+   "title": { "en": "Phase XIII higher-secondary-level result and cut-offs", "hi": "चरण XIII उच्चतर माध्यमिक स्तर परिणाम और कट-ऑफ" },
+   "source": "A4"
+  },
+  {
+   "id": "ssc-selection-post-13.notice-a5",
+   "date": "2026-02-05",
+   "type": "result",
+   "title": { "en": "Phase XIII graduation-and-above-level result and cut-offs", "hi": "चरण XIII स्नातक एवं उच्चतर स्तर परिणाम और कट-ऑफ" },
+   "source": "A5"
+  }
+ ],
+ "tables": [],
+ "pattern": []
+}

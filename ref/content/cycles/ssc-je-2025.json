@@ -1,0 +1,348 @@
+{
+ "version": 1,
+ "id": "ssc-je-2025",
+ "exam": "ssc-je",
+ "year": 2025,
+ "name": { "en": "SSC JE 2025", "hi": "SSC JE 2025" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "S1": {
+   "title": { "en": "SSC JE 2025 on sarkariresult.com", "hi": "SSC JE 2025 on sarkariresult.com" },
+   "url": "https://www.sarkariresult.com/ssc/ssc-junior-engineer-je-2025/",
+   "official": false,
+   "site": "sarkariresult.com"
+  },
+  "L1": {
+   "title": { "en": "Paper II Marks", "hi": "Paper II Marks" },
+   "url": "https://ssc.gov.in/login",
+   "official": true
+  },
+  "L2": {
+   "title": { "en": "Paper II Marks & Final Answer Key Notice", "hi": "Paper II Marks & Final Answer Key Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Final_Answer_Key_21082026.pdf",
+   "official": true
+  },
+  "L3": {
+   "title": { "en": "Final Result (Cutoff)", "hi": "Final Result (Cutoff)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_03082026.pdf",
+   "official": true
+  },
+  "L4": {
+   "title": { "en": "Final Result (Result)", "hi": "Final Result (Result)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/result_03082026.pdf",
+   "official": true
+  },
+  "L5": {
+   "title": { "en": "Result", "hi": "Result" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/ROLL_09072026.pdf",
+   "official": true
+  },
+  "L6": {
+   "title": { "en": "Cutoff", "hi": "Cutoff" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_je_09072026.pdf",
+   "official": true
+  },
+  "L7": {
+   "title": { "en": "JE Final Vacancy", "hi": "JE Final Vacancy" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/JE2025_FINAL_VACANCY_24062026.pdf",
+   "official": true
+  },
+  "L8": {
+   "title": { "en": "Paper II Answer Key Notice", "hi": "Paper II Answer Key Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/tentative_answer_key_16042026.pdf",
+   "official": true
+  },
+  "L9": {
+   "title": { "en": "Paper I Marks & Final Answer Key Notice", "hi": "Paper I Marks & Final Answer Key Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_23032026.pdf",
+   "official": true
+  },
+  "L10": {
+   "title": { "en": "Paper II Exam City Notice", "hi": "Paper II Exam City Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_23032026.pdf",
+   "official": true
+  },
+  "L11": {
+   "title": { "en": "Paper II Exam Date", "hi": "Paper II Exam Date" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_09032026.pdf",
+   "official": true
+  },
+  "L12": {
+   "title": { "en": "Paper I Result (List 1)", "hi": "Paper I Result (List 1)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_1_06032026.pdf",
+   "official": true
+  },
+  "L13": {
+   "title": { "en": "Paper I Result (List 2)", "hi": "Paper I Result (List 2)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_2_06032026.pdf",
+   "official": true
+  },
+  "L14": {
+   "title": { "en": "Paper I Cutoff", "hi": "Paper I Cutoff" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Writeup_06032026.pdf",
+   "official": true
+  },
+  "L15": {
+   "title": { "en": "Tentative Vacancy Details", "hi": "Tentative Vacancy Details" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/tentative_vacancy_26022026.pdf",
+   "official": true
+  },
+  "L16": {
+   "title": { "en": "Answer Key Notice", "hi": "Answer Key Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/je2025_19122025.pdf",
+   "official": true
+  },
+  "L17": {
+   "title": { "en": "Self Slot Booking Notice", "hi": "Self Slot Booking Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Self_Slot_Notice_07112025.pdf",
+   "official": true
+  },
+  "L18": {
+   "title": { "en": "Exam Notice", "hi": "Exam Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_10112025.pdf",
+   "official": true
+  },
+  "A1": {
+   "title": { "en": "Paper-I result and cut-offs", "hi": "पेपर-I परिणाम और कट-ऑफ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Writeup_06032026.pdf",
+   "date": "2026-03-06",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-je-2025.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Application Begin", "hi": "Application Begin" },
+   "start": "2025-06-30",
+   "raw": "30/06/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
+   "start": "2025-07-21",
+   "raw": "21/07/2025 Upto 11:00 PM Only",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Last Date for Pay Exam Fee (Online)", "hi": "Last Date for Pay Exam Fee (Online)" },
+   "start": "2025-07-22",
+   "raw": "22/07/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.correction",
+   "kind": "correction",
+   "label": { "en": "Correction Date", "hi": "Correction Date" },
+   "start": "2025-08-01",
+   "end": "2025-08-12",
+   "raw": "01-12 August 2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.other",
+   "kind": "other",
+   "label": { "en": "Self Slot Booking", "hi": "Self Slot Booking" },
+   "start": "2025-11-10",
+   "end": "2025-11-25",
+   "raw": "10-25 November 2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Exam Date Tier I", "hi": "Exam Date Tier I" },
+   "start": "2025-12-03",
+   "end": "2025-12-06",
+   "raw": "03 to 06 December 2025",
+   "tier": "tier-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.city-slip",
+   "kind": "city-slip",
+   "label": { "en": "Exam City Available", "hi": "Exam City Available" },
+   "start": "2025-11-26",
+   "raw": "26/11/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.answer-key",
+   "kind": "answer-key",
+   "label": { "en": "Answer Key Available", "hi": "Answer Key Available" },
+   "start": "2025-12-19",
+   "raw": "19/12/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.result-paper-1",
+   "kind": "result",
+   "label": { "en": "Paper I Result Available", "hi": "Paper I Result Available" },
+   "start": "2026-03-06",
+   "raw": "06/03/2026",
+   "tier": "paper-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.marks-paper-1",
+   "kind": "marks",
+   "label": { "en": "Paper I Marks Available", "hi": "Paper I Marks Available" },
+   "start": "2026-03-23",
+   "raw": "23/03/2026",
+   "tier": "paper-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.exam-tier-2",
+   "kind": "exam",
+   "label": { "en": "Exam Date Tier II", "hi": "Exam Date Tier II" },
+   "start": "2026-04-07",
+   "raw": "07/04/2026",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.city-slip-2",
+   "kind": "city-slip",
+   "label": { "en": "Exam City Available", "hi": "Exam City Available" },
+   "start": "2026-03-27",
+   "raw": "27/03/2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.result",
+   "kind": "result",
+   "label": { "en": "Result Available", "hi": "Result Available" },
+   "start": "2026-07-09",
+   "raw": "09/07/2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.result-2",
+   "kind": "result",
+   "label": { "en": "Final Result Available", "hi": "Final Result Available" },
+   "start": "2026-08-03",
+   "raw": "03/08/2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.final-answer-key-paper-2",
+   "kind": "final-answer-key",
+   "label": { "en": "Paper II Marks & Final Answer Key", "hi": "Paper II Marks & Final Answer Key" },
+   "start": "2026-08-21",
+   "raw": "21/08/2026",
+   "tier": "paper-2",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-je-2025.vacancies",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "value": "1,731",
+   "num": 1731,
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.fee-1",
+   "kind": "fee",
+   "label": { "en": "General / OBC / EWS", "hi": "General / OBC / EWS" },
+   "value": "100/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.fee-2",
+   "kind": "fee",
+   "label": { "en": "SC / ST / PH", "hi": "SC / ST / PH" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.fee-3",
+   "kind": "fee",
+   "label": { "en": "All Category Female", "hi": "All Category Female" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.age-1",
+   "kind": "age",
+   "label": { "en": "Minimum Age", "hi": "Minimum Age" },
+   "value": "18 Years",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.age-2",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "32 Years for CPWD & CWC Post Only",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.age-3",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "30 Years . (All Other Post)",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-je-2025.notice-a1",
+   "date": "2026-03-06",
+   "type": "result",
+   "title": { "en": "Paper-I result and cut-offs", "hi": "पेपर-I परिणाम और कट-ऑफ" },
+   "source": "A1"
+  },
+  {
+   "id": "ssc-je-2025.notice-l6",
+   "date": "2026-07-09",
+   "type": "result",
+   "title": { "en": "First round of tentative allocation", "hi": "अस्थायी आवंटन का प्रथम दौर" },
+   "source": "L6"
+  },
+  {
+   "id": "ssc-je-2025.notice-l3",
+   "date": "2026-08-03",
+   "type": "result",
+   "title": { "en": "Final result", "hi": "अंतिम परिणाम" },
+   "source": "L3"
+  },
+  {
+   "id": "ssc-je-2025.notice-l2",
+   "date": "2026-08-21",
+   "type": "answer-key",
+   "title": { "en": "Paper-II final answer keys and final marks", "hi": "पेपर-II अंतिम उत्तर कुंजी और अंतिम अंक" },
+   "source": "L2"
+  }
+ ],
+ "tables": [],
+ "pattern": []
+}

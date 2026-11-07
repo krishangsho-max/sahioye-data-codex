@@ -1,0 +1,72 @@
+# Checks every data branch and pull request. Synced from sahioye (data-repo/); do not edit here.
+# - Push to a data/** branch: run the check; when it is green and the branch has no pull request,
+#   open one (arena cannot open pull requests itself).
+# - Pull request into main (Codex, Antigravity): run the check.
+name: Data check
+
+on:
+  push:
+    branches: ["data/**"]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: data-check-${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: Data check
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Only cycles/*.json, named after the cycle
+        run: node checks/check-data-pr.mjs --dir cycles --strict --base origin/main
+
+      - name: Format and sources (importer dry run)
+        run: |
+          {
+            echo '### Importer dry run'
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          status=0
+          node checks/import-cycles.mjs --dry --inbox cycles --content ref/content | tee -a "$GITHUB_STEP_SUMMARY" || status=$?
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          exit $status
+
+  open-pr:
+    name: Open the pull request
+    needs: check
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - name: Open a pull request into main if there is none
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          if [ -n "$(gh pr list -R "$REPO" --head "$BRANCH" --state open --json number -q '.[].number')" ]; then
+            echo "A pull request for $BRANCH is already open."
+            exit 0
+          fi
+          title=$(gh api "repos/$REPO/commits/$BRANCH" -q '.commit.message' | head -n 1)
+          gh pr create -R "$REPO" --base main --head "$BRANCH" --title "$title" \
+            --body "Opened by the Data check after a green run on \`$BRANCH\`. Merge only if the check is green."

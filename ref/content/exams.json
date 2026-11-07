@@ -1,0 +1,82 @@
+{
+ "version": 1,
+ "exams": [
+  {
+   "id": "ssc-cgl",
+   "body": "ssc",
+   "name": { "en": "SSC CGL", "hi": "SSC CGL" },
+   "short": { "en": "CGL", "hi": "CGL" },
+   "level": "graduate",
+   "syllabus": "ssc-cgl",
+   "answerKey": "ssc-cgl"
+  },
+  {
+   "id": "ssc-chsl",
+   "body": "ssc",
+   "name": { "en": "SSC CHSL", "hi": "SSC CHSL" },
+   "short": { "en": "CHSL", "hi": "CHSL" },
+   "level": "12th",
+   "syllabus": "ssc-chsl"
+  },
+  {
+   "id": "ssc-cpo",
+   "body": "ssc",
+   "name": { "en": "SSC CPO", "hi": "SSC CPO" },
+   "short": { "en": "CPO", "hi": "CPO" },
+   "level": "graduate",
+   "syllabus": "ssc-cpo"
+  },
+  {
+   "id": "ssc-gd",
+   "body": "ssc",
+   "name": { "en": "SSC GD Constable", "hi": "SSC GD कांस्टेबल" },
+   "short": { "en": "GD", "hi": "GD" },
+   "level": "10th",
+   "syllabus": "ssc-gd"
+  },
+  {
+   "id": "ssc-je",
+   "body": "ssc",
+   "name": { "en": "SSC JE", "hi": "SSC JE" },
+   "short": { "en": "JE", "hi": "JE" },
+   "level": "diploma"
+  },
+  {
+   "id": "ssc-steno",
+   "body": "ssc",
+   "name": { "en": "SSC Stenographer", "hi": "SSC आशुलिपिक" },
+   "short": { "en": "Steno", "hi": "आशुलिपिक" },
+   "level": "12th"
+  },
+  {
+   "id": "ssc-selection-post",
+   "body": "ssc",
+   "name": { "en": "SSC Selection Post", "hi": "SSC सिलेक्शन पोस्ट" },
+   "short": { "en": "Selection Post", "hi": "सिलेक्शन पोस्ट" },
+   "level": "mixed",
+   "syllabus": "ssc-selection-post",
+   "answerKey": "selection-post-phase-14"
+  },
+  {
+   "id": "ssc-mts",
+   "body": "ssc",
+   "name": { "en": "SSC MTS", "hi": "SSC MTS" },
+   "short": { "en": "MTS", "hi": "MTS" },
+   "level": "10th"
+  },
+  {
+   "id": "ssc-jht",
+   "body": "ssc",
+   "name": { "en": "SSC JHT", "hi": "SSC JHT" },
+   "short": { "en": "JHT", "hi": "JHT" },
+   "level": "graduate"
+  },
+  {
+   "id": "ssc-delhi-police",
+   "body": "ssc",
+   "name": { "en": "SSC Delhi Police", "hi": "SSC दिल्ली पुलिस" },
+   "short": { "en": "Delhi Police", "hi": "दिल्ली पुलिस" },
+   "level": "12th"
+  }
+ ]
+}

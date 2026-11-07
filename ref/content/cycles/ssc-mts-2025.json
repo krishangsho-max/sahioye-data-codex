@@ -1,0 +1,351 @@
+{
+ "version": 1,
+ "id": "ssc-mts-2025",
+ "exam": "ssc-mts",
+ "year": 2025,
+ "name": { "en": "SSC MTS and Havaldar 2025", "hi": "SSC MTS and Havaldar 2025" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "S1": {
+   "title": { "en": "SSC MTS and Havaldar 2025 on sarkariresult.com", "hi": "SSC MTS and Havaldar 2025 on sarkariresult.com" },
+   "url": "https://www.sarkariresult.com/ssc/ssc-mts-2025/",
+   "official": false,
+   "site": "sarkariresult.com"
+  },
+  "L1": {
+   "title": { "en": "Additional Result (Result)", "hi": "Additional Result (Result)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/result_07102026.pdf",
+   "official": true
+  },
+  "L2": {
+   "title": { "en": "Additional Result (Cutoff)", "hi": "Additional Result (Cutoff)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_07102026.pdf",
+   "official": true
+  },
+  "L3": {
+   "title": { "en": "PET/PST Exam Notice", "hi": "PET/PST Exam Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_20082026.pdf",
+   "official": true
+  },
+  "L4": {
+   "title": { "en": "Result (List I)", "hi": "Result (List I)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/List1_03082026.pdf",
+   "official": true
+  },
+  "L5": {
+   "title": { "en": "Result (List II)", "hi": "Result (List II)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/List2_03082026.pdf",
+   "official": true
+  },
+  "L6": {
+   "title": { "en": "Result (List III)", "hi": "Result (List III)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/List3_03082026.pdf",
+   "official": true
+  },
+  "L7": {
+   "title": { "en": "Cutoff", "hi": "Cutoff" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_mts_03082026.pdf",
+   "official": true
+  },
+  "L8": {
+   "title": { "en": "Answer Key", "hi": "Answer Key" },
+   "url": "https://ssc.gov.in/login",
+   "official": true
+  },
+  "L9": {
+   "title": { "en": "Answer Key Notice", "hi": "Answer Key Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeupMTS2025_03032026.pdf",
+   "official": true
+  },
+  "L10": {
+   "title": { "en": "Exam Notice", "hi": "Exam Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_020126.pdf",
+   "official": true
+  },
+  "L11": {
+   "title": { "en": "Vacancy Details", "hi": "Vacancy Details" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/tentative_vacancy_09092025.pdf",
+   "official": true
+  },
+  "L12": {
+   "title": { "en": "Correction Notice", "hi": "Correction Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_29072025.pdf",
+   "official": true
+  },
+  "A1": {
+   "title": { "en": "Multi-Tasking Staff and Havaldar Examination notice", "hi": "मल्टी-टास्किंग स्टाफ और हवलदार परीक्षा सूचना" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_mts_2025.pdf",
+   "date": "2025-06-26",
+   "official": true
+  },
+  "A2": {
+   "title": { "en": "Tentative answer keys and response sheets", "hi": "अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/AnswerKeys/writeupMTS2025_03032026.pdf",
+   "date": "2026-03-03",
+   "official": true
+  },
+  "A3": {
+   "title": { "en": "Havaldar PET/PST shortlisting result and cut-offs", "hi": "हवलदार पीईटी/पीएसटी हेतु परिणाम और कट-ऑफ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_mts_03082026.pdf",
+   "date": "2026-08-03",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-mts-2025.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Application Begin", "hi": "Application Begin" },
+   "start": "2025-06-26",
+   "raw": "26/06/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.notification",
+   "kind": "notification",
+   "label": { "en": "Notification", "hi": "अधिसूचना" },
+   "start": "2025-06-26",
+   "verified": false,
+   "source": "A1"
+  },
+  {
+   "id": "ssc-mts-2025.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
+   "start": "2025-07-24",
+   "raw": "24/07/2025 upto 11 PM",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Pay Fee Online Last Date", "hi": "Pay Fee Online Last Date" },
+   "start": "2025-07-25",
+   "raw": "25/07/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.correction",
+   "kind": "correction",
+   "label": { "en": "Correction Date", "hi": "Correction Date" },
+   "start": "2025-08-04",
+   "end": "2025-08-06",
+   "raw": "04-06 August 2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.other",
+   "kind": "other",
+   "label": { "en": "Slot Booking", "hi": "Slot Booking" },
+   "start": "2026-01-16",
+   "end": "2026-01-25",
+   "raw": "16/01/2026 to 25/01/2026 (11:00 pm)",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.exam-paper-1",
+   "kind": "exam",
+   "label": { "en": "CBT Exam Date Paper I Start", "hi": "CBT Exam Date Paper I Start" },
+   "start": "2026-02-04",
+   "raw": "04/02/2026",
+   "tier": "paper-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.city-slip",
+   "kind": "city-slip",
+   "label": { "en": "Exam City Available", "hi": "Exam City Available" },
+   "raw": "Before Exam",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.admit-card",
+   "kind": "admit-card",
+   "label": { "en": "Admit Card Available", "hi": "Admit Card Available" },
+   "start": "2026-02-02",
+   "raw": "02/02/2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.answer-key",
+   "kind": "answer-key",
+   "label": { "en": "Answer Key Available", "hi": "Answer Key Available" },
+   "start": "2026-03-03",
+   "raw": "03/03/2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.result-paper-1",
+   "kind": "result",
+   "label": { "en": "Paper I Result Available", "hi": "Paper I Result Available" },
+   "start": "2026-08-03",
+   "raw": "03/08/2026",
+   "tier": "paper-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.exam-pet",
+   "kind": "exam",
+   "label": { "en": "PET / PST Exam Date", "hi": "PET / PST Exam Date" },
+   "start": "2026-08-24",
+   "end": "2026-08-31",
+   "raw": "24-31 August 2026",
+   "tier": "pet",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.result",
+   "kind": "result",
+   "label": { "en": "Additional Result", "hi": "Additional Result" },
+   "start": "2026-10-07",
+   "raw": "07/10/2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.exam-paper-2",
+   "kind": "exam",
+   "label": { "en": "Paper II Exam Date", "hi": "Paper II Exam Date" },
+   "raw": "Notified Soon",
+   "tier": "paper-2",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-mts-2025.vacancies",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "value": "8,021",
+   "num": 8021,
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.fee-1",
+   "kind": "fee",
+   "label": { "en": "General / OBC / EWS", "hi": "General / OBC / EWS" },
+   "value": "100/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.fee-2",
+   "kind": "fee",
+   "label": { "en": "SC / ST", "hi": "SC / ST" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.fee-3",
+   "kind": "fee",
+   "label": { "en": "All Category Female", "hi": "All Category Female" },
+   "value": "0/- (Exempted)",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.age-as-on",
+   "kind": "age",
+   "label": { "en": "Age counted on", "hi": "आयु की गणना तिथि" },
+   "value": { "en": "1 Aug 2025", "hi": "1 अगस्त 2025" },
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.age-1",
+   "kind": "age",
+   "label": { "en": "Minimum Age", "hi": "Minimum Age" },
+   "value": "18 Years .",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.age-2",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "25 for Multi Tasking MTS Post",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.age-3",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "27 Years for Havaldar Post",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-mts-2025.qualification",
+   "kind": "qualification",
+   "label": { "en": "Qualification", "hi": "योग्यता" },
+   "value": { "en": "Matriculation Examination or equivalent from a recognized Board.", "hi": "Matriculation Examination or equivalent from a recognized Board." },
+   "verified": false,
+   "source": "A1"
+  },
+  {
+   "id": "ssc-mts-2025.stages",
+   "kind": "stages",
+   "label": { "en": "Exam stages", "hi": "परीक्षा चरण" },
+   "value": { "en": "Computer Based Examination (Session-I and Session-II) → Physical Efficiency Test (PET) / Physical Standard Test (PST) → Document Verification", "hi": "Computer Based Examination (Session-I and Session-II) → Physical Efficiency Test (PET) / Physical Standard Test (PST) → Document Verification" },
+   "short": "3",
+   "shortLabel": { "en": "Stages", "hi": "चरण" },
+   "num": 3,
+   "verified": false,
+   "source": "A1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-mts-2025.notice-a1",
+   "date": "2025-06-26",
+   "type": "notice",
+   "title": { "en": "Multi-Tasking Staff and Havaldar Examination notice", "hi": "मल्टी-टास्किंग स्टाफ और हवलदार परीक्षा सूचना" },
+   "source": "A1"
+  },
+  {
+   "id": "ssc-mts-2025.notice-l10",
+   "date": "2026-01-02",
+   "type": "notice",
+   "title": { "en": "Examination schedule and self-slotting", "hi": "परीक्षा कार्यक्रम और स्वयं स्लॉट चयन" },
+   "source": "L10"
+  },
+  {
+   "id": "ssc-mts-2025.notice-a2",
+   "date": "2026-03-03",
+   "type": "answer-key",
+   "title": { "en": "Tentative answer keys and response sheets", "hi": "अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
+   "source": "A2"
+  },
+  {
+   "id": "ssc-mts-2025.notice-a3",
+   "date": "2026-08-03",
+   "type": "result",
+   "title": { "en": "Havaldar PET/PST shortlisting result and cut-offs", "hi": "हवलदार पीईटी/पीएसटी हेतु परिणाम और कट-ऑफ" },
+   "source": "A3"
+  },
+  {
+   "id": "ssc-mts-2025.notice-l2",
+   "date": "2026-10-07",
+   "type": "result",
+   "title": { "en": "Additional result for Havaldar PET/PST", "hi": "हवलदार पीईटी/पीएसटी के लिए अतिरिक्त परिणाम" },
+   "source": "L2"
+  }
+ ],
+ "tables": [],
+ "pattern": []
+}

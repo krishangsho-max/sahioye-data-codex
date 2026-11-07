@@ -1,0 +1,748 @@
+{
+ "version": 1,
+ "id": "ssc-je-2026",
+ "exam": "ssc-je",
+ "year": 2026,
+ "name": { "en": "SSC JE 2026", "hi": "SSC JE 2026" },
+ "lead": { "en": "Junior Engineer (Civil, Electrical, Mechanical, Telecom) and IMD Scientific Assistant Examination, 2026. Applications are closed; SSC's proposed Paper I dates are 2 to 6 Nov (JE Telecom: 30 Nov to 1 Dec) and may change.", "hi": "कनिष्ठ अभियंता (सिविल, इलेक्ट्रिकल, मैकेनिकल, टेलीकॉम) और IMD वैज्ञानिक सहायक परीक्षा, 2026। आवेदन बंद हो चुके हैं; SSC की प्रस्तावित पेपर I तिथियाँ 2 से 6 नवंबर (JE टेलीकॉम: 30 नवंबर से 1 दिसंबर) हैं और बदल सकती हैं।" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "N1": {
+   "title": { "en": "JE 2026 notification (English)", "hi": "JE 2026 अधिसूचना (अंग्रेज़ी)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_je_2026.pdf",
+   "date": "2026-09-02",
+   "official": true
+  },
+  "A1": {
+   "title": { "en": "Addendum: IMD Scientific Assistant qualification", "hi": "संशोधन: IMD वैज्ञानिक सहायक की योग्यता" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Addendum_JE_10092026.pdf",
+   "date": "2026-09-10",
+   "official": true
+  },
+  "H1": {
+   "title": { "en": "JE 2026 notification (Hindi)", "hi": "JE 2026 अधिसूचना (हिंदी)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/JE_HINDI_15092026.pdf",
+   "date": "2026-09-15",
+   "official": true
+  },
+  "I1": {
+   "title": { "en": "IMD notice: Scientific Assistant through SSC JE", "hi": "IMD सूचना: SSC JE के माध्यम से वैज्ञानिक सहायक" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_16092026.pdf",
+   "date": "2026-09-16",
+   "official": true
+  },
+  "W1": {
+   "title": { "en": "Important notice: apply before 22 Sep (English)", "hi": "महत्वपूर्ण सूचना: 22 सितंबर से पहले आवेदन करें (अंग्रेज़ी)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/English_JE_17092026.pdf",
+   "date": "2026-09-17",
+   "official": true
+  },
+  "WH": {
+   "title": { "en": "Important notice: apply before 22 Sep (Hindi)", "hi": "महत्वपूर्ण सूचना: 22 सितंबर से पहले आवेदन करें (हिंदी)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Hindi_JE_17092026.pdf",
+   "date": "2026-09-17",
+   "official": true
+  },
+  "S1": {
+   "title": { "en": "Schedule of examinations", "hi": "परीक्षाओं का कार्यक्रम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_01102026.pdf",
+   "date": "2026-10-01",
+   "official": true
+  },
+  "V1": {
+   "title": { "en": "Tentative vacancies (as on 8 Oct 2026)", "hi": "अस्थायी रिक्तियाँ (8 अक्टूबर 2026 तक)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/JE_Tentative_Vacancy_08102026.pdf",
+   "date": "2026-10-08",
+   "official": true
+  },
+  "D1": {
+   "title": { "en": "Paper I exam city and admission certificate", "hi": "पेपर I परीक्षा शहर और प्रवेश पत्र" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/JE_2026_City_Live_Notice_23102026.pdf",
+   "date": "2026-10-23",
+   "official": true
+  },
+  "S2": {
+   "title": { "en": "Revised schedule of examinations", "hi": "परीक्षाओं का संशोधित कार्यक्रम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important%20notice_revised_dated_26_10_2026.pdf",
+   "date": "2026-10-26",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-je-2026.notification",
+   "kind": "notification",
+   "label": { "en": "Notification", "hi": "अधिसूचना" },
+   "start": "2026-09-02",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Apply online", "hi": "ऑनलाइन आवेदन" },
+   "start": "2026-09-02",
+   "end": "2026-09-22",
+   "note": { "en": "Closed at 11 PM on 22 Sep. SSC said no extension.", "hi": "22 सितंबर को रात 11 बजे बंद हुए। SSC ने कहा था कि तिथि नहीं बढ़ेगी।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last date to apply", "hi": "आवेदन की अंतिम तिथि" },
+   "start": "2026-09-22",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Last date for online fee", "hi": "ऑनलाइन शुल्क की अंतिम तिथि" },
+   "start": "2026-09-23",
+   "note": { "en": "11 PM", "hi": "रात 11 बजे" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.correction",
+   "kind": "correction",
+   "label": { "en": "Correction window", "hi": "सुधार विंडो" },
+   "start": "2026-09-28",
+   "end": "2026-09-30",
+   "note": { "en": "Closed at 11 PM. ₹200 for the first change, ₹500 for the second.", "hi": "रात 11 बजे बंद हुई। पहले सुधार के लिए ₹200, दूसरे के लिए ₹500।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.exam-paper-1",
+   "kind": "exam",
+   "label": { "en": "Paper I exam (proposed)", "hi": "पेपर I परीक्षा (प्रस्तावित)" },
+   "start": "2026-11-02",
+   "end": "2026-11-06",
+   "note": { "en": "Civil & Structural, Electrical, Mechanical and the three IMD Scientific Assistant options. SSC calls these revised proposed dates; check the date and shift on your admission certificate.", "hi": "सिविल और स्ट्रक्चरल, इलेक्ट्रिकल, मैकेनिकल और IMD वैज्ञानिक सहायक के तीनों विकल्प। SSC इन्हें संशोधित प्रस्तावित तिथियाँ कहता है; अपनी तिथि और शिफ्ट प्रवेश पत्र पर देखें।" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "S2"
+  },
+  {
+   "id": "ssc-je-2026.exam-paper-1-2",
+   "kind": "exam",
+   "label": { "en": "Paper I exam, JE Telecom (proposed)", "hi": "पेपर I परीक्षा, JE टेलीकॉम (प्रस्तावित)" },
+   "start": "2026-11-30",
+   "end": "2026-12-01",
+   "note": { "en": "Added by the 26 Oct revised schedule.", "hi": "26 अक्टूबर के संशोधित कार्यक्रम में जोड़ी गई।" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "S2"
+  },
+  {
+   "id": "ssc-je-2026.city-slip-paper-1",
+   "kind": "city-slip",
+   "label": { "en": "Paper I exam city", "hi": "पेपर I परीक्षा शहर" },
+   "note": { "en": "Live on SSC login from 23 Oct for the 2 to 6 Nov exams. For JE Telecom, 8 to 10 days before the exam (a lead time, not a fixed date).", "hi": "2 से 6 नवंबर की परीक्षाओं के लिए 23 अक्टूबर से SSC लॉगिन पर उपलब्ध। JE टेलीकॉम के लिए परीक्षा से 8 से 10 दिन पहले (निश्चित तिथि नहीं)।" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "D1"
+  },
+  {
+   "id": "ssc-je-2026.admit-card-paper-1",
+   "kind": "admit-card",
+   "label": { "en": "Paper I admit card", "hi": "पेपर I प्रवेश पत्र" },
+   "note": { "en": "2 to 3 days before your exam", "hi": "आपकी परीक्षा से 2 से 3 दिन पहले" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "D1"
+  },
+  {
+   "id": "ssc-je-2026.answer-key-paper-1",
+   "kind": "answer-key",
+   "label": { "en": "Paper I answer key", "hi": "पेपर I उत्तर कुंजी" },
+   "note": { "en": "After the exam; ₹50 per challenged question. No date out yet.", "hi": "परीक्षा के बाद; हर चुनौती वाले प्रश्न पर ₹50। तिथि अभी नहीं आई।" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.result-paper-1",
+   "kind": "result",
+   "label": { "en": "Paper I result", "hi": "पेपर I परिणाम" },
+   "tier": "paper-1",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.exam-paper-2",
+   "kind": "exam",
+   "label": { "en": "Paper II exam", "hi": "पेपर II परीक्षा" },
+   "note": { "en": "December 2026 in the notification; exact dates not out yet.", "hi": "अधिसूचना में दिसंबर 2026; सटीक तिथियाँ अभी नहीं आईं।" },
+   "tier": "paper-2",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.document-verification",
+   "kind": "document-verification",
+   "label": { "en": "Document verification and BRO physical and medical tests", "hi": "दस्तावेज़ सत्यापन और BRO शारीरिक व मेडिकल परीक्षा" },
+   "verified": false,
+   "source": "N1"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-je-2026.vacancies-total-latest-ssc-table-as-on-8-oct",
+   "kind": "vacancies",
+   "label": { "en": "Total (latest SSC table, as on 8 Oct)", "hi": "कुल (SSC की ताज़ा तालिका, 8 अक्टूबर तक)" },
+   "value": "1,699",
+   "short": "1,699",
+   "shortLabel": { "en": "Vacancies (tentative)", "hi": "रिक्तियाँ (अस्थायी)" },
+   "verified": false,
+   "source": "V1"
+  },
+  {
+   "id": "ssc-je-2026.vacancies-junior-engineer-posts-by-subtraction",
+   "kind": "vacancies",
+   "label": { "en": "Junior Engineer posts (by subtraction)", "hi": "कनिष्ठ अभियंता पद (घटाकर)" },
+   "value": "1,237",
+   "verified": false,
+   "source": "V1"
+  },
+  {
+   "id": "ssc-je-2026.vacancies-imd-scientific-assistant-posts",
+   "kind": "vacancies",
+   "label": { "en": "IMD Scientific Assistant posts", "hi": "IMD वैज्ञानिक सहायक पद" },
+   "value": "462",
+   "verified": false,
+   "source": "V1"
+  },
+  {
+   "id": "ssc-je-2026.vacancies-total-in-the-original-notification",
+   "kind": "vacancies",
+   "label": { "en": "Total in the original notification", "hi": "मूल अधिसूचना में कुल" },
+   "value": "1,748",
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.age",
+   "kind": "age",
+   "label": { "en": "Age", "hi": "आयु" },
+   "value": { "en": "On 1 Aug 2026: up to 30 years (born 2 Aug 1996 to 1 Aug 2008) for most posts; up to 32 years (born 2 Aug 1994 to 1 Aug 2008) for CPWD and Lighthouses and Lightships posts.", "hi": "1 अगस्त 2026 को: अधिकांश पदों के लिए 30 वर्ष तक (जन्म 2 अगस्त 1996 से 1 अगस्त 2008); CPWD और लाइटहाउस एवं लाइटशिप पदों के लिए 32 वर्ष तक (जन्म 2 अगस्त 1994 से 1 अगस्त 2008)।" },
+   "short": "18–30/32",
+   "shortLabel": { "en": "Age limit, by post", "hi": "आयु सीमा, पद अनुसार" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.age-relaxation",
+   "kind": "age",
+   "label": { "en": "Age relaxation", "hi": "आयु छूट" },
+   "value": { "en": "SC/ST 5 years, OBC 3 years. PwBD: UR/EWS 10, OBC 13, SC/ST 15 years. Ex-servicemen 3 years after military service. Defence personnel disabled in specified operations: 3 years (UR/EWS/OBC), 8 years (SC/ST). Conditions are in the notification.", "hi": "SC/ST 5 वर्ष, OBC 3 वर्ष। दिव्यांग: UR/EWS 10, OBC 13, SC/ST 15 वर्ष। पूर्व सैनिक सैन्य सेवा घटाकर 3 वर्ष। निर्दिष्ट अभियानों में अक्षम रक्षा कर्मी: 3 वर्ष (UR/EWS/OBC), 8 वर्ष (SC/ST)। शर्तें अधिसूचना में हैं।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.nationality",
+   "kind": "other",
+   "label": { "en": "Nationality", "hi": "राष्ट्रीयता" },
+   "value": { "en": "Indian citizen, or a subject of Nepal or Bhutan, or a person of Indian origin who migrated from Pakistan, Burma, Sri Lanka, Kenya, Uganda, Tanzania, Zambia, Malawi, Zaire, Ethiopia or Vietnam to settle in India. All except Indian citizens need an eligibility certificate from the Government of India.", "hi": "भारतीय नागरिक, या नेपाल या भूटान का नागरिक, या पाकिस्तान, बर्मा, श्रीलंका, केन्या, युगांडा, तंज़ानिया, ज़ाम्बिया, मलावी, ज़ायरे, इथियोपिया या वियतनाम से भारत में बसने आया भारतीय मूल का व्यक्ति। भारतीय नागरिकों के अलावा सभी को भारत सरकार का पात्रता प्रमाणपत्र चाहिए।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.qualification-date",
+   "kind": "qualification",
+   "label": { "en": "Qualification date", "hi": "योग्यता की तिथि" },
+   "value": { "en": "Qualification and any required experience must be complete by 22 Sep 2026, the closing date. Experience must come after the qualification; internship or training during the course does not count.", "hi": "योग्यता और आवश्यक अनुभव अंतिम तिथि 22 सितंबर 2026 तक पूरा होना चाहिए। अनुभव योग्यता के बाद का होना चाहिए; पाठ्यक्रम के दौरान की इंटर्नशिप या प्रशिक्षण नहीं गिना जाएगा।" },
+   "short": { "en": "Engineering diploma or degree (SA: B.Sc.)", "hi": "इंजीनियरिंग डिप्लोमा या डिग्री (SA: B.Sc.)" },
+   "shortLabel": { "en": "Qualification, by post", "hi": "योग्यता, पद अनुसार" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.qualification-border-roads-organisation",
+   "kind": "qualification",
+   "label": { "en": "Qualification, Border Roads Organisation", "hi": "योग्यता, सीमा सड़क संगठन" },
+   "value": { "en": "JE Civil: civil engineering degree, or 3-year civil diploma plus 2 years' experience in civil works. JE E&M: electrical or mechanical degree, or 3-year electrical, automobile or mechanical diploma plus 2 years' experience. BRO posts are for men only and need BRO physical and medical tests.", "hi": "JE सिविल: सिविल इंजीनियरिंग डिग्री, या 3 वर्षीय सिविल डिप्लोमा और सिविल कार्यों में 2 वर्ष का अनुभव। JE E&M: इलेक्ट्रिकल या मैकेनिकल डिग्री, या 3 वर्षीय इलेक्ट्रिकल, ऑटोमोबाइल या मैकेनिकल डिप्लोमा और 2 वर्ष का अनुभव। BRO पद केवल पुरुषों के लिए हैं और BRO की शारीरिक व मेडिकल परीक्षा लगती है।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.qualification-central-water-commission",
+   "kind": "qualification",
+   "label": { "en": "Qualification, Central Water Commission", "hi": "योग्यता, केंद्रीय जल आयोग" },
+   "value": { "en": "Degree or diploma in the matching engineering branch (Civil or Mechanical).", "hi": "संबंधित इंजीनियरिंग शाखा (सिविल या मैकेनिकल) में डिग्री या डिप्लोमा।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.qualification-cpwd",
+   "kind": "qualification",
+   "label": { "en": "Qualification, CPWD", "hi": "योग्यता, CPWD" },
+   "value": { "en": "JE Civil: civil engineering diploma. JE Electrical: electrical or mechanical engineering diploma.", "hi": "JE सिविल: सिविल इंजीनियरिंग डिप्लोमा। JE इलेक्ट्रिकल: इलेक्ट्रिकल या मैकेनिकल इंजीनियरिंग डिप्लोमा।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.qualification-central-water-and-power-research-station",
+   "kind": "qualification",
+   "label": { "en": "Qualification, Central Water and Power Research Station", "hi": "योग्यता, केंद्रीय जल एवं विद्युत अनुसंधान शाला" },
+   "value": { "en": "JE Civil: civil engineering diploma. JE Electrical: electrical engineering diploma. The notification has no JE Mechanical qualification for this organisation, although it has a JE Mechanical vacancy; ask SSC.", "hi": "JE सिविल: सिविल इंजीनियरिंग डिप्लोमा। JE इलेक्ट्रिकल: इलेक्ट्रिकल इंजीनियरिंग डिप्लोमा। इस संगठन के JE मैकेनिकल पद की रिक्ति है, पर अधिसूचना में उसकी योग्यता नहीं मिली; SSC से पूछें।" },
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.qualification-dgqa-naval",
+   "kind": "qualification",
+   "label": { "en": "Qualification, DGQA-Naval", "hi": "योग्यता, DGQA-नौसेना" },
+   "value": { "en": "JE Mechanical or Electrical: degree in the field, or 3-year diploma in the field plus 2 years' experience.", "hi": "JE मैकेनिकल या इलेक्ट्रिकल: उस क्षेत्र में डिग्री, या 3 वर्षीय डिप्लोमा और 2 वर्ष का अनुभव।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.qualification-military-engineer-services",
+   "kind": "qualification",
+   "label": { "en": "Qualification, Military Engineer Services", "hi": "योग्यता, सैन्य अभियंता सेवा" },
+   "value": { "en": "JE Civil: civil engineering degree, or 3-year civil diploma plus 2 years' experience. JE E&M: electrical or mechanical degree, or 3-year diploma plus 2 years' experience.", "hi": "JE सिविल: सिविल इंजीनियरिंग डिग्री, या 3 वर्षीय सिविल डिप्लोमा और 2 वर्ष का अनुभव। JE E&M: इलेक्ट्रिकल या मैकेनिकल डिग्री, या 3 वर्षीय डिप्लोमा और 2 वर्ष का अनुभव।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.qualification-lighthouses-and-lightships",
+   "kind": "qualification",
+   "label": { "en": "Qualification, Lighthouses and Lightships", "hi": "योग्यता, लाइटहाउस एवं लाइटशिप" },
+   "value": { "en": "JE Civil or Electrical: degree in the field, or diploma in the field plus 3 years' experience, or an equivalent qualification.", "hi": "JE सिविल या इलेक्ट्रिकल: उस क्षेत्र में डिग्री, या डिप्लोमा और 3 वर्ष का अनुभव, या समकक्ष योग्यता।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.qualification-other-civil-and-electrical-posts",
+   "kind": "qualification",
+   "label": { "en": "Qualification, other civil and electrical posts", "hi": "योग्यता, अन्य सिविल और इलेक्ट्रिकल पद" },
+   "value": { "en": "Brahmaputra Board, Farakka Barrage Project and NTRO: diploma in the matching engineering field. Fisheries (CICEF): civil engineering degree or 3-year diploma.", "hi": "ब्रह्मपुत्र बोर्ड, फरक्का बैराज परियोजना और NTRO: संबंधित इंजीनियरिंग क्षेत्र में डिप्लोमा। मत्स्य (CICEF): सिविल इंजीनियरिंग डिग्री या 3 वर्षीय डिप्लोमा।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.qualification-department-of-telecommunications",
+   "kind": "qualification",
+   "label": { "en": "Qualification, Department of Telecommunications", "hi": "योग्यता, दूरसंचार विभाग" },
+   "value": { "en": "Engineering or technology degree in Electrical, Electronics, Electrical Communications, Computer Science, Telecommunications, Information Technology or Instrumentation.", "hi": "इलेक्ट्रिकल, इलेक्ट्रॉनिक्स, इलेक्ट्रिकल कम्युनिकेशन, कंप्यूटर साइंस, दूरसंचार, सूचना प्रौद्योगिकी या इंस्ट्रूमेंटेशन में इंजीनियरिंग या प्रौद्योगिकी की डिग्री।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.qualification-imd-scientific-assistant",
+   "kind": "qualification",
+   "label": { "en": "Qualification, IMD Scientific Assistant", "hi": "योग्यता, IMD वैज्ञानिक सहायक" },
+   "value": { "en": "As amended on 10 Sep: B.Sc. with Physics, or a bachelor's in Computer Science, Computer Applications, Electronics, Electronics and Communication, Electronics and Telecommunication, Instrumentation, Information Technology, Telecommunication or Communication Engineering. For the second route, Class 12 with Physics and Maths is also needed. The Hindi notification and the IMD notice still carry the older text.", "hi": "10 सितंबर के संशोधन के अनुसार: भौतिकी के साथ B.Sc., या कंप्यूटर साइंस, कंप्यूटर एप्लीकेशन, इलेक्ट्रॉनिक्स, इलेक्ट्रॉनिक्स एवं संचार, इलेक्ट्रॉनिक्स एवं दूरसंचार, इंस्ट्रूमेंटेशन, सूचना प्रौद्योगिकी, दूरसंचार या संचार इंजीनियरिंग में स्नातक। दूसरे मार्ग के लिए भौतिकी और गणित के साथ 12वीं भी चाहिए। हिंदी अधिसूचना और IMD सूचना में अभी पुराना पाठ है।" },
+   "verified": true,
+   "source": "A1"
+  },
+  {
+   "id": "ssc-je-2026.applying-for-more-than-one-post",
+   "kind": "other",
+   "label": { "en": "Applying for more than one post", "hi": "एक से अधिक पद के लिए आवेदन" },
+   "value": { "en": "JE Mechanical and JE Electrical applicants are also eligible for JE E&M. JE Telecom, JE Electrical and Scientific Assistant applicants may be eligible for some other posts under the notice rules. You must take the paper for each post you opt for.", "hi": "JE मैकेनिकल और JE इलेक्ट्रिकल आवेदक JE E&M के लिए भी पात्र हैं। JE टेलीकॉम, JE इलेक्ट्रिकल और वैज्ञानिक सहायक आवेदक अधिसूचना के नियमों के तहत कुछ अन्य पदों के लिए पात्र हो सकते हैं। जिन पदों के लिए चुना है, उनके पेपर देने होंगे।" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.fee",
+   "kind": "fee",
+   "label": { "en": "Fee", "hi": "शुल्क" },
+   "value": { "en": "₹100. No fee for women, SC, ST, PwBD and ex-servicemen. SSC has no ex-servicemen vacancy reservation in JE Group B posts, but age relaxation applies.", "hi": "₹100। महिलाओं, SC, ST, दिव्यांग और पूर्व सैनिकों के लिए शुल्क नहीं। JE समूह ख पदों में पूर्व सैनिकों के लिए पद आरक्षित नहीं हैं, पर आयु छूट मिलती है।" },
+   "short": "₹100",
+   "shortLabel": { "en": "Fee", "hi": "शुल्क" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.paper-options-technical-parts",
+   "kind": "other",
+   "label": { "en": "Technical parts", "hi": "तकनीकी भाग" },
+   "value": { "en": "A Civil & Structural (JE Civil), B Electrical (JE Electrical), C Mechanical (JE Mechanical), D Computer Science & IT, E Electronics & Telecommunication Engineering or F Physics (one option for IMD Scientific Assistant), G Telecommunication (JE Telecom). Choose the part that matches your post and eligibility.", "hi": "A सिविल और स्ट्रक्चरल (JE सिविल), B इलेक्ट्रिकल (JE इलेक्ट्रिकल), C मैकेनिकल (JE मैकेनिकल), D कंप्यूटर साइंस और IT, E इलेक्ट्रॉनिक्स और दूरसंचार इंजीनियरिंग या F भौतिकी (IMD वैज्ञानिक सहायक के लिए एक विकल्प), G दूरसंचार (JE टेलीकॉम)। अपने पद और पात्रता के अनुसार भाग चुनें।" },
+   "section": "paper-options",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.paper-options-calculator-and-tables",
+   "kind": "other",
+   "label": { "en": "Calculator and tables", "hi": "कैलकुलेटर और तालिकाएँ" },
+   "value": { "en": "An on-screen scientific calculator is given; IS 456:2000 and steam tables are on screen when needed. Physical calculators and tables are not allowed in the exam lab.", "hi": "स्क्रीन पर वैज्ञानिक कैलकुलेटर मिलता है; ज़रूरत होने पर IS 456:2000 और स्टीम टेबल स्क्रीन पर मिलते हैं। परीक्षा कक्ष में भौतिक कैलकुलेटर और तालिकाएँ मना हैं।" },
+   "section": "paper-options",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.paper-options-je-telecom-and-scientific-assistant",
+   "kind": "other",
+   "label": { "en": "JE Telecom and Scientific Assistant", "hi": "JE टेलीकॉम और वैज्ञानिक सहायक" },
+   "value": { "en": "For some candidates who opted for JE Telecom and also chose Scientific Assistant, SSC set Electronics and Telecommunication as the default SA subject. It could be changed to CS/IT or Physics on the city page until 11 PM on 27 Oct 2026; no later change.", "hi": "JE टेलीकॉम चुनने वाले और वैज्ञानिक सहायक भी चुनने वाले कुछ उम्मीदवारों के लिए SSC ने इलेक्ट्रॉनिक्स और दूरसंचार को डिफ़ॉल्ट SA विषय रखा। इसे 27 अक्टूबर 2026 रात 11 बजे तक शहर पेज पर CS/IT या भौतिकी में बदला जा सकता था; उसके बाद नहीं।" },
+   "section": "paper-options",
+   "verified": true,
+   "source": "D1"
+  },
+  {
+   "id": "ssc-je-2026.paper-options-bro-physical-and-medical-standards",
+   "kind": "other",
+   "label": { "en": "BRO physical and medical standards", "hi": "BRO शारीरिक और मेडिकल मानक" },
+   "value": { "en": "BRO candidates face extra PET, physical and medical tests after the final result; failing them can rule out reallocation. See Annexure XVI of the notification.", "hi": "BRO उम्मीदवारों की अंतिम परिणाम के बाद अतिरिक्त PET, शारीरिक और मेडिकल जाँच होती है; इनमें विफल होने पर पुनः आवंटन नहीं हो सकता। अधिसूचना का अनुलग्नक XVI देखें।" },
+   "section": "paper-options",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.stages",
+   "kind": "stages",
+   "label": { "en": "Stages", "hi": "चरण" },
+   "value": "2",
+   "shortLabel": { "en": "Papers", "hi": "पेपर" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.vacancies-in-the-notification",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies in the notification (tentative)", "hi": "अधिसूचना में रिक्तियाँ (अस्थायी)" },
+   "value": "1,748",
+   "num": 1748,
+   "verified": true,
+   "source": "N1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-je-2026.notice-n1",
+   "date": "2026-09-02",
+   "type": "notice",
+   "title": { "en": "JE 2026 notification", "hi": "JE 2026 अधिसूचना" },
+   "source": "N1"
+  },
+  {
+   "id": "ssc-je-2026.notice-a1",
+   "date": "2026-09-10",
+   "type": "notice",
+   "title": { "en": "Addendum: IMD Scientific Assistant qualification", "hi": "संशोधन: IMD वैज्ञानिक सहायक की योग्यता" },
+   "source": "A1"
+  },
+  {
+   "id": "ssc-je-2026.notice-h1",
+   "date": "2026-09-15",
+   "type": "notice",
+   "title": { "en": "JE 2026 notification in Hindi", "hi": "JE 2026 अधिसूचना हिंदी में" },
+   "source": "H1"
+  },
+  {
+   "id": "ssc-je-2026.notice-i1",
+   "date": "2026-09-16",
+   "type": "notice",
+   "title": { "en": "IMD notice: Scientific Assistant through SSC JE", "hi": "IMD सूचना: SSC JE के माध्यम से वैज्ञानिक सहायक" },
+   "source": "I1"
+  },
+  {
+   "id": "ssc-je-2026.notice-w1",
+   "date": "2026-09-17",
+   "type": "notice",
+   "title": { "en": "Reminder: applications close 22 Sep, no extension", "hi": "अनुस्मारक: आवेदन 22 सितंबर को बंद, तिथि नहीं बढ़ेगी" },
+   "source": "W1"
+  },
+  {
+   "id": "ssc-je-2026.notice-wh",
+   "date": "2026-09-17",
+   "type": "notice",
+   "title": { "en": "Reminder in Hindi: applications close 22 Sep", "hi": "हिंदी में अनुस्मारक: आवेदन 22 सितंबर को बंद" },
+   "source": "WH"
+  },
+  {
+   "id": "ssc-je-2026.notice-s1",
+   "date": "2026-10-01",
+   "type": "notice",
+   "title": { "en": "Schedule of examinations: Paper I proposed 2 to 6 Nov", "hi": "परीक्षा कार्यक्रम: पेपर I प्रस्तावित 2 से 6 नवंबर" },
+   "source": "S1"
+  },
+  {
+   "id": "ssc-je-2026.notice-v1",
+   "date": "2026-10-08",
+   "type": "notice",
+   "title": { "en": "Tentative vacancies (as on 8 Oct): 1,699", "hi": "अस्थायी रिक्तियाँ (8 अक्टूबर तक): 1,699" },
+   "source": "V1"
+  },
+  {
+   "id": "ssc-je-2026.notice-d1",
+   "date": "2026-10-23",
+   "type": "notice",
+   "title": { "en": "Paper I exam city and admission certificate", "hi": "पेपर I परीक्षा शहर और प्रवेश पत्र" },
+   "source": "D1"
+  },
+  {
+   "id": "ssc-je-2026.notice-s2",
+   "date": "2026-10-26",
+   "type": "notice",
+   "title": { "en": "Revised schedule: JE Telecom added on 30 Nov to 1 Dec", "hi": "संशोधित कार्यक्रम: JE टेलीकॉम 30 नवंबर से 1 दिसंबर को जोड़ा गया" },
+   "source": "S2"
+  }
+ ],
+ "tables": [
+  {
+   "id": "ssc-je-2026.vacancies",
+   "title": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "head": [
+    { "en": "Organisation, post", "hi": "संगठन, पद" },
+    { "en": "UR", "hi": "UR" },
+    { "en": "OBC", "hi": "OBC" },
+    { "en": "SC", "hi": "SC" },
+    { "en": "ST", "hi": "ST" },
+    { "en": "EWS", "hi": "EWS" },
+    { "en": "Total", "hi": "कुल" }
+   ],
+   "rows": [
+    [
+     "Border Roads Organisation, JE(C)",
+     "85",
+     "118",
+     "39",
+     "20",
+     "9",
+     "271"
+    ],
+    [
+     "Border Roads Organisation, JE(E&M)",
+     "10",
+     "9",
+     "1",
+     "1",
+     "1",
+     "22"
+    ],
+    [
+     "Central Water Commission, JE(M)",
+     "1",
+     "1",
+     "1",
+     "0",
+     "0",
+     "3"
+    ],
+    [
+     "Central Water Commission, JE(C)",
+     "12",
+     "6",
+     "4",
+     "4",
+     "3",
+     "29"
+    ],
+    [
+     "Central Public Works Department, JE(E)",
+     "44",
+     "27",
+     "15",
+     "7",
+     "10",
+     "103"
+    ],
+    [
+     "Central Public Works Department, JE(C)",
+     "141",
+     "92",
+     "51",
+     "25",
+     "34",
+     "343"
+    ],
+    [
+     "Central Water and Power Research Station, JE(C)",
+     "1",
+     "0",
+     "1",
+     "0",
+     "0",
+     "2"
+    ],
+    [
+     "Central Water and Power Research Station, JE(E)",
+     "0",
+     "0",
+     "1",
+     "0",
+     "0",
+     "1"
+    ],
+    [
+     "Central Water and Power Research Station, JE(M)",
+     "1",
+     "0",
+     "0",
+     "0",
+     "0",
+     "1"
+    ],
+    [
+     "DGQA-NAVAL, Ministry of Defence, JE(E)",
+     "0",
+     "1",
+     "0",
+     "1",
+     "0",
+     "2"
+    ],
+    [
+     "DGQA-NAVAL, Ministry of Defence, JE(M)",
+     "3",
+     "0",
+     "1",
+     "1",
+     "1",
+     "6"
+    ],
+    [
+     "Farakka Barrage Project, JE(C)",
+     "2",
+     "0",
+     "0",
+     "0",
+     "0",
+     "2"
+    ],
+    [
+     "Military Engineer Services (MES), JE(C)",
+     "61",
+     "33",
+     "19",
+     "32",
+     "9",
+     "154"
+    ],
+    [
+     "Military Engineer Services (MES), JE(E&M)",
+     "70",
+     "38",
+     "16",
+     "26",
+     "11",
+     "161"
+    ],
+    [
+     "Central Institute of Coastal Engineering for Fishery, JE(C)",
+     "0",
+     "1",
+     "1",
+     "1",
+     "0",
+     "3"
+    ],
+    [
+     "Directorate General of Lighthouses and Lightships, JE(C)",
+     "4",
+     "0",
+     "1",
+     "1",
+     "1",
+     "7"
+    ],
+    [
+     "Directorate General of Lighthouses and Lightships, JE(E)",
+     "1",
+     "1",
+     "0",
+     "0",
+     "0",
+     "2"
+    ],
+    [
+     "Department of Telecommunication, JE(T)",
+     "30",
+     "18",
+     "10",
+     "5",
+     "6",
+     "69"
+    ],
+    [
+     "India Meteorological Department, SA",
+     "231",
+     "99",
+     "76",
+     "11",
+     "45",
+     "462"
+    ],
+    [
+     "Brahmaputra Board, JE(C)",
+     "21",
+     "18",
+     "8",
+     "5",
+     "4",
+     "56"
+    ],
+    [
+     { "en": "All posts", "hi": "सभी पद" },
+     "718",
+     "462",
+     "245",
+     "140",
+     "134",
+     "1,699"
+    ]
+   ],
+   "note": { "en": "All counts are tentative. Disability reservations (OH 32, HH 14, VH 1, others 13) are inside the totals, not extra posts. The 8 Oct table has no NTRO row, so no NTRO count is shown.", "hi": "सभी संख्याएँ अस्थायी हैं। दिव्यांग आरक्षण (OH 32, HH 14, VH 1, अन्य 13) कुल संख्या के भीतर हैं, अतिरिक्त पद नहीं। 8 अक्टूबर की तालिका में NTRO की पंक्ति नहीं है, इसलिए NTRO की संख्या नहीं दिखाई गई।" },
+   "verified": true,
+   "source": "V1"
+  }
+ ],
+ "pattern": [
+  {
+   "title": { "en": "Paper I (computer based)", "hi": "पेपर I (कंप्यूटर आधारित)" },
+   "rows": [
+    {
+     "section": { "en": "General Intelligence and Reasoning", "hi": "सामान्य बुद्धि और तर्कशक्ति" },
+     "questions": 50,
+     "marks": 50
+    },
+    {
+     "section": { "en": "General Awareness", "hi": "सामान्य जागरूकता" },
+     "questions": 50,
+     "marks": 50
+    },
+    {
+     "section": { "en": "Technical subject of your post (or Physics for IMD)", "hi": "आपके पद का तकनीकी विषय (IMD के लिए भौतिकी)" },
+     "questions": 100,
+     "marks": 100
+    }
+   ],
+   "minutes": 120,
+   "notes": [
+    { "en": "Objective multiple choice, in Hindi and English. 0.25 mark cut for each wrong answer.", "hi": "वस्तुनिष्ठ बहुविकल्पीय, हिंदी और अंग्रेज़ी में। हर गलत उत्तर पर 0.25 अंक कटेगा।" },
+    { "en": "Paper I is qualifying and is used to shortlist candidates category-wise for Paper II.", "hi": "पेपर I क्वालीफाइंग है और इससे श्रेणी अनुसार पेपर II के लिए उम्मीदवार चुने जाते हैं।" },
+    { "en": "Minimum qualifying marks in each paper: UR 30%, OBC and EWS 25%, others 20%.", "hi": "हर पेपर में न्यूनतम क्वालीफाइंग अंक: UR 30%, OBC और EWS 25%, अन्य 20%।" },
+    { "en": "Eligible scribe candidates get 2 hours 40 minutes.", "hi": "पात्र स्क्राइब वाले उम्मीदवारों को 2 घंटे 40 मिनट मिलते हैं।" }
+   ],
+   "source": "N1"
+  },
+  {
+   "title": { "en": "Paper II (computer based)", "hi": "पेपर II (कंप्यूटर आधारित)" },
+   "rows": [
+    {
+     "section": { "en": "Technical subject of your post (or Physics for IMD)", "hi": "आपके पद का तकनीकी विषय (IMD के लिए भौतिकी)" },
+     "questions": 100,
+     "marks": 300
+    }
+   ],
+   "minutes": 120,
+   "notes": [
+    { "en": "1 mark cut for each wrong answer.", "hi": "हर गलत उत्तर पर 1 अंक कटेगा।" },
+    { "en": "Final selection and post allocation use Paper II marks and your post and organisation preferences. Marks are normalised when the exam runs in several shifts.", "hi": "अंतिम चयन और पद आवंटन पेपर II के अंकों और आपकी पद व संगठन की पसंद पर होता है। कई शिफ्ट में परीक्षा होने पर अंकों का सामान्यीकरण होता है।" }
+   ],
+   "source": "N1"
+  }
+ ],
+ "sections": [
+  {
+   "id": "paper-options",
+   "title": { "en": "Technical subject options and exam rules", "hi": "तकनीकी विषय के विकल्प और परीक्षा नियम" }
+  }
+ ]
+}

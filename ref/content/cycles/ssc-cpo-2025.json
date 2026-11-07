@@ -1,0 +1,313 @@
+{
+ "version": 1,
+ "id": "ssc-cpo-2025",
+ "exam": "ssc-cpo",
+ "year": 2025,
+ "name": { "en": "SSC CPO SI 2025", "hi": "SSC CPO SI 2025" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "S1": {
+   "title": { "en": "SSC CPO SI 2025 on sarkariresult.com", "hi": "SSC CPO SI 2025 on sarkariresult.com" },
+   "url": "https://www.sarkariresult.com/ssc/ssc-cpo-si-2025/",
+   "official": false,
+   "site": "sarkariresult.com"
+  },
+  "L1": {
+   "title": { "en": "Paper II Exam Date", "hi": "Paper II Exam Date" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Exams_notice_02112026.pdf",
+   "official": true
+  },
+  "L2": {
+   "title": { "en": "PET Result (List-1)", "hi": "PET Result (List-1)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_1_29102026.pdf",
+   "official": true
+  },
+  "L3": {
+   "title": { "en": "PET Result (List-2)", "hi": "PET Result (List-2)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_2_29102026.pdf",
+   "official": true
+  },
+  "L4": {
+   "title": { "en": "PET Result (List-3)", "hi": "PET Result (List-3)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_3_29102026.pdf",
+   "official": true
+  },
+  "L5": {
+   "title": { "en": "PET Result (Cut Off)", "hi": "PET Result (Cut Off)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_29102026.pdf",
+   "official": true
+  },
+  "L6": {
+   "title": { "en": "Paper I Marks", "hi": "Paper I Marks" },
+   "url": "https://ssc.gov.in/login",
+   "official": true
+  },
+  "L7": {
+   "title": { "en": "Final Answer Key & Marks Notice", "hi": "Final Answer Key & Marks Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_21042026.pdf",
+   "official": true
+  },
+  "L8": {
+   "title": { "en": "Result (List 1)", "hi": "Result (List 1)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/sicpo_25_LIST-1.pdf",
+   "official": true
+  },
+  "L9": {
+   "title": { "en": "Result (List 2)", "hi": "Result (List 2)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/sicpo_25_LIST-2.pdf",
+   "official": true
+  },
+  "L10": {
+   "title": { "en": "Result (List 3)", "hi": "Result (List 3)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/sicpo_25_LIST-3.pdf",
+   "official": true
+  },
+  "L11": {
+   "title": { "en": "Paper I Cutoff", "hi": "Paper I Cutoff" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/write-up%20CPO%202025.pdf",
+   "official": true
+  },
+  "L12": {
+   "title": { "en": "Check Vacancy Details", "hi": "Check Vacancy Details" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Tentative%20Vacancies-%20SI%20CPO,%202025.pdf",
+   "official": true
+  },
+  "L13": {
+   "title": { "en": "Answer Key Notice", "hi": "Answer Key Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_24122025.pdf",
+   "official": true
+  },
+  "L14": {
+   "title": { "en": "Exam City Notice", "hi": "Exam City Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_29112025.pdf",
+   "official": true
+  },
+  "L15": {
+   "title": { "en": "Paper I Exam Notice", "hi": "Paper I Exam Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_10112025.pdf",
+   "official": true
+  },
+  "L16": {
+   "title": { "en": "Notification", "hi": "Notification" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_capf_2025.pdf",
+   "official": true
+  },
+  "A1": {
+   "title": { "en": "Revised application correction window", "hi": "संशोधित आवेदन सुधार विंडो" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/important_notice_22102025.pdf",
+   "date": "2025-10-22",
+   "official": true
+  },
+  "A2": {
+   "title": { "en": "PET/PST result for Paper-II", "hi": "पेपर-II के लिए पीईटी/पीएसटी परिणाम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_29102026.pdf",
+   "date": "2026-10-29",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-cpo-2025.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Application Begin", "hi": "Application Begin" },
+   "start": "2025-09-26",
+   "verified": true,
+   "source": "L16"
+  },
+  {
+   "id": "ssc-cpo-2025.notification",
+   "kind": "notification",
+   "label": { "en": "Notification", "hi": "अधिसूचना" },
+   "start": "2025-09-26",
+   "verified": true,
+   "source": "L16"
+  },
+  {
+   "id": "ssc-cpo-2025.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
+   "start": "2025-10-16",
+   "verified": true,
+   "source": "L16"
+  },
+  {
+   "id": "ssc-cpo-2025.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Fee Payment Last Date", "hi": "Fee Payment Last Date" },
+   "start": "2025-10-17",
+   "verified": true,
+   "source": "L16"
+  },
+  {
+   "id": "ssc-cpo-2025.correction",
+   "kind": "correction",
+   "label": { "en": "Correction Date", "hi": "Correction Date" },
+   "start": "2025-10-24",
+   "end": "2025-10-26",
+   "verified": true,
+   "source": "L16"
+  },
+  {
+   "id": "ssc-cpo-2025.other",
+   "kind": "other",
+   "label": { "en": "Self Slot Booking", "hi": "Self Slot Booking" },
+   "start": "2025-11-17",
+   "end": "2025-11-21",
+   "raw": "17-21 November 2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cpo-2025.exam-paper-1",
+   "kind": "exam",
+   "label": { "en": "Exam Date Paper I", "hi": "Exam Date Paper I" },
+   "start": "2025-12-09",
+   "end": "2025-12-12",
+   "raw": "09 to 12 December 2025",
+   "tier": "paper-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cpo-2025.answer-key",
+   "kind": "answer-key",
+   "label": { "en": "Answer Key Available", "hi": "Answer Key Available" },
+   "start": "2025-12-24",
+   "raw": "24/12/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cpo-2025.result-paper-1",
+   "kind": "result",
+   "label": { "en": "Paper I Result Available", "hi": "Paper I Result Available" },
+   "start": "2026-03-30",
+   "raw": "30/03/2026",
+   "tier": "paper-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cpo-2025.marks-paper-1",
+   "kind": "marks",
+   "label": { "en": "Paper I Marks Available", "hi": "Paper I Marks Available" },
+   "start": "2026-04-21",
+   "raw": "21/04/2026",
+   "tier": "paper-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cpo-2025.exam-paper-2",
+   "kind": "exam",
+   "label": { "en": "Exam Date Paper II", "hi": "Exam Date Paper II" },
+   "start": "2026-11-28",
+   "raw": "28/11/2026",
+   "tier": "paper-2",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-cpo-2025.vacancies",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "value": "3,073",
+   "num": 3073,
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cpo-2025.age",
+   "kind": "age",
+   "label": { "en": "Age limit (as on 1 Aug 2025)", "hi": "आयु सीमा (1 अगस्त 2025 तक)" },
+   "value": "20–25",
+   "verified": true,
+   "source": "L16"
+  },
+  {
+   "id": "ssc-cpo-2025.age-relaxation",
+   "kind": "age",
+   "label": { "en": "Age relaxation", "hi": "आयु में छूट" },
+   "value": { "en": "SC/ST: 5 years, OBC: 3 years, Ex-Servicemen (ESM): 3 years after deduction of military service, Departmental candidates (Delhi Police): up to 30 years (UR/EWS), 33 years (OBC), 35 years (SC/ST)", "hi": "SC/ST: 5 years, OBC: 3 years, Ex-Servicemen (ESM): 3 years after deduction of military service, Departmental candidates (Delhi Police): up to 30 years (UR/EWS), 33 years (OBC), 35 years (SC/ST)" },
+   "verified": false,
+   "source": "L16"
+  },
+  {
+   "id": "ssc-cpo-2025.fee",
+   "kind": "fee",
+   "label": { "en": "Application fee", "hi": "आवेदन शुल्क" },
+   "value": "₹100",
+   "num": 100,
+   "verified": true,
+   "source": "L16"
+  },
+  {
+   "id": "ssc-cpo-2025.fee-exempt",
+   "kind": "fee",
+   "label": { "en": "Fee exempt for", "hi": "इनके लिए शुल्क माफ़" },
+   "value": { "en": "Women candidates and candidates belonging to Scheduled Castes (SC), Scheduled Tribes (ST) and Ex-Servicemen eligible for reservation", "hi": "Women candidates and candidates belonging to Scheduled Castes (SC), Scheduled Tribes (ST) and Ex-Servicemen eligible for reservation" },
+   "verified": true,
+   "source": "L16"
+  },
+  {
+   "id": "ssc-cpo-2025.qualification",
+   "kind": "qualification",
+   "label": { "en": "Qualification", "hi": "योग्यता" },
+   "value": { "en": "Bachelor's degree from a recognized university or equivalent. Male candidates for Sub Inspector in Delhi Police must possess a valid Driving License for LMV (Motorcycle and Car) on the date fixed for PE&MT.", "hi": "Bachelor's degree from a recognized university or equivalent. Male candidates for Sub Inspector in Delhi Police must possess a valid Driving License for LMV (Motorcycle and Car) on the date fixed for PE&MT." },
+   "verified": false,
+   "source": "L16"
+  },
+  {
+   "id": "ssc-cpo-2025.stages",
+   "kind": "stages",
+   "label": { "en": "Exam stages", "hi": "परीक्षा चरण" },
+   "value": { "en": "Paper-I Computer Based Examination → Physical Standard Test (PST) / Physical Efficiency Test (PET) → Paper-II Computer Based Examination → Detailed Medical Examination (DME) / Review Medical Examination (RME) → Document Verification", "hi": "Paper-I Computer Based Examination → Physical Standard Test (PST) / Physical Efficiency Test (PET) → Paper-II Computer Based Examination → Detailed Medical Examination (DME) / Review Medical Examination (RME) → Document Verification" },
+   "short": "5",
+   "shortLabel": { "en": "Stages", "hi": "चरण" },
+   "num": 5,
+   "verified": false,
+   "source": "L16"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-cpo-2025.notice-l16",
+   "date": "2025-09-26",
+   "type": "notice",
+   "title": { "en": "Sub-Inspector in Delhi Police and CAPFs Examination notice", "hi": "दिल्ली पुलिस और केंद्रीय सशस्त्र पुलिस बलों में उप-निरीक्षक परीक्षा सूचना" },
+   "source": "L16"
+  },
+  {
+   "id": "ssc-cpo-2025.notice-a1",
+   "date": "2025-10-22",
+   "type": "notice",
+   "title": { "en": "Revised application correction window", "hi": "संशोधित आवेदन सुधार विंडो" },
+   "source": "A1"
+  },
+  {
+   "id": "ssc-cpo-2025.notice-l11",
+   "date": "2026-03-30",
+   "type": "result",
+   "title": { "en": "Paper-I result and cut-offs for PET/PST", "hi": "पीईटी/पीएसटी के लिए पेपर-I परिणाम और कट-ऑफ" },
+   "source": "L11"
+  },
+  {
+   "id": "ssc-cpo-2025.notice-l7",
+   "date": "2026-04-21",
+   "type": "answer-key",
+   "title": { "en": "Paper-I final answer keys, response sheets and marks", "hi": "पेपर-I अंतिम उत्तर कुंजी, उत्तर पत्रक और अंक" },
+   "source": "L7"
+  },
+  {
+   "id": "ssc-cpo-2025.notice-a2",
+   "date": "2026-10-29",
+   "type": "result",
+   "title": { "en": "PET/PST result for Paper-II", "hi": "पेपर-II के लिए पीईटी/पीएसटी परिणाम" },
+   "source": "A2"
+  }
+ ],
+ "tables": [],
+ "pattern": []
+}

@@ -1,0 +1,305 @@
+{
+ "version": 1,
+ "id": "ssc-cgl-2025",
+ "exam": "ssc-cgl",
+ "year": 2025,
+ "name": { "en": "SSC CGL 2025", "hi": "SSC CGL 2025" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "S1": {
+   "title": { "en": "SSC CGL 2025 on sarkariresult.com", "hi": "SSC CGL 2025 on sarkariresult.com" },
+   "url": "https://www.sarkariresult.com/ssc/ssc-cgl-2025/",
+   "official": false,
+   "site": "sarkariresult.com"
+  },
+  "L1": {
+   "title": { "en": "Tier II Marks", "hi": "Tier II Marks" },
+   "url": "https://ssc.gov.in/login",
+   "official": true
+  },
+  "L2": {
+   "title": { "en": "Tier II Final Answer Key & Marks Notice", "hi": "Tier II Final Answer Key & Marks Notice" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/AnswerKeys/Final_writeup_17062026.pdf",
+   "official": true
+  },
+  "L3": {
+   "title": { "en": "Final Result Dt 14/05/2026 (List 1)", "hi": "Final Result Dt 14/05/2026 (List 1)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_1_14052026.pdf",
+   "official": true
+  },
+  "L4": {
+   "title": { "en": "Final Result Dt 14/05/2026 (List 2)", "hi": "Final Result Dt 14/05/2026 (List 2)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_2_14052026.pdf",
+   "official": true
+  },
+  "L5": {
+   "title": { "en": "Final Result Dt 14/05/2026 (List 3)", "hi": "Final Result Dt 14/05/2026 (List 3)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/cgle_LIST-3_08042026.pdf",
+   "official": true
+  },
+  "L6": {
+   "title": { "en": "Final Result Dt 14/05/2026 (Cutoff)", "hi": "Final Result Dt 14/05/2026 (Cutoff)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/LIST_3_14052026.pdf",
+   "official": true
+  },
+  "L7": {
+   "title": { "en": "Final Result Notice / Cutoff", "hi": "Final Result Notice / Cutoff" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_14052026.pdf",
+   "official": true
+  },
+  "L8": {
+   "title": { "en": "Result (List 1)", "hi": "Result (List 1)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/cgle_LIST-1_08042026.pdf",
+   "official": true
+  },
+  "L9": {
+   "title": { "en": "Result (List 2)", "hi": "Result (List 2)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/cgle_LIST-2_08042026.pdf",
+   "official": true
+  },
+  "L10": {
+   "title": { "en": "Result (Cutoff)", "hi": "Result (Cutoff)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Write%20up_FTRA%20CGLE%20Exam%202025_08042026.pdf",
+   "official": true
+  },
+  "A1": {
+   "title": { "en": "Corrigendum to examination notice", "hi": "परीक्षा सूचना का शुद्धिपत्र" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Corrigendum_25062025.pdf",
+   "date": "2025-06-25",
+   "official": true
+  },
+  "A2": {
+   "title": { "en": "Tier-II examination schedule", "hi": "टियर-II परीक्षा कार्यक्रम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/CGLE2025ImportantNoticedated19_12_2025.pdf",
+   "date": "2025-12-19",
+   "official": true
+  },
+  "A3": {
+   "title": { "en": "First round of tentative allocation and cut-offs", "hi": "अस्थायी आवंटन का प्रथम दौर और कट-ऑफ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Write%20up_FTRA%20CGLE%20Exam%202025_08042026.pdf",
+   "date": "2026-04-08",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-cgl-2025.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Application Begin", "hi": "Application Begin" },
+   "start": "2025-06-09",
+   "raw": "09/06/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
+   "start": "2025-07-04",
+   "raw": "04/07/2025 upto 11 PM Only",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Online Fee Payment Last Date", "hi": "Online Fee Payment Last Date" },
+   "start": "2025-07-05",
+   "raw": "05/07/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.correction",
+   "kind": "correction",
+   "label": { "en": "Correction Date", "hi": "Correction Date" },
+   "start": "2025-07-09",
+   "end": "2025-07-11",
+   "raw": "09-11 July 2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Exam Date Tier I", "hi": "Exam Date Tier I" },
+   "start": "2025-08-13",
+   "end": "2025-08-30",
+   "raw": "13-30 August 2025",
+   "tier": "tier-1",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.admit-card",
+   "kind": "admit-card",
+   "label": { "en": "Admit Card Available", "hi": "Admit Card Available" },
+   "raw": "Before Exam",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.exam-tier-2",
+   "kind": "exam",
+   "label": { "en": "Exam Date Tier II", "hi": "Exam Date Tier II" },
+   "start": "2026-01-18",
+   "end": "2026-01-19",
+   "raw": "18-19 January 2026",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.answer-key-tier-2",
+   "kind": "answer-key",
+   "label": { "en": "Tier II Answer Key Available", "hi": "Tier II Answer Key Available" },
+   "start": "2026-01-30",
+   "raw": "30/01/2026",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.other",
+   "kind": "other",
+   "label": { "en": "Option Form Filling Last Date", "hi": "Option Form Filling Last Date" },
+   "start": "2026-03-12",
+   "raw": "12/03/2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.result",
+   "kind": "result",
+   "label": { "en": "Final Result Declared", "hi": "Final Result Declared" },
+   "start": "2026-05-14",
+   "raw": "14/05/2026",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.final-answer-key-tier-2",
+   "kind": "final-answer-key",
+   "label": { "en": "Final Answer Key Tier II & Marks Released", "hi": "Final Answer Key Tier II & Marks Released" },
+   "start": "2026-06-17",
+   "raw": "17/06/2026",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-cgl-2025.vacancies",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "value": "14,582",
+   "num": 14582,
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.fee-1",
+   "kind": "fee",
+   "label": { "en": "General / OBC / EWS", "hi": "General / OBC / EWS" },
+   "value": "100/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.fee-2",
+   "kind": "fee",
+   "label": { "en": "SC / ST / PH", "hi": "SC / ST / PH" },
+   "value": "0/- (Nil)",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.fee-3",
+   "kind": "fee",
+   "label": { "en": "All Category Female", "hi": "All Category Female" },
+   "value": "0/- (Exempted)",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.fee-4",
+   "kind": "fee",
+   "label": { "en": "Correction Fee First Time", "hi": "Correction Fee First Time" },
+   "value": "200/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.fee-5",
+   "kind": "fee",
+   "label": { "en": "Correction Fee Second Time", "hi": "Correction Fee Second Time" },
+   "value": "500/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.age-as-on",
+   "kind": "age",
+   "label": { "en": "Age counted on", "hi": "आयु की गणना तिथि" },
+   "value": { "en": "1 Aug 2025", "hi": "1 अगस्त 2025" },
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.age-1",
+   "kind": "age",
+   "label": { "en": "Minimum Age", "hi": "Minimum Age" },
+   "value": "18 Years .",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.age-2",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "27-32 Years (Post Wise)",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-cgl-2025.notice-a1",
+   "date": "2025-06-25",
+   "type": "notice",
+   "title": { "en": "Corrigendum to examination notice", "hi": "परीक्षा सूचना का शुद्धिपत्र" },
+   "source": "A1"
+  },
+  {
+   "id": "ssc-cgl-2025.notice-a2",
+   "date": "2025-12-19",
+   "type": "notice",
+   "title": { "en": "Tier-II examination schedule", "hi": "टियर-II परीक्षा कार्यक्रम" },
+   "source": "A2"
+  },
+  {
+   "id": "ssc-cgl-2025.notice-a3",
+   "date": "2026-04-08",
+   "type": "result",
+   "title": { "en": "First round of tentative allocation and cut-offs", "hi": "अस्थायी आवंटन का प्रथम दौर और कट-ऑफ" },
+   "source": "A3"
+  },
+  {
+   "id": "ssc-cgl-2025.notice-l7",
+   "date": "2026-05-14",
+   "type": "result",
+   "title": { "en": "Final result and cut-offs", "hi": "अंतिम परिणाम और कट-ऑफ" },
+   "source": "L7"
+  },
+  {
+   "id": "ssc-cgl-2025.notice-l2",
+   "date": "2026-06-17",
+   "type": "answer-key",
+   "title": { "en": "Tier-II final answer keys, response sheets and marks", "hi": "टियर-II अंतिम उत्तर कुंजी, उत्तर पत्रक और अंक" },
+   "source": "L2"
+  }
+ ],
+ "tables": [],
+ "pattern": []
+}

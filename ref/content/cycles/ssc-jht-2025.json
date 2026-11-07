@@ -1,0 +1,186 @@
+{
+ "version": 1,
+ "id": "ssc-jht-2025",
+ "exam": "ssc-jht",
+ "year": 2025,
+ "name": { "en": "SSC JHT 2025", "hi": "SSC JHT 2025" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "S1": {
+   "title": { "en": "SSC JHT 2025 on sarkariresult.com", "hi": "SSC JHT 2025 on sarkariresult.com" },
+   "url": "https://www.sarkariresult.com/ssc/ssc-jht-2025/",
+   "official": false,
+   "site": "sarkariresult.com"
+  },
+  "L1": {
+   "title": { "en": "FRTA Result (Result)", "hi": "FRTA Result (Result)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/ROLL_05112026.pdf",
+   "official": true
+  },
+  "L2": {
+   "title": { "en": "FRTA Result (Cutoff)", "hi": "FRTA Result (Cutoff)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_05112026.pdf",
+   "official": true
+  },
+  "L3": {
+   "title": { "en": "Paper II Result (Result)", "hi": "Paper II Result (Result)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/ROLL_04062026.pdf",
+   "official": true
+  },
+  "L4": {
+   "title": { "en": "Paper II Result (Cutoff)", "hi": "Paper II Result (Cutoff)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_04062026.pdf",
+   "official": true
+  },
+  "A1": {
+   "title": { "en": "Combined Hindi Translators Examination notice", "hi": "संयुक्त हिंदी अनुवादक परीक्षा सूचना" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cht_2025.pdf.pdf",
+   "date": "2025-06-05",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-jht-2025.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Application Begin", "hi": "Application Begin" },
+   "start": "2025-06-05",
+   "raw": "05/06/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
+   "start": "2025-06-26",
+   "raw": "26/06/2025 upto 11 PM",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Pay Examination Fee Last Date", "hi": "Pay Examination Fee Last Date" },
+   "start": "2025-06-27",
+   "raw": "27/06/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.correction",
+   "kind": "correction",
+   "label": { "en": "Correction Date", "hi": "Correction Date" },
+   "start": "2025-07-01",
+   "end": "2025-07-02",
+   "raw": "01-02 July 2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.exam",
+   "kind": "exam",
+   "label": { "en": "Exam Date", "hi": "Exam Date" },
+   "start": "2025-08-12",
+   "raw": "12/08/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.admit-card",
+   "kind": "admit-card",
+   "label": { "en": "Admit Card Available", "hi": "Admit Card Available" },
+   "raw": "Before Exam",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.result-paper-2",
+   "kind": "result",
+   "label": { "en": "Paper II Result Available", "hi": "Paper II Result Available" },
+   "start": "2026-06-04",
+   "raw": "04/06/2026",
+   "tier": "paper-2",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.result",
+   "kind": "result",
+   "label": { "en": "FRTA Result Available", "hi": "FRTA Result Available" },
+   "start": "2026-11-05",
+   "raw": "05/11/2026",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-jht-2025.vacancies",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "value": "437",
+   "num": 437,
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.fee-1",
+   "kind": "fee",
+   "label": { "en": "General / OBC / EWS", "hi": "General / OBC / EWS" },
+   "value": "100/-",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.fee-2",
+   "kind": "fee",
+   "label": { "en": "SC / ST / PH / Female", "hi": "SC / ST / PH / Female" },
+   "value": "0/- (Nil)",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.age-1",
+   "kind": "age",
+   "label": { "en": "Minimum Age", "hi": "Minimum Age" },
+   "value": "18 Years",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.age-2",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "30 Years for Sub Inspector Hindi Translator As on 26/06/2025",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.age-3",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "30 Years for All Other Post As on 01/08/2025",
+   "verified": false,
+   "source": "S1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-jht-2025.notice-a1",
+   "date": "2025-06-05",
+   "type": "notice",
+   "title": { "en": "Combined Hindi Translators Examination notice", "hi": "संयुक्त हिंदी अनुवादक परीक्षा सूचना" },
+   "source": "A1"
+  },
+  {
+   "id": "ssc-jht-2025.notice-l4",
+   "date": "2026-06-04",
+   "type": "result",
+   "title": { "en": "Paper-II result and cut-offs for CRPF PET/PST", "hi": "सीआरपीएफ पीईटी/पीएसटी के लिए पेपर-II परिणाम और कट-ऑफ" },
+   "source": "L4"
+  }
+ ],
+ "tables": [],
+ "pattern": []
+}

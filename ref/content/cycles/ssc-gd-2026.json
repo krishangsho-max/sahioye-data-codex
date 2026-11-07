@@ -1,0 +1,561 @@
+{
+ "version": 1,
+ "id": "ssc-gd-2026",
+ "exam": "ssc-gd",
+ "year": 2026,
+ "name": { "en": "SSC GD Constable 2026", "hi": "SSC GD कांस्टेबल 2026" },
+ "lead": { "en": "Constable (GD) in CAPFs and SSF, and Rifleman (GD) in Assam Rifles, 2026. The computer based exam result is out; PET/PST dates are awaited.", "hi": "CAPF और SSF में कांस्टेबल (GD) तथा असम राइफल्स में राइफलमैन (GD), 2026। कंप्यूटर आधारित परीक्षा का परिणाम आ गया है; PET/PST की तिथियों का इंतज़ार है।" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "N1": {
+   "title": { "en": "GD 2026 notification", "hi": "GD 2026 अधिसूचना" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_CTGD_2026.pdf",
+   "date": "2025-12-01",
+   "official": true
+  },
+  "N2": {
+   "title": { "en": "Tentative vacancies", "hi": "अस्थायी रिक्तियाँ" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Tentative_Vacancy_08122025.pdf",
+   "date": "2025-12-08",
+   "official": true
+  },
+  "N3": {
+   "title": { "en": "Application deadline reminder", "hi": "आवेदन अंतिम तिथि अनुस्मारक" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_23122025.pdf",
+   "date": "2025-12-23",
+   "official": true
+  },
+  "N5": {
+   "title": { "en": "Correction window rescheduled", "hi": "सुधार विंडो का नया कार्यक्रम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_090126.pdf",
+   "date": "2026-01-09",
+   "official": true
+  },
+  "N6": {
+   "title": { "en": "Exam deferred", "hi": "परीक्षा स्थगित" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_17022026.pdf",
+   "date": "2026-02-17",
+   "official": true
+  },
+  "N7": {
+   "title": { "en": "Exam schedule and week preference", "hi": "परीक्षा कार्यक्रम और सप्ताह चयन" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/CTGD_2026_Notice_11042026.pdf",
+   "date": "2026-04-11",
+   "official": true
+  },
+  "N8": {
+   "title": { "en": "Exam city and admit cards", "hi": "परीक्षा शहर और प्रवेश पत्र" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/GD_26_NOTICE_19042026.pdf",
+   "date": "2026-04-19",
+   "official": true
+  },
+  "N11": {
+   "title": { "en": "Corrigendum: revised medical guidelines", "hi": "शुद्धिपत्र: संशोधित चिकित्सा दिशानिर्देश" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/corrigendum_29042026.pdf",
+   "date": "2026-04-29",
+   "official": true
+  },
+  "N12": {
+   "title": { "en": "Exam of 28 May moved to 27 May", "hi": "28 मई की परीक्षा 27 मई को" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_ctgd_22052026.pdf",
+   "date": "2026-05-22",
+   "official": true
+  },
+  "N13": {
+   "title": { "en": "Tentative answer key", "hi": "अस्थायी उत्तर कुंजी" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/tentative_answerkey_15062026.pdf",
+   "date": "2026-06-15",
+   "official": true
+  },
+  "N14": {
+   "title": { "en": "Exam result and PET/PST shortlist", "hi": "परीक्षा परिणाम और PET/PST सूची" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_12102026.pdf",
+   "date": "2026-10-12",
+   "official": true
+  },
+  "N15": {
+   "title": { "en": "Category status clarification", "hi": "श्रेणी स्थिति स्पष्टीकरण" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_23102026.pdf",
+   "date": "2026-10-23",
+   "official": true
+  },
+  "N16": {
+   "title": { "en": "Final answer key and marks", "hi": "अंतिम उत्तर कुंजी और अंक" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_03112026.pdf",
+   "date": "2026-11-03",
+   "official": true
+  },
+  "B2": {
+   "title": { "en": "SSC results page", "hi": "SSC परिणाम पेज" },
+   "url": "https://ssc.gov.in/home/candidate-result",
+   "official": true
+  },
+  "A1": {
+   "title": { "en": "Tentative examination schedule", "hi": "अस्थायी परीक्षा कार्यक्रम" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_020126.pdf",
+   "date": "2026-01-02",
+   "official": true
+  }
+ },
+ "dates": [
+  {
+   "id": "ssc-gd-2026.notification",
+   "kind": "notification",
+   "label": { "en": "Notification", "hi": "अधिसूचना" },
+   "start": "2025-12-01",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Apply online", "hi": "ऑनलाइन आवेदन" },
+   "start": "2025-12-01",
+   "end": "2025-12-31",
+   "note": { "en": "Closed 11 PM", "hi": "रात 11 बजे बंद" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last date to apply", "hi": "आवेदन की अंतिम तिथि" },
+   "start": "2025-12-31",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Last date for online fee", "hi": "ऑनलाइन शुल्क की अंतिम तिथि" },
+   "start": "2026-01-01",
+   "note": { "en": "11 PM", "hi": "रात 11 बजे" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.correction",
+   "kind": "correction",
+   "label": { "en": "Correction window (revised)", "hi": "सुधार विंडो (संशोधित)" },
+   "start": "2026-01-10",
+   "end": "2026-01-13",
+   "note": { "en": "Closed 11 PM", "hi": "रात 11 बजे बंद" },
+   "verified": true,
+   "source": "N5"
+  },
+  {
+   "id": "ssc-gd-2026.other",
+   "kind": "other",
+   "label": { "en": "Exam week preference", "hi": "परीक्षा सप्ताह चयन" },
+   "start": "2026-04-11",
+   "end": "2026-04-15",
+   "verified": true,
+   "source": "N7"
+  },
+  {
+   "id": "ssc-gd-2026.exam",
+   "kind": "exam",
+   "label": { "en": "Computer based exam", "hi": "कंप्यूटर आधारित परीक्षा" },
+   "start": "2026-04-27",
+   "end": "2026-05-30",
+   "note": { "en": "One SSC notice says it ended 31 May", "hi": "SSC की एक सूचना में 31 मई तक लिखा है" },
+   "verified": false,
+   "source": "N14"
+  },
+  {
+   "id": "ssc-gd-2026.answer-key",
+   "kind": "answer-key",
+   "label": { "en": "Tentative answer key and objections", "hi": "अस्थायी उत्तर कुंजी और आपत्ति" },
+   "start": "2026-06-15",
+   "end": "2026-06-20",
+   "note": { "en": "6 PM to 6 PM, ₹50 per question", "hi": "शाम 6 बजे से शाम 6 बजे, ₹50 प्रति प्रश्न" },
+   "verified": true,
+   "source": "N13"
+  },
+  {
+   "id": "ssc-gd-2026.result",
+   "kind": "result",
+   "label": { "en": "Exam result, PET/PST shortlist", "hi": "परीक्षा परिणाम, PET/PST सूची" },
+   "start": "2026-10-12",
+   "verified": true,
+   "source": "N14"
+  },
+  {
+   "id": "ssc-gd-2026.other-2",
+   "kind": "other",
+   "label": { "en": "Category status lists", "hi": "श्रेणी स्थिति सूचियाँ" },
+   "start": "2026-10-23",
+   "verified": true,
+   "source": "N15"
+  },
+  {
+   "id": "ssc-gd-2026.final-answer-key",
+   "kind": "final-answer-key",
+   "label": { "en": "Final answer key and marks online", "hi": "अंतिम उत्तर कुंजी और अंक ऑनलाइन" },
+   "start": "2026-11-03",
+   "end": "2026-11-17",
+   "note": { "en": "Till 5 PM", "hi": "शाम 5 बजे तक" },
+   "verified": true,
+   "source": "N16"
+  },
+  {
+   "id": "ssc-gd-2026.exam-pet",
+   "kind": "exam",
+   "label": { "en": "PET/PST", "hi": "PET/PST" },
+   "note": { "en": "Date not announced", "hi": "तिथि घोषित नहीं" },
+   "tier": "pet",
+   "verified": false,
+   "source": "N14"
+  },
+  {
+   "id": "ssc-gd-2026.document-verification",
+   "kind": "document-verification",
+   "label": { "en": "Medical exam", "hi": "चिकित्सा परीक्षा" },
+   "note": { "en": "Date not announced", "hi": "तिथि घोषित नहीं" },
+   "verified": false,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.result-2",
+   "kind": "result",
+   "label": { "en": "Final result", "hi": "अंतिम परिणाम" },
+   "note": { "en": "Not out yet", "hi": "अभी नहीं आया" },
+   "verified": false,
+   "source": "B2"
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-gd-2026.vacancies-total",
+   "kind": "vacancies",
+   "label": { "en": "Total", "hi": "कुल" },
+   "value": "25,487",
+   "short": "25,487",
+   "shortLabel": { "en": "Vacancies (tentative)", "hi": "रिक्तियाँ (अस्थायी)" },
+   "verified": true,
+   "source": "N2"
+  },
+  {
+   "id": "ssc-gd-2026.vacancies-male",
+   "kind": "vacancies",
+   "label": { "en": "Male", "hi": "पुरुष" },
+   "value": "23,467",
+   "verified": true,
+   "source": "N2"
+  },
+  {
+   "id": "ssc-gd-2026.vacancies-female",
+   "kind": "vacancies",
+   "label": { "en": "Female", "hi": "महिला" },
+   "value": "2,020",
+   "verified": true,
+   "source": "N2"
+  },
+  {
+   "id": "ssc-gd-2026.vacancies-revised-total",
+   "kind": "vacancies",
+   "label": { "en": "Revised total", "hi": "संशोधित कुल" },
+   "value": { "en": "Not published yet", "hi": "अभी जारी नहीं" },
+   "verified": false,
+   "source": "N2"
+  },
+  {
+   "id": "ssc-gd-2026.age",
+   "kind": "age",
+   "label": { "en": "Age", "hi": "आयु" },
+   "value": { "en": "18 to 23 years on 1 Jan 2026 (born 2 Jan 2003 to 1 Jan 2008)", "hi": "1 जनवरी 2026 को 18 से 23 वर्ष (जन्म 2 जनवरी 2003 से 1 जनवरी 2008)" },
+   "short": "18–23",
+   "shortLabel": { "en": "Age limit", "hi": "आयु सीमा" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.age-relaxation",
+   "kind": "age",
+   "label": { "en": "Age relaxation", "hi": "आयु छूट" },
+   "value": { "en": "SC/ST 5 years, OBC 3 years", "hi": "SC/ST 5 वर्ष, OBC 3 वर्ष" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.qualification",
+   "kind": "qualification",
+   "label": { "en": "Qualification", "hi": "योग्यता" },
+   "value": { "en": "10th pass by 1 Jan 2026", "hi": "1 जनवरी 2026 तक 10वीं पास" },
+   "short": { "en": "10th pass", "hi": "10वीं पास" },
+   "shortLabel": { "en": "Qualification", "hi": "योग्यता" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.fee",
+   "kind": "fee",
+   "label": { "en": "Fee", "hi": "शुल्क" },
+   "value": { "en": "₹100. No fee for women, SC, ST and eligible ex-servicemen.", "hi": "₹100। महिलाओं, SC, ST और पात्र पूर्व सैनिकों के लिए शुल्क नहीं।" },
+   "short": "₹100",
+   "shortLabel": { "en": "Fee", "hi": "शुल्क" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.pay",
+   "kind": "pay",
+   "label": { "en": "Pay", "hi": "वेतन" },
+   "value": { "en": "Level 3, ₹21,700 – 69,100", "hi": "लेवल 3, ₹21,700 – 69,100" },
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.physical-race-male",
+   "kind": "other",
+   "label": { "en": "Race, male", "hi": "दौड़, पुरुष" },
+   "value": { "en": "5 km in 24 min (Ladakh: 1.6 km in 7 min)", "hi": "24 मिनट में 5 किमी (लद्दाख: 7 मिनट में 1.6 किमी)" },
+   "section": "physical",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.physical-race-female",
+   "kind": "other",
+   "label": { "en": "Race, female", "hi": "दौड़, महिला" },
+   "value": { "en": "1.6 km in 8 min 30 s (Ladakh: 800 m in 5 min)", "hi": "8 मिनट 30 सेकंड में 1.6 किमी (लद्दाख: 5 मिनट में 800 मीटर)" },
+   "section": "physical",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.physical-height-general",
+   "kind": "other",
+   "label": { "en": "Height, general", "hi": "ऊँचाई, सामान्य" },
+   "value": { "en": "Male 170 cm, female 157 cm", "hi": "पुरुष 170 सेमी, महिला 157 सेमी" },
+   "section": "physical",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.physical-height-scheduled-tribes",
+   "kind": "other",
+   "label": { "en": "Height, Scheduled Tribes", "hi": "ऊँचाई, अनुसूचित जनजाति" },
+   "value": { "en": "Male 162.5 cm, female 150 cm (North East ST: 157 cm and 147.5 cm)", "hi": "पुरुष 162.5 सेमी, महिला 150 सेमी (पूर्वोत्तर ST: 157 सेमी और 147.5 सेमी)" },
+   "section": "physical",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.physical-other-relaxations",
+   "kind": "other",
+   "label": { "en": "Other relaxations", "hi": "अन्य छूट" },
+   "value": { "en": "More height and chest relaxations by region are in the notification.", "hi": "क्षेत्र अनुसार ऊँचाई और सीने की और छूट अधिसूचना में है।" },
+   "section": "physical",
+   "verified": true,
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.stages",
+   "kind": "stages",
+   "label": { "en": "Stages", "hi": "चरण" },
+   "value": { "en": "CBE, PET/PST, medical", "hi": "CBE, PET/PST, मेडिकल" },
+   "shortLabel": { "en": "Stages", "hi": "चरण" },
+   "verified": false,
+   "source": "N1"
+  }
+ ],
+ "notices": [
+  {
+   "id": "ssc-gd-2026.notice-n1",
+   "date": "2025-12-01",
+   "type": "notice",
+   "title": { "en": "GD 2026 notification", "hi": "GD 2026 अधिसूचना" },
+   "source": "N1"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n2",
+   "date": "2025-12-08",
+   "type": "notice",
+   "title": { "en": "Tentative vacancies", "hi": "अस्थायी रिक्तियाँ" },
+   "source": "N2"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n3",
+   "date": "2025-12-23",
+   "type": "notice",
+   "title": { "en": "Application deadline reminder", "hi": "आवेदन अंतिम तिथि अनुस्मारक" },
+   "source": "N3"
+  },
+  {
+   "id": "ssc-gd-2026.notice-a1",
+   "date": "2026-01-02",
+   "type": "notice",
+   "title": { "en": "Tentative examination schedule", "hi": "अस्थायी परीक्षा कार्यक्रम" },
+   "source": "A1"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n5",
+   "date": "2026-01-09",
+   "type": "notice",
+   "title": { "en": "Correction window rescheduled", "hi": "सुधार विंडो का नया कार्यक्रम" },
+   "source": "N5"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n6",
+   "date": "2026-02-17",
+   "type": "notice",
+   "title": { "en": "Exam deferred", "hi": "परीक्षा स्थगित" },
+   "source": "N6"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n7",
+   "date": "2026-04-11",
+   "type": "notice",
+   "title": { "en": "Exam schedule and week preference", "hi": "परीक्षा कार्यक्रम और सप्ताह चयन" },
+   "source": "N7"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n8",
+   "date": "2026-04-19",
+   "type": "admit-card",
+   "title": { "en": "Exam city and admit cards", "hi": "परीक्षा शहर और प्रवेश पत्र" },
+   "source": "N8"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n11",
+   "date": "2026-04-29",
+   "type": "notice",
+   "title": { "en": "Corrigendum: revised medical guidelines", "hi": "शुद्धिपत्र: संशोधित चिकित्सा दिशानिर्देश" },
+   "source": "N11"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n12",
+   "date": "2026-05-22",
+   "type": "notice",
+   "title": { "en": "Exam of 28 May moved to 27 May", "hi": "28 मई की परीक्षा 27 मई को" },
+   "source": "N12"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n13",
+   "date": "2026-06-15",
+   "type": "answer-key",
+   "title": { "en": "Tentative answer key", "hi": "अस्थायी उत्तर कुंजी" },
+   "source": "N13"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n14",
+   "date": "2026-10-12",
+   "type": "result",
+   "title": { "en": "Exam result and PET/PST shortlist", "hi": "परीक्षा परिणाम और PET/PST सूची" },
+   "source": "N14"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n15",
+   "date": "2026-10-23",
+   "type": "result",
+   "title": { "en": "Category status clarification", "hi": "श्रेणी स्थिति स्पष्टीकरण" },
+   "source": "N15"
+  },
+  {
+   "id": "ssc-gd-2026.notice-n16",
+   "date": "2026-11-03",
+   "type": "answer-key",
+   "title": { "en": "Final answer key and marks", "hi": "अंतिम उत्तर कुंजी और अंक" },
+   "source": "N16"
+  }
+ ],
+ "tables": [
+  {
+   "id": "ssc-gd-2026.vacancies",
+   "title": { "en": "Vacancies", "hi": "रिक्तियाँ" },
+   "head": [
+    { "en": "Force", "hi": "बल" },
+    { "en": "Male", "hi": "पुरुष" },
+    { "en": "Female", "hi": "महिला" },
+    { "en": "Total", "hi": "कुल" }
+   ],
+   "rows": [
+    [
+     "BSF",
+     "524",
+     "92",
+     "616"
+    ],
+    [
+     "CISF",
+     "13,135",
+     "1,460",
+     "14,595"
+    ],
+    [
+     "CRPF",
+     "5,366",
+     "124",
+     "5,490"
+    ],
+    [
+     "SSB",
+     "1,764",
+     "0",
+     "1,764"
+    ],
+    [
+     "ITBP",
+     "1,099",
+     "194",
+     "1,293"
+    ],
+    [
+     { "en": "Assam Rifles", "hi": "असम राइफल्स" },
+     "1,556",
+     "150",
+     "1,706"
+    ],
+    [
+     "SSF",
+     "23",
+     "0",
+     "23"
+    ]
+   ],
+   "note": { "en": "Tentative vacancies as of 8 Dec 2025. State-wise numbers are in the official PDF.", "hi": "8 दिसंबर 2025 तक की अस्थायी रिक्तियाँ। राज्यवार संख्या आधिकारिक PDF में है।" },
+   "verified": true,
+   "source": "N2"
+  }
+ ],
+ "pattern": [
+  {
+   "title": { "en": "Computer based exam (10th level)", "hi": "कंप्यूटर आधारित परीक्षा (10वीं स्तर)" },
+   "rows": [
+    {
+     "section": { "en": "General Intelligence and Reasoning", "hi": "सामान्य बुद्धि और तर्कशक्ति" },
+     "questions": 20,
+     "marks": 40
+    },
+    {
+     "section": { "en": "General Knowledge and General Awareness", "hi": "सामान्य ज्ञान और सामान्य जागरूकता" },
+     "questions": 20,
+     "marks": 40
+    },
+    {
+     "section": { "en": "Elementary Mathematics", "hi": "प्रारंभिक गणित" },
+     "questions": 20,
+     "marks": 40
+    },
+    {
+     "section": { "en": "English or Hindi", "hi": "अंग्रेज़ी या हिंदी" },
+     "questions": 20,
+     "marks": 40
+    }
+   ],
+   "minutes": 60,
+   "notes": [
+    { "en": "0.25 mark cut for each wrong answer.", "hi": "हर गलत उत्तर पर 0.25 अंक कटेगा।" },
+    { "en": "Paper in English, Hindi and 13 regional languages.", "hi": "पेपर अंग्रेज़ी, हिंदी और 13 क्षेत्रीय भाषाओं में।" }
+   ],
+   "source": "N1"
+  }
+ ],
+ "sections": [
+  {
+   "id": "physical",
+   "title": { "en": "Physical standards (PET/PST)", "hi": "शारीरिक मानक (PET/PST)" }
+  }
+ ]
+}

@@ -1,0 +1,428 @@
+{
+ "version": 1,
+ "id": "ssc-delhi-police-hc-awo-tpo-2026",
+ "exam": "ssc-delhi-police",
+ "year": 2026,
+ "name": { "en": "SSC Delhi Police Head Constable (AWO/TPO) 2026", "hi": "SSC दिल्ली पुलिस हेड कांस्टेबल (AWO/TPO) 2026" },
+ "lead": { "en": "SSC has not published the 2026 notification for the Head Constable (AWO/TPO) in Delhi Police Examination, 2026 (checked 7 Nov 2026), and it is not in SSC's 2026 calendar. Everything below is from the 2025 notice and is shown as tentative reference, not as a 2026 rule.", "hi": "SSC ने दिल्ली पुलिस में प्रधान सिपाही (AWO/TPO) परीक्षा, 2026 की की 2026 की अधिसूचना जारी नहीं की है (7 नवंबर 2026 को जाँचा) और यह SSC के 2026 कैलेंडर में भी नहीं है। नीचे सब कुछ 2025 की सूचना से है और अस्थायी संदर्भ के रूप में दिखाया गया है, 2026 के नियम के रूप में नहीं।" },
+ "updatedAt": "2026-11-07",
+ "sources": {
+  "S1": {
+   "title": { "en": "SSC notice board (checked 7 Nov 2026)", "hi": "SSC नोटिस बोर्ड (7 नवंबर 2026 को जाँचा)" },
+   "url": "https://ssc.gov.in/api/general-website/portal/notice-boards?page=1&limit=100&contentType=notice-boards&key=createdAt&order=DESC&isPaginationRequired=true&language=english&attributes=id,headline,examId,contentType,redirectUrl,startDate,endDate,language,createdAt",
+   "date": "2026-11-07",
+   "official": true
+  },
+  "S2": {
+   "title": { "en": "SSC exam calendar 2026", "hi": "SSC परीक्षा कैलेंडर 2026" },
+   "url": "https://ssc.gov.in/api/general-website/portal/ssc-calendar?page=1&limit=100&contentType=ssc-calendar&key=startDate&order=ASC&isPaginationRequired=false&language=english&attributes=id,headline,examId,contentType,startDate,endDate,language,createdAt",
+   "date": "2026-11-07",
+   "official": true
+  },
+  "S6": {
+   "title": { "en": "Head Constable (AWO/TPO) 2025 notice (reference)", "hi": "हेड कांस्टेबल (AWO/TPO) 2025 की सूचना (संदर्भ)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_DPHCT_2025.pdf",
+   "date": "2025-09-24",
+   "official": true
+  },
+  "S10": {
+   "title": { "en": "Head Constable (AWO/TPO) 2025 revised vacancies (25 Feb 2026)", "hi": "हेड कांस्टेबल (AWO/TPO) 2025 की संशोधित रिक्तियाँ (25 फरवरी 2026)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice4_25022026.pdf",
+   "date": "2026-02-25",
+   "official": true
+  }
+ },
+ "dates": [],
+ "sections": [
+  {
+   "id": "pemt",
+   "title": { "en": "Physical test (PE&MT), 2025 notice", "hi": "शारीरिक परीक्षा (PE&MT), 2025 की सूचना" }
+  },
+  {
+   "id": "skill",
+   "title": { "en": "Skill and computer tests, 2025 notice", "hi": "स्किल और कंप्यूटर टेस्ट, 2025 की सूचना" }
+  }
+ ],
+ "facts": [
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.status",
+   "kind": "other",
+   "label": { "en": "Is the 2026 notification out?", "hi": "क्या 2026 की अधिसूचना जारी हुई?" },
+   "value": "NO. As of 07.11.2026 there is no Notice of Examination for a 2026 Head Constable (AWO/TPO) in Delhi Police examination on ssc.gov.in.",
+   "verified": true,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.calendar",
+   "kind": "other",
+   "label": { "en": "Any official 2026 date?", "hi": "2026 की कोई आधिकारिक तिथि?" },
+   "value": "NO. Neither examination appears in the SSC examination calendar: the calendar API returns 13 records for 2026 and none of them is a Head Constable (Ministerial) or Head Constable (AWO/TPO) examination.",
+   "verified": true,
+   "source": "S2"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.vacancies-2025",
+   "kind": "vacancies",
+   "label": { "en": "Vacancies (2025 notice)", "hi": "रिक्तियाँ (2025 की सूचना)" },
+   "value": "552 at notification, revised to 443 on 25.02.2026.",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.age",
+   "kind": "age",
+   "label": { "en": "Age limit (2025 notice)", "hi": "आयु सीमा (2025 की सूचना)" },
+   "value": "18 to 27 years as on 01.07.2025 (candidates born not before 02.07.1998 and not later than 01.07.2007).",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.age-relaxation",
+   "kind": "age",
+   "label": { "en": "Age relaxation (2025 notice)", "hi": "आयु में छूट (2025 की सूचना)" },
+   "value": "SC/ST 5 years; OBC 3 years; Ex-Servicemen 3 years after deduction of military service rendered (as on the closing date); sportspersons of distinction 5 years (10 years for SC/ST); Delhi Police departmental candidates up to 40 (UR), 43 (OBC) and 45 (SC/ST) years; widows/ divorced/ judicially separated women who have not re-married up to 35 (UR/EWS), 38 (OBC) and 40 (SC/ST) years.",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.qualification",
+   "kind": "qualification",
+   "label": { "en": "Qualification (2025 notice)", "hi": "योग्यता (2025 की सूचना)" },
+   "value": "10+2 (Senior Secondary) passed from a recognised Board with Science & Mathematics as subjects, OR a National Trade Certificate (NTC) in the trade of Mechanic-cum-Operator Electronic Communication System. Professional attainments (qualifying): proficiency in computer operation — English word processing speed of 1000 key depressions in 15 minutes, and basic computer functions (opening/ closing of PC, printing, MS Office usage, saving & modification in typed text, paragraph setting & numbering, etc.).",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.pay",
+   "kind": "pay",
+   "label": { "en": "Pay (2025 notice)", "hi": "वेतन (2025 की सूचना)" },
+   "value": "Pay Level-4 (Rs. 25,500–81,100), Group 'C'.",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.fee",
+   "kind": "fee",
+   "label": { "en": "Application fee (2025 notice)", "hi": "आवेदन शुल्क (2025 की सूचना)" },
+   "value": "INR 100 (Rupees One Hundred only); women candidates and candidates belonging to SC, ST and eligible Ex-Servicemen are exempted; online payment only (BHIM UPI, Net Banking, Visa/ Master/ Maestro or RuPay debit card); non-refundable and non-adjustable.",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.stages",
+   "kind": "stages",
+   "label": { "en": "Stages (2025 notice)", "hi": "चरण (2025 की सूचना)" },
+   "value": "Four compulsory stages in order: (i) Computer Based Examination by SSC — 100 marks; (ii) PE&MT by the Delhi Police — qualifying; (iii) Trade Test by the Delhi Police — qualifying; (iv) Test of English Word Processing and Test of Basic Computer Functions (Proficiency in Computer Operation) by the Delhi Police — qualifying. The final merit list is prepared strictly on the basis of the CBE (100 marks) plus incentive/ bonus marks/ weightage, if any. A 15% Reserve Panel is also prepared.",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.qualifying-marks",
+   "kind": "other",
+   "label": { "en": "Qualifying marks and shortlisting (CBE) (2025 notice)", "hi": "अर्हक अंक और शॉर्टलिस्टिंग (CBE) (2025 की सूचना)" },
+   "value": "Minimum qualifying marks in the CBE (without NCC bonus): UR/ EWS 40%; SC/ ST/ OBC 35%; Ex-Servicemen 30%. Candidates are called for PE&MT up to 20 times the number of vacancies in each category. In the declared result the Commission lowered the minimum to 30% for EWS and 20% for SC/ ST/ OBC and ESM categories where the requisite number of candidates was not available.",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.bonus-tie-break",
+   "kind": "other",
+   "label": { "en": "Bonus marks and tie-break (2025 notice)", "hi": "बोनस अंक और टाई-ब्रेक (2025 की सूचना)" },
+   "value": "NCC 'C' 5%, 'B' 3%, 'A' 2% of the maximum marks (not for Ex-servicemen); Rashtriya Raksha University degree/ PG diploma — Distinction 5%, First Class 4%, Second Class 3%, Pass Class 2%; both granted only on production of original certificates at the PE&MT stage. Tie-break: older candidate → (if date of birth and CBE marks are also the same) alphabetical order of first names.",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.measurement",
+   "kind": "other",
+   "label": { "en": "Physical measurement (2025 notice)", "hi": "शारीरिक माप (2025 की सूचना)" },
+   "value": "Male: height 170 cm; chest 81–85 cm with a minimum 4 cm expansion. Female: height 157 cm. Relaxable by 5 cm for residents of hill areas (Garhwalis, Kumaonis, Gorkhas, Dogras, Marathas and candidates belonging to Sikkim, Nagaland, Arunachal Pradesh, Manipur, Tripura, Mizoram, Meghalaya, Assam, Himachal Pradesh, Kashmir and Leh & Ladakh regions of J&K) and for sons/ daughters of serving, retired or deceased Delhi Police personnel/ Multi-Tasking Staff.",
+   "section": "pemt",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.medical",
+   "kind": "other",
+   "label": { "en": "Medical standard (2025 notice)", "hi": "चिकित्सा मानक (2025 की सूचना)" },
+   "value": "Sound health, free from disease, defect or deformity; better eye 6/6 without glasses, worse eye 6/36 corrected with glasses to 6/9 or 6/12 without glasses (both eyes), and free from colour blindness.",
+   "section": "pemt",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.trade-test",
+   "kind": "other",
+   "label": { "en": "Trade test (reading and dictation) (2025 notice)", "hi": "ट्रेड टेस्ट (पठन और डिक्टेशन) (2025 की सूचना)" },
+   "value": "Compulsory and qualifying for candidates who qualify PE&MT; those who do not appear or do not pass stand disqualified. Dictation is given in groups in both Hindi and English — more than 50% mistakes in Hindi or English dictation disqualifies the candidate; the reading test requires reading a passage in both Hindi and English and is videographed. An Appellate Board considers appeals against the Trade Test.",
+   "section": "skill",
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.computer-proficiency",
+   "kind": "other",
+   "label": { "en": "Test of proficiency in computer operation (2025 notice)", "hi": "कंप्यूटर संचालन दक्षता परीक्षण (2025 की सूचना)" },
+   "value": "Qualifying, for candidates who pass the Trade Test. (i) English word processing speed — 1000 key depressions in 15 minutes, on a printed English passage of 200 words entered in MS Word; 1 word is deducted for each mistake and a candidate making 25 mistakes or more is disqualified. (ii) Test of Basic Computer Functions — 5 minutes each for MS-Word, MS-PowerPoint and MS-Excel with 10 listed formatting features per test at half a mark each (5 marks per test); at least 3 marks in each test are required to qualify; editing tools may be used.",
+   "section": "skill",
+   "verified": false,
+   "source": "S6"
+  }
+ ],
+ "notices": [],
+ "tables": [
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.vacancies",
+   "title": { "en": "Vacancies in the 2025 notice (reference)", "hi": "2025 की सूचना की रिक्तियाँ (संदर्भ)" },
+   "head": [
+    { "en": "Group", "hi": "वर्ग" },
+    { "en": "UR", "hi": "UR" },
+    { "en": "EWS", "hi": "EWS" },
+    { "en": "OBC", "hi": "OBC" },
+    { "en": "SC", "hi": "SC" },
+    { "en": "ST", "hi": "ST" },
+    { "en": "Total", "hi": "कुल" }
+   ],
+   "rows": [
+    [
+     { "en": "At notification: Male (open)", "hi": "अधिसूचना पर: पुरुष (ओपन)" },
+     126,
+     29,
+     76,
+     33,
+     21,
+     285
+    ],
+    [
+     { "en": "At notification: Male (ex-servicemen)", "hi": "अधिसूचना पर: पुरुष (पूर्व सैनिक)" },
+     16,
+     4,
+     9,
+     11,
+     9,
+     49
+    ],
+    [
+     { "en": "At notification: Male (departmental)", "hi": "अधिसूचना पर: पुरुष (विभागीय)" },
+     16,
+     4,
+     9,
+     4,
+     3,
+     36
+    ],
+    [
+     { "en": "At notification: Total male", "hi": "अधिसूचना पर: कुल पुरुष" },
+     158,
+     37,
+     94,
+     48,
+     33,
+     370
+    ],
+    [
+     { "en": "At notification: Female (open)", "hi": "अधिसूचना पर: महिला (ओपन)" },
+     70,
+     16,
+     42,
+     21,
+     14,
+     163
+    ],
+    [
+     { "en": "At notification: Female (departmental)", "hi": "अधिसूचना पर: महिला (विभागीय)" },
+     8,
+     2,
+     5,
+     2,
+     2,
+     19
+    ],
+    [
+     { "en": "At notification: Total female", "hi": "अधिसूचना पर: कुल महिला" },
+     78,
+     18,
+     47,
+     23,
+     16,
+     182
+    ],
+    [
+     { "en": "At notification: Grand total", "hi": "अधिसूचना पर: कुल योग" },
+     "–",
+     "–",
+     "–",
+     "–",
+     "–",
+     552
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Male (open)", "hi": "संशोधित (25 फरवरी 2026): पुरुष (ओपन)" },
+     100,
+     24,
+     63,
+     25,
+     14,
+     226
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Male (departmental)", "hi": "संशोधित (25 फरवरी 2026): पुरुष (विभागीय)" },
+     13,
+     3,
+     8,
+     3,
+     2,
+     29
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Male (ex-servicemen)", "hi": "संशोधित (25 फरवरी 2026): पुरुष (पूर्व सैनिक)" },
+     13,
+     3,
+     8,
+     10,
+     8,
+     42
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Total male", "hi": "संशोधित (25 फरवरी 2026): कुल पुरुष" },
+     126,
+     30,
+     79,
+     38,
+     24,
+     297
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Female (open)", "hi": "संशोधित (25 फरवरी 2026): महिला (ओपन)" },
+     56,
+     13,
+     35,
+     17,
+     11,
+     132
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Female (departmental)", "hi": "संशोधित (25 फरवरी 2026): महिला (विभागीय)" },
+     6,
+     1,
+     4,
+     2,
+     1,
+     14
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Total female", "hi": "संशोधित (25 फरवरी 2026): कुल महिला" },
+     62,
+     14,
+     39,
+     19,
+     12,
+     146
+    ],
+    [
+     { "en": "Revised (25 Feb 2026): Grand total", "hi": "संशोधित (25 फरवरी 2026): कुल योग" },
+     "–",
+     "–",
+     "–",
+     "–",
+     "–",
+     443
+    ]
+   ],
+   "note": { "en": "2025 vacancies, not 2026 figures. SSC publishes the vacancies as reported by Delhi Police.", "hi": "2025 की रिक्तियाँ, 2026 के आँकड़े नहीं। SSC रिक्तियाँ वैसे ही छापता है जैसी दिल्ली पुलिस बताती है।" },
+   "verified": false,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.pemt-endurance",
+   "title": { "en": "Physical Endurance Test, 2025 notice (reference)", "hi": "शारीरिक सहनशक्ति परीक्षा, 2025 की सूचना (संदर्भ)" },
+   "head": [
+    { "en": "Candidate", "hi": "उम्मीदवार" },
+    { "en": "Race", "hi": "दौड़" },
+    { "en": "Long jump", "hi": "लंबी कूद" },
+    { "en": "High jump", "hi": "ऊँची कूद" }
+   ],
+   "rows": [
+    [
+     { "en": "Male, up to 30 years", "hi": "पुरुष, 30 वर्ष तक" },
+     "1600 m in 7 minutes",
+     "12 feet 6 inches",
+     "3 feet 6 inches"
+    ],
+    [
+     { "en": "Male, above 30 to 40 years", "hi": "पुरुष, 30 से 40 वर्ष" },
+     "1600 m in 8 minutes",
+     "11 feet 6 inches",
+     "3 feet 3 inches"
+    ],
+    [
+     { "en": "Male, above 40 years", "hi": "पुरुष, 40 वर्ष से अधिक" },
+     "1600 m in 9 minutes",
+     "10 feet 6 inches",
+     "3 feet"
+    ],
+    [
+     { "en": "Female, up to 30 years", "hi": "महिला, 30 वर्ष तक" },
+     "800 m in 5 minutes",
+     "9 feet",
+     "3 feet"
+    ],
+    [
+     { "en": "Female, above 30 to 40 years", "hi": "महिला, 30 से 40 वर्ष" },
+     "800 m in 6 minutes",
+     "8 feet",
+     "2 feet 6 inches"
+    ],
+    [
+     { "en": "Female, above 40 years", "hi": "महिला, 40 वर्ष से अधिक" },
+     "800 m in 7 minutes",
+     "7 feet",
+     "2 feet 3 inches"
+    ]
+   ],
+   "note": { "en": "Only candidates who qualify the race attempt the long jump, then the high jump.", "hi": "केवल दौड़ में सफल उम्मीदवार लंबी कूद और फिर ऊँची कूद देते हैं।" },
+   "verified": false,
+   "source": "S6"
+  }
+ ],
+ "pattern": [
+  {
+   "title": { "en": "Computer based exam, 2025 pattern (reference)", "hi": "कंप्यूटर आधारित परीक्षा, 2025 का पैटर्न (संदर्भ)" },
+   "rows": [
+    {
+     "section": { "en": "Part A: General Awareness", "hi": "भाग A: सामान्य जागरूकता" },
+     "questions": 20,
+     "marks": 20
+    },
+    {
+     "section": { "en": "Part B: General Science", "hi": "भाग B: सामान्य विज्ञान" },
+     "questions": 25,
+     "marks": 25
+    },
+    {
+     "section": { "en": "Part C: Mathematics", "hi": "भाग C: गणित" },
+     "questions": 25,
+     "marks": 25
+    },
+    {
+     "section": { "en": "Part D: Reasoning", "hi": "भाग D: तर्कशक्ति" },
+     "questions": 20,
+     "marks": 20
+    },
+    {
+     "section": { "en": "Part E: Computer Fundamentals, MS Excel, MS Word, Communication, Internet, WWW and Web Browsers, etc.", "hi": "भाग E: कंप्यूटर की बुनियादी बातें, MS Excel, MS Word, संचार, इंटरनेट, WWW और वेब ब्राउज़र आदि" },
+     "questions": 10,
+     "marks": 10
+    }
+   ],
+   "minutes": 90,
+   "notes": [
+    { "en": "One objective multiple-choice paper. 0.25 mark is cut for each wrong answer.", "hi": "एक वस्तुनिष्ठ बहुविकल्पीय प्रश्नपत्र। हर गलत उत्तर पर 0.25 अंक कटेगा।" },
+    { "en": "In Hindi and English only, 12th level.", "hi": "केवल हिंदी और अंग्रेज़ी में, 12वीं स्तर।" },
+    { "en": "Scores from several shifts are normalised as per SSC's notice of 2 June 2025.", "hi": "कई शिफ्टों के अंक SSC की 2 जून 2025 की सूचना के अनुसार नॉर्मलाइज़ होते हैं।" },
+    { "en": "This is the 2025 pattern. SSC has not published the 2026 notice.", "hi": "यह 2025 का पैटर्न है। SSC ने 2026 की सूचना जारी नहीं की है।" }
+   ],
+   "source": "S6"
+  }
+ ]
+}
