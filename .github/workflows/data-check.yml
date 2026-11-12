@@ -34,8 +34,8 @@ jobs:
         with:
           node-version: 22
 
-      - name: Only cycles/*.json, named after the cycle
-        run: node checks/check-data-pr.mjs --dir cycles --strict --base origin/main
+      - name: Only cycles/*.json (named after the cycle) and catalog/<board>-exams.json
+        run: node checks/check-data-pr.mjs --dir cycles --catalog-dir catalog --strict --base origin/main
 
       - name: Format and sources (importer dry run)
         run: |
@@ -44,7 +44,7 @@ jobs:
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
           status=0
-          node checks/import-cycles.mjs --dry --inbox cycles --content ref/content | tee -a "$GITHUB_STEP_SUMMARY" || status=$?
+          node checks/import-cycles.mjs --dry --inbox cycles --catalog catalog --content ref/content | tee -a "$GITHUB_STEP_SUMMARY" || status=$?
           echo '```' >> "$GITHUB_STEP_SUMMARY"
           exit $status
 

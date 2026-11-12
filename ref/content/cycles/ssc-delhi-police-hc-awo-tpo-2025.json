@@ -4,7 +4,7 @@
  "exam": "ssc-delhi-police",
  "year": 2025,
  "name": { "en": "SSC Delhi Police Head Constable (AWO/TPO) 2025", "hi": "SSC Delhi Police Head Constable (AWO/TPO) 2025" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC Delhi Police Head Constable (AWO/TPO) 2025 on sarkariresult.com", "hi": "SSC Delhi Police Head Constable (AWO/TPO) 2025 on sarkariresult.com" },
@@ -77,14 +77,20 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_DPHCT_2025.pdf",
    "official": true
   },
-  "A1": {
-   "title": { "en": "Revised correction windows for Delhi Police examinations", "hi": "दिल्ली पुलिस परीक्षाओं के लिए संशोधित सुधार विंडो" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/important_notice_22102025.pdf",
-   "date": "2025-10-22",
+  "P1": {
+   "title": { "en": "Self-Slot Selection by the candidates for Constable (Driver)-Male in Delhi Police Examination, 2025; Head Constable (Ministerial) in Delhi Police Exam, 2025; Head Constable {Assistant Wireless Operator (AWO)/ Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025; and Constable (Executive) Male and Female in Delhi Police Examination, 2025 – reg.", "hi": "Self-Slot Selection by the candidates for Constable (Driver)-Male in Delhi Police Examination, 2025; Head Constable (Ministerial) in Delhi Police Exam, 2025; Head Constable {Assistant Wireless Operator (AWO)/ Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025; and Constable (Executive) Male and Female in Delhi Police Examination, 2025 – reg." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/self%20slot%20notice%20for%20DP(1).pdf",
+   "date": "2025-12-04",
    "official": true
   },
-  "A2": {
-   "title": { "en": "Head Constable AWO/TPO computer-based examination result and cut-offs", "hi": "हेड कांस्टेबल एडब्ल्यूओ/टीपीओ कंप्यूटर आधारित परीक्षा परिणाम और कट-ऑफ" },
+  "P2": {
+   "title": { "en": "INSTRUCTIONS REGARDING PRINT/DOWNLOAD OF ADMIT CARD OF DELHI POLICE CONSTABLE EXECUTIVE EXAM – 2025", "hi": "INSTRUCTIONS REGARDING PRINT/DOWNLOAD OF ADMIT CARD OF DELHI POLICE CONSTABLE EXECUTIVE EXAM – 2025" },
+   "url": "https://sscnr.nic.in/newlook/downloads/2026/ImportantNotice/Instruction.pdf",
+   "date": "2026-09-18",
+   "official": true
+  },
+  "P3": {
+   "title": { "en": "Head Constable {Assistant Wireless Operator (AWO)/Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test – reg.", "hi": "Head Constable {Assistant Wireless Operator (AWO)/Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test – reg." },
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Write_up_DPHCT_2025_CBE.pdf",
    "date": "2026-05-29",
    "official": true
@@ -96,32 +102,27 @@
    "kind": "apply-start",
    "label": { "en": "Application Begin", "hi": "Application Begin" },
    "start": "2025-09-24",
-   "verified": true,
-   "source": "L13"
-  },
-  {
-   "id": "ssc-delhi-police-hc-awo-tpo-2025.notification",
-   "kind": "notification",
-   "label": { "en": "Notification", "hi": "अधिसूचना" },
-   "start": "2025-09-24",
-   "verified": true,
-   "source": "L13"
+   "raw": "24/09/2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-hc-awo-tpo-2025.apply-end",
    "kind": "apply-end",
    "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
    "start": "2025-10-15",
-   "verified": true,
-   "source": "L13"
+   "raw": "15/10/2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-hc-awo-tpo-2025.fee-end",
    "kind": "fee-end",
    "label": { "en": "Last Date Pay Exam Fee", "hi": "Last Date Pay Exam Fee" },
    "start": "2025-10-16",
-   "verified": true,
-   "source": "L13"
+   "raw": "16/10/2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-hc-awo-tpo-2025.correction",
@@ -129,8 +130,9 @@
    "label": { "en": "Correction Date", "hi": "Correction Date" },
    "start": "2025-10-23",
    "end": "2025-10-25",
-   "verified": true,
-   "source": "L13"
+   "raw": "23-25 October 2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-hc-awo-tpo-2025.other",
@@ -141,6 +143,15 @@
    "raw": "05 to 10 December 2025",
    "verified": false,
    "source": "S1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.city-slip",
+   "kind": "city-slip",
+   "label": { "en": "Exam city slip", "hi": "परीक्षा शहर पर्ची" },
+   "start": "2025-12-05",
+   "end": "2026-01-15",
+   "verified": true,
+   "source": "P1"
   },
   {
    "id": "ssc-delhi-police-hc-awo-tpo-2025.exam",
@@ -159,6 +170,16 @@
    "raw": "Before Exam",
    "verified": false,
    "source": "S1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2026-01-15",
+   "end": "2026-01-22",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P1"
   },
   {
    "id": "ssc-delhi-police-hc-awo-tpo-2025.answer-key",
@@ -199,81 +220,298 @@
    "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-hc-awo-tpo-2025.age",
-   "kind": "age",
-   "label": { "en": "Age limit (as on 1 Jul 2025)", "hi": "आयु सीमा (1 जुलाई 2025 तक)" },
-   "value": "18–27",
-   "verified": true,
-   "source": "L13"
-  },
-  {
-   "id": "ssc-delhi-police-hc-awo-tpo-2025.age-relaxation",
-   "kind": "age",
-   "label": { "en": "Age relaxation", "hi": "आयु में छूट" },
-   "value": { "en": "SC/ST: 5 years, OBC: 3 years, Ex-Servicemen (ESM): 3 years, Sportsmen/sportswomen: 5 years (10 years for SC/ST), Departmental candidates of Delhi Police: up to 40 years (UR/EWS), 43 years (OBC), 45 years (SC/ST), Widows/divorced women: up to 35 years (UR/EWS), 38 years (OBC), 40 years (SC/ST)", "hi": "SC/ST: 5 years, OBC: 3 years, Ex-Servicemen (ESM): 3 years, Sportsmen/sportswomen: 5 years (10 years for SC/ST), Departmental candidates of Delhi Police: up to 40 years (UR/EWS), 43 years (OBC), 45 years (SC/ST), Widows/divorced women: up to 35 years (UR/EWS), 38 years (OBC), 40 years (SC/ST)" },
-   "verified": false,
-   "source": "L13"
-  },
-  {
-   "id": "ssc-delhi-police-hc-awo-tpo-2025.fee",
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.fee-1",
    "kind": "fee",
-   "label": { "en": "Application fee", "hi": "आवेदन शुल्क" },
-   "value": "₹100",
-   "num": 100,
-   "verified": true,
-   "source": "L13"
+   "label": { "en": "General / OBC / EWS", "hi": "General / OBC / EWS" },
+   "value": "1 00/-",
+   "verified": false,
+   "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-hc-awo-tpo-2025.fee-exempt",
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.fee-2",
    "kind": "fee",
-   "label": { "en": "Fee exempt for", "hi": "इनके लिए शुल्क माफ़" },
-   "value": { "en": "Women candidates and candidates belonging to Scheduled Castes (SC), Scheduled Tribes (ST) and Ex-Servicemen (ESM) eligible for reservation", "hi": "Women candidates and candidates belonging to Scheduled Castes (SC), Scheduled Tribes (ST) and Ex-Servicemen (ESM) eligible for reservation" },
-   "verified": true,
-   "source": "L13"
+   "label": { "en": "SC / ST", "hi": "SC / ST" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-hc-awo-tpo-2025.qualification",
-   "kind": "qualification",
-   "label": { "en": "Qualification", "hi": "योग्यता" },
-   "value": { "en": "10+2 (Senior Secondary) pass from a recognized Board with Science & Mathematics as subjects; OR National Trade Certificate (NTC) in the trade of Mechanic-cum-Operator Electronic Communication System.", "hi": "10+2 (Senior Secondary) pass from a recognized Board with Science & Mathematics as subjects; OR National Trade Certificate (NTC) in the trade of Mechanic-cum-Operator Electronic Communication System." },
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.fee-3",
+   "kind": "fee",
+   "label": { "en": "All Category Female", "hi": "All Category Female" },
+   "value": "0/-",
    "verified": false,
-   "source": "L13"
+   "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-hc-awo-tpo-2025.stages",
-   "kind": "stages",
-   "label": { "en": "Exam stages", "hi": "परीक्षा चरण" },
-   "value": { "en": "Computer Based Examination by SSC → Physical Endurance and Measurement Tests (PE&MT) by Delhi Police → Trade Test by Delhi Police → Test of English Word Processing & Basic Computer Functions by Delhi Police → Document Verification", "hi": "Computer Based Examination by SSC → Physical Endurance and Measurement Tests (PE&MT) by Delhi Police → Trade Test by Delhi Police → Test of English Word Processing & Basic Computer Functions by Delhi Police → Document Verification" },
-   "short": "5",
-   "shortLabel": { "en": "Stages", "hi": "चरण" },
-   "num": 5,
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.age-as-on",
+   "kind": "age",
+   "label": { "en": "Age counted on", "hi": "आयु की गणना तिथि" },
+   "value": { "en": "1 Jul 2025", "hi": "1 जुलाई 2025" },
    "verified": false,
-   "source": "L13"
+   "source": "S1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.age-1",
+   "kind": "age",
+   "label": { "en": "Minimum Age", "hi": "Minimum Age" },
+   "value": "18 Years",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.age-2",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "27 Years",
+   "verified": false,
+   "source": "S1"
   }
  ],
  "notices": [
   {
-   "id": "ssc-delhi-police-hc-awo-tpo-2025.notice-l13",
-   "date": "2025-09-24",
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.notice-p1",
+   "date": "2025-12-04",
    "type": "notice",
-   "title": { "en": "Head Constable AWO/TPO in Delhi Police Examination notice", "hi": "दिल्ली पुलिस में हेड कांस्टेबल एडब्ल्यूओ/टीपीओ परीक्षा सूचना" },
-   "source": "L13"
+   "title": { "en": "Self-slot selection for Delhi Police exams 2025 (incl. HC AWO/TPO)", "hi": "दिल्ली पुलिस परीक्षा, 2025 (HC AWO/TPO सहित) हेतु स्वयं-स्लॉट चयन" },
+   "source": "P1"
   },
   {
-   "id": "ssc-delhi-police-hc-awo-tpo-2025.notice-a1",
-   "date": "2025-10-22",
-   "type": "notice",
-   "title": { "en": "Revised correction windows for Delhi Police examinations", "hi": "दिल्ली पुलिस परीक्षाओं के लिए संशोधित सुधार विंडो" },
-   "source": "A1"
-  },
-  {
-   "id": "ssc-delhi-police-hc-awo-tpo-2025.notice-a2",
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.notice-p3",
    "date": "2026-05-29",
-   "type": "result",
-   "title": { "en": "Head Constable AWO/TPO computer-based examination result and cut-offs", "hi": "हेड कांस्टेबल एडब्ल्यूओ/टीपीओ कंप्यूटर आधारित परीक्षा परिणाम और कट-ऑफ" },
-   "source": "A2"
+   "type": "cut-off",
+   "title": { "en": "HCT AWO/TPO Delhi Police 2025: CBE result with category-wise cut-off marks", "hi": "हेड कांस्टेबल (AWO/TPO) दिल्ली पुलिस परीक्षा, 2025: श्रेणीवार कट-ऑफ अंकों सहित सीबीई परिणाम" },
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.notice-p2",
+   "date": "2026-09-18",
+   "type": "admit-card",
+   "title": { "en": "Instructions regarding print/download of admit card, Delhi Police HC (AWO/TPO) 2025", "hi": "दिल्ली पुलिस हेड कांस्टेबल (AWO/TPO) परीक्षा, 2025 का एडमिट कार्ड प्रिंट/डाउनलोड करने हेतु निर्देश" },
+   "source": "P2"
   }
  ],
- "tables": [],
+ "tables": [
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.cut-offs",
+   "title": { "en": "CBE cut-off marks: Female (Open)", "hi": "सीबीई कट-ऑफ अंक: महिला (ओपन)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     70.35837,
+     317
+    ],
+    [
+     "SC",
+     57.70397,
+     384
+    ],
+    [
+     "ST",
+     51.11629,
+     230
+    ],
+    [
+     "OBC",
+     67.39898,
+     756
+    ],
+    [
+     "UR",
+     70.57558,
+     346
+    ],
+    [
+     "Total",
+     "",
+     2033
+    ]
+   ],
+   "note": { "en": "List-I: Female candidates qualified for PE&MT/ DV/ Trade Test in Open category. In addition to the UR candidates shown, 299 EWS, 44 SC, 9 ST and 426 OBC candidates qualifying at UR cut-off and within UR age limit are shown under their respective categories. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-I: ओपन श्रेणी की महिला अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। ऊपर दिखाए UR अभ्यर्थियों के अतिरिक्त, UR कट-ऑफ पर योग्य और UR आयु सीमा के भीतर वाले 299 EWS, 44 SC, 9 ST और 426 OBC अभ्यर्थी अपनी श्रेणियों में दिखाए गए हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.cut-offs-male-open",
+   "title": { "en": "CBE cut-off marks: Male (Open)", "hi": "सीबीई कट-ऑफ अंक: पुरुष (ओपन)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     78.50865,
+     587
+    ],
+    [
+     "SC",
+     70.95898,
+     564
+    ],
+    [
+     "ST",
+     67.24154,
+     293
+    ],
+    [
+     "OBC",
+     77.42887,
+     1364
+    ],
+    [
+     "UR",
+     79.21073,
+     568
+    ],
+    [
+     "Total",
+     "",
+     3376
+    ]
+   ],
+   "note": { "en": "List-II: Male candidates qualified for PE&MT/ DV/ Trade Test in Open category. In addition to the UR candidates shown, 511 EWS, 64 SC, 13 ST and 858 OBC candidates qualifying at UR cut-off and within UR age limit are shown under their respective categories. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-II: ओपन श्रेणी के पुरुष अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। ऊपर दिखाए UR अभ्यर्थियों के अतिरिक्त, UR कट-ऑफ पर योग्य और UR आयु सीमा के भीतर वाले 511 EWS, 64 SC, 13 ST और 858 OBC अभ्यर्थी अपनी श्रेणियों में दिखाए गए हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.cut-offs-male-esm",
+   "title": { "en": "CBE cut-off marks: Male (ESM)", "hi": "सीबीई कट-ऑफ अंक: पुरुष (ESM)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     28.80536,
+     29
+    ],
+    [
+     "SC",
+     21.14149,
+     43
+    ],
+    [
+     "ST",
+     20.08718,
+     8
+    ],
+    [
+     "OBC",
+     41.00227,
+     160
+    ],
+    [
+     "UR",
+     45.07721,
+     261
+    ],
+    [
+     "Total",
+     "",
+     501
+    ]
+   ],
+   "note": { "en": "List-III: Male ESM candidates qualified for PE&MT/ DV/ Trade Test. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-III: पुरुष ESM अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.cut-offs-female-departmental",
+   "title": { "en": "CBE cut-off marks: Female (Departmental)", "hi": "सीबीई कट-ऑफ अंक: महिला (विभागीय)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     46.08406,
+     26
+    ],
+    [
+     "SC",
+     35.01006,
+     44
+    ],
+    [
+     "ST",
+     33.25453,
+     12
+    ],
+    [
+     "OBC",
+     50.69521,
+     86
+    ],
+    [
+     "UR",
+     56.7568,
+     45
+    ],
+    [
+     "Total",
+     "",
+     213
+    ]
+   ],
+   "note": { "en": "List-IV: Female Departmental candidates qualified for PE&MT/ DV/ Trade Test. In addition to the UR candidates shown, 14 EWS, 4 SC, 4 ST and 53 OBC candidates qualifying at UR cut-off and within UR age limit are shown under their respective categories. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-IV: महिला विभागीय अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। ऊपर दिखाए UR अभ्यर्थियों के अतिरिक्त, UR कट-ऑफ पर योग्य और UR आयु सीमा के भीतर वाले 14 EWS, 4 SC, 4 ST और 53 OBC अभ्यर्थी अपनी श्रेणियों में दिखाए गए हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2025.cut-offs-male-departmental",
+   "title": { "en": "CBE cut-off marks: Male (Departmental)", "hi": "सीबीई कट-ऑफ अंक: पुरुष (विभागीय)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     39.72452,
+     44
+    ],
+    [
+     "SC",
+     24.41848,
+     85
+    ],
+    [
+     "ST",
+     20.23595,
+     33
+    ],
+    [
+     "OBC",
+     42.44947,
+     173
+    ],
+    [
+     "UR",
+     54.6082,
+     85
+    ],
+    [
+     "Total",
+     "",
+     420
+    ]
+   ],
+   "note": { "en": "List-V: Male Departmental candidates qualified for PE&MT/ DV/ Trade Test. In addition to the UR candidates shown, 36 EWS, 25 SC, 5 ST and 109 OBC candidates qualifying at UR cut-off and within UR age limit are shown under their respective categories. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-V: पुरुष विभागीय अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। ऊपर दिखाए UR अभ्यर्थियों के अतिरिक्त, UR कट-ऑफ पर योग्य और UR आयु सीमा के भीतर वाले 36 EWS, 25 SC, 5 ST और 109 OBC अभ्यर्थी अपनी श्रेणियों में दिखाए गए हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P3"
+  }
+ ],
  "pattern": []
 }

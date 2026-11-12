@@ -4,7 +4,7 @@
  "exam": "ssc-jht",
  "year": 2025,
  "name": { "en": "SSC JHT 2025", "hi": "SSC JHT 2025" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC JHT 2025 on sarkariresult.com", "hi": "SSC JHT 2025 on sarkariresult.com" },
@@ -32,10 +32,77 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_04062026.pdf",
    "official": true
   },
-  "A1": {
-   "title": { "en": "Combined Hindi Translators Examination notice", "hi": "संयुक्त हिंदी अनुवादक परीक्षा सूचना" },
+  "P1": {
+   "title": { "en": "Combined Hindi Translators Examination, 2025 – Declaration of result of Paper-II to shortlist candidates for PET/PST for the post of Sub Inspector (Hindi Translator) in CRPF.", "hi": "Combined Hindi Translators Examination, 2025 – Declaration of result of Paper-II to shortlist candidates for PET/PST for the post of Sub Inspector (Hindi Translator) in CRPF." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_04062026.pdf",
+   "date": "2026-06-04",
+   "official": true
+  },
+  "P2": {
+   "title": { "en": "NOTICE - Combined Hindi Translators Examination, 2025 (F. No. HQ-C11017/2/2025-C-1)", "hi": "NOTICE - Combined Hindi Translators Examination, 2025 (F. No. HQ-C11017/2/2025-C-1)" },
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cht_2025.pdf.pdf",
    "date": "2025-06-05",
+   "official": true
+  },
+  "P3": {
+   "title": { "en": "संयुक्त हिंदी अनुवादक परीक्षा, 2025 की सूचना (हिंदी संस्करण)", "hi": "संयुक्त हिंदी अनुवादक परीक्षा, 2025 की सूचना (हिंदी संस्करण)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_10062025.pdf",
+   "date": "2025-06-05",
+   "official": true
+  },
+  "P4": {
+   "title": { "en": "IMPORTANT NOTICE - General Instructions for the Candidates (Admission Certificate-cum-Commission Copy)", "hi": "IMPORTANT NOTICE - General Instructions for the Candidates (Admission Certificate-cum-Commission Copy)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/ac_general_instructions_21072025.pdf",
+   "date": "2025-07-21",
+   "official": true
+  },
+  "P5": {
+   "title": { "en": "IMPORTANT NOTICE - Schedule of Examination: Combined Hindi Translators Examination, 2025 (Paper-I) - 12th August, 2025", "hi": "IMPORTANT NOTICE - Schedule of Examination: Combined Hindi Translators Examination, 2025 (Paper-I) - 12th August, 2025" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important_notice_29072025.pdf",
+   "date": "2025-07-29",
+   "official": true
+  },
+  "P6": {
+   "title": { "en": "Combined Hindi Translators Examination, 2025 (Paper-I) - Information regarding City of Examination & Admission Certificate", "hi": "Combined Hindi Translators Examination, 2025 (Paper-I) - Information regarding City of Examination & Admission Certificate" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_05082025.pdf",
+   "date": "2025-08-05",
+   "official": true
+  },
+  "P7": {
+   "title": { "en": "IMPORTANT NOTICE - Schedule of Examination: Combined Hindi Translators Examination, 2025 (Paper-II) - 14th December, 2025", "hi": "IMPORTANT NOTICE - Schedule of Examination: Combined Hindi Translators Examination, 2025 (Paper-II) - 14th December, 2025" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_19112025.pdf",
+   "date": "2025-11-19",
+   "official": true
+  },
+  "P8": {
+   "title": { "en": "Combined Hindi Translators Examination, 2025 (Paper -II) - Information regarding City of examination and Scribe Registration (for 'Own Scribe' candidates)", "hi": "Combined Hindi Translators Examination, 2025 (Paper -II) - Information regarding City of examination and Scribe Registration (for 'Own Scribe' candidates)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/CHT%20Exam%202025%20P2%20City%20Live%20Notice%2004122025%20(1).pdf",
+   "date": "2025-12-04",
+   "official": true
+  },
+  "P9": {
+   "title": { "en": "SSC JHT Paper 2 Admit Card 2025 OUT! Direct Download Link & Exam Day Instructions (via jagranjosh.com)", "hi": "SSC JHT Paper 2 Admit Card 2025 OUT! Direct Download Link & Exam Day Instructions (via jagranjosh.com)" },
+   "url": "https://www.jagranjosh.com/articles/sc-jht-paper-2-admit-card-2025-out-direct-download-link-and-exam-day-instructions-1800006384-1",
+   "date": "2025-12-12",
+   "official": false,
+   "site": "jagranjosh.com"
+  },
+  "P10": {
+   "title": { "en": "Revision of fee for representation in respect of the Tentative Answer Keys Challenge Management System -reg.", "hi": "Revision of fee for representation in respect of the Tentative Answer Keys Challenge Management System -reg." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_22082025.pdf",
+   "date": "2025-08-22",
+   "official": true
+  },
+  "P11": {
+   "title": { "en": "Uploading of Tentative Answer Keys along with Candidates' Response Sheet(s) of Combined Hindi Translators Examination, 2025 (Paper-I) - regarding", "hi": "Uploading of Tentative Answer Keys along with Candidates' Response Sheet(s) of Combined Hindi Translators Examination, 2025 (Paper-I) - regarding" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Writeup_04092025.pdf",
+   "date": "2025-09-04",
+   "official": true
+  },
+  "P12": {
+   "title": { "en": "Combined Hindi Translators Examination, 2025 (Paper-I): Uploading of Final Answer Key(s) along-with Candidates' Response Sheet(s) and Marks/Scorecard - reg.", "hi": "Combined Hindi Translators Examination, 2025 (Paper-I): Uploading of Final Answer Key(s) along-with Candidates' Response Sheet(s) and Marks/Scorecard - reg." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_301225.pdf",
+   "date": "2025-12-30",
    "official": true
   }
  },
@@ -78,6 +145,15 @@
    "source": "S1"
   },
   {
+   "id": "ssc-jht-2025.city-slip-tier-1",
+   "kind": "city-slip",
+   "label": { "en": "Tier 1 exam city slip", "hi": "टियर 1 परीक्षा शहर पर्ची" },
+   "start": "2025-08-05",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P6"
+  },
+  {
    "id": "ssc-jht-2025.exam",
    "kind": "exam",
    "label": { "en": "Exam Date", "hi": "Exam Date" },
@@ -93,6 +169,114 @@
    "raw": "Before Exam",
    "verified": false,
    "source": "S1"
+  },
+  {
+   "id": "ssc-jht-2025.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2025-08-12",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P2"
+  },
+  {
+   "id": "ssc-jht-2025.exam-tier-1-2",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2025-08-12",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-jht-2025.exam-tier-1-3",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2025-08-12",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P5"
+  },
+  {
+   "id": "ssc-jht-2025.answer-key-tier-1",
+   "kind": "answer-key",
+   "label": { "en": "Tier 1 answer key", "hi": "टियर 1 उत्तर कुंजी" },
+   "start": "2025-09-04",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P11"
+  },
+  {
+   "id": "ssc-jht-2025.objection-end-tier-1",
+   "kind": "objection-end",
+   "label": { "en": "Tier 1 last date for objections", "hi": "टियर 1 आपत्ति की अंतिम तिथि" },
+   "start": "2025-09-07",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P11"
+  },
+  {
+   "id": "ssc-jht-2025.city-slip-tier-2",
+   "kind": "city-slip",
+   "label": { "en": "Tier 2 exam city slip", "hi": "टियर 2 परीक्षा शहर पर्ची" },
+   "start": "2025-12-04",
+   "tier": "tier-2",
+   "verified": true,
+   "source": "P8"
+  },
+  {
+   "id": "ssc-jht-2025.city-slip-tier-2-2",
+   "kind": "city-slip",
+   "label": { "en": "Tier 2 exam city slip", "hi": "टियर 2 परीक्षा शहर पर्ची" },
+   "start": "2025-12-04",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "P9"
+  },
+  {
+   "id": "ssc-jht-2025.admit-card-tier-2",
+   "kind": "admit-card",
+   "label": { "en": "Tier 2 admit card", "hi": "टियर 2 प्रवेश पत्र" },
+   "start": "2025-12-12",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "P9"
+  },
+  {
+   "id": "ssc-jht-2025.exam-tier-2",
+   "kind": "exam",
+   "label": { "en": "Tier 2 exam", "hi": "टियर 2 परीक्षा" },
+   "start": "2025-12-14",
+   "tier": "tier-2",
+   "verified": true,
+   "source": "P7"
+  },
+  {
+   "id": "ssc-jht-2025.exam-tier-2-2",
+   "kind": "exam",
+   "label": { "en": "Tier 2 exam", "hi": "टियर 2 परीक्षा" },
+   "start": "2025-12-14",
+   "tier": "tier-2",
+   "verified": true,
+   "source": "P8"
+  },
+  {
+   "id": "ssc-jht-2025.exam-tier-2-3",
+   "kind": "exam",
+   "label": { "en": "Tier 2 exam", "hi": "टियर 2 परीक्षा" },
+   "start": "2025-12-14",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "P9"
+  },
+  {
+   "id": "ssc-jht-2025.final-answer-key-tier-1",
+   "kind": "final-answer-key",
+   "label": { "en": "Tier 1 final answer key", "hi": "टियर 1 अंतिम उत्तर कुंजी" },
+   "start": "2025-12-30",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P12"
   },
   {
    "id": "ssc-jht-2025.result-paper-2",
@@ -167,20 +351,121 @@
  ],
  "notices": [
   {
-   "id": "ssc-jht-2025.notice-a1",
+   "id": "ssc-jht-2025.notice-p2",
    "date": "2025-06-05",
    "type": "notice",
-   "title": { "en": "Combined Hindi Translators Examination notice", "hi": "संयुक्त हिंदी अनुवादक परीक्षा सूचना" },
-   "source": "A1"
+   "title": { "en": "NOTICE - Combined Hindi Translators Examination, 2025", "hi": "संयुक्त हिंदी अनुवादक परीक्षा, 2025 की सूचना" },
+   "source": "P2"
   },
   {
-   "id": "ssc-jht-2025.notice-l4",
+   "id": "ssc-jht-2025.notice-p4",
+   "date": "2025-07-21",
+   "type": "admit-card",
+   "title": { "en": "IMPORTANT NOTICE - General Instructions for the Candidates", "hi": "महत्वपूर्ण सूचना - अभ्यर्थियों के लिए सामान्य निर्देश" },
+   "source": "P4"
+  },
+  {
+   "id": "ssc-jht-2025.notice-p5",
+   "date": "2025-07-29",
+   "type": "notice",
+   "title": { "en": "IMPORTANT NOTICE - Schedule of Examination: Combined Hindi Translators Examination, 2025 (Paper-I) on 12th August, 2025", "hi": "महत्वपूर्ण सूचना - परीक्षा कार्यक्रम: संयुक्त हिंदी अनुवादक परीक्षा, 2025 (पेपर-आई) 12 अगस्त, 2025" },
+   "source": "P5"
+  },
+  {
+   "id": "ssc-jht-2025.notice-p6",
+   "date": "2025-08-05",
+   "type": "notice",
+   "title": { "en": "Combined Hindi Translators Examination, 2025 (Paper-I) - Information regarding City of Examination & Admission Certificate", "hi": "संयुक्त हिंदी अनुवादक परीक्षा, 2025 (पेपर-आई) - परीक्षा नगर एवं प्रवेश पत्र के संबंध में सूचना" },
+   "source": "P6"
+  },
+  {
+   "id": "ssc-jht-2025.notice-p10",
+   "date": "2025-08-22",
+   "type": "answer-key",
+   "title": { "en": "Revision of fee for representation in respect of the Tentative Answer Keys Challenge Management System -reg.", "hi": "अस्थायी उत्तर कुंजी चुनौती प्रबंधन व्यवस्था के संबंध में प्रतिनिधित्व शुल्क में संशोधन" },
+   "source": "P10"
+  },
+  {
+   "id": "ssc-jht-2025.notice-p11",
+   "date": "2025-09-04",
+   "type": "answer-key",
+   "title": { "en": "Uploading of Tentative Answer Keys along with Candidates' Response Sheet(s) of Combined Hindi Translators Examination, 2025 (Paper-I)", "hi": "संयुक्त हिंदी अनुवादक परीक्षा, 2025 (पेपर-आई) - अभ्यर्थियों की रिस्पॉन्स शीट के साथ अस्थायी उत्तर कुंजी अपलोड करना" },
+   "source": "P11"
+  },
+  {
+   "id": "ssc-jht-2025.notice-p7",
+   "date": "2025-11-19",
+   "type": "notice",
+   "title": { "en": "IMPORTANT NOTICE - Schedule of Examination: Combined Hindi Translators Examination, 2025 (Paper-II) on 14th December, 2025", "hi": "महत्वपूर्ण सूचना - परीक्षा कार्यक्रम: संयुक्त हिंदी अनुवादक परीक्षा, 2025 (पेपर-II) 14 दिसंबर, 2025" },
+   "source": "P7"
+  },
+  {
+   "id": "ssc-jht-2025.notice-p8",
+   "date": "2025-12-04",
+   "type": "notice",
+   "title": { "en": "Combined Hindi Translators Examination, 2025 (Paper-II) - Information regarding City of examination and Scribe Registration (for 'Own Scribe' candidates)", "hi": "संयुक्त हिंदी अनुवादक परीक्षा, 2025 (पेपर-II) - परीक्षा नगर के संबंध में और स्क्राइब पंजीकरण (स्वयं के स्क्राइब वाले अभ्यर्थियों के लिए) सूचना" },
+   "source": "P8"
+  },
+  {
+   "id": "ssc-jht-2025.notice-p12",
+   "date": "2025-12-30",
+   "type": "answer-key",
+   "title": { "en": "Combined Hindi Translators Examination, 2025 (Paper-I): Uploading of Marks and Final Answer Key(s) along with Candidates' Response Sheet(s)", "hi": "संयुक्त हिंदी अनुवादक परीक्षा, 2025 (पेपर-आई): अभ्यर्थियों की रिस्पॉन्स शीट के साथ अंक और अंतिम उत्तर कुंजी अपलोड करना" },
+   "source": "P12"
+  },
+  {
+   "id": "ssc-jht-2025.notice-p1",
    "date": "2026-06-04",
-   "type": "result",
-   "title": { "en": "Paper-II result and cut-offs for CRPF PET/PST", "hi": "सीआरपीएफ पीईटी/पीएसटी के लिए पेपर-II परिणाम और कट-ऑफ" },
-   "source": "L4"
+   "type": "cut-off",
+   "title": { "en": "CHTE 2025: Paper-II result to shortlist candidates for CRPF SI (Hindi Translator) PET/PST", "hi": "संयुक्त हिंदी अनुवादक परीक्षा, 2025: सीआरपीएफ में उप निरीक्षक (हिंदी अनुवादक) पीईटी/पीएसटी हेतु पेपर-II परिणाम" },
+   "source": "P1"
   }
  ],
- "tables": [],
+ "tables": [
+  {
+   "id": "ssc-jht-2025.cut-offs-pet-pst",
+   "title": { "en": "Paper-II cut-off marks for CRPF SI (Hindi Translator) PET/PST shortlist", "hi": "सीआरपीएफ उप निरीक्षक (हिंदी अनुवादक) पीईटी/पीएसटी हेतु पेपर-II कट-ऑफ अंक" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     50,
+     346
+    ],
+    [
+     "SC",
+     40,
+     343
+    ],
+    [
+     "ST",
+     40,
+     136
+    ],
+    [
+     "OBC",
+     50,
+     588
+    ],
+    [
+     "UR",
+     60,
+     309
+    ],
+    [
+     "Total",
+     "-",
+     1722
+    ]
+   ],
+   "note": { "en": "Category-wise breakup of candidates provisionally shortlisted for PET/PST on the basis of Paper-II performance. The board prints '-' for the total cut-off, shown here as '-'.", "hi": "पेपर-II के प्रदर्शन के आधार पर पीईटी/पीएसटी हेतु अनंतिम रूप से शॉर्टलिस्ट अभ्यर्थियों का श्रेणीवार विवरण। बोर्ड ने कुल कट-ऑफ के स्थान पर '-' छापा है, जिसे यहाँ '-' के रूप में दर्शाया गया है।" },
+   "verified": true,
+   "source": "P1"
+  }
+ ],
  "pattern": []
 }

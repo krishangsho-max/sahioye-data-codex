@@ -4,7 +4,7 @@
  "exam": "ssc-je",
  "year": 2025,
  "name": { "en": "SSC JE 2025", "hi": "SSC JE 2025" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC JE 2025 on sarkariresult.com", "hi": "SSC JE 2025 on sarkariresult.com" },
@@ -102,10 +102,16 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_10112025.pdf",
    "official": true
   },
-  "A1": {
-   "title": { "en": "Paper-I result and cut-offs", "hi": "पेपर-I परिणाम और कट-ऑफ" },
+  "P1": {
+   "title": { "en": "Junior Engineer (Civil, Mechanical & Electrical) Examination, 2025 - Declaration of result of Paper-I for shortlisting of candidates for appearing in Paper-II", "hi": "Junior Engineer (Civil, Mechanical & Electrical) Examination, 2025 - Declaration of result of Paper-I for shortlisting of candidates for appearing in Paper-II" },
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Writeup_06032026.pdf",
    "date": "2026-03-06",
+   "official": true
+  },
+  "P2": {
+   "title": { "en": "Information regarding the City of Examination, Admission Certificate and Scribe Entry Pass for the candidates of Junior Engineer (Civil, Mechanical & Electrical) Examination, 2025 (Paper-II)", "hi": "Information regarding the City of Examination, Admission Certificate and Scribe Entry Pass for the candidates of Junior Engineer (Civil, Mechanical & Electrical) Examination, 2025 (Paper-II)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_27032026.pdf",
+   "date": "2026-03-27",
    "official": true
   }
  },
@@ -205,6 +211,15 @@
    "tier": "paper-1",
    "verified": false,
    "source": "S1"
+  },
+  {
+   "id": "ssc-je-2025.city-slip-tier-1",
+   "kind": "city-slip",
+   "label": { "en": "Tier 1 exam city slip", "hi": "टियर 1 परीक्षा शहर पर्ची" },
+   "start": "2026-03-27",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P2"
   },
   {
    "id": "ssc-je-2025.exam-tier-2",
@@ -315,34 +330,129 @@
  ],
  "notices": [
   {
-   "id": "ssc-je-2025.notice-a1",
+   "id": "ssc-je-2025.notice-p1",
    "date": "2026-03-06",
-   "type": "result",
-   "title": { "en": "Paper-I result and cut-offs", "hi": "पेपर-I परिणाम और कट-ऑफ" },
-   "source": "A1"
+   "type": "cut-off",
+   "title": { "en": "Declaration of result of Paper-I (JE 2025) for shortlisting for Paper-II, with category-wise cut-off", "hi": "पेपर-I का परिणाम घोषित (JE 2025) – पेपर-II के लिए चयन हेतु श्रेणीवार कट-ऑफ सहित" },
+   "source": "P1"
   },
   {
-   "id": "ssc-je-2025.notice-l6",
-   "date": "2026-07-09",
-   "type": "result",
-   "title": { "en": "First round of tentative allocation", "hi": "अस्थायी आवंटन का प्रथम दौर" },
-   "source": "L6"
-  },
-  {
-   "id": "ssc-je-2025.notice-l3",
-   "date": "2026-08-03",
-   "type": "result",
-   "title": { "en": "Final result", "hi": "अंतिम परिणाम" },
-   "source": "L3"
-  },
-  {
-   "id": "ssc-je-2025.notice-l2",
-   "date": "2026-08-21",
-   "type": "answer-key",
-   "title": { "en": "Paper-II final answer keys and final marks", "hi": "पेपर-II अंतिम उत्तर कुंजी और अंतिम अंक" },
-   "source": "L2"
+   "id": "ssc-je-2025.notice-p2",
+   "date": "2026-03-27",
+   "type": "admit-card",
+   "title": { "en": "Information regarding City of Examination, Admission Certificate and Scribe Entry Pass (JE 2025 Paper-II)", "hi": "JE 2025 पेपर-II के लिए परीक्षा केंद्र शहर, प्रवेश प्रमाणपत्र और स्क्राइब प्रवेश पास की सूचना" },
+   "source": "P2"
   }
  ],
- "tables": [],
+ "tables": [
+  {
+   "id": "ssc-je-2025.cut-offs",
+   "title": { "en": "Paper-I cut-off marks, Civil Engineering", "hi": "पेपर-I कट-ऑफ अंक, सिविल इंजीनियरिंग" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध उम्मीदवार" }
+   ],
+   "rows": [
+    [
+     "SC",
+     109.24462,
+     2766
+    ],
+    [
+     "ST",
+     106.8521,
+     1206
+    ],
+    [
+     "OBC",
+     124.45815,
+     4536
+    ],
+    [
+     "EWS",
+     117.90628,
+     1539
+    ],
+    [
+     "UR",
+     127.22748,
+     1321
+    ],
+    [
+     "OH",
+     101.82395,
+     83
+    ],
+    [
+     "HH",
+     57.64407,
+     89
+    ],
+    [
+     "Others PwD",
+     40.013,
+     53
+    ]
+   ],
+   "note": { "en": "* In addition to the UR candidates shown, 550 SC, 192 ST, 3428 OBC, 803 EWS, 06 OH and 01 HH candidates qualifying at UR cut-off are shown under their respective categories.", "hi": "* दिखाए गए UR उम्मीदवारों के अलावा, UR कट-ऑफ पर योग्य 550 SC, 192 ST, 3428 OBC, 803 EWS, 06 OH और 01 HH उम्मीदवार उनकी संबंधित श्रेणियों में दिखाए गए हैं।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-je-2025.cut-offs-paper-i-electrical-mechanical",
+   "title": { "en": "Paper-I cut-off marks, Electrical / Mechanical Engineering", "hi": "पेपर-I कट-ऑफ अंक, इलेक्ट्रिकल / मैकेनिकल इंजीनियरिंग" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध उम्मीदवार" }
+   ],
+   "rows": [
+    [
+     "SC",
+     112.05213,
+     917
+    ],
+    [
+     "ST",
+     102.86832,
+     350
+    ],
+    [
+     "OBC",
+     127.3012,
+     1464
+    ],
+    [
+     "EWS",
+     115.36583,
+     639
+    ],
+    [
+     "UR",
+     127.3012,
+     542
+    ],
+    [
+     "OH",
+     102.38689,
+     35
+    ],
+    [
+     "HH",
+     66.59578,
+     34
+    ],
+    [
+     "Others PwD",
+     44.18208,
+     33
+    ]
+   ],
+   "note": { "en": "* In addition to the UR candidates shown, 155 SC, 20 ST, 1342 OBC, 247 EWS, 02 OH and 01 HH candidates qualifying at UR cut-off are shown under their respective categories.", "hi": "* दिखाए गए UR उम्मीदवारों के अलावा, UR कट-ऑफ पर योग्य 155 SC, 20 ST, 1342 OBC, 247 EWS, 02 OH और 01 HH उम्मीदवार उनकी संबंधित श्रेणियों में दिखाए गए हैं।" },
+   "verified": true,
+   "source": "P1"
+  }
+ ],
  "pattern": []
 }

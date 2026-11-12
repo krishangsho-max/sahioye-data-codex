@@ -4,7 +4,7 @@
  "exam": "ssc-cgl",
  "year": 2025,
  "name": { "en": "SSC CGL 2025", "hi": "SSC CGL 2025" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC CGL 2025 on sarkariresult.com", "hi": "SSC CGL 2025 on sarkariresult.com" },
@@ -62,22 +62,28 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Write%20up_FTRA%20CGLE%20Exam%202025_08042026.pdf",
    "official": true
   },
-  "A1": {
-   "title": { "en": "Corrigendum to examination notice", "hi": "परीक्षा सूचना का शुद्धिपत्र" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Corrigendum_25062025.pdf",
-   "date": "2025-06-25",
+  "P1": {
+   "title": { "en": "Information regarding the city of examination and Admission Certificate for the candidates of Combined Graduate Level Examination, 2025 (Tier-I).", "hi": "Information regarding the city of examination and Admission Certificate for the candidates of Combined Graduate Level Examination, 2025 (Tier-I)." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_03092025_2.pdf",
+   "date": "2025-09-03",
    "official": true
   },
-  "A2": {
-   "title": { "en": "Tier-II examination schedule", "hi": "टियर-II परीक्षा कार्यक्रम" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/CGLE2025ImportantNoticedated19_12_2025.pdf",
-   "date": "2025-12-19",
+  "P2": {
+   "title": { "en": "Combined Graduate Level Examination, 2025 (Tier-I) – Information regarding City of Examination & Admission Certificate.", "hi": "Combined Graduate Level Examination, 2025 (Tier-I) – Information regarding City of Examination & Admission Certificate." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_08092025_2.pdf",
+   "date": "2025-09-08",
    "official": true
   },
-  "A3": {
-   "title": { "en": "First round of tentative allocation and cut-offs", "hi": "अस्थायी आवंटन का प्रथम दौर और कट-ऑफ" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Write%20up_FTRA%20CGLE%20Exam%202025_08042026.pdf",
-   "date": "2026-04-08",
+  "P3": {
+   "title": { "en": "IMPORTANT NOTICE", "hi": "IMPORTANT NOTICE" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/CGLE%2014%20Oct_Final.pdf",
+   "date": "2025-10-03",
+   "official": true
+  },
+  "P4": {
+   "title": { "en": "Information regarding the city of examination, Admission Certificate for the candidates of Combined Graduate Level Examination, 2025 (Tier-II).", "hi": "Information regarding the city of examination, Admission Certificate for the candidates of Combined Graduate Level Examination, 2025 (Tier-II)." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_1_09012026.pdf",
+   "date": "2026-01-09",
    "official": true
   }
  },
@@ -137,6 +143,62 @@
    "raw": "Before Exam",
    "verified": false,
    "source": "S1"
+  },
+  {
+   "id": "ssc-cgl-2025.city-slip-1",
+   "kind": "city-slip",
+   "label": { "en": "Exam city slip", "hi": "परीक्षा शहर पर्ची" },
+   "start": "2025-09-03",
+   "tier": 1,
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-cgl-2025.exam-1",
+   "kind": "exam",
+   "label": { "en": "Exam", "hi": "परीक्षा" },
+   "start": "2025-09-12",
+   "end": "2025-09-26",
+   "tier": 1,
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-cgl-2025.exam-1-2",
+   "kind": "exam",
+   "label": { "en": "Exam", "hi": "परीक्षा" },
+   "start": "2025-09-12",
+   "end": "2025-09-26",
+   "tier": 1,
+   "verified": true,
+   "source": "P2"
+  },
+  {
+   "id": "ssc-cgl-2025.city-slip-1-2",
+   "kind": "city-slip",
+   "label": { "en": "Exam city slip", "hi": "परीक्षा शहर पर्ची" },
+   "start": "2025-10-05",
+   "tier": 1,
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-cgl-2025.admit-card-1",
+   "kind": "admit-card",
+   "label": { "en": "Admit card", "hi": "प्रवेश पत्र" },
+   "start": "2025-10-09",
+   "tier": 1,
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-cgl-2025.exam-1-3",
+   "kind": "exam",
+   "label": { "en": "Exam", "hi": "परीक्षा" },
+   "start": "2025-10-14",
+   "tier": 1,
+   "verified": true,
+   "source": "P3"
   },
   {
    "id": "ssc-cgl-2025.exam-tier-2",
@@ -265,41 +327,212 @@
  ],
  "notices": [
   {
-   "id": "ssc-cgl-2025.notice-a1",
-   "date": "2025-06-25",
-   "type": "notice",
-   "title": { "en": "Corrigendum to examination notice", "hi": "परीक्षा सूचना का शुद्धिपत्र" },
-   "source": "A1"
+   "id": "ssc-cgl-2025.notice-p1",
+   "date": "2025-09-03",
+   "type": "admit-card",
+   "title": { "en": "Information regarding the city of examination and Admission Certificate for the candidates of Combined Graduate Level Examination, 2025 (Tier-I)", "hi": "संयुक्त स्नातक स्तरीय परीक्षा, 2025 (टियर-I) के अभ्यर्थियों के लिए परीक्षा शहर और प्रवेश प्रमाण-पत्र के संबंध में जानकारी" },
+   "source": "P1"
   },
   {
-   "id": "ssc-cgl-2025.notice-a2",
-   "date": "2025-12-19",
+   "id": "ssc-cgl-2025.notice-p2",
+   "date": "2025-09-08",
    "type": "notice",
-   "title": { "en": "Tier-II examination schedule", "hi": "टियर-II परीक्षा कार्यक्रम" },
-   "source": "A2"
+   "title": { "en": "Combined Graduate Level Examination, 2025 (Tier-I) – Information regarding City of Examination & Admission Certificate", "hi": "संयुक्त स्नातक स्तरीय परीक्षा, 2025 (टियर-I) – परीक्षा शहर और प्रवेश प्रमाण-पत्र के संबंध में जानकारी" },
+   "source": "P2"
   },
   {
-   "id": "ssc-cgl-2025.notice-a3",
+   "id": "ssc-cgl-2025.notice-p3",
+   "date": "2025-10-03",
+   "type": "admit-card",
+   "title": { "en": "Important Notice – City and Admit Card live for candidates of CGLE 2025 – Exam on 14.10.2025", "hi": "महत्वपूर्ण सूचना – सीजीएलई 2025 के अभ्यर्थियों के लिए परीक्षा शहर और प्रवेश पत्र लाइव – परीक्षा 14.10.2025 को" },
+   "source": "P3"
+  },
+  {
+   "id": "ssc-cgl-2025.notice-p4",
+   "date": "2026-01-09",
+   "type": "admit-card",
+   "title": { "en": "Information regarding the city of examination, Admission Certificate for the candidates of Combined Graduate Level Examination, 2025 (Tier-II)", "hi": "संयुक्त स्नातक स्तरीय परीक्षा, 2025 (टियर-II) के अभ्यर्थियों के लिए परीक्षा शहर और प्रवेश प्रमाण-पत्र के संबंध में जानकारी" },
+   "source": "P4"
+  },
+  {
+   "id": "ssc-cgl-2025.notice-l10",
    "date": "2026-04-08",
-   "type": "result",
-   "title": { "en": "First round of tentative allocation and cut-offs", "hi": "अस्थायी आवंटन का प्रथम दौर और कट-ऑफ" },
-   "source": "A3"
-  },
-  {
-   "id": "ssc-cgl-2025.notice-l7",
-   "date": "2026-05-14",
-   "type": "result",
-   "title": { "en": "Final result and cut-offs", "hi": "अंतिम परिणाम और कट-ऑफ" },
-   "source": "L7"
-  },
-  {
-   "id": "ssc-cgl-2025.notice-l2",
-   "date": "2026-06-17",
-   "type": "answer-key",
-   "title": { "en": "Tier-II final answer keys, response sheets and marks", "hi": "टियर-II अंतिम उत्तर कुंजी, उत्तर पत्रक और अंक" },
-   "source": "L2"
+   "type": "cut-off",
+   "title": { "en": "CGLE 2025 - Declaration of First Round of Tentative Allocation (FRTA), with cut-offs", "hi": "CGLE 2025 - प्रथम दौर की अस्थायी आवंटन (FRTA) घोषणा, कट-ऑफ सहित" },
+   "source": "L10"
   }
  ],
- "tables": [],
+ "tables": [
+  {
+   "id": "ssc-cgl-2025.cut-offs",
+   "title": { "en": "Tier-II Paper-I cut-off marks in Section-I and Section-II (for evaluation of Section-III and Section-IV)", "hi": "टियर-II पेपर-I के खंड-I और खंड-II के कट-ऑफ अंक (खंड-III और खंड-IV के मूल्यांकन हेतु)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks in Section-I", "hi": "खंड-I में कट-ऑफ अंक" },
+    { "en": "Cut-off marks in Section-II", "hi": "खंड-II में कट-ऑफ अंक" }
+   ],
+   "rows": [
+    [
+     "UR",
+     54,
+     63
+    ],
+    [
+     "OBC",
+     45,
+     52.5
+    ],
+    [
+     "EWS",
+     45,
+     52.5
+    ],
+    [
+     "SC",
+     36,
+     42
+    ],
+    [
+     "ST",
+     36,
+     42
+    ],
+    [
+     "ESM",
+     36,
+     42
+    ],
+    [
+     "OH",
+     36,
+     42
+    ],
+    [
+     "HH",
+     36,
+     42
+    ],
+    [
+     "VH",
+     36,
+     42
+    ],
+    [
+     "Pwd_Others",
+     36,
+     42
+    ]
+   ],
+   "note": { "en": "Tier-I cut-offs (result write-up of 18.12.2025) are not included because that official file could not be opened from ssc.gov.in.", "hi": "टियर-I के कट-ऑफ (18.12.2025 के परिणाम विवरण) शामिल नहीं हैं, क्योंकि वह आधिकारिक फ़ाइल ssc.gov.in से नहीं खुल सकी।" },
+   "verified": true,
+   "source": "L10"
+  },
+  {
+   "id": "ssc-cgl-2025.cut-offs-tier-2-ckt",
+   "title": { "en": "Tier-II Section-III Computer Knowledge Test (CKT) cut-off marks, out of 60", "hi": "टियर-II खंड-III कंप्यूटर ज्ञान परीक्षा (CKT) कट-ऑफ अंक, 60 में से" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks (out of 60)", "hi": "कट-ऑफ अंक (60 में से)" }
+   ],
+   "rows": [
+    [
+     "UR",
+     24
+    ],
+    [
+     "OBC",
+     21
+    ],
+    [
+     "EWS",
+     21
+    ],
+    [
+     "SC",
+     18
+    ],
+    [
+     "ST",
+     18
+    ],
+    [
+     "ESM",
+     18
+    ],
+    [
+     "OH",
+     18
+    ],
+    [
+     "HH",
+     18
+    ],
+    [
+     "VH",
+     18
+    ],
+    [
+     "PWD-Others",
+     18
+    ]
+   ],
+   "note": { "en": "For posts requiring Computer Proficiency Test (CPT).", "hi": "कंप्यूटर प्रवीणता परीक्षा (CPT) वाले पदों के लिए।" },
+   "verified": true,
+   "source": "L10"
+  },
+  {
+   "id": "ssc-cgl-2025.cut-offs-tier-2-dest",
+   "title": { "en": "Tier-II Section-IV Data Entry Speed Test (DEST) cut-off, percentage of mistakes allowed", "hi": "टियर-II खंड-IV डेटा एंट्री स्पीड टेस्ट (DEST) कट-ऑफ, अनुमत त्रुटि प्रतिशत" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off on percentage of mistakes", "hi": "त्रुटियों के प्रतिशत पर कट-ऑफ" }
+   ],
+   "rows": [
+    [
+     "UR",
+     "5%"
+    ],
+    [
+     "OBC",
+     "7%"
+    ],
+    [
+     "SC",
+     "7%"
+    ],
+    [
+     "ST",
+     "7%"
+    ],
+    [
+     "EWS",
+     "7%"
+    ],
+    [
+     "ESM",
+     "7%"
+    ],
+    [
+     "OH",
+     "10%"
+    ],
+    [
+     "HH",
+     "10%"
+    ],
+    [
+     "VH",
+     "10%"
+    ],
+    [
+     "PwD-Others",
+     "10%"
+    ]
+   ],
+   "note": { "en": "For posts requiring CPT and DEST.", "hi": "CPT और DEST वाले पदों के लिए।" },
+   "verified": true,
+   "source": "L10"
+  }
+ ],
  "pattern": []
 }

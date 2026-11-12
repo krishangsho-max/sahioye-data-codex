@@ -4,7 +4,7 @@
  "exam": "ssc-delhi-police",
  "year": 2025,
  "name": { "en": "SSC Delhi Police Head Constable (Ministerial) 2025", "hi": "SSC Delhi Police Head Constable (Ministerial) 2025" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC Delhi Police Head Constable (Ministerial) 2025 on sarkariresult.com", "hi": "SSC Delhi Police Head Constable (Ministerial) 2025 on sarkariresult.com" },
@@ -92,10 +92,10 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_DPHCM_2025.pdf",
    "official": true
   },
-  "A1": {
-   "title": { "en": "Revised correction windows for Delhi Police examinations", "hi": "दिल्ली पुलिस परीक्षाओं के लिए संशोधित सुधार विंडो" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/important_notice_22102025.pdf",
-   "date": "2025-10-22",
+  "P1": {
+   "title": { "en": "Head Constable (Ministerial) in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test (Skill Test).", "hi": "Head Constable (Ministerial) in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test (Skill Test)." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_05062026.pdf",
+   "date": "2026-06-05",
    "official": true
   }
  },
@@ -105,32 +105,27 @@
    "kind": "apply-start",
    "label": { "en": "Application Begin", "hi": "Application Begin" },
    "start": "2025-09-29",
-   "verified": true,
-   "source": "L16"
-  },
-  {
-   "id": "ssc-delhi-police-hc-min-2025.notification",
-   "kind": "notification",
-   "label": { "en": "Notification", "hi": "अधिसूचना" },
-   "start": "2025-09-29",
-   "verified": true,
-   "source": "L16"
+   "raw": "29/09/2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-hc-min-2025.apply-end",
    "kind": "apply-end",
    "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
    "start": "2025-10-20",
-   "verified": true,
-   "source": "L16"
+   "raw": "20/10/2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-hc-min-2025.fee-end",
    "kind": "fee-end",
    "label": { "en": "Last Date Pay Exam Fee", "hi": "Last Date Pay Exam Fee" },
    "start": "2025-10-21",
-   "verified": true,
-   "source": "L16"
+   "raw": "21/10/2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-hc-min-2025.correction",
@@ -138,8 +133,9 @@
    "label": { "en": "Correction Date", "hi": "Correction Date" },
    "start": "2025-10-27",
    "end": "2025-10-29",
-   "verified": true,
-   "source": "L16"
+   "raw": "27-29 October 2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-hc-min-2025.other",
@@ -227,67 +223,206 @@
    "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-hc-min-2025.age",
-   "kind": "age",
-   "label": { "en": "Age limit (as on 1 Jul 2025)", "hi": "आयु सीमा (1 जुलाई 2025 तक)" },
-   "value": "18–25",
-   "verified": true,
-   "source": "L16"
-  },
-  {
-   "id": "ssc-delhi-police-hc-min-2025.age-relaxation",
-   "kind": "age",
-   "label": { "en": "Age relaxation", "hi": "आयु में छूट" },
-   "value": { "en": "SC/ST: 5 years, OBC: 3 years, PwBD (UR/EWS): 10 years, PwBD (OBC): 13 years, PwBD (SC/ST): 15 years, Ex-Servicemen (ESM): 3 years, Sportsmen/Sportswomen: 5 years (10 years for SC/ST), Departmental candidates of Delhi Police: up to 40 years (UR/EWS), 43 years (OBC), 45 years (SC/ST), Widows/divorced women: up to 35 years (UR/EWS), 38 years (OBC), 40 years (SC/ST)", "hi": "SC/ST: 5 years, OBC: 3 years, PwBD (UR/EWS): 10 years, PwBD (OBC): 13 years, PwBD (SC/ST): 15 years, Ex-Servicemen (ESM): 3 years, Sportsmen/Sportswomen: 5 years (10 years for SC/ST), Departmental candidates of Delhi Police: up to 40 years (UR/EWS), 43 years (OBC), 45 years (SC/ST), Widows/divorced women: up to 35 years (UR/EWS), 38 years (OBC), 40 years (SC/ST)" },
-   "verified": false,
-   "source": "L16"
-  },
-  {
-   "id": "ssc-delhi-police-hc-min-2025.fee",
+   "id": "ssc-delhi-police-hc-min-2025.fee-1",
    "kind": "fee",
-   "label": { "en": "Application fee", "hi": "आवेदन शुल्क" },
-   "value": "₹100",
-   "num": 100,
-   "verified": true,
-   "source": "L16"
+   "label": { "en": "General / OBC / EWS", "hi": "General / OBC / EWS" },
+   "value": "1 00/-",
+   "verified": false,
+   "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-hc-min-2025.fee-exempt",
+   "id": "ssc-delhi-police-hc-min-2025.fee-2",
    "kind": "fee",
-   "label": { "en": "Fee exempt for", "hi": "इनके लिए शुल्क माफ़" },
-   "value": { "en": "Women candidates and candidates belonging to Scheduled Castes (SC), Scheduled Tribes (ST), PwBD and Ex-Servicemen (ESM) eligible for reservation", "hi": "Women candidates and candidates belonging to Scheduled Castes (SC), Scheduled Tribes (ST), PwBD and Ex-Servicemen (ESM) eligible for reservation" },
-   "verified": true,
-   "source": "L16"
+   "label": { "en": "SC / ST", "hi": "SC / ST" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-hc-min-2025.qualification",
-   "kind": "qualification",
-   "label": { "en": "Qualification", "hi": "योग्यता" },
-   "value": { "en": "10+2 (Senior Secondary) pass or equivalent from a recognized Board at the time of filling up the Online Application Form. Professional Attainments: Speed in English Typing - 30 words per minute or Hindi Typing - 25 words per minute.", "hi": "10+2 (Senior Secondary) pass or equivalent from a recognized Board at the time of filling up the Online Application Form. Professional Attainments: Speed in English Typing - 30 words per minute or Hindi Typing - 25 words per minute." },
+   "id": "ssc-delhi-police-hc-min-2025.fee-3",
+   "kind": "fee",
+   "label": { "en": "All Category Female", "hi": "All Category Female" },
+   "value": "0/-",
    "verified": false,
-   "source": "L16"
+   "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-hc-min-2025.stages",
-   "kind": "stages",
-   "label": { "en": "Exam stages", "hi": "परीक्षा चरण" },
-   "value": { "en": "Computer Based Examination by SSC → Physical Endurance & Measurement Tests (PE&MT) by Delhi Police → Typing Test on Computer by Delhi Police → Computer (Formatting) Test by Delhi Police → Document Verification", "hi": "Computer Based Examination by SSC → Physical Endurance & Measurement Tests (PE&MT) by Delhi Police → Typing Test on Computer by Delhi Police → Computer (Formatting) Test by Delhi Police → Document Verification" },
-   "short": "5",
-   "shortLabel": { "en": "Stages", "hi": "चरण" },
-   "num": 5,
+   "id": "ssc-delhi-police-hc-min-2025.age-as-on",
+   "kind": "age",
+   "label": { "en": "Age counted on", "hi": "आयु की गणना तिथि" },
+   "value": { "en": "1 Jul 2025", "hi": "1 जुलाई 2025" },
    "verified": false,
-   "source": "L16"
+   "source": "S1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2025.age-1",
+   "kind": "age",
+   "label": { "en": "Minimum Age", "hi": "Minimum Age" },
+   "value": "18 Years",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2025.age-2",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "25 Years",
+   "verified": false,
+   "source": "S1"
   }
  ],
  "notices": [
   {
-   "id": "ssc-delhi-police-hc-min-2025.notice-a1",
-   "date": "2025-10-22",
-   "type": "notice",
-   "title": { "en": "Revised correction windows for Delhi Police examinations", "hi": "दिल्ली पुलिस परीक्षाओं के लिए संशोधित सुधार विंडो" },
-   "source": "A1"
+   "id": "ssc-delhi-police-hc-min-2025.notice-p1",
+   "date": "2026-06-05",
+   "type": "cut-off",
+   "title": { "en": "HCM Delhi Police 2025: CBE result with category-wise cut-off marks", "hi": "हेड कांस्टेबल (मिनिस्ट्रियल) दिल्ली पुलिस परीक्षा, 2025: श्रेणीवार कट-ऑफ अंकों सहित सीबीई परिणाम" },
+   "source": "P1"
   }
  ],
- "tables": [],
+ "tables": [
+  {
+   "id": "ssc-delhi-police-hc-min-2025.cut-offs",
+   "title": { "en": "CBE cut-off marks: Male (Open)", "hi": "सीबीई कट-ऑफ अंक: पुरुष (ओपन)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     82.45562,
+     674
+    ],
+    [
+     "SC",
+     75.80478,
+     947
+    ],
+    [
+     "ST",
+     75.23629,
+     183
+    ],
+    [
+     "OBC",
+     82.23493,
+     1415
+    ],
+    [
+     "UR",
+     82.68883,
+     909
+    ],
+    [
+     "OH",
+     54.29567,
+     160
+    ],
+    [
+     "Total",
+     "",
+     4288
+    ]
+   ],
+   "note": { "en": "List-I: Male (Open) candidates qualified for PE&MT/ DV/ Trade Test (Skill Test). The board notes that candidates qualifying at UR cut-off are also shown under their respective categories (638-EWS, 107-SC, 23-ST and 1012-OBC). Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-I: पुरुष (ओपन) अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट (स्किल टेस्ट) हेतु योग्य हैं। बोर्ड के अनुसार UR कट-ऑफ पर योग्य अभ्यर्थी अपनी श्रेणियों में भी दिखाए गए हैं (638-EWS, 107-SC, 23-ST और 1012-OBC)। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2025.cut-offs-male-esm",
+   "title": { "en": "CBE cut-off marks: Male (ESM)", "hi": "सीबीई कट-ऑफ अंक: पुरुष (ESM)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     30.28231,
+     46
+    ],
+    [
+     "SC",
+     30.11386,
+     72
+    ],
+    [
+     "ST",
+     30.52567,
+     15
+    ],
+    [
+     "OBC",
+     54.24541,
+     154
+    ],
+    [
+     "UR",
+     54.24541,
+     300
+    ],
+    [
+     "Total",
+     "",
+     587
+    ]
+   ],
+   "note": { "en": "List-II: Male (ESM) candidates qualified for PE&MT/ DV/ Trade (Skill Test). Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-II: पुरुष (ESM) अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट (स्किल टेस्ट) हेतु योग्य हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2025.cut-offs-female-open",
+   "title": { "en": "CBE cut-off marks: Female (Open)", "hi": "सीबीई कट-ऑफ अंक: महिला (ओपन)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     75.97928,
+     379
+    ],
+    [
+     "SC",
+     65.79382,
+     515
+    ],
+    [
+     "ST",
+     66.18663,
+     109
+    ],
+    [
+     "OBC",
+     74.78426,
+     773
+    ],
+    [
+     "UR",
+     75.97928,
+     515
+    ],
+    [
+     "OH",
+     30.70125,
+     51
+    ],
+    [
+     "Total",
+     "",
+     2342
+    ]
+   ],
+   "note": { "en": "List-III: Female (Open) candidates qualified for PE&MT/ DV/ Trade Test (Skill Test). The board notes that candidates qualifying at UR cut-off are also shown under their respective categories (379-EWS, 55-SC, 8-ST and 486-OBC). Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-III: महिला (ओपन) अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट (स्किल टेस्ट) हेतु योग्य हैं। बोर्ड के अनुसार UR कट-ऑफ पर योग्य अभ्यर्थी अपनी श्रेणियों में भी दिखाए गए हैं (379-EWS, 55-SC, 8-ST और 486-OBC)। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P1"
+  }
+ ],
  "pattern": []
 }
