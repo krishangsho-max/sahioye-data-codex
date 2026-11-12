@@ -4,17 +4,24 @@
 //   node scripts/import-cycles.mjs --dry    only print the report
 //   --inbox <dir>    read from another folder (default data/inbox/cycles)
 //   --content <dir>  write to another content folder (default app/content)
+//   --catalog <dir>  read exam lists from another folder (default data/inbox/catalog)
 //
 // The file format is "Arena cycle file" in docs/data-pipeline.md; the prompts are in docs/arena-prompts.md.
 // A file holds one cycle object, or an array of them. Per object:
 //   - It is validated first. A bad object is listed with every problem and skipped; nothing is guessed.
 //   - A new exam is added to exams.json; a known exam is left as it is.
 //   - app/content/cycles/<id>.json is written (new) or merged (existing) and registered in cycles/index.ts.
-//   - The hand-curated cycle files (PROTECTED) are refused, the same as scripts/scrape/import-previous.mjs.
-//     A protected id that has no file yet is a new cycle and goes through.
+//   - The hand-curated cycle files (PROTECTED) are only filled: a new record is added, but nothing that is already
+//     there is changed, confirmed or replaced (a different incoming value is listed as a conflict).
+//     A protected id that has no file yet is a new cycle and goes through. Exam lists never touch them.
+//
+// Boards: the exam id starts with the board ("ssc-", "rrb-"). Official hosts per board (BOARDS below).
+// Partial files are fine: a one-item file (syllabus, admit card, answer key, result, cut-off, notices) holds the cycle
+// block plus only the fields that item needs. It is merged into the cycle and never removes anything.
+// Exam lists: data/inbox/catalog/*.json (arena prompt (a)) adds the exams and an empty cycle for each listed cycle.
 //
 // Verified or tentative (docs/data-model.md): a record is `verified: true` only when its source is
-// official (ssc.gov.in / nic.in); every other record is `verified: false` with the source site named.
+// official for its board (see BOARDS); every other record is `verified: false` with the source site named.
 // Arena checks its own output (CLAUDE.md), so this script only checks that the source is there and official.
 //
 // Merge rules, per record id (docs/data-model.md, "How data flows in"):
@@ -42,6 +49,16 @@ export const PROTECTED = new Set([
 ]);
 // Derived fact ids (from the documents). `extra_facts` may not reuse them.
 const DERIVED_FACT_IDS = ["vacancies", "vacancies-in-the-notification", "age", "age-relaxation", "fee", "fee-exempt", "qualification", "stages"];
+/** Boards and their official hosts. A host matches when it is the domain or a subdomain of it (https only counts, see hostOf). */
+export const BOARDS = {
+  ssc: { name: "SSC", hosts: [/(^|\.)ssc\.gov\.in$/, /(^|\.)nic\.in$/] },
+  rrb: { name: "RRB", hosts: [/(^|\.)rrbcdg\.gov\.in$/, /(^|\.)rrbapply\.gov\.in$/, /(^|\.)indianrailways\.gov\.in$/, /(^|\.)rrb[a-z0-9-]*\.gov\.in$/, /(^|\.)nic\.in$/] },
+};
+/** The board part of an exam or cycle id ("rrb-ntpc-2099" -> "rrb"), or null. */
+export const boardOf = (id) => {
+  const b = typeof id === "string" ? id.split("-")[0] : "";
+  return Object.hasOwn(BOARDS, b) ? b : null;
+};
 const TOP_KEYS = ["version", "exam", "cycle", "documents", "notices", "extra_facts", "tables", "pattern", "syllabus"];
 
 // ---------- small helpers ----------
@@ -79,10 +96,10 @@ export const hostOf = (url) => {
     return null;
   }
 };
-/** True only for ssc.gov.in, nic.in and their subdomains. Matches the host, not the start of the URL. */
-export const isOfficial = (url) => {
+/** True only for the board's official hosts (default SSC: ssc.gov.in, nic.in). Matches the host, not the start of the URL; https or http only. */
+export const isOfficial = (url, board = "ssc") => {
   const h = hostOf(url);
-  return !!h && /(^|\.)(ssc\.gov\.in|nic\.in)$/.test(h);
+  return !!h && !!BOARDS[board] && BOARDS[board].hosts.some((re) => re.test(h));
 };
 
 // ---------- validation ----------
@@ -94,6 +111,9 @@ export const isOfficial = (url) => {
 export function validate(f, knownExams = new Set()) {
   const out = [];
   if (!isObj(f)) return ["not a JSON object"];
+  // The board comes from the exam id; it decides which hosts are official.
+  const board = boardOf(f.cycle?.exam) ?? boardOf(f.exam?.id) ?? "ssc";
+  const officialHosts = board === "rrb" ? "RRB (rrbcdg.gov.in, rrbapply.gov.in, indianrailways.gov.in, rrb*.gov.in) or nic.in" : "ssc.gov.in or nic.in";
   if (f.version !== VERSION) out.push(`version is ${JSON.stringify(f.version)}, expected ${VERSION}`);
   for (const k of Object.keys(f)) if (!TOP_KEYS.includes(k)) out.push(`unknown top-level key "${k}"`);
 
@@ -105,6 +125,7 @@ export function validate(f, knownExams = new Set()) {
     else {
       examId = e.id;
       if (!str(e.id) || !SLUG.test(e.id)) out.push("exam.id: lowercase letters, digits and dashes");
+      else if (!boardOf(e.id)) out.push(`exam.id "${e.id}" must start with a board: ${Object.keys(BOARDS).map((b) => `${b}-`).join(" or ")}`);
       for (const k of ["name_en", "name_hi", "short_en", "short_hi"]) if (!str(e[k])) out.push(`exam.${k}: missing`);
       if (!LEVELS.includes(e.level)) out.push(`exam.level: "${e.level}" is not one of ${LEVELS.join(", ")}`);
     }
@@ -120,6 +141,7 @@ export function validate(f, knownExams = new Set()) {
     if (!str(c.exam) || !SLUG.test(c.exam)) out.push("cycle.exam: lowercase letters, digits and dashes");
     if (examId && c.exam !== examId) out.push(`cycle.exam "${c.exam}" is not exam.id "${examId}"`);
     if (str(c.id) && str(c.exam) && !c.id.startsWith(`${c.exam}-`)) out.push(`cycle.id must start with "${c.exam}-"`);
+    if (str(c.exam) && SLUG.test(c.exam) && !boardOf(c.exam)) out.push(`cycle.exam "${c.exam}" must start with a board: ${Object.keys(BOARDS).map((b) => `${b}-`).join(" or ")}`);
     if (!isInt(c.year) || c.year < 2000 || c.year > 2100) out.push(`cycle.year: ${JSON.stringify(c.year)} is not a year`);
     for (const k of ["name_en", "name_hi"]) if (!str(c[k])) out.push(`cycle.${k}: missing`);
     for (const k of ["lead_en", "lead_hi"]) if (c[k] !== undefined && c[k] !== null && !str(c[k])) out.push(`cycle.${k}: empty text`);
@@ -172,7 +194,7 @@ export function validate(f, knownExams = new Set()) {
       if (!NOTICE_TYPES.includes(n.type)) out.push(`${at}.type: "${n.type}" is not one of ${NOTICE_TYPES.join(", ")}`);
       if (!str(n.title_en) || !str(n.title_hi)) out.push(`${at}: title_en and title_hi are both needed`);
       if (!hostOf(n.url)) out.push(`${at}.url: not a web URL`);
-      else if (!isOfficial(n.url)) out.push(`${at}.url: notices are official files only (ssc.gov.in or nic.in), got ${hostOf(n.url)}`);
+      else if (!isOfficial(n.url, board)) out.push(`${at}.url: notices are official files only (${officialHosts}), got ${hostOf(n.url)}`);
       else noticeUrls.add(norm(n.url));
     });
 
@@ -181,7 +203,7 @@ export function validate(f, knownExams = new Set()) {
   const src = (at, u, needOfficial) => {
     if (!hostOf(u)) return out.push(`${at}.source_url: not a web URL`);
     if (!declared(u)) out.push(`${at}.source_url: list this URL under "documents" (or "notices") first`);
-    if (needOfficial && !isOfficial(u)) out.push(`${at}.source_url: must be an ssc.gov.in or nic.in file (this block has no verified flag)`);
+    if (needOfficial && !isOfficial(u, board)) out.push(`${at}.source_url: must be an ${officialHosts} file (this block has no verified flag)`);
   };
 
   const facts = f.extra_facts ?? [];
@@ -307,12 +329,13 @@ export const newReport = () => ({ added: { dates: 0, facts: 0, notices: 0, table
 
 /**
  * Merges one validated cycle object into `base`, a cycle record (a new skeleton or the existing one).
- * Returns { cycle, changed, report }. `base` is not modified.
+ * Returns { cycle, changed, report }. `base` is not modified. `opts.fillOnly`: only add records, never change one that exists.
  */
-export function mergeCycle(base, f, g, today = istToday()) {
+export function mergeCycle(base, f, g, today = istToday(), opts = {}) {
   const cy = structuredClone(base);
   const report = newReport();
   const id = cy.id;
+  const board = boardOf(cy.exam) ?? "ssc";
   const before = JSON.stringify(cy);
 
   const c = f.cycle;
@@ -331,7 +354,7 @@ export function mergeCycle(base, f, g, today = istToday()) {
       let n = 1;
       while (cy.sources[`${d.prefix}${n}`]) n++;
       key = `${d.prefix}${n}`;
-      const official = isOfficial(url);
+      const official = isOfficial(url, board);
       cy.sources[key] = { title: d.title, url: d.url, date: d.date, official, ...(official ? {} : { site: hostOf(url).replace(/^www\./, "") }) };
     }
     const s = cy.sources[key];
@@ -347,14 +370,17 @@ export function mergeCycle(base, f, g, today = istToday()) {
       if (!rec.verified) report.tentative++;
       return "add";
     }
-    const act = resolve(old, rec, equal(old, rec), cy.sources[old.source]?.date, cy.sources[rec.source]?.date);
+    const eq = equal(old, rec);
+    const act = opts.fillOnly ? (eq ? "same" : "keep") : resolve(old, rec, eq, cy.sources[old.source]?.date, cy.sources[rec.source]?.date);
     if (act === "same") report.same++;
     else if (act === "confirm") {
       Object.assign(old, { verified: true, source: rec.source });
       report.confirmed++;
     } else {
-      const o = JSON.stringify(old.value ?? old.start ?? old.rows).slice(0, 60);
-      const n = JSON.stringify(rec.value ?? rec.start ?? rec.rows).slice(0, 60);
+      // A record can carry none of value/start/rows (a date with only `raw`); JSON.stringify(undefined) is undefined.
+      const show = (x) => String(JSON.stringify(x.value ?? x.start ?? x.rows ?? x.raw ?? x.label ?? null)).slice(0, 60);
+      const o = show(old);
+      const n = show(rec);
       report.conflicts.push(`${label}: ${act === "keep" ? "kept" : "replaced"} ${o} (${old.verified ? "verified" : "tentative"}), incoming ${n} (${rec.verified ? "verified" : "tentative"})`);
       if (act === "replace") {
         const keep = old.id;
@@ -498,7 +524,7 @@ export function skeleton(f, today = istToday()) {
 }
 
 /** The exam record for exams.json from the file's `exam` block. */
-export const examRecord = (e) => ({ id: e.id, body: "ssc", name: bi(e.name_en, e.name_hi), short: bi(e.short_en, e.short_hi), level: e.level });
+export const examRecord = (e) => ({ id: e.id, body: boardOf(e.id) ?? "ssc", name: bi(e.name_en, e.name_hi), short: bi(e.short_en, e.short_hi), level: e.level });
 
 // ---------- cycles/index.ts ----------
 
@@ -519,6 +545,44 @@ export function registerInIndex(text, id) {
   lines.splice(close, 0, `  ${name},`);
   lines.splice(lastImport + 1, 0, `import ${name} from "./${id}.json";`);
   return { text: lines.join("\n"), added: true };
+}
+
+// ---------- exam lists (arena prompt (a)) ----------
+
+/**
+ * Turns one exam-list file (data/inbox/catalog/*.json) into cycle objects: an exam block and an empty cycle for each
+ * listed cycle, plus its notification as a notice when it has an official URL and date. `board` is "SSC" or "RRB".
+ * Returns { files, problems }; a bad exam or cycle is reported and left out.
+ */
+export function catalogToFiles(cat) {
+  const files = [];
+  const problems = [];
+  const board = typeof cat?.board === "string" ? cat.board.toLowerCase() : "";
+  if (!isObj(cat) || cat.version !== VERSION || !Array.isArray(cat.exams)) return { files, problems: ["not an exam list: needs version 1 and an exams array"] };
+  if (!Object.hasOwn(BOARDS, board)) return { files, problems: [`board "${cat.board}" is not one of ${Object.values(BOARDS).map((b) => b.name).join(", ")}`] };
+  for (const e of cat.exams) {
+    const at = `exam ${e?.exam_id}`;
+    if (!isObj(e) || !str(e.exam_id) || !SLUG.test(e.exam_id) || !e.exam_id.startsWith(`${board}-`)) {
+      problems.push(`${at}: exam_id must be lowercase and start with "${board}-"`);
+      continue;
+    }
+    const exam = { id: e.exam_id, name_en: e.name_en, name_hi: e.name_hi, short_en: e.short_en, short_hi: e.short_hi, level: e.level };
+    for (const c of Array.isArray(e.cycles) ? e.cycles : []) {
+      const f = { version: VERSION, exam, cycle: { id: c?.cycle_id, exam: e.exam_id, year: c?.year, name_en: c?.name_en, name_hi: c?.name_hi } };
+      if (str(c?.notice_url) && isDay(c?.notice_date)) {
+        f.notices = [{ date: c.notice_date, type: "notice", title_en: `${c.name_en} notification`, title_hi: `${c.name_hi} अधिसूचना`, url: c.notice_url }];
+      }
+      const bad = validate(f, new Set());
+      // A notice URL that is not official is dropped (the cycle itself is still listed).
+      if (bad.some((x) => x.startsWith("notices[0].url")) && f.notices) {
+        delete f.notices;
+        problems.push(`${c.cycle_id}: notice_url is not an official ${BOARDS[board].name} file, left out`);
+      }
+      files.push(f);
+    }
+    if (!Array.isArray(e.cycles) || !e.cycles.length) problems.push(`${at}: no cycles listed, so the exam is not added (an exam comes in with its first cycle)`);
+  }
+  return { files, problems };
 }
 
 // ---------- the run ----------
@@ -547,10 +611,26 @@ export async function run(opts = {}) {
   try {
     files = (await readdir(inbox)).filter((f) => f.endsWith(".json")).sort();
   } catch {}
+  const catalogDir = opts.catalog ?? "data/inbox/catalog";
+  let catalogs = [];
+  try {
+    catalogs = (await readdir(catalogDir)).filter((f) => f.endsWith(".json")).sort();
+  } catch {}
 
-  const rep = { files: files.length, written: 0, objects: 0, newExams: [], cycles: [], bad: [], refused: [], conflicts: [], skipped: [], syllabus: [], notListed: [] };
+  const rep = { files: files.length + catalogs.length, written: 0, objects: 0, newExams: [], cycles: [], bad: [], refused: [], conflicts: [], skipped: [], syllabus: [], notListed: [] };
   const cycles = new Map(); // id -> { data, isNew, changed, report }
 
+  // Work list: exam lists first (they add exams and empty cycles), then the cycle files.
+  const work = [];
+  for (const file of catalogs) {
+    try {
+      const { files: fs, problems } = catalogToFiles(await readJson(join(catalogDir, file)));
+      fs.forEach((f, i) => work.push({ f, at: `${file}[${i}]`, fromCatalog: true }));
+      for (const p of problems) rep.skipped.push(`${file}: ${p}`);
+    } catch (err) {
+      rep.bad.push(`${file}: not valid JSON (${err.message})`);
+    }
+  }
   for (const file of files) {
     let parsed;
     try {
@@ -560,9 +640,14 @@ export async function run(opts = {}) {
       continue;
     }
     const items = Array.isArray(parsed) ? parsed : [parsed];
-    for (const [i, f] of items.entries()) {
+    items.forEach((f, i) => work.push({ f, at: items.length > 1 || Array.isArray(parsed) ? `${file}[${i}]` : file }));
+  }
+
+  {
+    // Files that describe a new exam (an "exam" block) go first, so a one-item file of the same cycle can follow in any file-name order.
+    work.sort((a, b) => Number(!a.f?.exam) - Number(!b.f?.exam));
+    for (const { f, at, fromCatalog } of work) {
       rep.objects++;
-      const at = items.length > 1 || Array.isArray(parsed) ? `${file}[${i}]` : file;
       const errors = validate(f, knownExams);
       if (errors.length) {
         rep.bad.push(`${at}:\n${errors.map((e) => `      - ${e}`).join("\n")}`);
@@ -575,11 +660,8 @@ export async function run(opts = {}) {
         try {
           data = await readJson(join(cyclesDir, `${id}.json`));
         } catch {}
-        if (data && PROTECTED.has(id)) {
-          rep.refused.push(`${at}: ${id} is a hand-curated file; the importer does not change it`);
-          continue;
-        }
-        entry = { data: data ?? skeleton(f, today), isNew: !data, changed: !data, report: newReport(), objects: 0 };
+        if (data && PROTECTED.has(id) && fromCatalog) continue; // an exam list adds nothing to a hand-curated cycle
+        entry = { data: data ?? skeleton(f, today), isNew: !data, changed: !data, report: newReport(), objects: 0, fillOnly: !!data && PROTECTED.has(id) };
         cycles.set(id, entry);
       }
       if (f.exam && !knownExams.has(f.exam.id)) {
@@ -587,7 +669,7 @@ export async function run(opts = {}) {
         knownExams.add(f.exam.id);
         rep.newExams.push(f.exam.id);
       }
-      const { cycle, changed, report } = mergeCycle(entry.data, f, g, today);
+      const { cycle, changed, report } = mergeCycle(entry.data, f, g, today, { fillOnly: entry.fillOnly });
       entry.data = cycle;
       entry.changed ||= changed;
       entry.objects++;
@@ -602,7 +684,7 @@ export async function run(opts = {}) {
   for (const [id, e] of cycles) {
     const r = e.report;
     const a = r.added;
-    rep.cycles.push(`${id}${e.isNew ? " (new)" : ""}: +${a.dates} dates, +${a.facts} facts, +${a.notices} notices, +${a.tables} tables, +${a.pattern} pattern; ${r.tentative} tentative, ${r.confirmed} confirmed, ${r.replaced} replaced, ${r.same} already there${e.changed ? "" : " (no change)"}`);
+    rep.cycles.push(`${id}${e.isNew ? " (new)" : e.fillOnly ? " (hand-curated: gaps filled only)" : ""}: +${a.dates} dates, +${a.facts} facts, +${a.notices} notices, +${a.tables} tables, +${a.pattern} pattern; ${r.tentative} tentative, ${r.confirmed} confirmed, ${r.replaced} replaced, ${r.same} already there${e.changed ? "" : " (no change)"}`);
     rep.conflicts.push(...r.conflicts);
     rep.skipped.push(...r.skipped);
     if (e.isNew) rep.notListed.push(id);
@@ -628,12 +710,12 @@ function print(rep, dry) {
   list("New exams added to exams.json", rep.newExams);
   list("Cycles", rep.cycles);
   list("Conflicts (the existing verified value was kept, or see the line)", rep.conflicts);
-  list("Refused, hand-curated cycle files", rep.refused);
+  list("Refused", rep.refused);
   list("Bad objects, skipped (fix the JSON in arena and save it again)", rep.bad);
   list("Left out of the cycle (no value in the file)", rep.skipped);
   list("Not imported", rep.syllabus);
   if (rep.notListed.length) console.log(`\nNew cycles have their own page and are in the sitemap. They are not on the home page or the exam list until they are added to LISTED in app/content/exams.ts.`);
-  if (!rep.files) console.log("The inbox is empty. Save arena's JSON as data/inbox/cycles/<cycle-id>.json first.");
+  if (!rep.files) console.log("The inbox is empty. Save arena's JSON as data/inbox/cycles/<cycle-id>-<item>.json first.");
   else if (rep.written && !dry) console.log("\nNext: npx tsc --noEmit, npx eslint app, npm test, then look at the git diff.");
 }
 
@@ -643,7 +725,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) 
     return i > 0 ? process.argv[i + 1] : undefined;
   };
   const dry = process.argv.includes("--dry");
-  const rep = await run({ inbox: arg("--inbox"), content: arg("--content"), dry });
+  const rep = await run({ inbox: arg("--inbox"), content: arg("--content"), catalog: arg("--catalog"), dry });
   print(rep, dry);
   if (rep.bad.length || rep.refused.length) process.exitCode = 1;
 }

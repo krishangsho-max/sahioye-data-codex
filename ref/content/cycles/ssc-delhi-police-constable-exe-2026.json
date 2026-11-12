@@ -5,7 +5,7 @@
  "year": 2026,
  "name": { "en": "SSC Delhi Police Constable (Executive) 2026", "hi": "SSC दिल्ली पुलिस कांस्टेबल (कार्यकारी) 2026" },
  "lead": { "en": "SSC has not published the 2026 notification for the Constable (Executive) Male and Female in Delhi Police Examination, 2026 (checked 7 Nov 2026), and it is not in SSC's 2026 calendar. Everything below is from the 2025 notice and is shown as tentative reference, not as a 2026 rule.", "hi": "SSC ने दिल्ली पुलिस में कांस्टेबल (कार्यकारी) पुरुष और महिला परीक्षा, 2026 की की 2026 की अधिसूचना जारी नहीं की है (7 नवंबर 2026 को जाँचा) और यह SSC के 2026 कैलेंडर में भी नहीं है। नीचे सब कुछ 2025 की सूचना से है और अस्थायी संदर्भ के रूप में दिखाया गया है, 2026 के नियम के रूप में नहीं।" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC notice board (checked 7 Nov 2026)", "hi": "SSC नोटिस बोर्ड (7 नवंबर 2026 को जाँचा)" },
@@ -30,9 +30,142 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice1_25022026.pdf",
    "date": "2026-02-25",
    "official": true
+  },
+  "P1": {
+   "title": { "en": "Self-Slot Selection by the candidates for Constable (Driver)-Male in Delhi Police Examination, 2025; Head Constable (Ministerial) in Delhi Police Exam, 2025; Head Constable {Assistant Wireless Operator (AWO)/ Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025; and Constable (Executive) Male and Female in Delhi Police Examination, 2025 – reg.", "hi": "Self-Slot Selection by the candidates for Constable (Driver)-Male in Delhi Police Examination, 2025; Head Constable (Ministerial) in Delhi Police Exam, 2025; Head Constable {Assistant Wireless Operator (AWO)/ Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025; and Constable (Executive) Male and Female in Delhi Police Examination, 2025 – reg." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/self%20slot%20notice%20for%20DP(1).pdf",
+   "date": "2025-12-04",
+   "official": true
+  },
+  "P2": {
+   "title": { "en": "INSTRUCTIONS REGARDING PRINT/DOWNLOAD OF ADMIT CARD OF DELHI POLICE CONSTABLE EXECUTIVE EXAM – 2025", "hi": "INSTRUCTIONS REGARDING PRINT/DOWNLOAD OF ADMIT CARD OF DELHI POLICE CONSTABLE EXECUTIVE EXAM – 2025" },
+   "url": "https://sscnr.nic.in/newlook/downloads/2026/ImportantNotice/Instruction.pdf",
+   "date": "2026-09-18",
+   "official": true
+  },
+  "P3": {
+   "title": { "en": "Constable (Executive) Male and Female in Delhi Police Examination-2025: Uploading of Tentative Answer Keys along with Question Paper(s) cum Response Sheet(s) – regarding.", "hi": "Constable (Executive) Male and Female in Delhi Police Examination-2025: Uploading of Tentative Answer Keys along with Question Paper(s) cum Response Sheet(s) – regarding." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Write_up_Tentative_Answer_Keys_DP_Executive_2025.pdf",
+   "date": "2026-01-13",
+   "official": true
+  },
+  "P4": {
+   "title": { "en": "Constable (Executive) Male and Female in Delhi Police Examination, 2025– Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV).", "hi": "Constable (Executive) Male and Female in Delhi Police Examination, 2025– Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_dpce_19062026.pdf",
+   "date": "2026-06-19",
+   "official": true
+  },
+  "P5": {
+   "title": { "en": "NOTICE FOR CONDUCT OF PE&MT OF DELHI POLICE, CONSTABLE (EXECUTIVE) EXAMINATION- 2025", "hi": "NOTICE FOR CONDUCT OF PE&MT OF DELHI POLICE, CONSTABLE (EXECUTIVE) EXAMINATION- 2025" },
+   "url": "https://sscnr.nic.in/newlook/downloads/2026/ImportantNotice/Notice_DPCE_2025.pdf",
+   "date": "2026-09-11",
+   "official": true
   }
  },
- "dates": [],
+ "dates": [
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.city-slip",
+   "kind": "city-slip",
+   "label": { "en": "Exam city slip", "hi": "परीक्षा शहर पर्ची" },
+   "start": "2025-12-05",
+   "end": "2025-12-30",
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.other-duration-for-self-slot-selection-05-12-2",
+   "kind": "other",
+   "label": { "en": "Duration for Self-Slot selection: 05.12.2025 to 30.12.2025 (11.00 PM)", "hi": "Duration for Self-Slot selection: 05.12.2025 to 30.12.2025 (11.00 PM)" },
+   "start": "2025-12-05",
+   "end": "2025-12-30",
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.exam",
+   "kind": "exam",
+   "label": { "en": "Exam", "hi": "परीक्षा" },
+   "start": "2025-12-18",
+   "end": "2026-01-06",
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2025-12-18",
+   "end": "2026-01-06",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.other-computer-based-examination-conducted-fro-tier-1",
+   "kind": "other",
+   "label": { "en": "Computer Based Examination conducted from 18.12.2025 to 06.01.2026", "hi": "Computer Based Examination conducted from 18.12.2025 to 06.01.2026" },
+   "start": "2025-12-18",
+   "end": "2026-01-06",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P4"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.answer-key",
+   "kind": "answer-key",
+   "label": { "en": "Answer key", "hi": "उत्तर कुंजी" },
+   "start": "2026-01-13",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.objection-end",
+   "kind": "objection-end",
+   "label": { "en": "Last date for objections", "hi": "आपत्ति की अंतिम तिथि" },
+   "start": "2026-01-13",
+   "end": "2026-01-16",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.answer-key-tier-1",
+   "kind": "answer-key",
+   "label": { "en": "Tier 1 answer key", "hi": "टियर 1 उत्तर कुंजी" },
+   "start": "2026-01-13",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.objection-end-tier-1",
+   "kind": "objection-end",
+   "label": { "en": "Tier 1 last date for objections", "hi": "टियर 1 आपत्ति की अंतिम तिथि" },
+   "start": "2026-01-13",
+   "end": "2026-01-16",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.result-tier-1",
+   "kind": "result",
+   "label": { "en": "Tier 1 result", "hi": "टियर 1 परिणाम" },
+   "start": "2026-06-19",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P4"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.other-the-pe-mt-of-delhi-police-constable-exec-tier-1",
+   "kind": "other",
+   "label": { "en": "The PE&MT of Delhi Police, Constable (Executive) Examination-2025 is scheduled to be conducted from 18.09.2026 to 26.09.2026", "hi": "The PE&MT of Delhi Police, Constable (Executive) Examination-2025 is scheduled to be conducted from 18.09.2026 to 26.09.2026" },
+   "start": "2026-09-18",
+   "end": "2026-09-26",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P5"
+  }
+ ],
  "sections": [
   {
    "id": "pemt",
@@ -196,7 +329,43 @@
    "source": "S5"
   }
  ],
- "notices": [],
+ "notices": [
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.notice-p1",
+   "date": "2025-12-04",
+   "type": "notice",
+   "title": { "en": "Self-slot selection for Delhi Police exams 2025 (incl. Constable Executive)", "hi": "दिल्ली पुलिस परीक्षा, 2025 (कांस्टेबल कार्यकारी सहित) हेतु स्वयं-स्लॉट चयन" },
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.notice-p3",
+   "date": "2026-01-13",
+   "type": "answer-key",
+   "title": { "en": "Constable (Executive) Delhi Police 2025: Uploading of tentative answer keys and response sheets", "hi": "कांस्टेबल (कार्यकारी) दिल्ली पुलिस परीक्षा, 2025: अनंतिम उत्तर कुंजी और रिस्पॉन्स शीट अपलोड करना" },
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.notice-p4",
+   "date": "2026-06-19",
+   "type": "cut-off",
+   "title": { "en": "Constable (Executive) Delhi Police 2025: CBE result with last-selected-candidate marks per category", "hi": "कांस्टेबल (कार्यकारी) दिल्ली पुलिस परीक्षा, 2025: श्रेणीवार अंतिम चयनित अभ्यर्थी के अंकों सहित सीबीई परिणाम" },
+   "source": "P4"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.notice-p5",
+   "date": "2026-09-11",
+   "type": "notice",
+   "title": { "en": "Notice for conduct of PE&MT, Delhi Police Constable (Executive) 2025", "hi": "दिल्ली पुलिस कांस्टेबल (कार्यकारी) परीक्षा, 2025 हेतु पीईएंडएमटी आयोजन की सूचना" },
+   "source": "P5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.notice-p2",
+   "date": "2026-09-18",
+   "type": "admit-card",
+   "title": { "en": "Instructions regarding print/download of admit card, Delhi Police Constable (Executive) 2025", "hi": "दिल्ली पुलिस कांस्टेबल (कार्यकारी) परीक्षा, 2025 का एडमिट कार्ड प्रिंट/डाउनलोड करने हेतु निर्देश" },
+   "source": "P2"
+  }
+ ],
  "tables": [
   {
    "id": "ssc-delhi-police-constable-exe-2026.vacancies",
@@ -365,6 +534,194 @@
    "note": { "en": "Only candidates who qualify the race attempt the long jump, then the high jump. Each jump must be cleared in one of three chances.", "hi": "केवल दौड़ में सफल उम्मीदवार लंबी कूद और फिर ऊँची कूद देते हैं। हर कूद तीन मौकों में से किसी एक में पार करनी होती है।" },
    "verified": false,
    "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.cut-offs",
+   "title": { "en": "CBE marks of last selected candidate: Male (Open)", "hi": "सीबीई: अंतिम चयनित अभ्यर्थी के अंक, पुरुष (ओपन)" },
+   "head": [
+    { "en": "Post", "hi": "पद" },
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Vacancy", "hi": "रिक्तियाँ" },
+    { "en": "Candidates shortlisted", "hi": "शॉर्टलिस्ट अभ्यर्थी" },
+    { "en": "Details of last selected candidate: Total marks", "hi": "अंतिम चयनित अभ्यर्थी: कुल अंक" }
+   ],
+   "rows": [
+    [
+     "Constable (Exe.) - Open",
+     "EWS",
+     434,
+     6941,
+     68.54551
+    ],
+    [
+     "Constable (Exe.) - Open",
+     "SC",
+     729,
+     9945,
+     62.83696
+    ],
+    [
+     "Constable (Exe.) - Open",
+     "ST",
+     337,
+     4311,
+     60.08088
+    ],
+    [
+     "Constable (Exe.) - Open",
+     "OBC",
+     956,
+     13611,
+     70.05181
+    ],
+    [
+     "Constable (Exe.) - Open",
+     "UR",
+     1733,
+     3751,
+     70.05181
+    ]
+   ],
+   "note": { "en": "List-I (Male). The board's writeup says: 'Based on the cut-off fixed by the Commission in CBE'. The figures are printed under the column 'Details of Last Selected Candidate Total Marks' and are not labelled 'cut-off' in the file. Shortlisted count for UR is printed as 3751 with a footnote: 5035-EWS, 1197-SC, 267-ST and 10546-OBC candidates qualified at UR standard in Open subcategory.", "hi": "सूची-I (पुरुष)। बोर्ड के लेख में लिखा है: 'आयोग द्वारा सीबीई में तय कट-ऑफ के आधार पर'। आंकड़े 'अंतिम चयनित अभ्यर्थी के कुल अंक' कॉलम में दिए गए हैं और फ़ाइल में इन्हें 'कट-ऑफ' नहीं कहा गया है। UR के शॉर्टलिस्ट अभ्यर्थी 3751 हैं, साथ में पाद-टिप्पणी: UR मानक पर ओपन उपश्रेणी में योग्य 5035-EWS, 1197-SC, 267-ST और 10546-OBC अभ्यर्थी।" },
+   "verified": true,
+   "source": "P4"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.cut-offs-male-esm",
+   "title": { "en": "CBE marks of last selected candidate: Male (ESM)", "hi": "सीबीई: अंतिम चयनित अभ्यर्थी के अंक, पुरुष (ESM)" },
+   "head": [
+    { "en": "Post", "hi": "पद" },
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Vacancy", "hi": "रिक्तियाँ" },
+    { "en": "Candidates shortlisted", "hi": "शॉर्टलिस्ट अभ्यर्थी" },
+    { "en": "Details of last selected candidate: Total marks", "hi": "अंतिम चयनित अभ्यर्थी: कुल अंक" }
+   ],
+   "rows": [
+    [
+     "Constable (Exe.) -",
+     "EWS",
+     24,
+     78,
+     25
+    ],
+    [
+     "Post ESM [Others]",
+     "SC",
+     62,
+     117,
+     25
+    ],
+    [
+     "Post ESM [Others]",
+     "ST",
+     36,
+     25,
+     25
+    ],
+    [
+     "Post ESM [Others]",
+     "OBC",
+     53,
+     814,
+     28.79827
+    ],
+    [
+     "Post ESM [Others]",
+     "UR",
+     96,
+     1152,
+     28.79827
+    ],
+    [
+     "Constable (Exe.) - ESM [Commando]",
+     "EWS",
+     24,
+     94,
+     25
+    ],
+    [
+     "Constable (Exe.) - ESM [Commando]",
+     "SC",
+     138,
+     481,
+     25
+    ],
+    [
+     "Constable (Exe.) - ESM [Commando]",
+     "ST",
+     51,
+     223,
+     25
+    ],
+    [
+     "Constable (Exe.) - ESM [Commando]",
+     "OBC",
+     56,
+     1296,
+     25
+    ],
+    [
+     "Constable (Exe.) - ESM [Commando]",
+     "UR",
+     96,
+     1002,
+     25
+    ]
+   ],
+   "note": { "en": "ESM (Others and Commando) lists. The board prints these figures under 'Details of Last Selected Candidate Total Marks' and does not label them 'cut-off'. The first row's post label is printed in the file as 'Constable (Exe.) -' with the rest of the label missing. Values with a dash for Part A/B marks are not reproduced here.", "hi": "ESM ('अन्य' और 'कमांडो') सूचियाँ। बोर्ड ने ये आंकड़े 'अंतिम चयनित अभ्यर्थी के कुल अंक' के अंतर्गत दिए हैं और इन्हें 'कट-ऑफ' नहीं कहा है। पहली पंक्ति का पद-नाम फ़ाइल में 'Constable (Exe.) -' के रूप में अधूरा छपा है।" },
+   "verified": true,
+   "source": "P4"
+  },
+  {
+   "id": "ssc-delhi-police-constable-exe-2026.cut-offs-female-open",
+   "title": { "en": "CBE marks of last selected candidate: Female (Open)", "hi": "सीबीई: अंतिम चयनित अभ्यर्थी के अंक, महिला (ओपन)" },
+   "head": [
+    { "en": "Post", "hi": "पद" },
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Vacancy", "hi": "रिक्तियाँ" },
+    { "en": "Candidates shortlisted", "hi": "शॉर्टलिस्ट अभ्यर्थी" },
+    { "en": "Details of last selected candidate: Total marks", "hi": "अंतिम चयनित अभ्यर्थी: कुल अंक" }
+   ],
+   "rows": [
+    [
+     "Constable (Exe.)",
+     "EWS",
+     238,
+     3804,
+     61.55681
+    ],
+    [
+     "Constable (Exe.)",
+     "SC",
+     457,
+     6242,
+     54.60305
+    ],
+    [
+     "Constable (Exe.)",
+     "ST",
+     208,
+     2624,
+     49.06871
+    ],
+    [
+     "Constable (Exe.)",
+     "OBC",
+     525,
+     7248,
+     63.05564
+    ],
+    [
+     "Constable (Exe.)",
+     "UR",
+     948,
+     2317,
+     63.52622
+    ]
+   ],
+   "note": { "en": "List-II (Female). The board prints these figures under 'Details of Last Selected Candidate Total Marks' and does not label them 'cut-off'. Shortlisted count for UR is printed as 2317 with a footnote: 2751-EWS, 758-SC, 128-ST and 5422-OBC candidates qualified at UR standard.", "hi": "सूची-II (महिला)। बोर्ड ने ये आंकड़े 'अंतिम चयनित अभ्यर्थी के कुल अंक' के अंतर्गत दिए हैं और इन्हें 'कट-ऑफ' नहीं कहा है। UR के शॉर्टलिस्ट अभ्यर्थी 2317 हैं, साथ में पाद-टिप्पणी: UR मानक पर योग्य 2751-EWS, 758-SC, 128-ST और 5422-OBC अभ्यर्थी।" },
+   "verified": true,
+   "source": "P4"
   }
  ],
  "pattern": [

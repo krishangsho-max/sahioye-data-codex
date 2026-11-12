@@ -4,7 +4,7 @@
  "exam": "ssc-steno",
  "year": 2025,
  "name": { "en": "SSC Stenographer 2025", "hi": "SSC Stenographer 2025" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC Stenographer 2025 on sarkariresult.com", "hi": "SSC Stenographer 2025 on sarkariresult.com" },
@@ -57,16 +57,34 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Stenographer_Skill_Test_Notice_20012026.pdf",
    "official": true
   },
-  "A1": {
-   "title": { "en": "Stenographer Grade C and D Examination notice", "hi": "आशुलिपिक ग्रेड सी और डी परीक्षा सूचना" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_steno_2025.pdf",
-   "date": "2025-06-06",
+  "P1": {
+   "title": { "en": "Stenographer Grade ‘C’ & ‘D’ Examination, 2025 — Information regarding City of Examination & Admission Certificate.", "hi": "Stenographer Grade ‘C’ & ‘D’ Examination, 2025 — Information regarding City of Examination & Admission Certificate." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_31072025.pdf",
+   "date": "2025-07-31",
    "official": true
   },
-  "A2": {
-   "title": { "en": "Computer-based examination result and skill-test cut-offs", "hi": "कंप्यूटर आधारित परीक्षा परिणाम और कौशल परीक्षा कट-ऑफ" },
+  "P2": {
+   "title": { "en": "Uploading of Tentative Answer Keys along with Candidates’ Response Sheet(s) of Stenographer Grade 'C' & 'D' Examination, 2025 (CBE) - regarding.", "hi": "Uploading of Tentative Answer Keys along with Candidates’ Response Sheet(s) of Stenographer Grade 'C' & 'D' Examination, 2025 (CBE) - regarding." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/AnswerKeys/Answer_Key_22082025.pdf",
+   "date": "2025-08-22",
+   "official": true
+  },
+  "P3": {
+   "title": { "en": "Uploading of Final Answer Key(s) along with Candidates’ Response Sheet(s) and Marks of Stenographer Grade ‘C’ & ‘D’ Examination, 2025 – regarding.", "hi": "Uploading of Final Answer Key(s) along with Candidates’ Response Sheet(s) and Marks of Stenographer Grade ‘C’ & ‘D’ Examination, 2025 – regarding." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/AnswerKeys/writeup_02012026.pdf",
+   "date": "2026-01-02",
+   "official": true
+  },
+  "P4": {
+   "title": { "en": "Stenographer Grade ‘C’ & ‘D’ Examination, 2025 – Declaration of Result of Computer Based Examination to call candidates for appearing in Skill Test in Stenography", "hi": "Stenographer Grade ‘C’ & ‘D’ Examination, 2025 – Declaration of Result of Computer Based Examination to call candidates for appearing in Skill Test in Stenography" },
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_28112025.pdf",
    "date": "2025-11-28",
+   "official": true
+  },
+  "P5": {
+   "title": { "en": "Stenographer Grade ‘C’ and ‘D’ Examination, 2025 – Declaration of Revised First Round of Tentative Allocation (FRTA) – reg.", "hi": "Stenographer Grade ‘C’ and ‘D’ Examination, 2025 – Declaration of Revised First Round of Tentative Allocation (FRTA) – reg." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_31072026.pdf",
+   "date": "2026-07-31",
    "official": true
   }
  },
@@ -109,6 +127,15 @@
    "source": "S1"
   },
   {
+   "id": "ssc-steno-2025.city-slip-tier-1",
+   "kind": "city-slip",
+   "label": { "en": "Tier 1 exam city slip", "hi": "टियर 1 परीक्षा शहर पर्ची" },
+   "start": "2025-07-31",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P1"
+  },
+  {
    "id": "ssc-steno-2025.exam",
    "kind": "exam",
    "label": { "en": "CBT Exam Date", "hi": "CBT Exam Date" },
@@ -117,6 +144,31 @@
    "raw": "06-11 August 2025",
    "verified": false,
    "source": "S1"
+  },
+  {
+   "id": "ssc-steno-2025.answer-key",
+   "kind": "answer-key",
+   "label": { "en": "Answer key", "hi": "उत्तर कुंजी" },
+   "start": "2025-08-22",
+   "verified": true,
+   "source": "P2"
+  },
+  {
+   "id": "ssc-steno-2025.objection-end",
+   "kind": "objection-end",
+   "label": { "en": "Last date for objections", "hi": "आपत्ति की अंतिम तिथि" },
+   "start": "2025-08-25",
+   "verified": true,
+   "source": "P2"
+  },
+  {
+   "id": "ssc-steno-2025.final-answer-key",
+   "kind": "final-answer-key",
+   "label": { "en": "Final answer key", "hi": "अंतिम उत्तर कुंजी" },
+   "start": "2026-01-02",
+   "end": "2026-01-17",
+   "verified": true,
+   "source": "P3"
   },
   {
    "id": "ssc-steno-2025.exam-skill-test",
@@ -252,34 +304,184 @@
  ],
  "notices": [
   {
-   "id": "ssc-steno-2025.notice-a1",
-   "date": "2025-06-06",
+   "id": "ssc-steno-2025.notice-p1",
+   "date": "2025-07-31",
    "type": "notice",
-   "title": { "en": "Stenographer Grade C and D Examination notice", "hi": "आशुलिपिक ग्रेड सी और डी परीक्षा सूचना" },
-   "source": "A1"
+   "title": { "en": "Stenographer Grade ‘C’ & ‘D’ Examination, 2025 — Information regarding City of Examination & Admission Certificate", "hi": "आशुलिपिक ग्रेड ‘C’ एवं ‘D’ परीक्षा, 2025 — परीक्षा शहर और प्रवेश प्रमाणपत्र के संबंध में सूचना" },
+   "source": "P1"
   },
   {
-   "id": "ssc-steno-2025.notice-a2",
+   "id": "ssc-steno-2025.notice-p2",
+   "date": "2025-08-22",
+   "type": "answer-key",
+   "title": { "en": "Uploading of Tentative Answer Keys along with Candidates’ Response Sheet(s) of Stenographer Grade 'C' and 'D' Examination, 2025", "hi": "आशुलिपिक ग्रेड 'C' और 'D' परीक्षा, 2025 की अनंतिम उत्तर कुंजियों के साथ अभ्यर्थियों की उत्तर-पत्रक अपलोड करने के संबंध में" },
+   "source": "P2"
+  },
+  {
+   "id": "ssc-steno-2025.notice-p4",
    "date": "2025-11-28",
-   "type": "result",
-   "title": { "en": "Computer-based examination result and skill-test cut-offs", "hi": "कंप्यूटर आधारित परीक्षा परिणाम और कौशल परीक्षा कट-ऑफ" },
-   "source": "A2"
+   "type": "cut-off",
+   "title": { "en": "Stenographer Grade ‘C’ & ‘D’ Examination, 2025 – CBE result and cut-off marks for Skill Test shortlisting", "hi": "आशुलिपिक ग्रेड ‘C’ एवं ‘D’ परीक्षा, 2025 — कौशल परीक्षा के लिए सीबीई परिणाम और कट-ऑफ अंक" },
+   "source": "P4"
   },
   {
-   "id": "ssc-steno-2025.notice-l5",
-   "date": "2026-08-25",
-   "type": "result",
-   "title": { "en": "Final result and cut-offs", "hi": "अंतिम परिणाम और कट-ऑफ" },
-   "source": "L5"
+   "id": "ssc-steno-2025.notice-p3",
+   "date": "2026-01-02",
+   "type": "answer-key",
+   "title": { "en": "Uploading of Final Answer Keys along with Candidates’ Response Sheets and Marks of Stenographer Grade 'C' and 'D' Examination, 2025", "hi": "आशुलिपिक ग्रेड 'C' और 'D' परीक्षा, 2025 की अंतिम उत्तर कुंजियों के साथ अभ्यर्थियों की उत्तर-पत्रक और अंक अपलोड करने के संबंध में" },
+   "source": "P3"
   },
   {
-   "id": "ssc-steno-2025.notice-l2",
-   "date": "2026-10-07",
-   "type": "marks",
-   "title": { "en": "Final marks", "hi": "अंतिम अंक" },
-   "source": "L2"
+   "id": "ssc-steno-2025.notice-p5",
+   "date": "2026-07-31",
+   "type": "cut-off",
+   "title": { "en": "Stenographer Grade ‘C’ and ‘D’ Examination, 2025 – Declaration of Revised First Round of Tentative Allocation (FRTA)", "hi": "आशुलिपिक ग्रेड ‘C’ एवं ‘D’ परीक्षा, 2025 — प्रथम दौर के संशोधित अस्थायी आवंटन की घोषणा" },
+   "source": "P5"
   }
  ],
- "tables": [],
+ "tables": [
+  {
+   "id": "ssc-steno-2025.cut-offs",
+   "title": { "en": "CBE cut-off marks for Stenographer Grade C", "hi": "आशुलिपिक ग्रेड C के लिए सीबीई कट-ऑफ अंक" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" }
+   ],
+   "rows": [
+    [
+     "SC",
+     135.44087
+    ],
+    [
+     "ST",
+     120.37748
+    ],
+    [
+     "OBC",
+     141.77465
+    ],
+    [
+     "EWS",
+     137.83071
+    ],
+    [
+     "UR",
+     142.42577
+    ],
+    [
+     "OH",
+     119.93641
+    ],
+    [
+     "HH",
+     73.62062
+    ],
+    [
+     "VH",
+     95.27935
+    ],
+    [
+     "Others-PWD",
+     "-"
+    ]
+   ],
+   "verified": true,
+   "source": "P4"
+  },
+  {
+   "id": "ssc-steno-2025.cut-offs-grade-d",
+   "title": { "en": "CBE cut-off marks for Stenographer Grade D", "hi": "आशुलिपिक ग्रेड D के लिए सीबीई कट-ऑफ अंक" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" }
+   ],
+   "rows": [
+    [
+     "SC",
+     117.77426
+    ],
+    [
+     "ST",
+     105.75225
+    ],
+    [
+     "OBC",
+     129.22305
+    ],
+    [
+     "EWS",
+     125.1331
+    ],
+    [
+     "UR",
+     132.30789
+    ],
+    [
+     "ESM",
+     40.27012
+    ],
+    [
+     "OH",
+     107.44537
+    ],
+    [
+     "HH",
+     40.20009
+    ],
+    [
+     "VH",
+     80.23427
+    ],
+    [
+     "Others-PWD",
+     51.94828
+    ]
+   ],
+   "verified": true,
+   "source": "P4"
+  },
+  {
+   "id": "ssc-steno-2025.cut-offs-skill-test-grade-c",
+   "title": { "en": "Skill Test cut-off by percentage of mistakes allowed — Stenographer Grade C", "hi": "आशुलिपिक ग्रेड C — अनुमत त्रुटियों के प्रतिशत के अनुसार कौशल परीक्षा कट-ऑफ" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off on percentage of mistakes allowed", "hi": "अनुमत त्रुटियों के प्रतिशत पर कट-ऑफ" }
+   ],
+   "rows": [
+    [
+     "UR",
+     5
+    ],
+    [
+     "All reserved categories",
+     7
+    ]
+   ],
+   "note": { "en": "Values are percentages of mistakes allowed, not CBE marks.", "hi": "ये अनुमत त्रुटियों के प्रतिशत हैं, सीबीई अंक नहीं।" },
+   "verified": true,
+   "source": "P5"
+  },
+  {
+   "id": "ssc-steno-2025.cut-offs-skill-test-grade-d",
+   "title": { "en": "Skill Test cut-off by percentage of mistakes allowed — Stenographer Grade D", "hi": "आशुलिपिक ग्रेड D — अनुमत त्रुटियों के प्रतिशत के अनुसार कौशल परीक्षा कट-ऑफ" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off on percentage of mistakes allowed", "hi": "अनुमत त्रुटियों के प्रतिशत पर कट-ऑफ" }
+   ],
+   "rows": [
+    [
+     "UR",
+     7
+    ],
+    [
+     "All reserved categories",
+     10
+    ]
+   ],
+   "note": { "en": "Values are percentages of mistakes allowed, not CBE marks.", "hi": "ये अनुमत त्रुटियों के प्रतिशत हैं, सीबीई अंक नहीं।" },
+   "verified": true,
+   "source": "P5"
+  }
+ ],
  "pattern": []
 }

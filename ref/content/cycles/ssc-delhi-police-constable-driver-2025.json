@@ -4,7 +4,7 @@
  "exam": "ssc-delhi-police",
  "year": 2025,
  "name": { "en": "SSC Delhi Police Constable (Driver) 2025", "hi": "SSC Delhi Police Constable (Driver) 2025" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC Delhi Police Constable (Driver) 2025 on sarkariresult.com", "hi": "SSC Delhi Police Constable (Driver) 2025 on sarkariresult.com" },
@@ -72,10 +72,10 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_DPCD_2025.pdf",
    "official": true
   },
-  "A1": {
-   "title": { "en": "Revised correction windows for Delhi Police examinations", "hi": "दिल्ली पुलिस परीक्षाओं के लिए संशोधित सुधार विंडो" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/important_notice_22102025.pdf",
-   "date": "2025-10-22",
+  "P1": {
+   "title": { "en": "Constable (Driver) Male in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test – reg.", "hi": "Constable (Driver) Male in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test – reg." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_29042026.pdf",
+   "date": "2026-04-29",
    "official": true
   }
  },
@@ -85,32 +85,27 @@
    "kind": "apply-start",
    "label": { "en": "Application Begin", "hi": "Application Begin" },
    "start": "2025-09-24",
-   "verified": true,
-   "source": "L12"
-  },
-  {
-   "id": "ssc-delhi-police-constable-driver-2025.notification",
-   "kind": "notification",
-   "label": { "en": "Notification", "hi": "अधिसूचना" },
-   "start": "2025-09-24",
-   "verified": true,
-   "source": "L12"
+   "raw": "24/09/2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-constable-driver-2025.apply-end",
    "kind": "apply-end",
    "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
    "start": "2025-10-15",
-   "verified": true,
-   "source": "L12"
+   "raw": "15/10/2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-constable-driver-2025.fee-end",
    "kind": "fee-end",
    "label": { "en": "Last Date Pay Exam Fee", "hi": "Last Date Pay Exam Fee" },
    "start": "2025-10-16",
-   "verified": true,
-   "source": "L12"
+   "raw": "16/10/2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-constable-driver-2025.correction",
@@ -118,8 +113,9 @@
    "label": { "en": "Correction Date", "hi": "Correction Date" },
    "start": "2025-10-23",
    "end": "2025-10-25",
-   "verified": true,
-   "source": "L12"
+   "raw": "23-25 October 2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-delhi-police-constable-driver-2025.other",
@@ -198,67 +194,152 @@
    "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-constable-driver-2025.age",
-   "kind": "age",
-   "label": { "en": "Age limit (as on 1 Jul 2025)", "hi": "आयु सीमा (1 जुलाई 2025 तक)" },
-   "value": "21–30",
-   "verified": true,
-   "source": "L12"
-  },
-  {
-   "id": "ssc-delhi-police-constable-driver-2025.age-relaxation",
-   "kind": "age",
-   "label": { "en": "Age relaxation", "hi": "आयु में छूट" },
-   "value": { "en": "SC/ST: 5 years, OBC: 3 years, Ex-Servicemen: 3 years after deduction of military service, Sportspersons: 5 years (10 years SC/ST), Departmental candidates of Delhi Police: up to 40 years (UR/EWS), 43 years (OBC), 45 years (SC/ST)", "hi": "SC/ST: 5 years, OBC: 3 years, Ex-Servicemen: 3 years after deduction of military service, Sportspersons: 5 years (10 years SC/ST), Departmental candidates of Delhi Police: up to 40 years (UR/EWS), 43 years (OBC), 45 years (SC/ST)" },
+   "id": "ssc-delhi-police-constable-driver-2025.fee-1",
+   "kind": "fee",
+   "label": { "en": "General / OBC / EWS", "hi": "General / OBC / EWS" },
+   "value": "100/-",
    "verified": false,
-   "source": "L12"
+   "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-constable-driver-2025.fee",
+   "id": "ssc-delhi-police-constable-driver-2025.fee-2",
    "kind": "fee",
-   "label": { "en": "Application fee", "hi": "आवेदन शुल्क" },
-   "value": "₹100",
-   "num": 100,
-   "verified": true,
-   "source": "L12"
+   "label": { "en": "SC / ST", "hi": "SC / ST" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-constable-driver-2025.fee-exempt",
+   "id": "ssc-delhi-police-constable-driver-2025.fee-3",
    "kind": "fee",
-   "label": { "en": "Fee exempt for", "hi": "इनके लिए शुल्क माफ़" },
-   "value": { "en": "Candidates belonging to Scheduled Castes (SC), Scheduled Tribes (ST) and Ex-servicemen (ESM) eligible for reservation", "hi": "Candidates belonging to Scheduled Castes (SC), Scheduled Tribes (ST) and Ex-servicemen (ESM) eligible for reservation" },
-   "verified": true,
-   "source": "L12"
+   "label": { "en": "All Category Female", "hi": "All Category Female" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-constable-driver-2025.qualification",
-   "kind": "qualification",
-   "label": { "en": "Qualification", "hi": "योग्यता" },
-   "value": { "en": "10+2 (Senior Secondary) passed or equivalent from a recognized Board; Should be able to drive heavy vehicles with confidence; Valid driving license for Heavy Motor Vehicles (as on closing date of receipt of Online Application Form); Possess knowledge of maintenance of vehicles.", "hi": "10+2 (Senior Secondary) passed or equivalent from a recognized Board; Should be able to drive heavy vehicles with confidence; Valid driving license for Heavy Motor Vehicles (as on closing date of receipt of Online Application Form); Possess knowledge of maintenance of vehicles." },
-   "verified": true,
-   "source": "L12"
+   "id": "ssc-delhi-police-constable-driver-2025.age-as-on",
+   "kind": "age",
+   "label": { "en": "Age counted on", "hi": "आयु की गणना तिथि" },
+   "value": { "en": "1 Jul 2025", "hi": "1 जुलाई 2025" },
+   "verified": false,
+   "source": "S1"
   },
   {
-   "id": "ssc-delhi-police-constable-driver-2025.stages",
-   "kind": "stages",
-   "label": { "en": "Exam stages", "hi": "परीक्षा चरण" },
-   "value": { "en": "Computer Based Examination → Physical Endurance and Measurement Test (PE&MT) → Trade Test → Document Verification → Medical Examination", "hi": "Computer Based Examination → Physical Endurance and Measurement Test (PE&MT) → Trade Test → Document Verification → Medical Examination" },
-   "short": "5",
-   "shortLabel": { "en": "Stages", "hi": "चरण" },
-   "num": 5,
-   "verified": true,
-   "source": "L12"
+   "id": "ssc-delhi-police-constable-driver-2025.age-1",
+   "kind": "age",
+   "label": { "en": "Minimum Age", "hi": "Minimum Age" },
+   "value": "21 Years",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-delhi-police-constable-driver-2025.age-2",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "30 Years",
+   "verified": false,
+   "source": "S1"
   }
  ],
  "notices": [
   {
-   "id": "ssc-delhi-police-constable-driver-2025.notice-a1",
-   "date": "2025-10-22",
-   "type": "notice",
-   "title": { "en": "Revised correction windows for Delhi Police examinations", "hi": "दिल्ली पुलिस परीक्षाओं के लिए संशोधित सुधार विंडो" },
-   "source": "A1"
+   "id": "ssc-delhi-police-constable-driver-2025.notice-p1",
+   "date": "2026-04-29",
+   "type": "cut-off",
+   "title": { "en": "Constable (Driver) Male Delhi Police 2025: CBE result with category-wise cut-off marks", "hi": "कांस्टेबल (ड्राइवर) पुरुष दिल्ली पुलिस परीक्षा, 2025: श्रेणीवार कट-ऑफ अंकों सहित सीबीई परिणाम" },
+   "source": "P1"
   }
  ],
- "tables": [],
+ "tables": [
+  {
+   "id": "ssc-delhi-police-constable-driver-2025.cut-offs",
+   "title": { "en": "CBE cut-off marks: Open", "hi": "सीबीई कट-ऑफ अंक: ओपन" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "UR",
+     83.40374,
+     1028
+    ],
+    [
+     "OBC",
+     83.19193,
+     3092
+    ],
+    [
+     "EWS",
+     83.40374,
+     1574
+    ],
+    [
+     "SC",
+     78.09459,
+     1538
+    ],
+    [
+     "ST",
+     74.29263,
+     986
+    ],
+    [
+     "Total",
+     "",
+     8218
+    ]
+   ],
+   "note": { "en": "List-I: Candidates qualified for PE&MT/ DV/ Trade Test in Open category. In addition to the UR candidates shown, 1574 EWS, 261 SC, 66 ST and 2724 OBC candidates qualifying at UR cut-off and within UR age limit are shown under their respective categories. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-I: ओपन श्रेणी के अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। ऊपर दिखाए UR अभ्यर्थियों के अतिरिक्त, UR कट-ऑफ पर योग्य और UR आयु सीमा के भीतर वाले 1574 EWS, 261 SC, 66 ST और 2724 OBC अभ्यर्थी अपनी श्रेणियों में दिखाए गए हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-constable-driver-2025.cut-offs-esm",
+   "title": { "en": "CBE cut-off marks: ESM", "hi": "सीबीई कट-ऑफ अंक: ESM" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "UR",
+     30,
+     477
+    ],
+    [
+     "OBC",
+     30,
+     373
+    ],
+    [
+     "EWS",
+     30,
+     56
+    ],
+    [
+     "SC",
+     30,
+     38
+    ],
+    [
+     "ST",
+     30,
+     6
+    ],
+    [
+     "Total",
+     "",
+     950
+    ]
+   ],
+   "note": { "en": "List-II: ESM candidates qualified for PE&MT/ DV/ Trade Test. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-II: ESM अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P1"
+  }
+ ],
  "pattern": []
 }

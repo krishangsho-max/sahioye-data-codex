@@ -4,7 +4,7 @@
  "exam": "ssc-cpo",
  "year": 2025,
  "name": { "en": "SSC CPO SI 2025", "hi": "SSC CPO SI 2025" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC CPO SI 2025 on sarkariresult.com", "hi": "SSC CPO SI 2025 on sarkariresult.com" },
@@ -92,16 +92,23 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_capf_2025.pdf",
    "official": true
   },
-  "A1": {
-   "title": { "en": "Revised application correction window", "hi": "संशोधित आवेदन सुधार विंडो" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/important_notice_22102025.pdf",
-   "date": "2025-10-22",
+  "P1": {
+   "title": { "en": "Recruitment of Sub-Inspector in Delhi Police and CAPFs Examination, 2025 – Declaration of result of Paper-I for qualifying candidates to appear in Physical Endurance Test (PET)/ Physical Standard Test (PST) – reg.", "hi": "Recruitment of Sub-Inspector in Delhi Police and CAPFs Examination, 2025 – Declaration of result of Paper-I for qualifying candidates to appear in Physical Endurance Test (PET)/ Physical Standard Test (PST) – reg." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/write-up%20CPO%202025.pdf",
+   "date": "2026-03-30",
    "official": true
   },
-  "A2": {
-   "title": { "en": "PET/PST result for Paper-II", "hi": "पेपर-II के लिए पीईटी/पीएसटी परिणाम" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_29102026.pdf",
-   "date": "2026-10-29",
+  "P2": {
+   "title": { "en": "SSC CPO Admit Card 2025 - Download Hall Ticket (via freejobalert.com)", "hi": "SSC CPO Admit Card 2025 - Download Hall Ticket (via freejobalert.com)" },
+   "url": "https://www.freejobalert.com/articles/ssc-cpo-si-admit-card-2025-3032187",
+   "date": "2025-12-08",
+   "official": false,
+   "site": "freejobalert.com"
+  },
+  "P3": {
+   "title": { "en": "Sub-Inspector in Delhi Police and Central Armed Police Forces Examination (CBE), 2025– Regarding.", "hi": "Sub-Inspector in Delhi Police and Central Armed Police Forces Examination (CBE), 2025– Regarding." },
+   "url": "https://www.ssckkr.kar.nic.in/avinyaresch.pdf",
+   "date": "2025-12-08",
    "official": true
   }
  },
@@ -111,32 +118,27 @@
    "kind": "apply-start",
    "label": { "en": "Application Begin", "hi": "Application Begin" },
    "start": "2025-09-26",
-   "verified": true,
-   "source": "L16"
-  },
-  {
-   "id": "ssc-cpo-2025.notification",
-   "kind": "notification",
-   "label": { "en": "Notification", "hi": "अधिसूचना" },
-   "start": "2025-09-26",
-   "verified": true,
-   "source": "L16"
+   "raw": "26/09/2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-cpo-2025.apply-end",
    "kind": "apply-end",
    "label": { "en": "Last Date for Apply Online", "hi": "Last Date for Apply Online" },
    "start": "2025-10-16",
-   "verified": true,
-   "source": "L16"
+   "raw": "16/10/2025 upto 11 PM",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-cpo-2025.fee-end",
    "kind": "fee-end",
    "label": { "en": "Fee Payment Last Date", "hi": "Fee Payment Last Date" },
    "start": "2025-10-17",
-   "verified": true,
-   "source": "L16"
+   "raw": "17/10/2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-cpo-2025.correction",
@@ -144,8 +146,9 @@
    "label": { "en": "Correction Date", "hi": "Correction Date" },
    "start": "2025-10-24",
    "end": "2025-10-26",
-   "verified": true,
-   "source": "L16"
+   "raw": "24-26 October 2025",
+   "verified": false,
+   "source": "S1"
   },
   {
    "id": "ssc-cpo-2025.other",
@@ -158,6 +161,24 @@
    "source": "S1"
   },
   {
+   "id": "ssc-cpo-2025.city-slip-tier-1",
+   "kind": "city-slip",
+   "label": { "en": "Tier 1 exam city slip", "hi": "टियर 1 परीक्षा शहर पर्ची" },
+   "start": "2025-11-29",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "L14"
+  },
+  {
+   "id": "ssc-cpo-2025.admit-card-tier-1",
+   "kind": "admit-card",
+   "label": { "en": "Tier 1 admit card", "hi": "टियर 1 प्रवेश पत्र" },
+   "start": "2025-12-07",
+   "tier": "tier-1",
+   "verified": false,
+   "source": "P2"
+  },
+  {
    "id": "ssc-cpo-2025.exam-paper-1",
    "kind": "exam",
    "label": { "en": "Exam Date Paper I", "hi": "Exam Date Paper I" },
@@ -167,6 +188,25 @@
    "tier": "paper-1",
    "verified": false,
    "source": "S1"
+  },
+  {
+   "id": "ssc-cpo-2025.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2025-12-09",
+   "end": "2025-12-12",
+   "tier": "tier-1",
+   "verified": false,
+   "source": "P2"
+  },
+  {
+   "id": "ssc-cpo-2025.exam-tier-1-2",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2025-12-10",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P3"
   },
   {
    "id": "ssc-cpo-2025.answer-key",
@@ -219,95 +259,226 @@
    "source": "S1"
   },
   {
-   "id": "ssc-cpo-2025.age",
-   "kind": "age",
-   "label": { "en": "Age limit (as on 1 Aug 2025)", "hi": "आयु सीमा (1 अगस्त 2025 तक)" },
-   "value": "20–25",
-   "verified": true,
-   "source": "L16"
-  },
-  {
-   "id": "ssc-cpo-2025.age-relaxation",
-   "kind": "age",
-   "label": { "en": "Age relaxation", "hi": "आयु में छूट" },
-   "value": { "en": "SC/ST: 5 years, OBC: 3 years, Ex-Servicemen (ESM): 3 years after deduction of military service, Departmental candidates (Delhi Police): up to 30 years (UR/EWS), 33 years (OBC), 35 years (SC/ST)", "hi": "SC/ST: 5 years, OBC: 3 years, Ex-Servicemen (ESM): 3 years after deduction of military service, Departmental candidates (Delhi Police): up to 30 years (UR/EWS), 33 years (OBC), 35 years (SC/ST)" },
-   "verified": false,
-   "source": "L16"
-  },
-  {
-   "id": "ssc-cpo-2025.fee",
+   "id": "ssc-cpo-2025.fee-1",
    "kind": "fee",
-   "label": { "en": "Application fee", "hi": "आवेदन शुल्क" },
-   "value": "₹100",
-   "num": 100,
-   "verified": true,
-   "source": "L16"
+   "label": { "en": "General / OBC / EWS", "hi": "General / OBC / EWS" },
+   "value": "100/-",
+   "verified": false,
+   "source": "S1"
   },
   {
-   "id": "ssc-cpo-2025.fee-exempt",
+   "id": "ssc-cpo-2025.fee-2",
    "kind": "fee",
-   "label": { "en": "Fee exempt for", "hi": "इनके लिए शुल्क माफ़" },
-   "value": { "en": "Women candidates and candidates belonging to Scheduled Castes (SC), Scheduled Tribes (ST) and Ex-Servicemen eligible for reservation", "hi": "Women candidates and candidates belonging to Scheduled Castes (SC), Scheduled Tribes (ST) and Ex-Servicemen eligible for reservation" },
-   "verified": true,
-   "source": "L16"
+   "label": { "en": "SC / ST / EXs", "hi": "SC / ST / EXs" },
+   "value": "0/-",
+   "verified": false,
+   "source": "S1"
   },
   {
-   "id": "ssc-cpo-2025.qualification",
-   "kind": "qualification",
-   "label": { "en": "Qualification", "hi": "योग्यता" },
-   "value": { "en": "Bachelor's degree from a recognized university or equivalent. Male candidates for Sub Inspector in Delhi Police must possess a valid Driving License for LMV (Motorcycle and Car) on the date fixed for PE&MT.", "hi": "Bachelor's degree from a recognized university or equivalent. Male candidates for Sub Inspector in Delhi Police must possess a valid Driving License for LMV (Motorcycle and Car) on the date fixed for PE&MT." },
+   "id": "ssc-cpo-2025.fee-3",
+   "kind": "fee",
+   "label": { "en": "All Category Female", "hi": "All Category Female" },
+   "value": "0/- (Exempted)",
    "verified": false,
-   "source": "L16"
+   "source": "S1"
   },
   {
-   "id": "ssc-cpo-2025.stages",
-   "kind": "stages",
-   "label": { "en": "Exam stages", "hi": "परीक्षा चरण" },
-   "value": { "en": "Paper-I Computer Based Examination → Physical Standard Test (PST) / Physical Efficiency Test (PET) → Paper-II Computer Based Examination → Detailed Medical Examination (DME) / Review Medical Examination (RME) → Document Verification", "hi": "Paper-I Computer Based Examination → Physical Standard Test (PST) / Physical Efficiency Test (PET) → Paper-II Computer Based Examination → Detailed Medical Examination (DME) / Review Medical Examination (RME) → Document Verification" },
-   "short": "5",
-   "shortLabel": { "en": "Stages", "hi": "चरण" },
-   "num": 5,
+   "id": "ssc-cpo-2025.fee-4",
+   "kind": "fee",
+   "label": { "en": "Correction Charge", "hi": "Correction Charge" },
+   "value": "200/- First Time",
    "verified": false,
-   "source": "L16"
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cpo-2025.fee-5",
+   "kind": "fee",
+   "label": { "en": "Correction Charge", "hi": "Correction Charge" },
+   "value": "500/- (Second Time)",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cpo-2025.age-as-on",
+   "kind": "age",
+   "label": { "en": "Age counted on", "hi": "आयु की गणना तिथि" },
+   "value": { "en": "1 Aug 2025", "hi": "1 अगस्त 2025" },
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cpo-2025.age-1",
+   "kind": "age",
+   "label": { "en": "Minimum Age", "hi": "Minimum Age" },
+   "value": "20 Years.",
+   "verified": false,
+   "source": "S1"
+  },
+  {
+   "id": "ssc-cpo-2025.age-2",
+   "kind": "age",
+   "label": { "en": "Maximum Age", "hi": "Maximum Age" },
+   "value": "25 Years.",
+   "verified": false,
+   "source": "S1"
   }
  ],
  "notices": [
   {
-   "id": "ssc-cpo-2025.notice-l16",
-   "date": "2025-09-26",
+   "id": "ssc-cpo-2025.notice-l14",
+   "date": "2025-11-28",
    "type": "notice",
-   "title": { "en": "Sub-Inspector in Delhi Police and CAPFs Examination notice", "hi": "दिल्ली पुलिस और केंद्रीय सशस्त्र पुलिस बलों में उप-निरीक्षक परीक्षा सूचना" },
-   "source": "L16"
+   "title": { "en": "Sub-Inspector in Delhi Police and CAPFs Examination (CBE), 2025 - regarding", "hi": "दिल्ली पुलिस और सीएपीएफ में उप-निरीक्षक परीक्षा (सीबीई), 2025 के संबंध में" },
+   "source": "L14"
   },
   {
-   "id": "ssc-cpo-2025.notice-a1",
-   "date": "2025-10-22",
-   "type": "notice",
-   "title": { "en": "Revised application correction window", "hi": "संशोधित आवेदन सुधार विंडो" },
-   "source": "A1"
+   "id": "ssc-cpo-2025.notice-p3",
+   "date": "2025-12-08",
+   "type": "admit-card",
+   "title": { "en": "Sub-Inspector in Delhi Police and CAPFs Examination (CBE), 2025: Rescheduling of Examination on 09.12.2025 at Udupi", "hi": "दिल्ली पुलिस और सीएपीएफ में उप-निरीक्षक परीक्षा (सीबीई), 2025: उडुपी में 09.12.2025 की परीक्षा का पुनर्निर्धारण" },
+   "source": "P3"
   },
   {
-   "id": "ssc-cpo-2025.notice-l11",
+   "id": "ssc-cpo-2025.notice-p1",
    "date": "2026-03-30",
-   "type": "result",
-   "title": { "en": "Paper-I result and cut-offs for PET/PST", "hi": "पीईटी/पीएसटी के लिए पेपर-I परिणाम और कट-ऑफ" },
-   "source": "L11"
-  },
-  {
-   "id": "ssc-cpo-2025.notice-l7",
-   "date": "2026-04-21",
-   "type": "answer-key",
-   "title": { "en": "Paper-I final answer keys, response sheets and marks", "hi": "पेपर-I अंतिम उत्तर कुंजी, उत्तर पत्रक और अंक" },
-   "source": "L7"
-  },
-  {
-   "id": "ssc-cpo-2025.notice-a2",
-   "date": "2026-10-29",
-   "type": "result",
-   "title": { "en": "PET/PST result for Paper-II", "hi": "पेपर-II के लिए पीईटी/पीएसटी परिणाम" },
-   "source": "A2"
+   "type": "cut-off",
+   "title": { "en": "SI in Delhi Police and CAPFs 2025 - Declaration of Paper-I result for PET/PST", "hi": "दिल्ली पुलिस और CAPF में उप-निरीक्षक परीक्षा, 2025 - PET/PST हेतु पेपर-I के परिणाम की घोषणा" },
+   "source": "P1"
   }
  ],
- "tables": [],
+ "tables": [
+  {
+   "id": "ssc-cpo-2025.cut-offs",
+   "title": { "en": "Paper-I cut-off marks, List-I: Female", "hi": "पेपर-I कट-ऑफ अंक, सूची-I: महिला" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध उम्मीदवार" }
+   ],
+   "rows": [
+    [
+     "UR",
+     128.0161,
+     743
+    ],
+    [
+     "OBC",
+     124.22057,
+     1601
+    ],
+    [
+     "SC",
+     100.91972,
+     867
+    ],
+    [
+     "ST",
+     95.19641,
+     426
+    ],
+    [
+     "EWS",
+     126.55856,
+     660
+    ],
+    [
+     "ESM",
+     40,
+     23
+    ]
+   ],
+   "note": { "en": "Total candidates available: 4320. Candidates qualifying at UR cut-off are shown under their own categories: 87 SC, 26 ST, 955 OBC and 600 EWS.", "hi": "कुल उपलब्ध उम्मीदवार: 4320। UR कट-ऑफ पर योग्य उम्मीदवार अपनी श्रेणी में दिखाए गए हैं: 87 SC, 26 ST, 955 OBC और 600 EWS।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-cpo-2025.cut-offs-list-ii-male",
+   "title": { "en": "Paper-I cut-off marks, List-II: Male", "hi": "पेपर-I कट-ऑफ अंक, सूची-II: पुरुष" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध उम्मीदवार" }
+   ],
+   "rows": [
+    [
+     "UR",
+     119.47517,
+     4975
+    ],
+    [
+     "OBC",
+     115.02519,
+     15858
+    ],
+    [
+     "SC",
+     88.95164,
+     9518
+    ],
+    [
+     "ST",
+     89.06234,
+     4771
+    ],
+    [
+     "EWS",
+     114.60115,
+     6678
+    ],
+    [
+     "ESM",
+     40,
+     2267
+    ]
+   ],
+   "note": { "en": "Total candidates available: 44067. Candidates qualifying at UR cut-off are shown under their own categories: 1608 SC, 744 ST, 74 ESM, 9925 OBC and 5456 EWS.", "hi": "कुल उपलब्ध उम्मीदवार: 44067। UR कट-ऑफ पर योग्य उम्मीदवार अपनी श्रेणी में दिखाए गए हैं: 1608 SC, 744 ST, 74 ESM, 9925 OBC और 5456 EWS।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-cpo-2025.cut-offs-list-iii-male-departmental",
+   "title": { "en": "Paper-I cut-off marks, List-III: Male Departmental of Delhi Police", "hi": "पेपर-I कट-ऑफ अंक, सूची-III: दिल्ली पुलिस के पुरुष विभागीय उम्मीदवार" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध उम्मीदवार" }
+   ],
+   "rows": [
+    [
+     "UR",
+     127.92622,
+     46
+    ],
+    [
+     "OBC",
+     116.64021,
+     86
+    ],
+    [
+     "SC",
+     101.67331,
+     46
+    ],
+    [
+     "ST",
+     94.89506,
+     24
+    ],
+    [
+     "EWS",
+     120.78203,
+     26
+    ],
+    [
+     "ESM",
+     "-",
+     "-"
+    ]
+   ],
+   "note": { "en": "Total candidates available: 228. The file shows no cut-off or count for ESM (\"-\"). Candidates qualifying at UR cut-off are shown under their own categories: 9 SC, 4 ST, 43 OBC and 18 EWS.", "hi": "कुल उपलब्ध उम्मीदवार: 228। फ़ाइल में ESM के लिए कट-ऑफ या संख्या नहीं दी गई है (\"-\")। UR कट-ऑफ पर योग्य उम्मीदवार अपनी श्रेणी में दिखाए गए हैं: 9 SC, 4 ST, 43 OBC और 18 EWS।" },
+   "verified": true,
+   "source": "P1"
+  }
+ ],
  "pattern": []
 }

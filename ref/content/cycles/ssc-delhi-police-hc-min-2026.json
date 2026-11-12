@@ -5,7 +5,7 @@
  "year": 2026,
  "name": { "en": "SSC Delhi Police Head Constable (Ministerial) 2026", "hi": "SSC दिल्ली पुलिस हेड कांस्टेबल (मिनिस्ट्रियल) 2026" },
  "lead": { "en": "SSC has not published the 2026 notification for the Head Constable (Ministerial) in Delhi Police Examination, 2026 (checked 7 Nov 2026), and it is not in SSC's 2026 calendar. Everything below is from the 2025 notice and is shown as tentative reference, not as a 2026 rule.", "hi": "SSC ने दिल्ली पुलिस में प्रधान सिपाही (लिपिकीय) परीक्षा, 2026 की की 2026 की अधिसूचना जारी नहीं की है (7 नवंबर 2026 को जाँचा) और यह SSC के 2026 कैलेंडर में भी नहीं है। नीचे सब कुछ 2025 की सूचना से है और अस्थायी संदर्भ के रूप में दिखाया गया है, 2026 के नियम के रूप में नहीं।" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC notice board (checked 7 Nov 2026)", "hi": "SSC नोटिस बोर्ड (7 नवंबर 2026 को जाँचा)" },
@@ -30,9 +30,262 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice3_25022026.pdf",
    "date": "2026-02-25",
    "official": true
+  },
+  "P1": {
+   "title": { "en": "Self-Slot Selection by the candidates for Constable (Driver)-Male in Delhi Police Examination, 2025; Head Constable (Ministerial) in Delhi Police Exam, 2025; Head Constable {Assistant Wireless Operator (AWO)/ Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025; and Constable (Executive) Male and Female in Delhi Police Examination, 2025 – reg.", "hi": "Self-Slot Selection by the candidates for Constable (Driver)-Male in Delhi Police Examination, 2025; Head Constable (Ministerial) in Delhi Police Exam, 2025; Head Constable {Assistant Wireless Operator (AWO)/ Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025; and Constable (Executive) Male and Female in Delhi Police Examination, 2025 – reg." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/self%20slot%20notice%20for%20DP(1).pdf",
+   "date": "2025-12-04",
+   "official": true
+  },
+  "P2": {
+   "title": { "en": "Head Constable (Ministerial) in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test (Skill Test).", "hi": "Head Constable (Ministerial) in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test (Skill Test)." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_05062026.pdf",
+   "date": "2026-06-05",
+   "official": true
+  },
+  "P3": {
+   "title": { "en": "Head Constable (Ministerial) in Delhi Police Examination, 2025 – Shortlisting of additional candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test (Skill Test).", "hi": "Head Constable (Ministerial) in Delhi Police Examination, 2025 – Shortlisting of additional candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test (Skill Test)." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_dphcm_25062026.pdf",
+   "date": "2026-06-25",
+   "official": true
+  },
+  "P4": {
+   "title": { "en": "IMPORTANT NOTICE - Schedule of Examination: Delhi Police Examinations, 2025 (F. No. HQ-EC033/7/2025-EC)", "hi": "IMPORTANT NOTICE - Schedule of Examination: Delhi Police Examinations, 2025 (F. No. HQ-EC033/7/2025-EC)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_28112025.pdf",
+   "date": "2025-11-28",
+   "official": true
+  },
+  "P5": {
+   "title": { "en": "NOTICE FOR CONDUCT OF PE&MT OF DELHI POLICE, HEAD CONSTABLE (MINISTERIAL) EXAMINATION-2025 (SSC Northern Region)", "hi": "NOTICE FOR CONDUCT OF PE&MT OF DELHI POLICE, HEAD CONSTABLE (MINISTERIAL) EXAMINATION-2025 (SSC Northern Region)" },
+   "url": "https://sscnr.nic.in/newlook/downloads/2026/ImportantNotice/PEMT_NOTICE_DPHCM.pdf",
+   "date": "2026-07-22",
+   "official": true
+  },
+  "P6": {
+   "title": { "en": "IMPORTANT NOTICE - Postponement of Physical Endurance and Measurement Test (PE and MT) for various Examinations in Delhi Police Examination-2025 (Delhi Police Recruitment: Delhi)", "hi": "IMPORTANT NOTICE - Postponement of Physical Endurance and Measurement Test (PE and MT) for various Examinations in Delhi Police Examination-2025 (Delhi Police Recruitment: Delhi)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_27072026.pdf",
+   "date": "2026-07-27",
+   "official": true
+  },
+  "P7": {
+   "title": { "en": "NOTICE FOR CONDUCT OF PHYSICAL ENDURANCE & MEASUREMENT TEST (PE&MT) AND DV OF DELHI POLICE HEAD CONSTABLE (MINISTERIAL) EXAMINATION-2022 AND 2025 (SSC Northern Region)", "hi": "NOTICE FOR CONDUCT OF PHYSICAL ENDURANCE & MEASUREMENT TEST (PE&MT) AND DV OF DELHI POLICE HEAD CONSTABLE (MINISTERIAL) EXAMINATION-2022 AND 2025 (SSC Northern Region)" },
+   "url": "https://sscnr.nic.in/newlook/downloads/2026/ImportantNotice/Notice_on_website.pdf",
+   "date": "2026-08-22",
+   "official": true
+  },
+  "P8": {
+   "title": { "en": "CORRIGENDUM - Conduct of PE and MT, Head Constable (Ministerial) in Delhi Police Examination, 2025 (F. No. HQ-C-3016/1/2026-C-3)", "hi": "CORRIGENDUM - Conduct of PE and MT, Head Constable (Ministerial) in Delhi Police Examination, 2025 (F. No. HQ-C-3016/1/2026-C-3)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Corrigendum_DPHCM2025_03092026.pdf",
+   "date": "2026-09-03",
+   "official": true
+  },
+  "P9": {
+   "title": { "en": "INSTRUCTIONS REGARDING PRINT/DOWNLOAD OF ADMIT CARD OF DELHI POLICE CONSTABLE EXECUTIVE EXAM - 2025 (SSC Northern Region)", "hi": "INSTRUCTIONS REGARDING PRINT/DOWNLOAD OF ADMIT CARD OF DELHI POLICE CONSTABLE EXECUTIVE EXAM - 2025 (SSC Northern Region)" },
+   "url": "https://sscnr.nic.in/newlook/downloads/2026/ImportantNotice/Instruction.pdf",
+   "date": "2026-09-18",
+   "official": true
+  },
+  "P10": {
+   "title": { "en": "NOTICE FOR CONDUCT OF PE&MT OF DELHI POLICE, HEAD CONSTABLE (MINISTERIAL) EXAMINATION-2022 and 2025 (SSC Northern Region)", "hi": "NOTICE FOR CONDUCT OF PE&MT OF DELHI POLICE, HEAD CONSTABLE (MINISTERIAL) EXAMINATION-2022 and 2025 (SSC Northern Region)" },
+   "url": "https://sscnr.nic.in/newlook/downloads/2026/ImportantNotice/PEMT_NOTICE_FOR_DPHCM_on_delhi_police_website.pdf",
+   "date": "2026-09-22",
+   "official": true
+  },
+  "P11": {
+   "title": { "en": "IMPORTANT NOTICE - PHYSICAL ENDURANCE & MEASUREMENT TEST (PE&MT) FOR CANDIDATES PROVISIONALLY ALLOWED BY THE HON'BLE CAT IN RESPECT OF CONSTABLE (EXE.), CONSTABLE (DRIVER), HC (MINISTERIAL) AND HC (AWO/TPO), DELHI POLICE EXAMINATION-2025 (Delhi Police Recruitment: Delhi)", "hi": "IMPORTANT NOTICE - PHYSICAL ENDURANCE & MEASUREMENT TEST (PE&MT) FOR CANDIDATES PROVISIONALLY ALLOWED BY THE HON'BLE CAT IN RESPECT OF CONSTABLE (EXE.), CONSTABLE (DRIVER), HC (MINISTERIAL) AND HC (AWO/TPO), DELHI POLICE EXAMINATION-2025 (Delhi Police Recruitment: Delhi)" },
+   "url": "https://delhipolice.gov.in/assets/img/28918_Notice%20for%20PEMT%20CAT%20ALLOWED.pdf",
+   "date": "2026-10-03",
+   "official": false,
+   "site": "delhipolice.gov.in"
+  },
+  "P12": {
+   "title": { "en": "NOTICE FOR PE&MT OF DELHI POLICE EXAM - admit cards for candidates provisionally allowed by the Hon'ble CAT (SSC Northern Region)", "hi": "NOTICE FOR PE&MT OF DELHI POLICE EXAM - admit cards for candidates provisionally allowed by the Hon'ble CAT (SSC Northern Region)" },
+   "url": "https://sscnr.nic.in/newlook/downloads/2026/ImportantNotice/Notice_for_Provisionally_allowed_candidates.pdf",
+   "date": "2026-10-06",
+   "official": true
+  },
+  "P13": {
+   "title": { "en": "NOTICE FOR E-ADMISSION CERTIFICATE - PHYSICAL ENDURANCE AND MEASUREMENT TEST (PE&MT) & DOCUMENT VERIFICATION OF THE CANDIDATES PROVISIONALLY ALLOWED BY THE HON'BLE CAT FOR RECRUITMENT TO THE POSTS OF HEAD CONSTABLE (MINISTERIAL) IN DELHI POLICE EXAMINATION-2025 (Delhi Police Recruitment: Delhi)", "hi": "NOTICE FOR E-ADMISSION CERTIFICATE - PHYSICAL ENDURANCE AND MEASUREMENT TEST (PE&MT) & DOCUMENT VERIFICATION OF THE CANDIDATES PROVISIONALLY ALLOWED BY THE HON'BLE CAT FOR RECRUITMENT TO THE POSTS OF HEAD CONSTABLE (MINISTERIAL) IN DELHI POLICE EXAMINATION-2025 (Delhi Police Recruitment: Delhi)" },
+   "url": "https://delhipolice.gov.in/assets/img/21520_Notice%20for%20PEMT%20Admit%20Card%20Head%20Const%20Ministerial%20CAT%20Allowed.pdf",
+   "date": "2026-10-07",
+   "official": false,
+   "site": "delhipolice.gov.in"
+  },
+  "P14": {
+   "title": { "en": "Head Constable (Ministerial) in Delhi Police Examination, 2025: Uploading of Tentative Answer Keys along with Question Paper(s) cum Response Sheet(s) - regarding (No. HQ-C-3016/1/2026-C-3)", "hi": "Head Constable (Ministerial) in Delhi Police Examination, 2025: Uploading of Tentative Answer Keys along with Question Paper(s) cum Response Sheet(s) - regarding (No. HQ-C-3016/1/2026-C-3)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Writeup_Ministerial_05022026.pdf",
+   "date": "2026-02-05",
+   "official": true
+  },
+  "P15": {
+   "title": { "en": "Head Constable (Ministerial) in Delhi Police Examination, 2025: Uploading of Final Answer Keys along with Question Papers cum Response Sheets of CBE along with the Marks - regarding (No. HQ-C-3016/1/2026-C-3)", "hi": "Head Constable (Ministerial) in Delhi Police Examination, 2025: Uploading of Final Answer Keys along with Question Papers cum Response Sheets of CBE along with the Marks - regarding (No. HQ-C-3016/1/2026-C-3)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Write_up_Final_Answer_Keys_CBE_min_2025..pdf",
+   "date": "2026-06-22",
+   "official": true
   }
  },
- "dates": [],
+ "dates": [
+  {
+   "id": "ssc-delhi-police-hc-min-2026.other-duration-for-self-slot-selection-05-12-2",
+   "kind": "other",
+   "label": { "en": "Duration for Self-Slot selection: 05.12.2025 to 05.01.2026 (11.00 PM)", "hi": "Duration for Self-Slot selection: 05.12.2025 to 05.01.2026 (11.00 PM)" },
+   "start": "2025-12-05",
+   "end": "2026-01-05",
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.city-slip-tier-1",
+   "kind": "city-slip",
+   "label": { "en": "Tier 1 exam city slip", "hi": "टियर 1 परीक्षा शहर पर्ची" },
+   "start": "2025-12-05",
+   "end": "2026-01-05",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.exam",
+   "kind": "exam",
+   "label": { "en": "Exam", "hi": "परीक्षा" },
+   "start": "2026-01-07",
+   "end": "2026-01-12",
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2026-01-07",
+   "end": "2026-01-12",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P4"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.exam-tier-1-2",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2026-01-07",
+   "end": "2026-01-12",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.answer-key-tier-1",
+   "kind": "answer-key",
+   "label": { "en": "Tier 1 answer key", "hi": "टियर 1 उत्तर कुंजी" },
+   "start": "2026-02-05",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P14"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.objection-end-tier-1",
+   "kind": "objection-end",
+   "label": { "en": "Tier 1 last date for objections", "hi": "टियर 1 आपत्ति की अंतिम तिथि" },
+   "start": "2026-02-07",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P14"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.result-skill-test",
+   "kind": "result",
+   "label": { "en": "Skill test result", "hi": "स्किल टेस्ट परिणाम" },
+   "start": "2026-06-05",
+   "tier": "skill-test",
+   "verified": true,
+   "source": "P2"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.final-answer-key-tier-1",
+   "kind": "final-answer-key",
+   "label": { "en": "Tier 1 final answer key", "hi": "टियर 1 अंतिम उत्तर कुंजी" },
+   "start": "2026-06-05",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P15"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.final-answer-key-tier-1-2",
+   "kind": "final-answer-key",
+   "label": { "en": "Tier 1 final answer key", "hi": "टियर 1 अंतिम उत्तर कुंजी" },
+   "start": "2026-06-22",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P15"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.final-answer-key-tier-1-3",
+   "kind": "final-answer-key",
+   "label": { "en": "Tier 1 final answer key", "hi": "टियर 1 अंतिम उत्तर कुंजी" },
+   "start": "2026-06-22",
+   "end": "2026-07-06",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P15"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.result-skill-test-2",
+   "kind": "result",
+   "label": { "en": "Skill test result", "hi": "स्किल टेस्ट परिणाम" },
+   "start": "2026-06-25",
+   "tier": "skill-test",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.exam-tier-2",
+   "kind": "exam",
+   "label": { "en": "Tier 2 exam", "hi": "टियर 2 परीक्षा" },
+   "start": "2026-07-31",
+   "end": "2026-08-01",
+   "tier": "tier-2",
+   "verified": true,
+   "source": "P5"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.exam-tier-2-3",
+   "kind": "exam",
+   "label": { "en": "Tier 2 exam", "hi": "टियर 2 परीक्षा" },
+   "start": "2026-08-28",
+   "end": "2026-09-29",
+   "tier": "tier-2",
+   "verified": true,
+   "source": "P10"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.exam-tier-2-2",
+   "kind": "exam",
+   "label": { "en": "Tier 2 exam", "hi": "टियर 2 परीक्षा" },
+   "start": "2026-09-02",
+   "end": "2026-09-03",
+   "tier": "tier-2",
+   "verified": true,
+   "source": "P7"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.exam-tier-2-4",
+   "kind": "exam",
+   "label": { "en": "Tier 2 exam", "hi": "टियर 2 परीक्षा" },
+   "start": "2026-10-12",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "P11"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.exam-tier-2-5",
+   "kind": "exam",
+   "label": { "en": "Tier 2 exam", "hi": "टियर 2 परीक्षा" },
+   "start": "2026-10-12",
+   "tier": "tier-2",
+   "verified": false,
+   "source": "P13"
+  }
+ ],
  "sections": [
   {
    "id": "pemt",
@@ -169,7 +422,106 @@
    "source": "S5"
   }
  ],
- "notices": [],
+ "notices": [
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-s5",
+   "date": "2025-09-29",
+   "type": "notice",
+   "title": { "en": "Notice of Head Constable (Ministerial) in Delhi Police Exam, 2025: admission certificate and city/centre rules", "hi": "दिल्ली पुलिस परीक्षा, 2025 में हेड कॉन्स्टेबल (मिनिस्ट्रियल) की सूचना: प्रवेश पत्र एवं नगर/केन्द्र संबंधी नियम" },
+   "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p4",
+   "date": "2025-11-28",
+   "type": "notice",
+   "title": { "en": "Important Notice - Schedule of Examination: Delhi Police Examinations, 2025 (Head Constable (Ministerial) CBE from 07th to 12th January, 2026)", "hi": "महत्वपूर्ण सूचना - परीक्षा कार्यक्रम: दिल्ली पुलिस परीक्षा, 2025 (हेड कॉन्स्टेबल (मिनिस्ट्रियल) सीबीई 07 जनवरी से 12 जनवरी 2026 तक)" },
+   "source": "P4"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p1",
+   "date": "2025-12-04",
+   "type": "notice",
+   "title": { "en": "Self-slot selection for Delhi Police exams 2025 (incl. HC Ministerial)", "hi": "दिल्ली पुलिस परीक्षा, 2025 (हेड कांस्टेबल मिनिस्ट्रियल सहित) हेतु स्वयं-स्लॉट चयन" },
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p14",
+   "date": "2026-02-05",
+   "type": "answer-key",
+   "title": { "en": "Head Constable (Ministerial) in Delhi Police Examination, 2025: Uploading of Tentative Answer Keys along with Question Paper(s) cum Response Sheet(s) - regarding", "hi": "दिल्ली पुलिस परीक्षा, 2025 में हेड कॉन्स्टेबल (मिनिस्ट्रियल): अनुमानित उत्तर कुंजी के साथ प्रश्न-पत्र एवं रिस्पॉन्स शीट का अपलोड" },
+   "source": "P14"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p2",
+   "date": "2026-06-05",
+   "type": "result",
+   "title": { "en": "HCM Delhi Police 2025: Declaration of CBE result for PE&MT/DV/Trade Test shortlisting", "hi": "हेड कांस्टेबल (मिनिस्ट्रियल) दिल्ली पुलिस परीक्षा, 2025: पीईएंडएमटी/डीवी/ट्रेड टेस्ट हेतु शॉर्टलिस्टिंग के लिए सीबीई परिणाम की घोषणा" },
+   "source": "P2"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p15",
+   "date": "2026-06-22",
+   "type": "answer-key",
+   "title": { "en": "Head Constable (Ministerial) in Delhi Police Examination, 2025: Uploading of Final Answer Keys along with Question Papers cum Response Sheets of CBE along with the Marks - regarding", "hi": "दिल्ली पुलिस परीक्षा, 2025 में हेड कॉन्स्टेबल (मिनिस्ट्रियल): सीबीई की अंतिम उत्तर कुंजी के साथ प्रश्न-पत्र एवं रिस्पॉन्स शीट तथा अंक का अपलोड" },
+   "source": "P15"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p3",
+   "date": "2026-06-25",
+   "type": "result",
+   "title": { "en": "HCM Delhi Police 2025: Shortlisting of additional candidates for PE&MT/DV/Trade Test", "hi": "हेड कांस्टेबल (मिनिस्ट्रियल) दिल्ली पुलिस परीक्षा, 2025: पीईएंडएमटी/डीवी/ट्रेड टेस्ट हेतु अतिरिक्त अभ्यर्थियों का शॉर्टलिस्टिंग" },
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p5",
+   "date": "2026-07-22",
+   "type": "admit-card",
+   "title": { "en": "SSC Northern Region: Notice for conduct of PE&MT of Delhi Police, Head Constable (Ministerial) Examination-2025 from 31.07.2026 to 01.08.2026; admission certificates live on SSC NR", "hi": "एसएससी उत्तरी क्षेत्र: दिल्ली पुलिस हेड कॉन्स्टेबल (मिनिस्ट्रियल) परीक्षा-2025 का पीई&एमटी 31.07.2026 से 01.08.2026 तक; प्रवेश पत्र एसएससी उत्तरी क्षेत्र पर लाइव" },
+   "source": "P5"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p6",
+   "date": "2026-07-27",
+   "type": "admit-card",
+   "title": { "en": "IMPORTANT NOTICE - Postponement of Physical Endurance and Measurement Test (PE and MT) for various Examinations in Delhi Police Examination-2025", "hi": "महत्वपूर्ण सूचना - दिल्ली पुलिस परीक्षा-2025 की विभिन्न परीक्षाओं हेतु शारीरिक सहनशक्ति एवं माप परीक्षण (पीई एंड एमटी) का स्थगन" },
+   "source": "P6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p7",
+   "date": "2026-08-22",
+   "type": "admit-card",
+   "title": { "en": "SSC Northern Region: Notice for conduct of PE&MT and DV of Delhi Police Head Constable (Ministerial) Examination-2022 and 2025 on 02.09.2026 and 03.09.2026; admission certificates available on the Delhi Police website", "hi": "एसएससी उत्तरी क्षेत्र: दिल्ली पुलिस हेड कॉन्स्टेबल (मिनिस्ट्रियल) परीक्षा-2022 एवं 2025 का पीई&एमटी एवं डीवी 02.09.2026 एवं 03.09.2026 को; प्रवेश पत्र दिल्ली पुलिस वेबसाइट पर उपलब्ध" },
+   "source": "P7"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p8",
+   "date": "2026-09-03",
+   "type": "admit-card",
+   "title": { "en": "Head Constable (Ministerial) in Delhi Police Examination, 2025: Corrigendum - Conduct of PE and MT (CAT-allowed candidates to follow Delhi Police for PE&MT schedule and admission certificates)", "hi": "दिल्ली पुलिस परीक्षा, 2025 में हेड कॉन्स्टेबल (मिनिस्ट्रियल): संशोधन - पीई एंड एमटी का संचालन (कैट-अनुमत अभ्यर्थियों को पीई&एमटी कार्यक्रम एवं प्रवेश पत्र हेतु दिल्ली पुलिस वेबसाइट का अनुसरण करना होगा)" },
+   "source": "P8"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p9",
+   "date": "2026-09-18",
+   "type": "admit-card",
+   "title": { "en": "SSC Northern Region: Instructions regarding print/download of admit card of Delhi Police Constable Executive Exam - 2025, with specimen Head Constable (Ministerial) e-Admission Certificate", "hi": "एसएससी उत्तरी क्षेत्र: दिल्ली पुलिस कॉन्स्टेबल (एग्जीक्यूटिव) परीक्षा - 2025 के प्रवेश पत्र के प्रिंट/डाउनलोड संबंधी निर्देश, हेड कॉन्स्टेबल (मिनिस्ट्रियल) के नमूना ई-एडमिशन सर्टिफिकेट सहित" },
+   "source": "P9"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p10",
+   "date": "2026-09-22",
+   "type": "admit-card",
+   "title": { "en": "SSC Northern Region: Notice for conduct of PE&MT of Delhi Police, Head Constable (Ministerial) Examination-2022 and 2025 from 28.08.2026 to 29.09.2026; admission certificates live on the Delhi Police website", "hi": "एसएससी उत्तरी क्षेत्र: दिल्ली पुलिस हेड कॉन्स्टेबल (मिनिस्ट्रियल) परीक्षा-2022 एवं 2025 का पीई&एमटी 28.08.2026 से 29.09.2026 तक; प्रवेश पत्र दिल्ली पुलिस वेबसाइट पर लाइव" },
+   "source": "P10"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.notice-p12",
+   "date": "2026-10-06",
+   "type": "admit-card",
+   "title": { "en": "SSC Northern Region: Notice for PE&MT of Delhi Police Exam - admit cards for candidates provisionally allowed by the Hon'ble CAT are live on the Delhi Police website", "hi": "एसएससी उत्तरी क्षेत्र: दिल्ली पुलिस परीक्षा हेतु पीई&एमटी सूचना - माननीय कैट द्वारा अस्थायी रूप से अनुमत अभ्यर्थियों के प्रवेश पत्र दिल्ली पुलिस वेबसाइट पर लाइव" },
+   "source": "P12"
+  }
+ ],
  "tables": [
   {
    "id": "ssc-delhi-police-hc-min-2026.vacancies",
@@ -329,6 +681,148 @@
    "note": { "en": "Only candidates who qualify the race attempt the long jump, then the high jump.", "hi": "केवल दौड़ में सफल उम्मीदवार लंबी कूद और फिर ऊँची कूद देते हैं।" },
    "verified": false,
    "source": "S5"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.cut-offs",
+   "title": { "en": "CBE cut-off marks: Male (Open)", "hi": "सीबीई कट-ऑफ अंक: पुरुष (ओपन)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     82.45562,
+     674
+    ],
+    [
+     "SC",
+     75.80478,
+     947
+    ],
+    [
+     "ST",
+     75.23629,
+     183
+    ],
+    [
+     "OBC",
+     82.23493,
+     1415
+    ],
+    [
+     "UR",
+     82.68883,
+     909
+    ],
+    [
+     "OH",
+     54.29567,
+     160
+    ],
+    [
+     "Total",
+     "",
+     4288
+    ]
+   ],
+   "note": { "en": "List-I: Male (Open) candidates qualified for PE&MT/ DV/ Trade Test (Skill Test). The board notes that candidates qualifying at UR cut-off are also shown under their respective categories (638-EWS, 107-SC, 23-ST and 1012-OBC). Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-I: पुरुष (ओपन) अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट (स्किल टेस्ट) हेतु योग्य हैं। बोर्ड के अनुसार UR कट-ऑफ पर योग्य अभ्यर्थी अपनी श्रेणियों में भी दिखाए गए हैं (638-EWS, 107-SC, 23-ST और 1012-OBC)। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P2"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.cut-offs-male-esm",
+   "title": { "en": "CBE cut-off marks: Male (ESM)", "hi": "सीबीई कट-ऑफ अंक: पुरुष (ESM)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     30.28231,
+     46
+    ],
+    [
+     "SC",
+     30.11386,
+     72
+    ],
+    [
+     "ST",
+     30.52567,
+     15
+    ],
+    [
+     "OBC",
+     54.24541,
+     154
+    ],
+    [
+     "UR",
+     54.24541,
+     300
+    ],
+    [
+     "Total",
+     "",
+     587
+    ]
+   ],
+   "note": { "en": "List-II: Male (ESM) candidates qualified for PE&MT/ DV/ Trade (Skill Test). Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-II: पुरुष (ESM) अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट (स्किल टेस्ट) हेतु योग्य हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P2"
+  },
+  {
+   "id": "ssc-delhi-police-hc-min-2026.cut-offs-female-open",
+   "title": { "en": "CBE cut-off marks: Female (Open)", "hi": "सीबीई कट-ऑफ अंक: महिला (ओपन)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     75.97928,
+     379
+    ],
+    [
+     "SC",
+     65.79382,
+     515
+    ],
+    [
+     "ST",
+     66.18663,
+     109
+    ],
+    [
+     "OBC",
+     74.78426,
+     773
+    ],
+    [
+     "UR",
+     75.97928,
+     515
+    ],
+    [
+     "OH",
+     30.70125,
+     51
+    ],
+    [
+     "Total",
+     "",
+     2342
+    ]
+   ],
+   "note": { "en": "List-III: Female (Open) candidates qualified for PE&MT/ DV/ Trade Test (Skill Test). The board notes that candidates qualifying at UR cut-off are also shown under their respective categories (379-EWS, 55-SC, 8-ST and 486-OBC). Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-III: महिला (ओपन) अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट (स्किल टेस्ट) हेतु योग्य हैं। बोर्ड के अनुसार UR कट-ऑफ पर योग्य अभ्यर्थी अपनी श्रेणियों में भी दिखाए गए हैं (379-EWS, 55-SC, 8-ST और 486-OBC)। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P2"
   }
  ],
  "pattern": [

@@ -5,7 +5,7 @@
  "year": 2026,
  "name": { "en": "SSC CPO 2026", "hi": "SSC CPO 2026" },
  "lead": { "en": "Sub-Inspector in Delhi Police and Central Armed Police Forces Examination, 2026. Applications are closed; Paper I is proposed for 23 to 28 Nov 2026.", "hi": "दिल्ली पुलिस और केंद्रीय सशस्त्र पुलिस बल में उप-निरीक्षक परीक्षा, 2026। आवेदन बंद हो चुके हैं; पेपर I का प्रस्तावित समय 23 से 28 नवंबर 2026 है।" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "N1": {
    "title": { "en": "CPO 2026 notification (English)", "hi": "CPO 2026 अधिसूचना (अंग्रेज़ी)" },
@@ -29,6 +29,18 @@
    "title": { "en": "Revised schedule of examinations", "hi": "परीक्षाओं का संशोधित कार्यक्रम" },
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Important%20notice_revised_dated_26_10_2026.pdf",
    "date": "2026-10-26",
+   "official": true
+  },
+  "P1": {
+   "title": { "en": "Important Notice - Schedule of Examinations", "hi": "Important Notice - Schedule of Examinations" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_01102026.pdf",
+   "date": "2026-10-01",
+   "official": true
+  },
+  "P2": {
+   "title": { "en": "Important Notice-Dates of CGEPT, 2027, Annual Skill Test, 2025 and SI in DP and CAPFs, Exam, 2026", "hi": "Important Notice-Dates of CGEPT, 2027, Annual Skill Test, 2025 and SI in DP and CAPFs, Exam, 2026" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Exams_notice_02112026.pdf",
+   "date": "2026-11-02",
    "official": true
   }
  },
@@ -77,6 +89,16 @@
    "note": { "en": "Closes 11 PM. ₹200 for the first change, ₹500 for the second.", "hi": "रात 11 बजे बंद। पहले सुधार के लिए ₹200, दूसरे के लिए ₹500।" },
    "verified": true,
    "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2026-11-20",
+   "end": "2026-11-28",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P1"
   },
   {
    "id": "ssc-cpo-2026.exam-paper-1",
@@ -153,6 +175,16 @@
    "label": { "en": "Final result", "hi": "अंतिम परिणाम" },
    "verified": false,
    "source": "N1"
+  },
+  {
+   "id": "ssc-cpo-2026.exam-tier-1-2",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2026-11-23",
+   "end": "2026-11-28",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "N3"
   }
  ],
  "facts": [
@@ -303,6 +335,13 @@
    "type": "notice",
    "title": { "en": "Revised schedule: Paper I proposed 23 to 28 Nov", "hi": "संशोधित कार्यक्रम: पेपर I प्रस्तावित 23 से 28 नवंबर" },
    "source": "N3"
+  },
+  {
+   "id": "ssc-cpo-2026.notice-p2",
+   "date": "2026-11-02",
+   "type": "notice",
+   "title": { "en": "Important Notice-Dates of CGEPT, 2027, Annual Skill Test, 2025 and SI in DP and CAPFs, Exam, 2026", "hi": "महत्वपूर्ण सूचना - सीजीईपीटी, 2027, वार्षिक स्किल टेस्ट, 2025 तथा दिल्ली पुलिस और केंद्रीय सशस्त्र पुलिस बल में उप-निरीक्षक परीक्षा, 2026 की तिथियां" },
+   "source": "P2"
   }
  ],
  "tables": [

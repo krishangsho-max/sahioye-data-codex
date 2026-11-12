@@ -5,7 +5,7 @@
  "year": 2026,
  "name": { "en": "SSC Delhi Police Head Constable (AWO/TPO) 2026", "hi": "SSC दिल्ली पुलिस हेड कांस्टेबल (AWO/TPO) 2026" },
  "lead": { "en": "SSC has not published the 2026 notification for the Head Constable (AWO/TPO) in Delhi Police Examination, 2026 (checked 7 Nov 2026), and it is not in SSC's 2026 calendar. Everything below is from the 2025 notice and is shown as tentative reference, not as a 2026 rule.", "hi": "SSC ने दिल्ली पुलिस में प्रधान सिपाही (AWO/TPO) परीक्षा, 2026 की की 2026 की अधिसूचना जारी नहीं की है (7 नवंबर 2026 को जाँचा) और यह SSC के 2026 कैलेंडर में भी नहीं है। नीचे सब कुछ 2025 की सूचना से है और अस्थायी संदर्भ के रूप में दिखाया गया है, 2026 के नियम के रूप में नहीं।" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC notice board (checked 7 Nov 2026)", "hi": "SSC नोटिस बोर्ड (7 नवंबर 2026 को जाँचा)" },
@@ -30,9 +30,424 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice4_25022026.pdf",
    "date": "2026-02-25",
    "official": true
+  },
+  "P1": {
+   "title": { "en": "Head Constable {Assistant Wireless Operator (AWO)/Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test – reg.", "hi": "Head Constable {Assistant Wireless Operator (AWO)/Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025 – Declaration of result of Computer Based Examination for shortlisting candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test – reg." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/Write_up_DPHCT_2025_CBE.pdf",
+   "date": "2026-05-29",
+   "official": true
+  },
+  "P2": {
+   "title": { "en": "IMPORTANT NOTICE – Notices of the following Examinations inviting aspirants to fill up Online Application Forms; revised dates of Window for Online Application Form Correction", "hi": "IMPORTANT NOTICE – Notices of the following Examinations inviting aspirants to fill up Online Application Forms; revised dates of Window for Online Application Form Correction" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/important_notice_22102025.pdf",
+   "date": "2025-10-22",
+   "official": true
+  },
+  "P3": {
+   "title": { "en": "Self-Slot Selection by the candidates for Constable (Driver)-Male in Delhi Police Examination, 2025; Head Constable (Ministerial) in Delhi Police Exam, 2025; Head Constable {Assistant Wireless Operator (AWO)/ Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025; and Constable (Executive) Male and Female in Delhi Police Examination, 2025 – reg.", "hi": "Self-Slot Selection by the candidates for Constable (Driver)-Male in Delhi Police Examination, 2025; Head Constable (Ministerial) in Delhi Police Exam, 2025; Head Constable {Assistant Wireless Operator (AWO)/ Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025; and Constable (Executive) Male and Female in Delhi Police Examination, 2025 – reg." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/self%20slot%20notice%20for%20DP(1).pdf",
+   "date": "2025-12-04",
+   "official": true
+  },
+  "P4": {
+   "title": { "en": "Head Constable {Assistant Wireless Operator (AWO)/Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025 – Shortlisting of additional candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test – reg.", "hi": "Head Constable {Assistant Wireless Operator (AWO)/Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025 – Shortlisting of additional candidates to appear in Physical Endurance & Measurement Test (PE&MT)/ Document Verification (DV)/ Trade Test – reg." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/Results/writeup_dphct_25062026.pdf",
+   "date": "2026-06-25",
+   "official": true
+  },
+  "P5": {
+   "title": { "en": "IMPORTANT NOTICE - Schedule of Examination: Delhi Police Examinations, 2025 (F. No. HQ-EC033/7/2025-EC)", "hi": "IMPORTANT NOTICE - Schedule of Examination: Delhi Police Examinations, 2025 (F. No. HQ-EC033/7/2025-EC)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_28112025.pdf",
+   "date": "2025-11-28",
+   "official": true
+  },
+  "P6": {
+   "title": { "en": "IMPORTANT NOTICE - Postponement of Physical Endurance and Measurement Test (PE and MT) for various Examinations (Delhi Police Recruitment: Delhi)", "hi": "IMPORTANT NOTICE - Postponement of Physical Endurance and Measurement Test (PE and MT) for various Examinations (Delhi Police Recruitment: Delhi)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_27072026.pdf",
+   "date": "2026-07-27",
+   "official": true
+  },
+  "P7": {
+   "title": { "en": "CORRIGENDUM - Conduct of PE and MT, Head Constable {AWO/TPO} in Delhi Police Examination, 2025 (F. No. HQ-C-3022/1/2026-C-3)", "hi": "CORRIGENDUM - Conduct of PE and MT, Head Constable {AWO/TPO} in Delhi Police Examination, 2025 (F. No. HQ-C-3022/1/2026-C-3)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Corrigendum_DPHCT_03092026.pdf",
+   "date": "2026-09-03",
+   "official": true
+  },
+  "P8": {
+   "title": { "en": "NOTICE FOR CONDUCT OF PE&MT OF DELHI POLICE, HEAD CONSTABLE (AWO/TPO) EXAMINATION-2022 and 2025 (SSC Northern Region)", "hi": "NOTICE FOR CONDUCT OF PE&MT OF DELHI POLICE, HEAD CONSTABLE (AWO/TPO) EXAMINATION-2022 and 2025 (SSC Northern Region)" },
+   "url": "https://sscnr.nic.in/newlook/downloads/2026/ImportantNotice/PEMT%20NOTICE%20FOR%20DPHC%20on%20delhi%20police%20website.pdf",
+   "date": "2026-09-24",
+   "official": true
+  },
+  "P9": {
+   "title": { "en": "NOTICE FOR PE&MT OF DELHI POLICE EXAM - admit cards for candidates provisionally allowed by the Hon'ble CAT (SSC Northern Region)", "hi": "NOTICE FOR PE&MT OF DELHI POLICE EXAM - admit cards for candidates provisionally allowed by the Hon'ble CAT (SSC Northern Region)" },
+   "url": "https://sscnr.nic.in/newlook/downloads/2026/ImportantNotice/Notice_for_Provisionally_allowed_candidates.pdf",
+   "date": "2026-10-06",
+   "official": true
+  },
+  "P10": {
+   "title": { "en": "IMPORTANT NOTICE - PHYSICAL ENDURANCE & MEASUREMENT TEST (PE&MT) FOR CANDIDATES PROVISIONALLY ALLOWED BY THE HON'BLE CAT IN RESPECT OF CONSTABLE (EXE.), CONSTABLE (DRIVER), HC (MINISTERIAL) AND HC (AWO/TPO), DELHI POLICE EXAMINATION-2025 (Delhi Police Recruitment: Delhi)", "hi": "IMPORTANT NOTICE - PHYSICAL ENDURANCE & MEASUREMENT TEST (PE&MT) FOR CANDIDATES PROVISIONALLY ALLOWED BY THE HON'BLE CAT IN RESPECT OF CONSTABLE (EXE.), CONSTABLE (DRIVER), HC (MINISTERIAL) AND HC (AWO/TPO), DELHI POLICE EXAMINATION-2025 (Delhi Police Recruitment: Delhi)" },
+   "url": "https://delhipolice.gov.in/assets/img/28918_Notice%20for%20PEMT%20CAT%20ALLOWED.pdf",
+   "date": "2026-10-03",
+   "official": false,
+   "site": "delhipolice.gov.in"
+  },
+  "P11": {
+   "title": { "en": "NOTICE FOR E-ADMISSION CERTIFICATE - PHYSICAL ENDURANCE AND MEASUREMENT TEST (PE&MT) & DOCUMENT VERIFICATION OF THE CANDIDATES PROVISIONALLY ALLOWED BY THE HON'BLE CAT FOR RECRUITMENT TO THE POSTS OF HEAD CONSTABLE (AWO/TPO) IN DELHI POLICE EXAMINATION-2025 (Delhi Police Recruitment: Delhi)", "hi": "NOTICE FOR E-ADMISSION CERTIFICATE - PHYSICAL ENDURANCE AND MEASUREMENT TEST (PE&MT) & DOCUMENT VERIFICATION OF THE CANDIDATES PROVISIONALLY ALLOWED BY THE HON'BLE CAT FOR RECRUITMENT TO THE POSTS OF HEAD CONSTABLE (AWO/TPO) IN DELHI POLICE EXAMINATION-2025 (Delhi Police Recruitment: Delhi)" },
+   "url": "https://delhipolice.gov.in/assets/img/69428_Notice%20for%20PEMT%20Admit%20Card%20Head%20Const%20AWO%20TPO%20CAT%20Allowed.pdf",
+   "date": "2026-10-07",
+   "official": false,
+   "site": "delhipolice.gov.in"
+  },
+  "P12": {
+   "title": { "en": "INSTRUCTIONS REGARDING PRINT/DOWNLOAD OF ADMIT CARD OF DELHI POLICE CONSTABLE EXECUTIVE EXAM - 2025 (SSC Northern Region)", "hi": "INSTRUCTIONS REGARDING PRINT/DOWNLOAD OF ADMIT CARD OF DELHI POLICE CONSTABLE EXECUTIVE EXAM - 2025 (SSC Northern Region)" },
+   "url": "https://sscnr.nic.in/newlook/downloads/2026/ImportantNotice/Instruction.pdf",
+   "date": "2026-09-18",
+   "official": true
+  },
+  "P13": {
+   "title": { "en": "Procedure for accessing the information regarding the city of examination and downloading the Admission Certificate (F. No. HQ-IT018/4/2024-IT (E-10517))", "hi": "Procedure for accessing the information regarding the city of examination and downloading the Admission Certificate (F. No. HQ-IT018/4/2024-IT (E-10517))" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/reveal_exam_city_with%20Note291024.pdf",
+   "date": "2024-10-29",
+   "official": true
+  },
+  "P14": {
+   "title": { "en": "SSC Delhi Police HC AWO TPO Admit Card 2026 Out, Hall Ticket Download (via adda247.com)", "hi": "SSC Delhi Police HC AWO TPO Admit Card 2026 Out, Hall Ticket Download (via adda247.com)" },
+   "url": "https://www.adda247.com/exams/ssc/delhi-police-head-constable-admit-card-2026-out/",
+   "date": "2026-01-14",
+   "official": false,
+   "site": "adda247.com"
+  },
+  "P15": {
+   "title": { "en": "Delhi Police Head Constable AWO TPO Admit Card (via resultmarg.com)", "hi": "Delhi Police Head Constable AWO TPO Admit Card (via resultmarg.com)" },
+   "url": "https://resultmarg.com/delhi-police-head-constable-awo-tpo-admit-card/",
+   "date": "2026-01-19",
+   "official": false,
+   "site": "resultmarg.com"
+  },
+  "P16": {
+   "title": { "en": "Delhi Police HC AWO TPO Physical Admit Card 2026 Out, Download Call Letter (via pw.live)", "hi": "Delhi Police HC AWO TPO Physical Admit Card 2026 Out, Download Call Letter (via pw.live)" },
+   "url": "https://www.pw.live/ssc/exams/delhi-police-hc-awo-tpo-physical-admit-card-2026-out",
+   "date": "2026-09-24",
+   "official": false,
+   "site": "pw.live"
+  },
+  "P17": {
+   "title": { "en": "Delhi Police Physical Test Admit Card 2026 - Download Hall Ticket (via freejobalert.com)", "hi": "Delhi Police Physical Test Admit Card 2026 - Download Hall Ticket (via freejobalert.com)" },
+   "url": "https://www.freejobalert.com/articles/delhi-police-physical-test-admit-card-2026-3069623",
+   "date": "2026-09-26",
+   "official": false,
+   "site": "freejobalert.com"
+  },
+  "P18": {
+   "title": { "en": "Delhi Police PE&MT and DV Admit Card 2026 (via freejobalert.com)", "hi": "Delhi Police PE&MT and DV Admit Card 2026 (via freejobalert.com)" },
+   "url": "https://www.freejobalert.com/articles/delhi-police-pemt-and-dv-admit-card-2026-3072400",
+   "date": "2026-10-09",
+   "official": false,
+   "site": "freejobalert.com"
+  },
+  "P19": {
+   "title": { "en": "Head Constable {Assistant Wireless Operator (AWO)/Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025: Uploading of Tentative Answer Keys along with Question Paper(s) cum Response Sheet(s) - regarding.", "hi": "Head Constable {Assistant Wireless Operator (AWO)/Tele-Printer Operator (TPO)} in Delhi Police Examination, 2025: Uploading of Tentative Answer Keys along with Question Paper(s) cum Response Sheet(s) - regarding." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Writeup_AWO_TPO_05022026.pdf",
+   "date": "2026-02-05",
+   "official": true
+  },
+  "P20": {
+   "title": { "en": "Head Constable (AWO/TPO) in Delhi Police Examination, 2025: Uploading of Final Answer Keys along with Question Papers cum Response Sheets of CBE along with the Marks - regarding.", "hi": "Head Constable (AWO/TPO) in Delhi Police Examination, 2025: Uploading of Final Answer Keys along with Question Papers cum Response Sheets of CBE along with the Marks - regarding." },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_16062026.pdf",
+   "date": "2026-06-16",
+   "official": true
   }
  },
- "dates": [],
+ "dates": [
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.apply-start",
+   "kind": "apply-start",
+   "label": { "en": "Online application starts", "hi": "ऑनलाइन आवेदन शुरू" },
+   "start": "2025-09-24",
+   "end": "2025-10-15",
+   "verified": true,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.apply-end",
+   "kind": "apply-end",
+   "label": { "en": "Last date to apply", "hi": "आवेदन की अंतिम तिथि" },
+   "start": "2025-10-15",
+   "verified": true,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.fee-end",
+   "kind": "fee-end",
+   "label": { "en": "Last date to pay fee", "hi": "शुल्क भुगतान की अंतिम तिथि" },
+   "start": "2025-10-16",
+   "verified": true,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.correction",
+   "kind": "correction",
+   "label": { "en": "Correction window", "hi": "सुधार विंडो" },
+   "start": "2025-10-23",
+   "end": "2025-10-25",
+   "verified": true,
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.correction-2",
+   "kind": "correction",
+   "label": { "en": "Correction window", "hi": "सुधार विंडो" },
+   "start": "2025-10-31",
+   "end": "2025-11-02",
+   "verified": true,
+   "source": "P2"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.other-duration-for-self-slot-selection-05-12-2",
+   "kind": "other",
+   "label": { "en": "Duration for Self-Slot selection: 05.12.2025 to 15.01.2026 (11.00 PM)", "hi": "Duration for Self-Slot selection: 05.12.2025 to 15.01.2026 (11.00 PM)" },
+   "start": "2025-12-05",
+   "end": "2026-01-15",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.city-slip",
+   "kind": "city-slip",
+   "label": { "en": "Exam city slip", "hi": "परीक्षा शहर पर्ची" },
+   "start": "2025-12-05",
+   "end": "2026-01-15",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.city-slip-2",
+   "kind": "city-slip",
+   "label": { "en": "Exam city slip", "hi": "परीक्षा शहर पर्ची" },
+   "start": "2026-01-12",
+   "verified": false,
+   "source": "P15"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.admit-card-3",
+   "kind": "admit-card",
+   "label": { "en": "Admit card", "hi": "प्रवेश पत्र" },
+   "start": "2026-01-13",
+   "verified": false,
+   "source": "P15"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.admit-card-2",
+   "kind": "admit-card",
+   "label": { "en": "Admit card", "hi": "प्रवेश पत्र" },
+   "start": "2026-01-14",
+   "verified": false,
+   "source": "P14"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2026-01-15",
+   "end": "2026-01-22",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.exam",
+   "kind": "exam",
+   "label": { "en": "Exam", "hi": "परीक्षा" },
+   "start": "2026-01-15",
+   "end": "2026-01-22",
+   "verified": true,
+   "source": "P5"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.exam-2",
+   "kind": "exam",
+   "label": { "en": "Exam", "hi": "परीक्षा" },
+   "start": "2026-01-15",
+   "end": "2026-01-22",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.exam-3",
+   "kind": "exam",
+   "label": { "en": "Exam", "hi": "परीक्षा" },
+   "start": "2026-01-15",
+   "end": "2026-01-22",
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.exam-4",
+   "kind": "exam",
+   "label": { "en": "Exam", "hi": "परीक्षा" },
+   "start": "2026-01-15",
+   "end": "2026-01-22",
+   "verified": false,
+   "source": "P14"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.answer-key-tier-1",
+   "kind": "answer-key",
+   "label": { "en": "Tier 1 answer key", "hi": "टियर 1 उत्तर कुंजी" },
+   "start": "2026-02-05",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P19"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.objection-end-tier-1",
+   "kind": "objection-end",
+   "label": { "en": "Tier 1 last date for objections", "hi": "टियर 1 आपत्ति की अंतिम तिथि" },
+   "start": "2026-02-07",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P19"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.result-tier-1",
+   "kind": "result",
+   "label": { "en": "Tier 1 result", "hi": "टियर 1 परिणाम" },
+   "start": "2026-05-29",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.result-pet",
+   "kind": "result",
+   "label": { "en": "PET/PST result", "hi": "PET/PST परिणाम" },
+   "start": "2026-05-29",
+   "tier": "pet",
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.final-answer-key-tier-1",
+   "kind": "final-answer-key",
+   "label": { "en": "Tier 1 final answer key", "hi": "टियर 1 अंतिम उत्तर कुंजी" },
+   "start": "2026-06-16",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P20"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.final-answer-key-tier-1-2",
+   "kind": "final-answer-key",
+   "label": { "en": "Tier 1 final answer key", "hi": "टियर 1 अंतिम उत्तर कुंजी" },
+   "start": "2026-06-16",
+   "end": "2026-06-30",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P20"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.result-tier-1-2",
+   "kind": "result",
+   "label": { "en": "Tier 1 result", "hi": "टियर 1 परिणाम" },
+   "start": "2026-06-25",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P4"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.result-pet-2",
+   "kind": "result",
+   "label": { "en": "PET/PST result", "hi": "PET/PST परिणाम" },
+   "start": "2026-06-25",
+   "tier": "pet",
+   "verified": true,
+   "source": "P4"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.admit-card-pet",
+   "kind": "admit-card",
+   "label": { "en": "PET/PST admit card", "hi": "PET/PST प्रवेश पत्र" },
+   "start": "2026-09-26",
+   "tier": "pet",
+   "verified": false,
+   "source": "P16"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.admit-card-pet-2",
+   "kind": "admit-card",
+   "label": { "en": "PET/PST admit card", "hi": "PET/PST प्रवेश पत्र" },
+   "start": "2026-09-26",
+   "tier": "pet",
+   "verified": false,
+   "source": "P17"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.exam-pet",
+   "kind": "exam",
+   "label": { "en": "PET/PST exam", "hi": "PET/PST परीक्षा" },
+   "start": "2026-09-30",
+   "end": "2026-10-01",
+   "tier": "pet",
+   "verified": true,
+   "source": "P8"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.exam-pet-4",
+   "kind": "exam",
+   "label": { "en": "PET/PST exam", "hi": "PET/PST परीक्षा" },
+   "start": "2026-09-30",
+   "end": "2026-10-01",
+   "tier": "pet",
+   "verified": false,
+   "source": "P16"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.exam-pet-5",
+   "kind": "exam",
+   "label": { "en": "PET/PST exam", "hi": "PET/PST परीक्षा" },
+   "start": "2026-09-30",
+   "end": "2026-10-01",
+   "tier": "pet",
+   "verified": false,
+   "source": "P17"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.admit-card",
+   "kind": "admit-card",
+   "label": { "en": "Admit card", "hi": "प्रवेश पत्र" },
+   "start": "2026-10-07",
+   "verified": false,
+   "source": "P11"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.admit-card-pet-3",
+   "kind": "admit-card",
+   "label": { "en": "PET/PST admit card", "hi": "PET/PST प्रवेश पत्र" },
+   "start": "2026-10-07",
+   "tier": "pet",
+   "verified": false,
+   "source": "P18"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.exam-pet-2",
+   "kind": "exam",
+   "label": { "en": "PET/PST exam", "hi": "PET/PST परीक्षा" },
+   "start": "2026-10-12",
+   "tier": "pet",
+   "verified": false,
+   "source": "P10"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.exam-pet-3",
+   "kind": "exam",
+   "label": { "en": "PET/PST exam", "hi": "PET/PST परीक्षा" },
+   "start": "2026-10-12",
+   "tier": "pet",
+   "verified": false,
+   "source": "P11"
+  }
+ ],
  "sections": [
   {
    "id": "pemt",
@@ -169,7 +584,99 @@
    "source": "S6"
   }
  ],
- "notices": [],
+ "notices": [
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-s6",
+   "date": "2025-09-24",
+   "type": "notice",
+   "title": { "en": "HC (AWO/TPO) Delhi Police Exam 2025: Notice of examination (online application)", "hi": "हेड कांस्टेबल (AWO/TPO) दिल्ली पुलिस परीक्षा, 2025: परीक्षा सूचना (ऑनलाइन आवेदन)" },
+   "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-p2",
+   "date": "2025-10-22",
+   "type": "notice",
+   "title": { "en": "Important notice: revised window for application form correction (AWO/TPO and others)", "hi": "महत्वपूर्ण सूचना: आवेदन सुधार की संशोधित तिथियाँ (AWO/TPO सहित)" },
+   "source": "P2"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-p5",
+   "date": "2025-11-28",
+   "type": "notice",
+   "title": { "en": "Schedule of examination: HC (AWO/TPO) CBE from 15th to 22nd January 2026", "hi": "परीक्षा कार्यक्रम: हेड कांस्टेबल (AWO/TPO) सीबीई 15 जनवरी से 22 जनवरी 2026 तक" },
+   "source": "P5"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-p3",
+   "date": "2025-12-04",
+   "type": "notice",
+   "title": { "en": "Self-slot selection for Delhi Police exams 2025 (incl. HC AWO/TPO)", "hi": "दिल्ली पुलिस परीक्षा, 2025 (HC AWO/TPO सहित) हेतु स्वयं-स्लॉट चयन" },
+   "source": "P3"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-p19",
+   "date": "2026-02-05",
+   "type": "answer-key",
+   "title": { "en": "Head Constable (AWO/TPO) in Delhi Police Examination, 2025: Uploading of Tentative Answer Keys along with Question Paper(s) cum Response Sheet(s)", "hi": "दिल्ली पुलिस परीक्षा, 2025 में हेड कॉन्स्टेबल (एडब्ल्यूओ/टीपीओ): संभावित उत्तर कुंजी तथा प्रश्न-पत्र सहित उत्तर पत्रक अपलोड करने संबंधी सूचना" },
+   "source": "P19"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-s10",
+   "date": "2026-02-25",
+   "type": "notice",
+   "title": { "en": "Important notice: revised vacancies for HC (AWO/TPO) Delhi Police Exam 2025 (443 against 552)", "hi": "महत्वपूर्ण सूचना: हेड कांस्टेबल (AWO/TPO) दिल्ली पुलिस परीक्षा, 2025 हेतु संशोधित रिक्तियाँ (552 के स्थान पर 443)" },
+   "source": "S10"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-p1",
+   "date": "2026-05-29",
+   "type": "cut-off",
+   "title": { "en": "HCT AWO/TPO Delhi Police 2025: CBE result with category-wise cut-off marks", "hi": "हेड कांस्टेबल (AWO/TPO) दिल्ली पुलिस परीक्षा, 2025: श्रेणीवार कट-ऑफ अंकों सहित सीबीई परिणाम" },
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-p20",
+   "date": "2026-06-16",
+   "type": "answer-key",
+   "title": { "en": "Head Constable (AWO/TPO) in Delhi Police Examination, 2025: Uploading of Final Answer Keys along with Question Papers cum Response Sheets of CBE along with the Marks", "hi": "दिल्ली पुलिस परीक्षा, 2025 में हेड कॉन्स्टेबल (एडब्ल्यूओ/टीपीओ): सीबीई की अंतिम उत्तर कुंजी, प्रश्न-पत्र सहित उत्तर पत्रक तथा अंक अपलोड करने संबंधी सूचना" },
+   "source": "P20"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-p4",
+   "date": "2026-06-25",
+   "type": "result",
+   "title": { "en": "HCT AWO/TPO Delhi Police 2025: Shortlisting of additional candidates for PE&MT/DV/Trade Test", "hi": "हेड कांस्टेबल (AWO/TPO) दिल्ली पुलिस परीक्षा, 2025: पीईएंडएमटी/डीवी/ट्रेड टेस्ट हेतु अतिरिक्त अभ्यर्थियों का शॉर्टलिस्टिंग" },
+   "source": "P4"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-p6",
+   "date": "2026-07-27",
+   "type": "notice",
+   "title": { "en": "Postponement of PE&MT for HC (Ministerial), HC (AWO/TPO), Constable (Executive) and Constable (Driver); fresh e-admission certificates after the revised schedule", "hi": "हेड कांस्टेबल (मिनिस्टीरियल), हेड कांस्टेबल (एडब्ल्यूओ/टीपीओ), कॉन्स्टेबल (एग्जीक्यूटिव) एवं कॉन्स्टेबल (ड्राइवर) के पीईएंडएमटी का स्थगन; संशोधित कार्यक्रम के बाद नए ई-एडमिशन सर्टिफिकेट" },
+   "source": "P6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-p7",
+   "date": "2026-09-03",
+   "type": "admit-card",
+   "title": { "en": "Corrigendum: 60 candidates provisionally allowed to appear in PE&MT as per Hon'ble CAT interim order dated 20.08.2026 in O.A. No. 2671/2026", "hi": "संशोधन: माननीय कैट के 20.08.2026 के अंतिम आदेश (O.A. सं. 2671/2026) के अनुपालन में 60 अभ्यर्थी पीईएंडएमटी हेतु अस्थायी रूप से अनुमत" },
+   "source": "P7"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-p8",
+   "date": "2026-09-24",
+   "type": "admit-card",
+   "title": { "en": "SSC NR: PE&MT of Delhi Police HC (AWO/TPO) Examination 2022 and 2025 to be conducted from 30.09.2026 to 01.10.2026; admission certificates live on the Delhi Police website", "hi": "एसएससी उत्तरी क्षेत्र: दिल्ली पुलिस हेड कांस्टेबल (एडब्ल्यूओ/टीपीओ) परीक्षा 2022 एवं 2025 का पीईएंडएमटी 30.09.2026 से 01.10.2026 तक; प्रवेश पत्र दिल्ली पुलिस वेबसाइट पर लाइव" },
+   "source": "P8"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.notice-p9",
+   "date": "2026-10-06",
+   "type": "admit-card",
+   "title": { "en": "SSC NR: admit cards for CAT-allowed candidates of Constable (Exe.), Constable (Driver), HC (Ministerial) and HC (AWO/TPO) live on the Delhi Police website", "hi": "एसएससी उत्तरी क्षेत्र: कैट-अनुमत अभ्यर्थियों (कॉन्स्टेबल एग्जीक्यूटिव, कॉन्स्टेबल ड्राइवर, एचसी मिनिस्टीरियल एवं एचसी एडब्ल्यूओ/टीपीओ) के प्रवेश पत्र दिल्ली पुलिस वेबसाइट पर लाइव" },
+   "source": "P9"
+  }
+ ],
  "tables": [
   {
    "id": "ssc-delhi-police-hc-awo-tpo-2026.vacancies",
@@ -383,6 +890,226 @@
    "note": { "en": "Only candidates who qualify the race attempt the long jump, then the high jump.", "hi": "केवल दौड़ में सफल उम्मीदवार लंबी कूद और फिर ऊँची कूद देते हैं।" },
    "verified": false,
    "source": "S6"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.cut-offs",
+   "title": { "en": "CBE cut-off marks: Female (Open)", "hi": "सीबीई कट-ऑफ अंक: महिला (ओपन)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     70.35837,
+     317
+    ],
+    [
+     "SC",
+     57.70397,
+     384
+    ],
+    [
+     "ST",
+     51.11629,
+     230
+    ],
+    [
+     "OBC",
+     67.39898,
+     756
+    ],
+    [
+     "UR",
+     70.57558,
+     346
+    ],
+    [
+     "Total",
+     "",
+     2033
+    ]
+   ],
+   "note": { "en": "List-I: Female candidates qualified for PE&MT/ DV/ Trade Test in Open category. In addition to the UR candidates shown, 299 EWS, 44 SC, 9 ST and 426 OBC candidates qualifying at UR cut-off and within UR age limit are shown under their respective categories. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-I: ओपन श्रेणी की महिला अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। ऊपर दिखाए UR अभ्यर्थियों के अतिरिक्त, UR कट-ऑफ पर योग्य और UR आयु सीमा के भीतर वाले 299 EWS, 44 SC, 9 ST और 426 OBC अभ्यर्थी अपनी श्रेणियों में दिखाए गए हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.cut-offs-male-open",
+   "title": { "en": "CBE cut-off marks: Male (Open)", "hi": "सीबीई कट-ऑफ अंक: पुरुष (ओपन)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     78.50865,
+     587
+    ],
+    [
+     "SC",
+     70.95898,
+     564
+    ],
+    [
+     "ST",
+     67.24154,
+     293
+    ],
+    [
+     "OBC",
+     77.42887,
+     1364
+    ],
+    [
+     "UR",
+     79.21073,
+     568
+    ],
+    [
+     "Total",
+     "",
+     3376
+    ]
+   ],
+   "note": { "en": "List-II: Male candidates qualified for PE&MT/ DV/ Trade Test in Open category. In addition to the UR candidates shown, 511 EWS, 64 SC, 13 ST and 858 OBC candidates qualifying at UR cut-off and within UR age limit are shown under their respective categories. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-II: ओपन श्रेणी के पुरुष अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। ऊपर दिखाए UR अभ्यर्थियों के अतिरिक्त, UR कट-ऑफ पर योग्य और UR आयु सीमा के भीतर वाले 511 EWS, 64 SC, 13 ST और 858 OBC अभ्यर्थी अपनी श्रेणियों में दिखाए गए हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.cut-offs-male-esm",
+   "title": { "en": "CBE cut-off marks: Male (ESM)", "hi": "सीबीई कट-ऑफ अंक: पुरुष (ESM)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     28.80536,
+     29
+    ],
+    [
+     "SC",
+     21.14149,
+     43
+    ],
+    [
+     "ST",
+     20.08718,
+     8
+    ],
+    [
+     "OBC",
+     41.00227,
+     160
+    ],
+    [
+     "UR",
+     45.07721,
+     261
+    ],
+    [
+     "Total",
+     "",
+     501
+    ]
+   ],
+   "note": { "en": "List-III: Male ESM candidates qualified for PE&MT/ DV/ Trade Test. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-III: पुरुष ESM अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.cut-offs-female-departmental",
+   "title": { "en": "CBE cut-off marks: Female (Departmental)", "hi": "सीबीई कट-ऑफ अंक: महिला (विभागीय)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     46.08406,
+     26
+    ],
+    [
+     "SC",
+     35.01006,
+     44
+    ],
+    [
+     "ST",
+     33.25453,
+     12
+    ],
+    [
+     "OBC",
+     50.69521,
+     86
+    ],
+    [
+     "UR",
+     56.7568,
+     45
+    ],
+    [
+     "Total",
+     "",
+     213
+    ]
+   ],
+   "note": { "en": "List-IV: Female Departmental candidates qualified for PE&MT/ DV/ Trade Test. In addition to the UR candidates shown, 14 EWS, 4 SC, 4 ST and 53 OBC candidates qualifying at UR cut-off and within UR age limit are shown under their respective categories. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-IV: महिला विभागीय अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। ऊपर दिखाए UR अभ्यर्थियों के अतिरिक्त, UR कट-ऑफ पर योग्य और UR आयु सीमा के भीतर वाले 14 EWS, 4 SC, 4 ST और 53 OBC अभ्यर्थी अपनी श्रेणियों में दिखाए गए हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-delhi-police-hc-awo-tpo-2026.cut-offs-male-departmental",
+   "title": { "en": "CBE cut-off marks: Male (Departmental)", "hi": "सीबीई कट-ऑफ अंक: पुरुष (विभागीय)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध अभ्यर्थी" }
+   ],
+   "rows": [
+    [
+     "EWS",
+     39.72452,
+     44
+    ],
+    [
+     "SC",
+     24.41848,
+     85
+    ],
+    [
+     "ST",
+     20.23595,
+     33
+    ],
+    [
+     "OBC",
+     42.44947,
+     173
+    ],
+    [
+     "UR",
+     54.6082,
+     85
+    ],
+    [
+     "Total",
+     "",
+     420
+    ]
+   ],
+   "note": { "en": "List-V: Male Departmental candidates qualified for PE&MT/ DV/ Trade Test. In addition to the UR candidates shown, 36 EWS, 25 SC, 5 ST and 109 OBC candidates qualifying at UR cut-off and within UR age limit are shown under their respective categories. Total cut-off is blank on the board, shown as an empty value.", "hi": "सूची-V: पुरुष विभागीय अभ्यर्थी, जो PE&MT/ DV/ ट्रेड टेस्ट हेतु योग्य हैं। ऊपर दिखाए UR अभ्यर्थियों के अतिरिक्त, UR कट-ऑफ पर योग्य और UR आयु सीमा के भीतर वाले 36 EWS, 25 SC, 5 ST और 109 OBC अभ्यर्थी अपनी श्रेणियों में दिखाए गए हैं। बोर्ड पर कुल कट-ऑफ खाली है, यहाँ खाली मान दर्शाया गया है।" },
+   "verified": true,
+   "source": "P1"
   }
  ],
  "pattern": [

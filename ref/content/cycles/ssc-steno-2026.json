@@ -5,7 +5,7 @@
  "year": 2026,
  "name": { "en": "SSC Stenographer 2026", "hi": "SSC आशुलिपिक 2026" },
  "lead": { "en": "Stenographer Grade C and Grade D Examination, 2026. The computer based exam is over; SSC has put up its tentative answer key and the challenge window has closed. The result is awaited.", "hi": "आशुलिपिक श्रेणी ग और श्रेणी घ परीक्षा, 2026। कंप्यूटर आधारित परीक्षा हो चुकी है; SSC ने अस्थायी उत्तर कुंजी जारी की और आपत्ति विंडो बंद हो चुकी है। परिणाम का इंतज़ार है।" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "N1": {
    "title": { "en": "Stenographer 2026 notification (English)", "hi": "आशुलिपिक 2026 अधिसूचना (अंग्रेज़ी)" },
@@ -132,6 +132,16 @@
    "note": { "en": "Also held on 15 Sep 2026", "hi": "15 सितंबर 2026 को भी हुई" },
    "verified": true,
    "source": "K1"
+  },
+  {
+   "id": "ssc-steno-2026.exam-tier-1",
+   "kind": "exam",
+   "label": { "en": "Tier 1 exam", "hi": "टियर 1 परीक्षा" },
+   "start": "2026-09-09",
+   "end": "2026-09-12",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "C1"
   },
   {
    "id": "ssc-steno-2026.answer-key",

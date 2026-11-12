@@ -4,7 +4,7 @@
  "exam": "ssc-chsl",
  "year": 2025,
  "name": { "en": "SSC CHSL 2025", "hi": "SSC CHSL 2025" },
- "updatedAt": "2026-11-07",
+ "updatedAt": "2026-11-12",
  "sources": {
   "S1": {
    "title": { "en": "SSC CHSL 2025 on sarkariresult.com", "hi": "SSC CHSL 2025 on sarkariresult.com" },
@@ -107,40 +107,28 @@
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Self_Check_notice18102025.pdf",
    "official": true
   },
-  "A1": {
-   "title": { "en": "Combined Higher Secondary Level Examination notice", "hi": "संयुक्त उच्चतर माध्यमिक स्तरीय परीक्षा सूचना" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_chsl_2025.pdf",
-   "date": "2025-06-23",
-   "official": true
-  },
-  "A2": {
-   "title": { "en": "Application correction window notice", "hi": "आवेदन सुधार विंडो सूचना" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_22072025.pdf",
-   "date": "2025-07-22",
-   "official": true
-  },
-  "A3": {
-   "title": { "en": "Tier-I tentative answer keys and response sheets", "hi": "टियर-I अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/AnswerKeys/writeup_08122025.pdf",
-   "date": "2025-12-08",
-   "official": true
-  },
-  "A4": {
-   "title": { "en": "Tier-I result and cut-offs", "hi": "टियर-I परिणाम और कट-ऑफ" },
+  "P1": {
+   "title": { "en": "Subject – Combined Higher Secondary (10+2) Level Examination (CHSLE), 2025- Declaration of result of Tier-I to shortlist candidates for appearing in Tier-II.", "hi": "Subject – Combined Higher Secondary (10+2) Level Examination (CHSLE), 2025- Declaration of result of Tier-I to shortlist candidates for appearing in Tier-II." },
    "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_27022026.pdf",
    "date": "2026-02-27",
    "official": true
   },
-  "A5": {
-   "title": { "en": "First round of tentative allocation and cut-offs", "hi": "अस्थायी आवंटन का प्रथम दौर और कट-ऑफ" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/FRTA_CHSLE_2025_17082026.pdf",
-   "date": "2026-08-17",
+  "P2": {
+   "title": { "en": "Self-Slot Selection for Tier 1 CHSLE 2025 by the candidates", "hi": "Self-Slot Selection for Tier 1 CHSLE 2025 by the candidates" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Approved%20Notice%20Slot%20Selection%2022102025.pdf",
+   "date": "2025-10-22",
    "official": true
   },
-  "A6": {
-   "title": { "en": "Final result", "hi": "अंतिम परिणाम" },
-   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/writeup_final_chsl_2025_07102026.pdf",
-   "date": "2026-10-07",
+  "P3": {
+   "title": { "en": "Combined Higher Secondary (10+2) Level Examination, 2025 (Tier-I) - Information regarding City of examination and Scribe Registration (for 'Own Scribe' candidates)", "hi": "Combined Higher Secondary (10+2) Level Examination, 2025 (Tier-I) - Information regarding City of examination and Scribe Registration (for 'Own Scribe' candidates)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_for_CHSL_2025_05112025.pdf",
+   "date": "2025-11-05",
+   "official": true
+  },
+  "P4": {
+   "title": { "en": "Information regarding the City of Examination, Admission Certificate and Scribe Entry Pass for the candidates of Combined Higher Secondary (10+2) Level Examination, 2025 (Tier-II)", "hi": "Information regarding the City of Examination, Admission Certificate and Scribe Entry Pass for the candidates of Combined Higher Secondary (10+2) Level Examination, 2025 (Tier-II)" },
+   "url": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/notice_01042026.pdf",
+   "date": "2026-04-01",
    "official": true
   }
  },
@@ -195,11 +183,67 @@
   {
    "id": "ssc-chsl-2025.city-slip",
    "kind": "city-slip",
-   "label": { "en": "Exam City Available", "hi": "Exam City Available" },
+   "label": { "en": "Exam city slip", "hi": "परीक्षा शहर पर्ची" },
+   "start": "2025-10-22",
+   "end": "2025-10-28",
+   "verified": true,
+   "source": "L19"
+  },
+  {
+   "id": "ssc-chsl-2025.city-slip-tier-1",
+   "kind": "city-slip",
+   "label": { "en": "Tier 1 exam city slip", "hi": "टियर 1 परीक्षा शहर पर्ची" },
+   "start": "2025-10-22",
+   "end": "2025-10-28",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "L19"
+  },
+  {
+   "id": "ssc-chsl-2025.city-slip-tier-1-2",
+   "kind": "city-slip",
+   "label": { "en": "Tier 1 exam city slip", "hi": "टियर 1 परीक्षा शहर पर्ची" },
+   "start": "2025-10-22",
+   "end": "2025-10-28",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P2"
+  },
+  {
+   "id": "ssc-chsl-2025.city-slip-tier-1-3",
+   "kind": "city-slip",
+   "label": { "en": "Tier 1 exam city slip", "hi": "टियर 1 परीक्षा शहर पर्ची" },
+   "start": "2025-11-03",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P2"
+  },
+  {
+   "id": "ssc-chsl-2025.city-slip-tier-1-4",
+   "kind": "city-slip",
+   "label": { "en": "Tier 1 exam city slip", "hi": "टियर 1 परीक्षा शहर पर्ची" },
    "start": "2025-11-05",
-   "raw": "05/11/2025",
-   "verified": false,
-   "source": "S1"
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-chsl-2025.city-slip-tier-1-5",
+   "kind": "city-slip",
+   "label": { "en": "Tier 1 exam city slip", "hi": "टियर 1 परीक्षा शहर पर्ची" },
+   "start": "2025-11-08",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P3"
+  },
+  {
+   "id": "ssc-chsl-2025.admit-card-tier-1",
+   "kind": "admit-card",
+   "label": { "en": "Tier 1 admit card", "hi": "टियर 1 प्रवेश पत्र" },
+   "start": "2025-11-08",
+   "tier": "tier-1",
+   "verified": true,
+   "source": "P3"
   },
   {
    "id": "ssc-chsl-2025.exam-tier-1",
@@ -208,8 +252,8 @@
    "start": "2025-11-12",
    "raw": "12/11/2025",
    "tier": "tier-1",
-   "verified": false,
-   "source": "S1"
+   "verified": true,
+   "source": "L19"
   },
   {
    "id": "ssc-chsl-2025.admit-card",
@@ -240,14 +284,41 @@
    "source": "S1"
   },
   {
+   "id": "ssc-chsl-2025.city-slip-tier-2-2",
+   "kind": "city-slip",
+   "label": { "en": "Tier 2 exam city slip", "hi": "टियर 2 परीक्षा शहर पर्ची" },
+   "start": "2026-04-01",
+   "tier": "tier-2",
+   "verified": true,
+   "source": "P4"
+  },
+  {
+   "id": "ssc-chsl-2025.admit-card-tier-2-2",
+   "kind": "admit-card",
+   "label": { "en": "Tier 2 admit card", "hi": "टियर 2 प्रवेश पत्र" },
+   "start": "2026-04-05",
+   "tier": "tier-2",
+   "verified": true,
+   "source": "L12"
+  },
+  {
+   "id": "ssc-chsl-2025.admit-card-tier-2",
+   "kind": "admit-card",
+   "label": { "en": "Tier 2 admit card", "hi": "टियर 2 प्रवेश पत्र" },
+   "start": "2026-04-07",
+   "tier": "tier-2",
+   "verified": true,
+   "source": "L12"
+  },
+  {
    "id": "ssc-chsl-2025.exam-tier-2",
    "kind": "exam",
    "label": { "en": "Exam Date Tier II", "hi": "Exam Date Tier II" },
    "start": "2026-04-10",
    "raw": "10/04/2026",
    "tier": "tier-2",
-   "verified": false,
-   "source": "S1"
+   "verified": true,
+   "source": "L12"
   },
   {
    "id": "ssc-chsl-2025.city-slip-tier-2",
@@ -256,8 +327,17 @@
    "start": "2026-04-01",
    "raw": "01/04/2026",
    "tier": "tier-2",
-   "verified": false,
-   "source": "S1"
+   "verified": true,
+   "source": "L12"
+  },
+  {
+   "id": "ssc-chsl-2025.admit-card-tier-2-3",
+   "kind": "admit-card",
+   "label": { "en": "Tier 2 admit card", "hi": "टियर 2 प्रवेश पत्र" },
+   "start": "2026-04-17",
+   "tier": "tier-2",
+   "verified": true,
+   "source": "L11"
   },
   {
    "id": "ssc-chsl-2025.exam-skill-test",
@@ -278,6 +358,15 @@
    "tier": "tier-2",
    "verified": false,
    "source": "S1"
+  },
+  {
+   "id": "ssc-chsl-2025.exam-tier-2-2",
+   "kind": "exam",
+   "label": { "en": "Tier 2 exam", "hi": "टियर 2 परीक्षा" },
+   "start": "2026-04-22",
+   "tier": "tier-2",
+   "verified": true,
+   "source": "L11"
   },
   {
    "id": "ssc-chsl-2025.other-2",
@@ -378,48 +467,223 @@
  ],
  "notices": [
   {
-   "id": "ssc-chsl-2025.notice-a1",
-   "date": "2025-06-23",
+   "id": "ssc-chsl-2025.notice-l19",
+   "date": "2025-10-17",
    "type": "notice",
-   "title": { "en": "Combined Higher Secondary Level Examination notice", "hi": "संयुक्त उच्चतर माध्यमिक स्तरीय परीक्षा सूचना" },
-   "source": "A1"
+   "title": { "en": "Self-Slot Selection for examinations by the candidates - CHSLE 2025", "hi": "CHSLE 2025 के लिए परीक्षा शहर, तिथि और पाली का स्व-चयन" },
+   "source": "L19"
   },
   {
-   "id": "ssc-chsl-2025.notice-a2",
-   "date": "2025-07-22",
+   "id": "ssc-chsl-2025.notice-p2",
+   "date": "2025-10-22",
    "type": "notice",
-   "title": { "en": "Application correction window notice", "hi": "आवेदन सुधार विंडो सूचना" },
-   "source": "A2"
+   "title": { "en": "Self-Slot Selection for Tier 1 CHSLE 2025 by the candidates", "hi": "अभ्यर्थियों द्वारा CHSLE 2025 (टियर-1) हेतु स्व-स्लॉट चयन" },
+   "source": "P2"
   },
   {
-   "id": "ssc-chsl-2025.notice-a3",
-   "date": "2025-12-08",
-   "type": "answer-key",
-   "title": { "en": "Tier-I tentative answer keys and response sheets", "hi": "टियर-I अस्थायी उत्तर कुंजी और उत्तर पत्रक" },
-   "source": "A3"
+   "id": "ssc-chsl-2025.notice-p3",
+   "date": "2025-11-05",
+   "type": "notice",
+   "title": { "en": "Combined Higher Secondary (10+2) Level Examination, 2025 (Tier-I) - Information regarding City of examination and Scribe Registration (for 'Own Scribe' candidates)", "hi": "संयुक्त उच्चतर माध्यमिक (10+2) स्तरीय परीक्षा, 2025 (टियर-आई) - परीक्षा शहर तथा स्क्राइब पंजीकरण (स्वयं के स्क्राइब वाले अभ्यर्थियों हेतु) के संबंध में सूचना" },
+   "source": "P3"
   },
   {
-   "id": "ssc-chsl-2025.notice-a4",
+   "id": "ssc-chsl-2025.notice-p1",
    "date": "2026-02-27",
-   "type": "result",
-   "title": { "en": "Tier-I result and cut-offs", "hi": "टियर-I परिणाम और कट-ऑफ" },
-   "source": "A4"
+   "type": "cut-off",
+   "title": { "en": "CHSLE 2025 - Declaration of result of Tier-I to shortlist candidates for Tier-II", "hi": "CHSLE 2025 - टियर-I का परिणाम घोषित कर टियर-II हेतु उम्मीदवारों का चयन" },
+   "source": "P1"
   },
   {
-   "id": "ssc-chsl-2025.notice-a5",
-   "date": "2026-08-17",
-   "type": "result",
-   "title": { "en": "First round of tentative allocation and cut-offs", "hi": "अस्थायी आवंटन का प्रथम दौर और कट-ऑफ" },
-   "source": "A5"
+   "id": "ssc-chsl-2025.notice-l12",
+   "date": "2026-03-23",
+   "type": "admit-card",
+   "title": { "en": "Information regarding the City of Examination, Admission Certificate and Scribe Entry Pass for the candidates of Junior Engineer (Civil, Mechanical & Electrical) Examination, 2025 (Paper-II) and Combined Higher Secondary (10+2) Level Examination, 2025 (Tier-II)", "hi": "कनिष्ठ अभियंता परीक्षा, 2025 (Paper-II) तथा संयुक्त उच्चतर माध्यमिक (10+2) स्तरीय परीक्षा, 2025 (टियर-II) के अभ्यर्थियों हेतु परीक्षा शहर, प्रवेश पत्र तथा स्क्राइब प्रवेश पत्र के संबंध में सूचना" },
+   "source": "L12"
   },
   {
-   "id": "ssc-chsl-2025.notice-a6",
-   "date": "2026-10-07",
-   "type": "result",
-   "title": { "en": "Final result", "hi": "अंतिम परिणाम" },
-   "source": "A6"
+   "id": "ssc-chsl-2025.notice-p4",
+   "date": "2026-04-01",
+   "type": "admit-card",
+   "title": { "en": "Information regarding the City of Examination, Admission Certificate and Scribe Entry Pass for the candidates of Combined Higher Secondary (10+2) Level Examination, 2025 (Tier-II)", "hi": "संयुक्त उच्चतर माध्यमिक (10+2) स्तरीय परीक्षा, 2025 (टियर-II) के अभ्यर्थियों हेतु परीक्षा शहर, प्रवेश पत्र तथा स्क्राइब प्रवेश पत्र के संबंध में सूचना" },
+   "source": "P4"
+  },
+  {
+   "id": "ssc-chsl-2025.notice-l11",
+   "date": "2026-04-10",
+   "type": "admit-card",
+   "title": { "en": "Important Notice - Re-schedule of Examination", "hi": "महत्वपूर्ण सूचना - परीक्षा का पुनर्निर्धारित समय-सारणी" },
+   "source": "L11"
   }
  ],
- "tables": [],
+ "tables": [
+  {
+   "id": "ssc-chsl-2025.cut-offs",
+   "title": { "en": "Tier-I cut-off marks, List 1 - LDC/JSA/Clerk-Cum-Typist", "hi": "टियर-I कट-ऑफ अंक, सूची 1 - LDC/JSA/क्लर्क-कम-टाइपिस्ट" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध उम्मीदवार" }
+   ],
+   "rows": [
+    [
+     "UR",
+     144.25858,
+     5070
+    ],
+    [
+     "SC",
+     125.4025,
+     7098
+    ],
+    [
+     "ST",
+     115.25399,
+     3210
+    ],
+    [
+     "OBC",
+     143.83055,
+     11051
+    ],
+    [
+     "EWS",
+     141.42492,
+     5550
+    ],
+    [
+     "ESM",
+     68.26439,
+     3675
+    ],
+    [
+     "OH",
+     112.15049,
+     486
+    ],
+    [
+     "HH",
+     75.38893,
+     482
+    ],
+    [
+     "VH",
+     82.7293,
+     472
+    ],
+    [
+     "PwBD- Others",
+     55.33338,
+     426
+    ]
+   ],
+   "note": { "en": "Total candidates available: 37520. Footnotes in the file: UR 5070 includes 04 ESM candidates qualifying at OH cut-off marks; HH 482 includes 02 ESM candidates qualifying at HH cut-off marks; PwBD-Others 426 includes 10 ESM candidates qualifying at Other-PWD cut-off marks.", "hi": "कुल उपलब्ध उम्मीदवार: 37520। फ़ाइल की पाद-टिप्पणियाँ: UR 5070 में OH कट-ऑफ पर योग्य 04 ESM उम्मीदवार शामिल हैं; HH 482 में HH कट-ऑफ पर योग्य 02 ESM उम्मीदवार शामिल हैं; PwBD-Others 426 में Other-PWD कट-ऑफ पर योग्य 10 ESM उम्मीदवार शामिल हैं।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-chsl-2025.cut-offs-tier-1-list-2",
+   "title": { "en": "Tier-I cut-off marks, List 2 - DEO/DEO Grade 'A' (Science Stream)", "hi": "टियर-I कट-ऑफ अंक, सूची 2 - DEO/DEO ग्रेड 'A' (विज्ञान स्ट्रीम)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध उम्मीदवार" }
+   ],
+   "rows": [
+    [
+     "UR",
+     169.54438,
+     82
+    ],
+    [
+     "SC",
+     157.72055,
+     156
+    ],
+    [
+     "ST",
+     152.78518,
+     51
+    ],
+    [
+     "OBC",
+     169.49507,
+     157
+    ],
+    [
+     "EWS",
+     169.54438,
+     68
+    ],
+    [
+     "ESM",
+     128.52723,
+     50
+    ],
+    [
+     "HH",
+     118.61338,
+     50
+    ]
+   ],
+   "note": { "en": "Total candidates available: 614. UR 82 is marked with an asterisk in the file: in addition to the UR candidates, 18 SC, 1 ST, 131 OBC, 68 EWS, 1 ESM, 1 OH and 1 VH candidates qualify at UR cut-off.", "hi": "कुल उपलब्ध उम्मीदवार: 614। फ़ाइल में UR 82 पर तारांकन है: UR उम्मीदवारों के अलावा 18 SC, 1 ST, 131 OBC, 68 EWS, 1 ESM, 1 OH और 1 VH उम्मीदवार UR कट-ऑफ पर योग्य हैं।" },
+   "verified": true,
+   "source": "P1"
+  },
+  {
+   "id": "ssc-chsl-2025.cut-offs-tier-1-list-3",
+   "title": { "en": "Tier-I cut-off marks, List 3 - DEO/DEO Grade 'A' (other than Science Stream)", "hi": "टियर-I कट-ऑफ अंक, सूची 3 - DEO/DEO ग्रेड 'A' (विज्ञान स्ट्रीम के अलावा)" },
+   "head": [
+    { "en": "Category", "hi": "श्रेणी" },
+    { "en": "Cut-off marks", "hi": "कट-ऑफ अंक" },
+    { "en": "Candidates available", "hi": "उपलब्ध उम्मीदवार" }
+   ],
+   "rows": [
+    [
+     "UR",
+     165.26551,
+     289
+    ],
+    [
+     "SC",
+     158.6339,
+     169
+    ],
+    [
+     "ST",
+     150.43132,
+     104
+    ],
+    [
+     "OBC",
+     165.26551,
+     483
+    ],
+    [
+     "EWS",
+     163.76792,
+     270
+    ],
+    [
+     "ESM",
+     112.53459,
+     350
+    ],
+    [
+     "HH",
+     120.21716,
+     51
+    ],
+    [
+     "PwD Others",
+     108.00288,
+     51
+    ]
+   ],
+   "note": { "en": "Total candidates available: 1767. UR 289 is marked with an asterisk in the file: in addition to the UR candidates, 33 SC, 4 ST, 419 OBC, 205 EWS, 1 ESM, 1 OH, 2 HH, 1 VH and 1 PwD Others candidates qualify at UR cut-off. PwD Others 51 includes 01 ESM candidate qualifying at Other-PWD cut-off marks.", "hi": "कुल उपलब्ध उम्मीदवार: 1767। फ़ाइल में UR 289 पर तारांकन है: UR उम्मीदवारों के अलावा 33 SC, 4 ST, 419 OBC, 205 EWS, 1 ESM, 1 OH, 2 HH, 1 VH और 1 PwD Others उम्मीदवार UR कट-ऑफ पर योग्य हैं। PwD Others 51 में Other-PWD कट-ऑफ पर योग्य 01 ESM उम्मीदवार शामिल है।" },
+   "verified": true,
+   "source": "P1"
+  }
+ ],
  "pattern": []
 }
